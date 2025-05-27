@@ -1,0 +1,482 @@
+[
+  {
+    "created_date": "2018-06-14 04:23:57",
+    "current_time": 1528943037143,
+    "extended_tweet": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 474,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1427,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 836,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085338227961856",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfnix4OU8AATL-m.jpg",
+            "id": 1007085338227961856,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfnix4OU8AATL-m.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          },
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085347568664576",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfniybBUwAAu5kt.jpg",
+            "id": 1007085347568664576,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfniybBUwAAu5kt.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          },
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085347191193600",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfniyZnVAAAgkmM.jpg",
+            "id": 1007085347191193600,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfniyZnVAAAgkmM.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          },
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 531,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1599,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 937,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085382683332609",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfni0d1UEAEuPOt.jpg",
+            "id": 1007085382683332609,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfni0d1UEAEuPOt.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          }
+        ]
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              35,
+              44
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              95,
+              105
+            ],
+            "text": "nonprofit"
+          },
+          {
+            "indices": [
+              135,
+              142
+            ],
+            "text": "soccer"
+          },
+          {
+            "indices": [
+              245,
+              257
+            ],
+            "text": "Soccer4Good"
+          },
+          {
+            "indices": [
+              258,
+              281
+            ],
+            "text": "ABallCanChangeTheWorld"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 474,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1427,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 836,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085338227961856",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfnix4OU8AATL-m.jpg",
+            "id": 1007085338227961856,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfnix4OU8AATL-m.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          },
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085347568664576",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfniybBUwAAu5kt.jpg",
+            "id": 1007085347568664576,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfniybBUwAAu5kt.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          },
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085347191193600",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfniyZnVAAAgkmM.jpg",
+            "id": 1007085347191193600,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfniyZnVAAAgkmM.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          },
+          {
+            "display_url": "pic.twitter.com/QPbBJJizvS",
+            "indices": [
+              285,
+              308
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 531,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1599,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 937,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007085382683332609",
+            "expanded_url": "https://twitter.com/sportsandchange/status/1007086200400670721/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfni0d1UEAEuPOt.jpg",
+            "id": 1007085382683332609,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfni0d1UEAEuPOt.jpg",
+            "url": "https://t.co/QPbBJJizvS"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              159,
+              174
+            ],
+            "screen_name": "RedCard_Events",
+            "id_str": "842573492138659840",
+            "name": "LaurieKorinsBaral",
+            "id": 842573492138659840
+          },
+          {
+            "indices": [
+              181,
+              195
+            ],
+            "screen_name": "SEALosAngeles",
+            "id_str": "178863704",
+            "name": "SEA Los Angeles",
+            "id": 178863704
+          },
+          {
+            "indices": [
+              220,
+              225
+            ],
+            "screen_name": "LAFC",
+            "id_str": "2841146601",
+            "name": "LAFC",
+            "id": 2841146601
+          }
+        ],
+        "symbols": []
+      },
+      "full_text": "Thank you to all who joined us for #WorldCup Kickoff LA last night! Great people &amp; amazing #nonprofit orgs changing the world thru #soccer! \nHigh-Fives to @RedCard_Events &amp; @SEALosAngeles for co-hosting w/us and @LAFC for the cool SWAG. #Soccer4Good #ABallCanChangeTheWorld ⚽️ https://t.co/QPbBJJizvS",
+      "display_text_range": [
+        0,
+        284
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:23:55 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007086200400670721",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007086200400670721,
+    "text": "Thank you to all who joined us for #WorldCup Kickoff LA last night! Great people &amp; amazing #nonprofit orgs changing… https://t.co/Ki4WdJn925",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": true,
+    "timestamp_ms": "1528943035589",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/1007086200400670721",
+          "url": "https://t.co/Ki4WdJn925"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            44
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            95,
+            105
+          ],
+          "text": "nonprofit"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 7794,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877561706452365312/Hlvwks_n_normal.jpg",
+      "listed_count": 396,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 4848,
+      "description": "We connect #SportsBiz with Social Impact through #CauseMarketing #CSR #Nonprofit Partnerships & Social Enterprise #SocEnt",
+      "created_at": "Thu Nov 19 01:55:26 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "sportsandchange",
+      "id_str": "91012317",
+      "profile_link_color": "0B3C91",
+      "translator_type": "none",
+      "id": 91012317,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877561706452365312/Hlvwks_n_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.sportsandsocialchange.com",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91012317/1524846459",
+      "statuses_count": 11074,
+      "follow_request_sent": null,
+      "followers_count": 11662,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Sports&SocialChange",
+      "location": "North America",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

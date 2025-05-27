@@ -1,4 +1,1020 @@
-{"created_date": "2018-06-14 15:34:41", "current_time": 1528983281760, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 13:34:41 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/BeItnPsVUF", "source_user_id": 138372303, "type": "video", "media_url": "http://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg", "source_status_id": 1007239983982366720, "url": "https://t.co/BeItnPsVUF", "indices": [103, 126], "sizes": {"small": {"w": 240, "h": 240, "resize": "fit"}, "large": {"w": 240, "h": 240, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 240, "h": 240, "resize": "fit"}}, "id_str": "1007225845025509381", "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007239983982366720/video/1", "source_status_id_str": "1007239983982366720", "media_url_https": "https://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg", "id": 1007225845025509381, "source_user_id_str": "138372303", "additional_media_info": {"description": "", "title": "", "embeddable": true, "monetizable": false}, "video_info": {"aspect_ratio": [1, 1], "duration_millis": 58520, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/amplify_video/1007225845025509381/vid/480x480/ycnYFZkpIxEj0k-1.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/amplify_video/1007225845025509381/vid/720x720/hQkW8Hkqgi-WJCAY.mp4?tag=2"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/amplify_video/1007225845025509381/pl/9vC7CQCqilv-SpPH.m3u8?tag=2"}, {"content_type": "video/mp4", "bitrate": 320000, "url": "https://video.twimg.com/amplify_video/1007225845025509381/vid/240x240/PHkFEJYPuVJK60-l.mp4?tag=2"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 12:44:17 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 19, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007242319341314048", "in_reply_to_user_id": null, "favorite_count": 60, "id": 1007242319341314048, "text": "\ud83c\udfc6\ud83d\ude01\nWho else is excited?\n#WorldCup #FifaWorldCup2018 #WorldCup2018 #SaudiArabia #RUSKSA #RussiavsSaudi  https://t.co/BeItnPsVUF", "place": null, "lang": "en", "quote_count": 3, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 3, "entities": {"urls": [], "hashtags": [{"indices": [24, 33], "text": "WorldCup"}, {"indices": [34, 51], "text": "FifaWorldCup2018"}, {"indices": [52, 65], "text": "WorldCup2018"}, {"indices": [66, 78], "text": "SaudiArabia"}, {"indices": [79, 86], "text": "RUSKSA"}, {"indices": [87, 101], "text": "RussiavsSaudi"}], "media": [{"display_url": "pic.twitter.com/BeItnPsVUF", "source_user_id": 138372303, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg", "source_status_id": 1007239983982366720, "url": "https://t.co/BeItnPsVUF", "indices": [103, 126], "sizes": {"small": {"w": 240, "h": 240, "resize": "fit"}, "large": {"w": 240, "h": 240, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 240, "h": 240, "resize": "fit"}}, "id_str": "1007225845025509381", "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007239983982366720/video/1", "source_status_id_str": "1007239983982366720", "media_url_https": "https://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg", "id": 1007225845025509381, "source_user_id_str": "138372303", "additional_media_info": {"description": "", "title": "", "embeddable": true, "monetizable": false}}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 136, "profile_image_url_https": "https://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg", "listed_count": 38, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 522, "description": "Updates for Russia 2018 provided by the Official\nSite of the FIFA World Cup Official account @Fifaworldcup , World Cup 2018 Youtube channel Click Here\ud83d\udc47", "created_at": "Wed Nov 25 12:23:35 +0000 2015", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "WorldCup2018now", "id_str": "4274327909", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 4274327909, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg", "time_zone": null, "url": "https://m.youtube.com/channel/UC7Ccqdpt_YoPbnLyW_hp5Ug", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/4274327909/1512806139", "statuses_count": 377, "follow_request_sent": null, "followers_count": 21093, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "FIFA World Cup 2018", "location": "Russia", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007255004015726592", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007255004015726592, "text": "RT @WorldCup2018now: \ud83c\udfc6\ud83d\ude01\nWho else is excited?\n#WorldCup #FifaWorldCup2018 #WorldCup2018 #SaudiArabia #RUSKSA #RussiavsSaudi  https://t.co/Be\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528983281507", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [45, 54], "text": "WorldCup"}, {"indices": [55, 72], "text": "FifaWorldCup2018"}, {"indices": [73, 86], "text": "WorldCup2018"}, {"indices": [87, 99], "text": "SaudiArabia"}, {"indices": [100, 107], "text": "RUSKSA"}, {"indices": [108, 122], "text": "RussiavsSaudi"}], "user_mentions": [{"indices": [3, 19], "screen_name": "WorldCup2018now", "id_str": "4274327909", "name": "FIFA World Cup 2018", "id": 4274327909}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 167, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 266, "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.", "created_at": "Wed Oct 09 12:20:28 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Sufyansheikhs", "id_str": "1949121762", "profile_link_color": "0084B4", "translator_type": "none", "id": 1949121762, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "time_zone": null, "url": "https://www.facebook.com/sufyansheikh.official", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055", "statuses_count": 677, "follow_request_sent": null, "followers_count": 46, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Sufyan Sheikh", "location": "Islamabad", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 17:34:32", "current_time": 1528990472798, "quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/tzquOIrsmu", "indices": [112, 135], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007282389259730945", "expanded_url": "https://twitter.com/WorldCup2018now/status/1007282422973530113/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg", "id": 1007282389259730945, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg", "url": "https://t.co/tzquOIrsmu"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:23:38 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 6, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007282422973530113", "in_reply_to_user_id": null, "favorite_count": 13, "id": 1007282422973530113, "text": "Swiftly followed by the first goal of the FIFA #WorldCup!\n\n#RUS have the lead, through Iury Gavinsky! \n\n#RUSKSA https://t.co/tzquOIrsmu", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [47, 56], "text": "WorldCup"}, {"indices": [59, 63], "text": "RUS"}, {"indices": [104, 111], "text": "RUSKSA"}], "media": [{"display_url": "pic.twitter.com/tzquOIrsmu", "indices": [112, 135], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007282389259730945", "expanded_url": "https://twitter.com/WorldCup2018now/status/1007282422973530113/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg", "id": 1007282389259730945, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg", "url": "https://t.co/tzquOIrsmu"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 111], "contributors": null, "user": {"utc_offset": null, "friends_count": 137, "profile_image_url_https": "https://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg", "listed_count": 38, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 522, "description": "Updates for Russia 2018 provided by the Official\nSite of the FIFA World Cup Official account @Fifaworldcup , World Cup 2018 Youtube channel Click Here\ud83d\udc47", "created_at": "Wed Nov 25 12:23:35 +0000 2015", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "WorldCup2018now", "id_str": "4274327909", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 4274327909, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg", "time_zone": null, "url": "https://m.youtube.com/channel/UC7Ccqdpt_YoPbnLyW_hp5Ug", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/4274327909/1512806139", "statuses_count": 387, "follow_request_sent": null, "followers_count": 21853, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "FIFA World Cup 2018", "location": "Russia", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:34:32 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1007282422973530113, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007285164936966144", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007285164936966144, "text": "Cool head goal \ud83e\udd45 https://t.co/wUZ5mnolIa", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/worldcup2018now/status/1007282422973530113", "display": "twitter.com/worldcup2018no\u2026", "url": "https://t.co/wUZ5mnolIa"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528990472431", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/worldcup2018no\u2026", "indices": [17, 40], "expanded_url": "https://twitter.com/worldcup2018now/status/1007282422973530113", "url": "https://t.co/wUZ5mnolIa"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 16], "quoted_status_id_str": "1007282422973530113", "contributors": null, "user": {"utc_offset": null, "friends_count": 168, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 266, "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.", "created_at": "Wed Oct 09 12:20:28 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Sufyansheikhs", "id_str": "1949121762", "profile_link_color": "0084B4", "translator_type": "none", "id": 1949121762, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "time_zone": null, "url": "https://www.facebook.com/sufyansheikh.official", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055", "statuses_count": 680, "follow_request_sent": null, "followers_count": 46, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Sufyan Sheikh", "location": "Islamabad", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 17:36:17", "current_time": 1528990577926, "extended_entities": {"media": [{"display_url": "pic.twitter.com/1xL2VYRLxQ", "indices": [61, 84], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1920, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007285572107456513", "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007285604898476032/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg", "id": 1007285572107456513, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg", "url": "https://t.co/1xL2VYRLxQ"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:36:17 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007285604898476032", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007285604898476032, "text": "After goal situation #WorldCup #Russia2018WorldCup #FIFA2018 https://t.co/1xL2VYRLxQ", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528990577326", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [21, 30], "text": "WorldCup"}, {"indices": [31, 50], "text": "Russia2018WorldCup"}, {"indices": [51, 60], "text": "FIFA2018"}], "media": [{"display_url": "pic.twitter.com/1xL2VYRLxQ", "indices": [61, 84], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1920, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007285572107456513", "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007285604898476032/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg", "id": 1007285572107456513, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg", "url": "https://t.co/1xL2VYRLxQ"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 60], "contributors": null, "user": {"utc_offset": null, "friends_count": 168, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 266, "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.", "created_at": "Wed Oct 09 12:20:28 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Sufyansheikhs", "id_str": "1949121762", "profile_link_color": "0084B4", "translator_type": "none", "id": 1949121762, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "time_zone": null, "url": "https://www.facebook.com/sufyansheikh.official", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055", "statuses_count": 681, "follow_request_sent": null, "followers_count": 46, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Sufyan Sheikh", "location": "Islamabad", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 18:48:32", "current_time": 1528994912383, "extended_entities": {"media": [{"display_url": "pic.twitter.com/LtGZC2GhRQ", "indices": [110, 133], "sizes": {"small": {"w": 680, "h": 511, "resize": "fit"}, "large": {"w": 1024, "h": 770, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1024, "h": 770, "resize": "fit"}}, "id_str": "1007303760681619456", "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007303784593330177/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg", "id": 1007303760681619456, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg", "url": "https://t.co/LtGZC2GhRQ"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:48:31 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007303784593330177", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007303784593330177, "text": "Woah!\n\n\ud83c\uddf8\ud83c\udde6 Saudi Arabia: 0\n\ud83c\uddf7\ud83c\uddfa Russia: 3\n\n\u23f0 Time: 70\n   \n#RUSKSA\n#Worldcup\u2060 \u2060\u2060 \u2060#RussiaWorldCup2018 \n#KSA\u2060 \u2060\u2060 \u2060 https://t.co/LtGZC2GhRQ", "place": null, "lang": "in", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528994911703", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [55, 62], "text": "RUSKSA"}, {"indices": [63, 72], "text": "Worldcup"}, {"indices": [78, 97], "text": "RussiaWorldCup2018"}, {"indices": [99, 103], "text": "KSA"}], "media": [{"display_url": "pic.twitter.com/LtGZC2GhRQ", "indices": [110, 133], "sizes": {"small": {"w": 680, "h": 511, "resize": "fit"}, "large": {"w": 1024, "h": 770, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1024, "h": 770, "resize": "fit"}}, "id_str": "1007303760681619456", "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007303784593330177/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg", "id": 1007303760681619456, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg", "url": "https://t.co/LtGZC2GhRQ"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 109], "contributors": null, "user": {"utc_offset": null, "friends_count": 168, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 268, "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.", "created_at": "Wed Oct 09 12:20:28 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Sufyansheikhs", "id_str": "1949121762", "profile_link_color": "0084B4", "translator_type": "none", "id": 1949121762, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg", "time_zone": null, "url": "https://www.facebook.com/sufyansheikh.official", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055", "statuses_count": 686, "follow_request_sent": null, "followers_count": 46, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Sufyan Sheikh", "location": "Islamabad", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 15:34:41",
+    "current_time": 1528983281760,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 13:34:41 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BeItnPsVUF",
+            "source_user_id": 138372303,
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg",
+            "source_status_id": 1007239983982366720,
+            "url": "https://t.co/BeItnPsVUF",
+            "indices": [
+              103,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 240,
+                "h": 240,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 240,
+                "h": 240,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 240,
+                "h": 240,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007225845025509381",
+            "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007239983982366720/video/1",
+            "source_status_id_str": "1007239983982366720",
+            "media_url_https": "https://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg",
+            "id": 1007225845025509381,
+            "source_user_id_str": "138372303",
+            "additional_media_info": {
+              "description": "",
+              "title": "",
+              "embeddable": true,
+              "monetizable": false
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 58520,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/amplify_video/1007225845025509381/vid/480x480/ycnYFZkpIxEj0k-1.mp4?tag=2"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 1280000,
+                  "url": "https://video.twimg.com/amplify_video/1007225845025509381/vid/720x720/hQkW8Hkqgi-WJCAY.mp4?tag=2"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1007225845025509381/pl/9vC7CQCqilv-SpPH.m3u8?tag=2"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 320000,
+                  "url": "https://video.twimg.com/amplify_video/1007225845025509381/vid/240x240/PHkFEJYPuVJK60-l.mp4?tag=2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 12:44:17 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 19,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007242319341314048",
+      "in_reply_to_user_id": null,
+      "favorite_count": 60,
+      "id": 1007242319341314048,
+      "text": "🏆😁\nWho else is excited?\n#WorldCup #FifaWorldCup2018 #WorldCup2018 #SaudiArabia #RUSKSA #RussiavsSaudi  https://t.co/BeItnPsVUF",
+      "place": null,
+      "lang": "en",
+      "quote_count": 3,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 3,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              24,
+              33
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              34,
+              51
+            ],
+            "text": "FifaWorldCup2018"
+          },
+          {
+            "indices": [
+              52,
+              65
+            ],
+            "text": "WorldCup2018"
+          },
+          {
+            "indices": [
+              66,
+              78
+            ],
+            "text": "SaudiArabia"
+          },
+          {
+            "indices": [
+              79,
+              86
+            ],
+            "text": "RUSKSA"
+          },
+          {
+            "indices": [
+              87,
+              101
+            ],
+            "text": "RussiavsSaudi"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BeItnPsVUF",
+            "source_user_id": 138372303,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg",
+            "source_status_id": 1007239983982366720,
+            "url": "https://t.co/BeItnPsVUF",
+            "indices": [
+              103,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 240,
+                "h": 240,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 240,
+                "h": 240,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 240,
+                "h": 240,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007225845025509381",
+            "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007239983982366720/video/1",
+            "source_status_id_str": "1007239983982366720",
+            "media_url_https": "https://pbs.twimg.com/media/DfpjgweWAAAH5lk.jpg",
+            "id": 1007225845025509381,
+            "source_user_id_str": "138372303",
+            "additional_media_info": {
+              "description": "",
+              "title": "",
+              "embeddable": true,
+              "monetizable": false
+            }
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 136,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg",
+        "listed_count": 38,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 522,
+        "description": "Updates for Russia 2018 provided by the Official\nSite of the FIFA World Cup Official account @Fifaworldcup , World Cup 2018 Youtube channel Click Here👇",
+        "created_at": "Wed Nov 25 12:23:35 +0000 2015",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WorldCup2018now",
+        "id_str": "4274327909",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 4274327909,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg",
+        "time_zone": null,
+        "url": "https://m.youtube.com/channel/UC7Ccqdpt_YoPbnLyW_hp5Ug",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4274327909/1512806139",
+        "statuses_count": 377,
+        "follow_request_sent": null,
+        "followers_count": 21093,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "FIFA World Cup 2018",
+        "location": "Russia",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007255004015726592",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007255004015726592,
+    "text": "RT @WorldCup2018now: 🏆😁\nWho else is excited?\n#WorldCup #FifaWorldCup2018 #WorldCup2018 #SaudiArabia #RUSKSA #RussiavsSaudi  https://t.co/Be…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528983281507",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            55,
+            72
+          ],
+          "text": "FifaWorldCup2018"
+        },
+        {
+          "indices": [
+            73,
+            86
+          ],
+          "text": "WorldCup2018"
+        },
+        {
+          "indices": [
+            87,
+            99
+          ],
+          "text": "SaudiArabia"
+        },
+        {
+          "indices": [
+            100,
+            107
+          ],
+          "text": "RUSKSA"
+        },
+        {
+          "indices": [
+            108,
+            122
+          ],
+          "text": "RussiavsSaudi"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "WorldCup2018now",
+          "id_str": "4274327909",
+          "name": "FIFA World Cup 2018",
+          "id": 4274327909
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 167,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 266,
+      "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.",
+      "created_at": "Wed Oct 09 12:20:28 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Sufyansheikhs",
+      "id_str": "1949121762",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 1949121762,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.facebook.com/sufyansheikh.official",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055",
+      "statuses_count": 677,
+      "follow_request_sent": null,
+      "followers_count": 46,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Sufyan Sheikh",
+      "location": "Islamabad",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 17:34:32",
+    "current_time": 1528990472798,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tzquOIrsmu",
+            "indices": [
+              112,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007282389259730945",
+            "expanded_url": "https://twitter.com/WorldCup2018now/status/1007282422973530113/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg",
+            "id": 1007282389259730945,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg",
+            "url": "https://t.co/tzquOIrsmu"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:23:38 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 6,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007282422973530113",
+      "in_reply_to_user_id": null,
+      "favorite_count": 13,
+      "id": 1007282422973530113,
+      "text": "Swiftly followed by the first goal of the FIFA #WorldCup!\n\n#RUS have the lead, through Iury Gavinsky! \n\n#RUSKSA https://t.co/tzquOIrsmu",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              47,
+              56
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              59,
+              63
+            ],
+            "text": "RUS"
+          },
+          {
+            "indices": [
+              104,
+              111
+            ],
+            "text": "RUSKSA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tzquOIrsmu",
+            "indices": [
+              112,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007282389259730945",
+            "expanded_url": "https://twitter.com/WorldCup2018now/status/1007282422973530113/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg",
+            "id": 1007282389259730945,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqV_whVQAEh2DU.jpg",
+            "url": "https://t.co/tzquOIrsmu"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        111
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 137,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg",
+        "listed_count": 38,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 522,
+        "description": "Updates for Russia 2018 provided by the Official\nSite of the FIFA World Cup Official account @Fifaworldcup , World Cup 2018 Youtube channel Click Here👇",
+        "created_at": "Wed Nov 25 12:23:35 +0000 2015",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WorldCup2018now",
+        "id_str": "4274327909",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 4274327909,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974686444655529985/qq5SDLQa_normal.jpg",
+        "time_zone": null,
+        "url": "https://m.youtube.com/channel/UC7Ccqdpt_YoPbnLyW_hp5Ug",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4274327909/1512806139",
+        "statuses_count": 387,
+        "follow_request_sent": null,
+        "followers_count": 21853,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "FIFA World Cup 2018",
+        "location": "Russia",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:34:32 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "quoted_status_id": 1007282422973530113,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007285164936966144",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007285164936966144,
+    "text": "Cool head goal 🥅 https://t.co/wUZ5mnolIa",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/worldcup2018now/status/1007282422973530113",
+      "display": "twitter.com/worldcup2018no…",
+      "url": "https://t.co/wUZ5mnolIa"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528990472431",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/worldcup2018no…",
+          "indices": [
+            17,
+            40
+          ],
+          "expanded_url": "https://twitter.com/worldcup2018now/status/1007282422973530113",
+          "url": "https://t.co/wUZ5mnolIa"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      16
+    ],
+    "quoted_status_id_str": "1007282422973530113",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 168,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 266,
+      "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.",
+      "created_at": "Wed Oct 09 12:20:28 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Sufyansheikhs",
+      "id_str": "1949121762",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 1949121762,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.facebook.com/sufyansheikh.official",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055",
+      "statuses_count": 680,
+      "follow_request_sent": null,
+      "followers_count": 46,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Sufyan Sheikh",
+      "location": "Islamabad",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 17:36:17",
+    "current_time": 1528990577926,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1xL2VYRLxQ",
+          "indices": [
+            61,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007285572107456513",
+          "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007285604898476032/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg",
+          "id": 1007285572107456513,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg",
+          "url": "https://t.co/1xL2VYRLxQ"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:36:17 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007285604898476032",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007285604898476032,
+    "text": "After goal situation #WorldCup #Russia2018WorldCup #FIFA2018 https://t.co/1xL2VYRLxQ",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528990577326",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            21,
+            30
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            31,
+            50
+          ],
+          "text": "Russia2018WorldCup"
+        },
+        {
+          "indices": [
+            51,
+            60
+          ],
+          "text": "FIFA2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1xL2VYRLxQ",
+          "indices": [
+            61,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007285572107456513",
+          "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007285604898476032/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg",
+          "id": 1007285572107456513,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqY5BjXUAEbpyg.jpg",
+          "url": "https://t.co/1xL2VYRLxQ"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      60
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 168,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 266,
+      "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.",
+      "created_at": "Wed Oct 09 12:20:28 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Sufyansheikhs",
+      "id_str": "1949121762",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 1949121762,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.facebook.com/sufyansheikh.official",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055",
+      "statuses_count": 681,
+      "follow_request_sent": null,
+      "followers_count": 46,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Sufyan Sheikh",
+      "location": "Islamabad",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 18:48:32",
+    "current_time": 1528994912383,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LtGZC2GhRQ",
+          "indices": [
+            110,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 770,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 770,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007303760681619456",
+          "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007303784593330177/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg",
+          "id": 1007303760681619456,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg",
+          "url": "https://t.co/LtGZC2GhRQ"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 16:48:31 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007303784593330177",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007303784593330177,
+    "text": "Woah!\n\n🇸🇦 Saudi Arabia: 0\n🇷🇺 Russia: 3\n\n⏰ Time: 70\n   \n#RUSKSA\n#Worldcup⁠ ⁠⁠ ⁠#RussiaWorldCup2018 \n#KSA⁠ ⁠⁠ ⁠ https://t.co/LtGZC2GhRQ",
+    "place": null,
+    "lang": "in",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528994911703",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            55,
+            62
+          ],
+          "text": "RUSKSA"
+        },
+        {
+          "indices": [
+            63,
+            72
+          ],
+          "text": "Worldcup"
+        },
+        {
+          "indices": [
+            78,
+            97
+          ],
+          "text": "RussiaWorldCup2018"
+        },
+        {
+          "indices": [
+            99,
+            103
+          ],
+          "text": "KSA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LtGZC2GhRQ",
+          "indices": [
+            110,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 770,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 770,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007303760681619456",
+          "expanded_url": "https://twitter.com/Sufyansheikhs/status/1007303784593330177/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg",
+          "id": 1007303760681619456,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqpbvRX0AAaAiI.jpg",
+          "url": "https://t.co/LtGZC2GhRQ"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      109
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 168,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 268,
+      "description": "Entrepreneur | BUSINESS IT | Digital Marketing & Technology.",
+      "created_at": "Wed Oct 09 12:20:28 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Sufyansheikhs",
+      "id_str": "1949121762",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 1949121762,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004301663006609408/zSYRI8Wo_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.facebook.com/sufyansheikh.official",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949121762/1462978055",
+      "statuses_count": 686,
+      "follow_request_sent": null,
+      "followers_count": 46,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Sufyan Sheikh",
+      "location": "Islamabad",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

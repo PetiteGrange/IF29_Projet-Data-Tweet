@@ -1,0 +1,362 @@
+[
+  {
+    "created_date": "2018-06-14 05:50:59",
+    "current_time": 1528948259901,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3ctUrwRCi5",
+          "source_user_id": 177806277,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+          "source_status_id": 1007078676410888192,
+          "url": "https://t.co/3ctUrwRCi5",
+          "indices": [
+            42,
+            65
+          ],
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 375,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 375,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007078063144914944",
+          "expanded_url": "https://twitter.com/LuiB_/status/1007078676410888192/photo/1",
+          "source_status_id_str": "1007078676410888192",
+          "media_url_https": "https://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+          "id": 1007078063144914944,
+          "source_user_id_str": "177806277"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 03:50:59 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3ctUrwRCi5",
+            "indices": [
+              31,
+              54
+            ],
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 375,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 375,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 375,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007078063144914944",
+            "expanded_url": "https://twitter.com/LuiB_/status/1007078676410888192/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+            "id": 1007078063144914944,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+            "url": "https://t.co/3ctUrwRCi5"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 01:54:01 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 7,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007078676410888192",
+      "in_reply_to_user_id": null,
+      "favorite_count": 7,
+      "id": 1007078676410888192,
+      "text": "Así estoy #Rusia2018 #WorldCup https://t.co/3ctUrwRCi5",
+      "place": null,
+      "lang": "es",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              10,
+              20
+            ],
+            "text": "Rusia2018"
+          },
+          {
+            "indices": [
+              21,
+              30
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3ctUrwRCi5",
+            "indices": [
+              31,
+              54
+            ],
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 375,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 375,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 375,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007078063144914944",
+            "expanded_url": "https://twitter.com/LuiB_/status/1007078676410888192/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+            "id": 1007078063144914944,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+            "url": "https://t.co/3ctUrwRCi5"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        30
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 806,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975413998412816384/YrOnPX9e_normal.jpg",
+        "listed_count": 6,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 8151,
+        "description": "Estudiante de Comunicación Social. FHYCS. UNaM.",
+        "created_at": "Fri Aug 13 03:10:00 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "protected": false,
+        "screen_name": "LuiB_",
+        "id_str": "177806277",
+        "profile_link_color": "0084B4",
+        "translator_type": "regular",
+        "id": 177806277,
+        "geo_enabled": false,
+        "profile_background_color": "022330",
+        "lang": "es",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975413998412816384/YrOnPX9e_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/177806277/1494387142",
+        "statuses_count": 43843,
+        "follow_request_sent": null,
+        "followers_count": 1291,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Lui",
+        "location": "Ituzaingó, Corrientes",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007108111679852545",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007108111679852545,
+    "text": "RT @LuiB_: Así estoy #Rusia2018 #WorldCup https://t.co/3ctUrwRCi5",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528948259645",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            21,
+            31
+          ],
+          "text": "Rusia2018"
+        },
+        {
+          "indices": [
+            32,
+            41
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3ctUrwRCi5",
+          "source_user_id": 177806277,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+          "source_status_id": 1007078676410888192,
+          "url": "https://t.co/3ctUrwRCi5",
+          "indices": [
+            42,
+            65
+          ],
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 375,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 375,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007078063144914944",
+          "expanded_url": "https://twitter.com/LuiB_/status/1007078676410888192/photo/1",
+          "source_status_id_str": "1007078676410888192",
+          "media_url_https": "https://pbs.twimg.com/media/DfncKabXUAAM8Nr.jpg",
+          "id": 1007078063144914944,
+          "source_user_id_str": "177806277"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            9
+          ],
+          "screen_name": "LuiB_",
+          "id_str": "177806277",
+          "name": "Lui",
+          "id": 177806277
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 821,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/782792565418491904/4PFP2117_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 16595,
+      "description": "HappyThankYouMorePlease :D Lokah Samastah Sukhino Bhabantu 🙏",
+      "created_at": "Sat Dec 31 20:49:05 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Carrio8",
+      "id_str": "451664213",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 451664213,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "es",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/782792565418491904/4PFP2117_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/451664213/1475467492",
+      "statuses_count": 3123,
+      "follow_request_sent": null,
+      "followers_count": 218,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Carolina Ortega",
+      "location": "Perú",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

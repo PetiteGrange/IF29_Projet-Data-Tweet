@@ -1,0 +1,239 @@
+[
+  {
+    "created_date": "2018-06-15 20:38:58",
+    "current_time": 1529087938177,
+    "extended_tweet": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2K1bNAylA9",
+            "indices": [
+              187,
+              210
+            ],
+            "sizes": {
+              "small": {
+                "w": 250,
+                "h": 210,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 250,
+                "h": 210,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 250,
+                "h": 210,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007693954639433728",
+            "expanded_url": "https://twitter.com/Silva98Aline/status/1007693963883614209/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfwMUBCXkAANp9Y.jpg",
+            "id": 1007693954639433728,
+            "type": "animated_gif",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfwMUBCXkAANp9Y.jpg",
+            "url": "https://t.co/2K1bNAylA9",
+            "video_info": {
+              "aspect_ratio": [
+                25,
+                21
+              ],
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 0,
+                  "url": "https://video.twimg.com/tweet_video/DfwMUBCXkAANp9Y.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              148,
+              157
+            ],
+            "text": "Copa2018"
+          },
+          {
+            "indices": [
+              158,
+              167
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              168,
+              177
+            ],
+            "text": "Portugal"
+          },
+          {
+            "indices": [
+              178,
+              186
+            ],
+            "text": "Espanha"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2K1bNAylA9",
+            "indices": [
+              187,
+              210
+            ],
+            "sizes": {
+              "small": {
+                "w": 250,
+                "h": 210,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 250,
+                "h": 210,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 250,
+                "h": 210,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007693954639433728",
+            "expanded_url": "https://twitter.com/Silva98Aline/status/1007693963883614209/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfwMUBCXkAANp9Y.jpg",
+            "id": 1007693954639433728,
+            "type": "animated_gif",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfwMUBCXkAANp9Y.jpg",
+            "url": "https://t.co/2K1bNAylA9",
+            "video_info": {
+              "aspect_ratio": [
+                25,
+                21
+              ],
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 0,
+                  "url": "https://video.twimg.com/tweet_video/DfwMUBCXkAANp9Y.mp4"
+                }
+              ]
+            }
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "full_text": "Locutor da Globo: \"Se fosse outra pessoa a gente ia discutir a falta, mas como é o Pepe...\" \nNOSSA, REDE GLOBO! QUE PROFISSIONALISMO! 👏👏👏 PARABÉNS! #Copa2018 #WorldCup #Portugal #Espanha https://t.co/2K1bNAylA9",
+      "display_text_range": [
+        0,
+        186
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:38:57 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007693963883614209",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007693963883614209,
+    "text": "Locutor da Globo: \"Se fosse outra pessoa a gente ia discutir a falta, mas como é o Pepe...\" \nNOSSA, REDE GLOBO! QUE… https://t.co/Zd3WLv14Z0",
+    "place": null,
+    "lang": "pt",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": true,
+    "timestamp_ms": "1529087937695",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/1007693963883614209",
+          "url": "https://t.co/Zd3WLv14Z0"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 75,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005184224998166529/o3gswiQD_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 15443,
+      "description": "🌨 Pluto is still out there for me. I'm saying that Pluto is believing in something out there no matter what anybody says. 🌨 * 🏳 Vascaína Com Certeza 🏴💕🇧🇷",
+      "created_at": "Mon Mar 09 04:00:15 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Silva98Aline",
+      "id_str": "3080916207",
+      "profile_link_color": "91D2FA",
+      "translator_type": "none",
+      "id": 3080916207,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "pt",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005184224998166529/o3gswiQD_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.youtube.com/channel/UCTaGlQVXlyT-Tas1Wr2QmYw",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3080916207/1528488383",
+      "statuses_count": 11044,
+      "follow_request_sent": null,
+      "followers_count": 172,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Aline ✠",
+      "location": "Brasil",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

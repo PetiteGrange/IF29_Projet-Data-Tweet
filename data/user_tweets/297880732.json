@@ -1,3 +1,1104 @@
-{"created_date": "2018-06-16 10:06:23", "current_time": 1529136383661, "extended_entities": {"media": [{"display_url": "pic.twitter.com/cWvrVWHUEp", "source_user_id": 15203904, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "source_status_id": 1007888067510833152, "url": "https://t.co/cWvrVWHUEp", "indices": [105, 128], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1007888065237520384", "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1", "source_status_id_str": "1007888067510833152", "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "id": 1007888065237520384, "source_user_id_str": "15203904"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 08:06:23 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/cWvrVWHUEp", "indices": [91, 114], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1007888065237520384", "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "id": 1007888065237520384, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "url": "https://t.co/cWvrVWHUEp"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 07:30:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", "retweet_count": 64, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007888067510833152", "in_reply_to_user_id": null, "favorite_count": 676, "id": 1007888067510833152, "text": "Best of luck to @Tom_Rogic in his first #WorldCup game!\n\n#AUS will face #FRA this morning. https://t.co/cWvrVWHUEp", "place": null, "lang": "en", "quote_count": 3, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 5, "entities": {"urls": [], "hashtags": [{"indices": [40, 49], "text": "WorldCup"}, {"indices": [57, 61], "text": "AUS"}, {"indices": [72, 76], "text": "FRA"}], "media": [{"display_url": "pic.twitter.com/cWvrVWHUEp", "indices": [91, 114], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1007888065237520384", "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "id": 1007888065237520384, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "url": "https://t.co/cWvrVWHUEp"}], "user_mentions": [{"indices": [16, 26], "screen_name": "Tom_Rogic", "id_str": "1545005684", "name": "Tom Rogic", "id": 1545005684}], "symbols": []}, "display_text_range": [0, 90], "contributors": null, "user": {"utc_offset": null, "friends_count": 295, "profile_image_url_https": "https://pbs.twimg.com/profile_images/997870100421251073/1p-RYnWv_normal.jpg", "listed_count": 2120, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 10393, "description": "The official Twitter feed of seven-in-a-row Scottish Premiership 2017/18 and #DoubleTreble Champions, Celtic Football Club. \ud83c\udf40", "created_at": "Mon Jun 23 04:57:42 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "CelticFC", "id_str": "15203904", "profile_link_color": "00A261", "translator_type": "none", "id": 15203904, "geo_enabled": true, "profile_background_color": "FFFFFF", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "003F01", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/997870100421251073/1p-RYnWv_normal.jpg", "time_zone": null, "url": "http://www.celticfc.net", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/15203904/1526757776", "statuses_count": 92045, "follow_request_sent": null, "followers_count": 589717, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Celtic Football Club", "location": "Glasgow", "profile_sidebar_fill_color": "FFFFFF", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007897160086704129", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007897160086704129, "text": "RT @CelticFC: Best of luck to @Tom_Rogic in his first #WorldCup game!\n\n#AUS will face #FRA this morning. https://t.co/cWvrVWHUEp", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529136383445", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [54, 63], "text": "WorldCup"}, {"indices": [71, 75], "text": "AUS"}, {"indices": [86, 90], "text": "FRA"}], "media": [{"display_url": "pic.twitter.com/cWvrVWHUEp", "source_user_id": 15203904, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "source_status_id": 1007888067510833152, "url": "https://t.co/cWvrVWHUEp", "indices": [105, 128], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1007888065237520384", "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1", "source_status_id_str": "1007888067510833152", "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg", "id": 1007888065237520384, "source_user_id_str": "15203904"}], "user_mentions": [{"indices": [3, 12], "screen_name": "CelticFC", "id_str": "15203904", "name": "Celtic Football Club", "id": 15203904}, {"indices": [30, 40], "screen_name": "Tom_Rogic", "id_str": "1545005684", "name": "Tom Rogic", "id": 1545005684}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 33, "profile_image_url_https": "https://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 51, "description": "Republican,pro palestine,civil rights for all", "created_at": "Fri May 13 08:40:10 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "belbhoy44", "id_str": "297880732", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 297880732, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/297880732/1484947862", "statuses_count": 438, "follow_request_sent": null, "followers_count": 15, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Sean", "location": "Liverpool, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-16 19:14:18", "current_time": 1529169258571, "extended_entities": {"media": [{"display_url": "pic.twitter.com/D5TyPv5WUP", "source_user_id": 384951307, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "source_status_id": 1007992046865481729, "url": "https://t.co/D5TyPv5WUP", "indices": [66, 89], "sizes": {"small": {"w": 600, "h": 600, "resize": "fit"}, "large": {"w": 600, "h": 600, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 600, "h": 600, "resize": "fit"}}, "id_str": "1007991906050199552", "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1", "source_status_id_str": "1007992046865481729", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "id": 1007991906050199552, "source_user_id_str": "384951307", "video_info": {"aspect_ratio": [1, 1], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/Df0bTEiXUAARSp5.mp4"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 17:14:18 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/D5TyPv5WUP", "indices": [53, 76], "sizes": {"small": {"w": 600, "h": 600, "resize": "fit"}, "large": {"w": 600, "h": 600, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 600, "h": 600, "resize": "fit"}}, "id_str": "1007991906050199552", "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "id": 1007991906050199552, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "url": "https://t.co/D5TyPv5WUP", "video_info": {"aspect_ratio": [1, 1], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/Df0bTEiXUAARSp5.mp4"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:23:26 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "retweet_count": 371, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007992046865481729", "in_reply_to_user_id": null, "favorite_count": 1211, "id": 1007992046865481729, "text": "\"Can't touch this\" \ud83d\ude09\n\n#ARGISL #WorldCup #bbcworldcup https://t.co/D5TyPv5WUP", "place": null, "lang": "en", "quote_count": 21, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 36, "entities": {"urls": [], "hashtags": [{"indices": [22, 29], "text": "ARGISL"}, {"indices": [30, 39], "text": "WorldCup"}, {"indices": [40, 52], "text": "bbcworldcup"}], "media": [{"display_url": "pic.twitter.com/D5TyPv5WUP", "indices": [53, 76], "sizes": {"small": {"w": 600, "h": 600, "resize": "fit"}, "large": {"w": 600, "h": 600, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 600, "h": 600, "resize": "fit"}}, "id_str": "1007991906050199552", "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "id": 1007991906050199552, "type": "photo", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "url": "https://t.co/D5TyPv5WUP"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 52], "contributors": null, "user": {"utc_offset": null, "friends_count": 105, "profile_image_url_https": "https://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg", "listed_count": 4951, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 156, "description": "@bbc football coverage on @BBCMOTD, @BBCSport and @bbc5live . Also follow @garylineker,@markchapman and @mrdanwalker.", "created_at": "Tue Oct 04 16:26:35 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "BBCMOTD", "id_str": "384951307", "profile_link_color": "0084B4", "translator_type": "none", "id": 384951307, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg", "time_zone": null, "url": "http://www.bbc.co.uk/football", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/384951307/1528721619", "statuses_count": 80503, "follow_request_sent": null, "followers_count": 2614175, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Match of the Day", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008035047436320769", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008035047436320769, "text": "RT @BBCMOTD: \"Can't touch this\" \ud83d\ude09\n\n#ARGISL #WorldCup #bbcworldcup https://t.co/D5TyPv5WUP", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529169258351", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [35, 42], "text": "ARGISL"}, {"indices": [43, 52], "text": "WorldCup"}, {"indices": [53, 65], "text": "bbcworldcup"}], "media": [{"display_url": "pic.twitter.com/D5TyPv5WUP", "source_user_id": 384951307, "type": "photo", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "source_status_id": 1007992046865481729, "url": "https://t.co/D5TyPv5WUP", "indices": [66, 89], "sizes": {"small": {"w": 600, "h": 600, "resize": "fit"}, "large": {"w": 600, "h": 600, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 600, "h": 600, "resize": "fit"}}, "id_str": "1007991906050199552", "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1", "source_status_id_str": "1007992046865481729", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg", "id": 1007991906050199552, "source_user_id_str": "384951307"}], "user_mentions": [{"indices": [3, 11], "screen_name": "BBCMOTD", "id_str": "384951307", "name": "Match of the Day", "id": 384951307}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 33, "profile_image_url_https": "https://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 52, "description": "Republican,pro palestine,civil rights for all", "created_at": "Fri May 13 08:40:10 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "belbhoy44", "id_str": "297880732", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 297880732, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/297880732/1484947862", "statuses_count": 443, "follow_request_sent": null, "followers_count": 15, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Sean", "location": "Liverpool, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-17 08:32:15", "current_time": 1529217135670, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 06:32:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/W3PtwrmxJf", "indices": [108, 131], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1008076680513105920", "expanded_url": "https://twitter.com/BobProcterr/status/1008076733805944837/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg", "id": 1008076680513105920, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg", "url": "https://t.co/W3PtwrmxJf", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 5965, "variants": [{"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/pl/j6Kp_IvYV34uwqJv.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/vid/640x360/KOLGMmbyR8e3V84f.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/vid/320x180/_SNkwP4voZI0f01x.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/vid/1280x720/0BVrczlk6h-OV8dy.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 19:59:57 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 3707, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008076733805944837", "in_reply_to_user_id": null, "favorite_count": 11183, "id": 1008076733805944837, "text": "I'm convinced Roy Keane is going to kill Slavan Bilic if he keeps touching his shoulder \ud83d\ude02 #CRONGA #WorldCup https://t.co/W3PtwrmxJf", "place": null, "lang": "en", "quote_count": 259, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 216, "entities": {"urls": [], "hashtags": [{"indices": [90, 97], "text": "CRONGA"}, {"indices": [98, 107], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/W3PtwrmxJf", "indices": [108, 131], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1008076680513105920", "expanded_url": "https://twitter.com/BobProcterr/status/1008076733805944837/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg", "id": 1008076680513105920, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg", "url": "https://t.co/W3PtwrmxJf"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 107], "contributors": null, "user": {"utc_offset": null, "friends_count": 168, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007362210102939649/BnmMR9CL_normal.jpg", "listed_count": 6, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 14231, "description": "United", "created_at": "Wed Jul 20 20:29:10 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "BobProcterr", "id_str": "339252812", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 339252812, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1007362210102939649/BnmMR9CL_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/339252812/1502233410", "statuses_count": 8022, "follow_request_sent": null, "followers_count": 230, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "JP", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008235858309275649", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008235858309275649, "text": "RT @BobProcterr: I'm convinced Roy Keane is going to kill Slavan Bilic if he keeps touching his shoulder \ud83d\ude02 #CRONGA #WorldCup https://t.co/W\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529217135394", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [107, 114], "text": "CRONGA"}, {"indices": [115, 124], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 15], "screen_name": "BobProcterr", "id_str": "339252812", "name": "JP", "id": 339252812}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 33, "profile_image_url_https": "https://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 52, "description": "Republican,pro palestine,civil rights for all", "created_at": "Fri May 13 08:40:10 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "belbhoy44", "id_str": "297880732", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 297880732, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/297880732/1484947862", "statuses_count": 455, "follow_request_sent": null, "followers_count": 15, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Sean", "location": "Liverpool, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 10:06:23",
+    "current_time": 1529136383661,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cWvrVWHUEp",
+          "source_user_id": 15203904,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+          "source_status_id": 1007888067510833152,
+          "url": "https://t.co/cWvrVWHUEp",
+          "indices": [
+            105,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007888065237520384",
+          "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1",
+          "source_status_id_str": "1007888067510833152",
+          "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+          "id": 1007888065237520384,
+          "source_user_id_str": "15203904"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 08:06:23 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cWvrVWHUEp",
+            "indices": [
+              91,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007888065237520384",
+            "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+            "id": 1007888065237520384,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+            "url": "https://t.co/cWvrVWHUEp"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 07:30:15 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "retweet_count": 64,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007888067510833152",
+      "in_reply_to_user_id": null,
+      "favorite_count": 676,
+      "id": 1007888067510833152,
+      "text": "Best of luck to @Tom_Rogic in his first #WorldCup game!\n\n#AUS will face #FRA this morning. https://t.co/cWvrVWHUEp",
+      "place": null,
+      "lang": "en",
+      "quote_count": 3,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 5,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              40,
+              49
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              57,
+              61
+            ],
+            "text": "AUS"
+          },
+          {
+            "indices": [
+              72,
+              76
+            ],
+            "text": "FRA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cWvrVWHUEp",
+            "indices": [
+              91,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007888065237520384",
+            "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+            "id": 1007888065237520384,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+            "url": "https://t.co/cWvrVWHUEp"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              16,
+              26
+            ],
+            "screen_name": "Tom_Rogic",
+            "id_str": "1545005684",
+            "name": "Tom Rogic",
+            "id": 1545005684
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        90
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 295,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997870100421251073/1p-RYnWv_normal.jpg",
+        "listed_count": 2120,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 10393,
+        "description": "The official Twitter feed of seven-in-a-row Scottish Premiership 2017/18 and #DoubleTreble Champions, Celtic Football Club. 🍀",
+        "created_at": "Mon Jun 23 04:57:42 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "CelticFC",
+        "id_str": "15203904",
+        "profile_link_color": "00A261",
+        "translator_type": "none",
+        "id": 15203904,
+        "geo_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "003F01",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997870100421251073/1p-RYnWv_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.celticfc.net",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15203904/1526757776",
+        "statuses_count": 92045,
+        "follow_request_sent": null,
+        "followers_count": 589717,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Celtic Football Club",
+        "location": "Glasgow",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007897160086704129",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007897160086704129,
+    "text": "RT @CelticFC: Best of luck to @Tom_Rogic in his first #WorldCup game!\n\n#AUS will face #FRA this morning. https://t.co/cWvrVWHUEp",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529136383445",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            63
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            71,
+            75
+          ],
+          "text": "AUS"
+        },
+        {
+          "indices": [
+            86,
+            90
+          ],
+          "text": "FRA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cWvrVWHUEp",
+          "source_user_id": 15203904,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+          "source_status_id": 1007888067510833152,
+          "url": "https://t.co/cWvrVWHUEp",
+          "indices": [
+            105,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007888065237520384",
+          "expanded_url": "https://twitter.com/CelticFC/status/1007888067510833152/photo/1",
+          "source_status_id_str": "1007888067510833152",
+          "media_url_https": "https://pbs.twimg.com/media/Dfy82vXWkAAOKCo.jpg",
+          "id": 1007888065237520384,
+          "source_user_id_str": "15203904"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "CelticFC",
+          "id_str": "15203904",
+          "name": "Celtic Football Club",
+          "id": 15203904
+        },
+        {
+          "indices": [
+            30,
+            40
+          ],
+          "screen_name": "Tom_Rogic",
+          "id_str": "1545005684",
+          "name": "Tom Rogic",
+          "id": 1545005684
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 33,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 51,
+      "description": "Republican,pro palestine,civil rights for all",
+      "created_at": "Fri May 13 08:40:10 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "belbhoy44",
+      "id_str": "297880732",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 297880732,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/297880732/1484947862",
+      "statuses_count": 438,
+      "follow_request_sent": null,
+      "followers_count": 15,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Sean",
+      "location": "Liverpool, England",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 19:14:18",
+    "current_time": 1529169258571,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/D5TyPv5WUP",
+          "source_user_id": 384951307,
+          "type": "animated_gif",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+          "source_status_id": 1007992046865481729,
+          "url": "https://t.co/D5TyPv5WUP",
+          "indices": [
+            66,
+            89
+          ],
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007991906050199552",
+          "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1",
+          "source_status_id_str": "1007992046865481729",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+          "id": 1007991906050199552,
+          "source_user_id_str": "384951307",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 0,
+                "url": "https://video.twimg.com/tweet_video/Df0bTEiXUAARSp5.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 17:14:18 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/D5TyPv5WUP",
+            "indices": [
+              53,
+              76
+            ],
+            "sizes": {
+              "small": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007991906050199552",
+            "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+            "id": 1007991906050199552,
+            "type": "animated_gif",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+            "url": "https://t.co/D5TyPv5WUP",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 0,
+                  "url": "https://video.twimg.com/tweet_video/Df0bTEiXUAARSp5.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 14:23:26 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 371,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007992046865481729",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1211,
+      "id": 1007992046865481729,
+      "text": "\"Can't touch this\" 😉\n\n#ARGISL #WorldCup #bbcworldcup https://t.co/D5TyPv5WUP",
+      "place": null,
+      "lang": "en",
+      "quote_count": 21,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 36,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              22,
+              29
+            ],
+            "text": "ARGISL"
+          },
+          {
+            "indices": [
+              30,
+              39
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              40,
+              52
+            ],
+            "text": "bbcworldcup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/D5TyPv5WUP",
+            "indices": [
+              53,
+              76
+            ],
+            "sizes": {
+              "small": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007991906050199552",
+            "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+            "id": 1007991906050199552,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+            "url": "https://t.co/D5TyPv5WUP"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        52
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 105,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg",
+        "listed_count": 4951,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 156,
+        "description": "@bbc football coverage on @BBCMOTD, @BBCSport and @bbc5live . Also follow @garylineker,@markchapman and @mrdanwalker.",
+        "created_at": "Tue Oct 04 16:26:35 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "BBCMOTD",
+        "id_str": "384951307",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 384951307,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.bbc.co.uk/football",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/384951307/1528721619",
+        "statuses_count": 80503,
+        "follow_request_sent": null,
+        "followers_count": 2614175,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Match of the Day",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008035047436320769",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008035047436320769,
+    "text": "RT @BBCMOTD: \"Can't touch this\" 😉\n\n#ARGISL #WorldCup #bbcworldcup https://t.co/D5TyPv5WUP",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529169258351",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            42
+          ],
+          "text": "ARGISL"
+        },
+        {
+          "indices": [
+            43,
+            52
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            53,
+            65
+          ],
+          "text": "bbcworldcup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/D5TyPv5WUP",
+          "source_user_id": 384951307,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+          "source_status_id": 1007992046865481729,
+          "url": "https://t.co/D5TyPv5WUP",
+          "indices": [
+            66,
+            89
+          ],
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007991906050199552",
+          "expanded_url": "https://twitter.com/BBCMOTD/status/1007992046865481729/photo/1",
+          "source_status_id_str": "1007992046865481729",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Df0bTEiXUAARSp5.jpg",
+          "id": 1007991906050199552,
+          "source_user_id_str": "384951307"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "BBCMOTD",
+          "id_str": "384951307",
+          "name": "Match of the Day",
+          "id": 384951307
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 33,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 52,
+      "description": "Republican,pro palestine,civil rights for all",
+      "created_at": "Fri May 13 08:40:10 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "belbhoy44",
+      "id_str": "297880732",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 297880732,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/297880732/1484947862",
+      "statuses_count": 443,
+      "follow_request_sent": null,
+      "followers_count": 15,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Sean",
+      "location": "Liverpool, England",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-17 08:32:15",
+    "current_time": 1529217135670,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 06:32:15 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/W3PtwrmxJf",
+            "indices": [
+              108,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008076680513105920",
+            "expanded_url": "https://twitter.com/BobProcterr/status/1008076733805944837/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg",
+            "id": 1008076680513105920,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg",
+            "url": "https://t.co/W3PtwrmxJf",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 5965,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/pl/j6Kp_IvYV34uwqJv.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/vid/640x360/KOLGMmbyR8e3V84f.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/vid/320x180/_SNkwP4voZI0f01x.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 2176000,
+                  "url": "https://video.twimg.com/ext_tw_video/1008076680513105920/pu/vid/1280x720/0BVrczlk6h-OV8dy.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 19:59:57 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 3707,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008076733805944837",
+      "in_reply_to_user_id": null,
+      "favorite_count": 11183,
+      "id": 1008076733805944837,
+      "text": "I'm convinced Roy Keane is going to kill Slavan Bilic if he keeps touching his shoulder 😂 #CRONGA #WorldCup https://t.co/W3PtwrmxJf",
+      "place": null,
+      "lang": "en",
+      "quote_count": 259,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 216,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              90,
+              97
+            ],
+            "text": "CRONGA"
+          },
+          {
+            "indices": [
+              98,
+              107
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/W3PtwrmxJf",
+            "indices": [
+              108,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008076680513105920",
+            "expanded_url": "https://twitter.com/BobProcterr/status/1008076733805944837/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg",
+            "id": 1008076680513105920,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1008076680513105920/pu/img/nZPd_QWi7xOkyI18.jpg",
+            "url": "https://t.co/W3PtwrmxJf"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        107
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 168,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007362210102939649/BnmMR9CL_normal.jpg",
+        "listed_count": 6,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 14231,
+        "description": "United",
+        "created_at": "Wed Jul 20 20:29:10 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "BobProcterr",
+        "id_str": "339252812",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 339252812,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007362210102939649/BnmMR9CL_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/339252812/1502233410",
+        "statuses_count": 8022,
+        "follow_request_sent": null,
+        "followers_count": 230,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "JP",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008235858309275649",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008235858309275649,
+    "text": "RT @BobProcterr: I'm convinced Roy Keane is going to kill Slavan Bilic if he keeps touching his shoulder 😂 #CRONGA #WorldCup https://t.co/W…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529217135394",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            107,
+            114
+          ],
+          "text": "CRONGA"
+        },
+        {
+          "indices": [
+            115,
+            124
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "BobProcterr",
+          "id_str": "339252812",
+          "name": "JP",
+          "id": 339252812
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 33,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 52,
+      "description": "Republican,pro palestine,civil rights for all",
+      "created_at": "Fri May 13 08:40:10 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "belbhoy44",
+      "id_str": "297880732",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 297880732,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/852604937473323008/iAudx6Rt_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/297880732/1484947862",
+      "statuses_count": 455,
+      "follow_request_sent": null,
+      "followers_count": 15,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Sean",
+      "location": "Liverpool, England",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

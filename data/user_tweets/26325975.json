@@ -1,6 +1,723 @@
-{"created_date": "2018-06-14 14:43:43", "current_time": 1528980223031, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 12:43:42 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/DxKJbZSRni", "indices": [117, 140], "sizes": {"small": {"w": 680, "h": 410, "resize": "fit"}, "large": {"w": 850, "h": 512, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 850, "h": 512, "resize": "fit"}}, "id_str": "1007239749097181184", "expanded_url": "https://twitter.com/LFC/status/1007240487248564225/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg", "id": 1007239749097181184, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg", "url": "https://t.co/DxKJbZSRni"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 12:37:00 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 512, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007240487248564225", "in_reply_to_user_id": null, "favorite_count": 1681, "id": 1007240487248564225, "text": "Mohamed Salah is set to play in Egypt's opening #WorldCup match against Uruguay tomorrow. \ud83d\ude4c\n\nhttps://t.co/Wf8aOfwtre https://t.co/DxKJbZSRni", "place": null, "lang": "en", "quote_count": 112, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 69, "entities": {"urls": [{"display_url": "lfc.tv/AHDh", "indices": [93, 116], "expanded_url": "http://lfc.tv/AHDh", "url": "https://t.co/Wf8aOfwtre"}], "hashtags": [{"indices": [48, 57], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/DxKJbZSRni", "indices": [117, 140], "sizes": {"small": {"w": 680, "h": 410, "resize": "fit"}, "large": {"w": 850, "h": 512, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 850, "h": 512, "resize": "fit"}}, "id_str": "1007239749097181184", "expanded_url": "https://twitter.com/LFC/status/1007240487248564225/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg", "id": 1007239749097181184, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg", "url": "https://t.co/DxKJbZSRni"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 116], "contributors": null, "user": {"utc_offset": null, "friends_count": 382984, "profile_image_url_https": "https://pbs.twimg.com/profile_images/985865116821458945/eZHXSXSG_normal.jpg", "listed_count": 22508, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5863, "description": "Official worldwide account of Liverpool FC. #LFC", "created_at": "Tue Jan 27 09:05:21 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "LFC", "id_str": "19583545", "profile_link_color": "B40B43", "translator_type": "none", "id": 19583545, "geo_enabled": true, "profile_background_color": "FAF5F7", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "CC0000", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/985865116821458945/eZHXSXSG_normal.jpg", "time_zone": null, "url": "http://www.liverpoolfc.com/", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/19583545/1528876902", "statuses_count": 72177, "follow_request_sent": null, "followers_count": 10424624, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Liverpool FC", "location": "Anfield, Liverpool", "profile_sidebar_fill_color": "FAFAFA", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007242175007117318", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007242175007117318, "text": "RT @LFC: Mohamed Salah is set to play in Egypt's opening #WorldCup match against Uruguay tomorrow. \ud83d\ude4c\n\nhttps://t.co/Wf8aOfwtre https://t.co/\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528980222833", "reply_count": 0, "entities": {"urls": [{"display_url": "lfc.tv/AHDh", "indices": [102, 125], "expanded_url": "http://lfc.tv/AHDh", "url": "https://t.co/Wf8aOfwtre"}], "hashtags": [{"indices": [57, 66], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 7], "screen_name": "LFC", "id_str": "19583545", "name": "Liverpool FC", "id": 19583545}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 519, "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "listed_count": 21, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1554, "description": "A True Champion Can Adapt To Anything", "created_at": "Tue Mar 24 21:14:48 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Kieran_Taylor86", "id_str": "26325975", "profile_link_color": "0084B4", "translator_type": "none", "id": 26325975, "geo_enabled": false, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745", "statuses_count": 56772, "follow_request_sent": null, "followers_count": 749, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kaniel Outis", "location": "Worldwide", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
-{"created_date": "2018-06-16 19:56:38", "current_time": 1529171798355, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 17:56:38 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008045699760521217", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008045699760521217, "text": "#Peru unlucky not to get something from this #WorldCup", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529171798063", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [0, 5], "text": "Peru"}, {"indices": [45, 54], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 519, "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "listed_count": 21, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1565, "description": "A True Champion Can Adapt To Anything", "created_at": "Tue Mar 24 21:14:48 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Kieran_Taylor86", "id_str": "26325975", "profile_link_color": "0084B4", "translator_type": "none", "id": 26325975, "geo_enabled": false, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745", "statuses_count": 56793, "follow_request_sent": null, "followers_count": 749, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kaniel Outis", "location": "Worldwide", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
-{"created_date": "2018-06-16 21:41:04", "current_time": 1529178064335, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 19:41:04 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008071981412114432", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008071981412114432, "text": "Rakitic and Modric are quality #WorldCup", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529178064097", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [31, 40], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 519, "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "listed_count": 21, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1565, "description": "A True Champion Can Adapt To Anything", "created_at": "Tue Mar 24 21:14:48 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Kieran_Taylor86", "id_str": "26325975", "profile_link_color": "0084B4", "translator_type": "none", "id": 26325975, "geo_enabled": false, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745", "statuses_count": 56794, "follow_request_sent": null, "followers_count": 749, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kaniel Outis", "location": "Worldwide", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
-{"created_date": "2018-06-14 19:47:59", "current_time": 1528998479909, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 17:47:59 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007318749836398592", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007318749836398592, "text": "How can they just 1 game us like that #WorldCup2018 Just as i got used to watching the football again", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528998479695", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [38, 51], "text": "WorldCup2018"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 519, "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "listed_count": 21, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1555, "description": "A True Champion Can Adapt To Anything", "created_at": "Tue Mar 24 21:14:48 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Kieran_Taylor86", "id_str": "26325975", "profile_link_color": "0084B4", "translator_type": "none", "id": 26325975, "geo_enabled": false, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745", "statuses_count": 56773, "follow_request_sent": null, "followers_count": 749, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kaniel Outis", "location": "Worldwide", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
-{"created_date": "2018-06-14 21:40:47", "current_time": 1529005247795, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 19:40:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007347136281894914", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007347136281894914, "text": "After the gap between the #WorldCup opening game and waiting for #LoveIsland has been painful", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529005247551", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [26, 35], "text": "WorldCup"}, {"indices": [65, 76], "text": "LoveIsland"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 519, "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "listed_count": 21, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1555, "description": "A True Champion Can Adapt To Anything", "created_at": "Tue Mar 24 21:14:48 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Kieran_Taylor86", "id_str": "26325975", "profile_link_color": "0084B4", "translator_type": "none", "id": 26325975, "geo_enabled": false, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745", "statuses_count": 56774, "follow_request_sent": null, "followers_count": 749, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kaniel Outis", "location": "Worldwide", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
-{"created_date": "2018-06-14 12:10:34", "current_time": 1528971034882, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 10:10:34 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007203636915638274", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007203636915638274, "text": "#PremierLeaguefixtures done and also it's #WorldCup 1st day couldn't get any better for a football fan", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528971034636", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [0, 22], "text": "PremierLeaguefixtures"}, {"indices": [42, 51], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 519, "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "listed_count": 21, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1554, "description": "A True Champion Can Adapt To Anything", "created_at": "Tue Mar 24 21:14:48 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Kieran_Taylor86", "id_str": "26325975", "profile_link_color": "0084B4", "translator_type": "none", "id": 26325975, "geo_enabled": false, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745", "statuses_count": 56771, "follow_request_sent": null, "followers_count": 749, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kaniel Outis", "location": "Worldwide", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 14:43:43",
+    "current_time": 1528980223031,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 12:43:42 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DxKJbZSRni",
+            "indices": [
+              117,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 410,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 850,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 850,
+                "h": 512,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007239749097181184",
+            "expanded_url": "https://twitter.com/LFC/status/1007240487248564225/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg",
+            "id": 1007239749097181184,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg",
+            "url": "https://t.co/DxKJbZSRni"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 12:37:00 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 512,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007240487248564225",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1681,
+      "id": 1007240487248564225,
+      "text": "Mohamed Salah is set to play in Egypt's opening #WorldCup match against Uruguay tomorrow. 🙌\n\nhttps://t.co/Wf8aOfwtre https://t.co/DxKJbZSRni",
+      "place": null,
+      "lang": "en",
+      "quote_count": 112,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 69,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "lfc.tv/AHDh",
+            "indices": [
+              93,
+              116
+            ],
+            "expanded_url": "http://lfc.tv/AHDh",
+            "url": "https://t.co/Wf8aOfwtre"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              48,
+              57
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DxKJbZSRni",
+            "indices": [
+              117,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 410,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 850,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 850,
+                "h": 512,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007239749097181184",
+            "expanded_url": "https://twitter.com/LFC/status/1007240487248564225/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg",
+            "id": 1007239749097181184,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfpvNxiXUAAHo15.jpg",
+            "url": "https://t.co/DxKJbZSRni"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        116
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 382984,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985865116821458945/eZHXSXSG_normal.jpg",
+        "listed_count": 22508,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 5863,
+        "description": "Official worldwide account of Liverpool FC. #LFC",
+        "created_at": "Tue Jan 27 09:05:21 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "LFC",
+        "id_str": "19583545",
+        "profile_link_color": "B40B43",
+        "translator_type": "none",
+        "id": 19583545,
+        "geo_enabled": true,
+        "profile_background_color": "FAF5F7",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "CC0000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985865116821458945/eZHXSXSG_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.liverpoolfc.com/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19583545/1528876902",
+        "statuses_count": 72177,
+        "follow_request_sent": null,
+        "followers_count": 10424624,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Liverpool FC",
+        "location": "Anfield, Liverpool",
+        "profile_sidebar_fill_color": "FAFAFA",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007242175007117318",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007242175007117318,
+    "text": "RT @LFC: Mohamed Salah is set to play in Egypt's opening #WorldCup match against Uruguay tomorrow. 🙌\n\nhttps://t.co/Wf8aOfwtre https://t.co/…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528980222833",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "lfc.tv/AHDh",
+          "indices": [
+            102,
+            125
+          ],
+          "expanded_url": "http://lfc.tv/AHDh",
+          "url": "https://t.co/Wf8aOfwtre"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            57,
+            66
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            7
+          ],
+          "screen_name": "LFC",
+          "id_str": "19583545",
+          "name": "Liverpool FC",
+          "id": 19583545
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 519,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "listed_count": 21,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1554,
+      "description": "A True Champion Can Adapt To Anything",
+      "created_at": "Tue Mar 24 21:14:48 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kieran_Taylor86",
+      "id_str": "26325975",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 26325975,
+      "geo_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745",
+      "statuses_count": 56772,
+      "follow_request_sent": null,
+      "followers_count": 749,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kaniel Outis",
+      "location": "Worldwide",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 19:56:38",
+    "current_time": 1529171798355,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 17:56:38 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008045699760521217",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008045699760521217,
+    "text": "#Peru unlucky not to get something from this #WorldCup",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529171798063",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "text": "Peru"
+        },
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 519,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "listed_count": 21,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1565,
+      "description": "A True Champion Can Adapt To Anything",
+      "created_at": "Tue Mar 24 21:14:48 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kieran_Taylor86",
+      "id_str": "26325975",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 26325975,
+      "geo_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745",
+      "statuses_count": 56793,
+      "follow_request_sent": null,
+      "followers_count": 749,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kaniel Outis",
+      "location": "Worldwide",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 21:41:04",
+    "current_time": 1529178064335,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 19:41:04 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008071981412114432",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008071981412114432,
+    "text": "Rakitic and Modric are quality #WorldCup",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529178064097",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            31,
+            40
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 519,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "listed_count": 21,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1565,
+      "description": "A True Champion Can Adapt To Anything",
+      "created_at": "Tue Mar 24 21:14:48 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kieran_Taylor86",
+      "id_str": "26325975",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 26325975,
+      "geo_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745",
+      "statuses_count": 56794,
+      "follow_request_sent": null,
+      "followers_count": 749,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kaniel Outis",
+      "location": "Worldwide",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 19:47:59",
+    "current_time": 1528998479909,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 17:47:59 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007318749836398592",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007318749836398592,
+    "text": "How can they just 1 game us like that #WorldCup2018 Just as i got used to watching the football again",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528998479695",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            38,
+            51
+          ],
+          "text": "WorldCup2018"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 519,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "listed_count": 21,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1555,
+      "description": "A True Champion Can Adapt To Anything",
+      "created_at": "Tue Mar 24 21:14:48 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kieran_Taylor86",
+      "id_str": "26325975",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 26325975,
+      "geo_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745",
+      "statuses_count": 56773,
+      "follow_request_sent": null,
+      "followers_count": 749,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kaniel Outis",
+      "location": "Worldwide",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 21:40:47",
+    "current_time": 1529005247795,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 19:40:47 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007347136281894914",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007347136281894914,
+    "text": "After the gap between the #WorldCup opening game and waiting for #LoveIsland has been painful",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529005247551",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            26,
+            35
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            65,
+            76
+          ],
+          "text": "LoveIsland"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 519,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "listed_count": 21,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1555,
+      "description": "A True Champion Can Adapt To Anything",
+      "created_at": "Tue Mar 24 21:14:48 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kieran_Taylor86",
+      "id_str": "26325975",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 26325975,
+      "geo_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745",
+      "statuses_count": 56774,
+      "follow_request_sent": null,
+      "followers_count": 749,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kaniel Outis",
+      "location": "Worldwide",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 12:10:34",
+    "current_time": 1528971034882,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:10:34 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007203636915638274",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007203636915638274,
+    "text": "#PremierLeaguefixtures done and also it's #WorldCup 1st day couldn't get any better for a football fan",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528971034636",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            22
+          ],
+          "text": "PremierLeaguefixtures"
+        },
+        {
+          "indices": [
+            42,
+            51
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 519,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "listed_count": 21,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1554,
+      "description": "A True Champion Can Adapt To Anything",
+      "created_at": "Tue Mar 24 21:14:48 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kieran_Taylor86",
+      "id_str": "26325975",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 26325975,
+      "geo_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/993511606796652544/6pnBCw_R_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26325975/1412098745",
+      "statuses_count": 56771,
+      "follow_request_sent": null,
+      "followers_count": 749,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kaniel Outis",
+      "location": "Worldwide",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  }
+]

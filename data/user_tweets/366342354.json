@@ -1,3 +1,933 @@
-{"created_date": "2018-06-15 22:47:46", "current_time": 1529095666452, "extended_entities": {"media": [{"display_url": "pic.twitter.com/9x83eUVdjx", "source_user_id": 595343731, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "source_status_id": 1007711276397748225, "url": "https://t.co/9x83eUVdjx", "indices": [97, 120], "sizes": {"small": {"w": 680, "h": 465, "resize": "fit"}, "large": {"w": 2048, "h": 1400, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 820, "resize": "fit"}}, "id_str": "1007711255233224705", "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1", "source_status_id_str": "1007711276397748225", "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "id": 1007711255233224705, "source_user_id_str": "595343731"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 20:47:46 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/9x83eUVdjx", "indices": [83, 106], "sizes": {"small": {"w": 680, "h": 465, "resize": "fit"}, "large": {"w": 2048, "h": 1400, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 820, "resize": "fit"}}, "id_str": "1007711255233224705", "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "id": 1007711255233224705, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "url": "https://t.co/9x83eUVdjx"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 19:47:45 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 3646, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007711276397748225", "in_reply_to_user_id": null, "favorite_count": 1683, "id": 1007711276397748225, "text": "RETWEET if you think Cristiano Ronaldo is the best player in the world.\n\n#WorldCup https://t.co/9x83eUVdjx", "place": null, "lang": "en", "quote_count": 78, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 62, "entities": {"urls": [], "hashtags": [{"indices": [73, 82], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/9x83eUVdjx", "indices": [83, 106], "sizes": {"small": {"w": 680, "h": 465, "resize": "fit"}, "large": {"w": 2048, "h": 1400, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 820, "resize": "fit"}}, "id_str": "1007711255233224705", "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "id": 1007711255233224705, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "url": "https://t.co/9x83eUVdjx"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 82], "contributors": null, "user": {"utc_offset": null, "friends_count": 286, "profile_image_url_https": "https://pbs.twimg.com/profile_images/798291870338125824/fAau31Ai_normal.jpg", "listed_count": 2144, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", "default_profile_image": false, "favourites_count": 73, "description": "Unofficial English Premier League page run by fans. Premier League news updates, stats & transfer news. (We don't claim to own any content that we post). 18+.", "created_at": "Thu May 31 09:35:07 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", "protected": false, "screen_name": "EPLBible", "id_str": "595343731", "profile_link_color": "3B94D9", "translator_type": "none", "id": 595343731, "geo_enabled": true, "profile_background_color": "EDECE9", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/798291870338125824/fAau31Ai_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/595343731/1505667454", "statuses_count": 16523, "follow_request_sent": null, "followers_count": 540063, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "World Cup", "location": "Barclaysbible@gmail.com", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007726379587301376", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007726379587301376, "text": "RT @EPLBible: RETWEET if you think Cristiano Ronaldo is the best player in the world.\n\n#WorldCup https://t.co/9x83eUVdjx", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529095666201", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [87, 96], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/9x83eUVdjx", "source_user_id": 595343731, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "source_status_id": 1007711276397748225, "url": "https://t.co/9x83eUVdjx", "indices": [97, 120], "sizes": {"small": {"w": 680, "h": 465, "resize": "fit"}, "large": {"w": 2048, "h": 1400, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 820, "resize": "fit"}}, "id_str": "1007711255233224705", "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1", "source_status_id_str": "1007711276397748225", "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg", "id": 1007711255233224705, "source_user_id_str": "595343731"}], "user_mentions": [{"indices": [3, 12], "screen_name": "EPLBible", "id_str": "595343731", "name": "World Cup", "id": 595343731}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 199, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2366, "description": "\u2022 Hamilton College '21 \u2022 IG:claireinzerillo \u2022 \ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8", "created_at": "Fri Sep 02 00:44:13 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ClaireInzerillo", "id_str": "366342354", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 366342354, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/366342354/1525445294", "statuses_count": 681, "follow_request_sent": null, "followers_count": 184, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Claire Inzerillo", "location": "Boston, MA", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 16:51:27", "current_time": 1528987887117, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 14:51:26 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/YISTeYFONt", "indices": [147, 170], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1500, "h": 1500, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007273734896541698", "expanded_url": "https://twitter.com/FCBayernEN/status/1007273829444530176/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg", "id": 1007273734896541698, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg", "url": "https://t.co/YISTeYFONt"}]}, "entities": {"urls": [], "hashtags": [{"indices": [19, 25], "text": "Klose"}, {"indices": [114, 123], "text": "WorldCup"}, {"indices": [124, 135], "text": "Russia2018"}, {"indices": [136, 146], "text": "MiaSanMia"}], "media": [{"display_url": "pic.twitter.com/YISTeYFONt", "indices": [147, 170], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1500, "h": 1500, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007273734896541698", "expanded_url": "https://twitter.com/FCBayernEN/status/1007273829444530176/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg", "id": 1007273734896541698, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg", "url": "https://t.co/YISTeYFONt"}], "user_mentions": [{"indices": [44, 56], "screen_name": "esmuellert_", "id_str": "1670174994", "name": "Thomas M\u00fcller", "id": 1670174994}, {"indices": [75, 91], "screen_name": "jamesdrodriguez", "id_str": "280701704", "name": "James Rodr\u00edguez", "id": 280701704}], "symbols": []}, "full_text": "2\u20e30\u20e30\u20e36\u20e3: Miroslav #Klose \n\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e30\u20e3: @esmuellert_ \n\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e34\u20e3: @jamesdrodriguez \n\u26bd\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e38\u20e3: \ud83e\udd14\n\n#WorldCup #Russia2018 #MiaSanMia https://t.co/YISTeYFONt", "display_text_range": [0, 146]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 14:49:29 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "retweet_count": 21, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007273829444530176", "in_reply_to_user_id": null, "favorite_count": 63, "id": 1007273829444530176, "text": "2\u20e30\u20e30\u20e36\u20e3: Miroslav #Klose \n\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e30\u20e3: @esmuellert_ \n\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e34\u20e3: @jamesdrodriguez \n\u26bd\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e38\u20e3: \ud83e\udd14\u2026 https://t.co/QdeBil9VjE", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 4, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [114, 137], "expanded_url": "https://twitter.com/i/web/status/1007273829444530176", "url": "https://t.co/QdeBil9VjE"}], "hashtags": [{"indices": [19, 25], "text": "Klose"}], "user_mentions": [{"indices": [44, 56], "screen_name": "esmuellert_", "id_str": "1670174994", "name": "Thomas M\u00fcller", "id": 1670174994}, {"indices": [75, 91], "screen_name": "jamesdrodriguez", "id_str": "280701704", "name": "James Rodr\u00edguez", "id": 280701704}], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 34, "profile_image_url_https": "https://pbs.twimg.com/profile_images/874168880993882112/CgMJsx1g_normal.jpg", "listed_count": 3415, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1316, "description": "Welcome to the official English #FCBayern M\u00fcnchen Twitter page! #MiaSanMia. Deutsch @FCBayern / Espa\u00f1ol @FCBayernES / US Fans @FCBayernUS / Arabic @FCBayernAR", "created_at": "Thu Oct 24 10:22:52 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "FCBayernEN", "id_str": "2152685876", "profile_link_color": "B30000", "translator_type": "none", "id": 2152685876, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/874168880993882112/CgMJsx1g_normal.jpg", "time_zone": null, "url": "http://www.fcbayern.de/en", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2152685876/1528124648", "statuses_count": 39591, "follow_request_sent": null, "followers_count": 920937, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "FC Bayern English", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007274320069038080", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007274320069038080, "text": "RT @FCBayernEN: 2\u20e30\u20e30\u20e36\u20e3: Miroslav #Klose \n\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e30\u20e3: @esmuellert_ \n\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e34\u20e3: @jamesdrodriguez \n\u26bd\u26bd\u26bd\u26bd\u26bd\u26bd\n\n2\u20e30\u20e31\u20e38\u20e3: \ud83e\udd14\n\n#WorldCup\u2026", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528987886813", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [35, 41], "text": "Klose"}, {"indices": [130, 139], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 14], "screen_name": "FCBayernEN", "id_str": "2152685876", "name": "FC Bayern English", "id": 2152685876}, {"indices": [60, 72], "screen_name": "esmuellert_", "id_str": "1670174994", "name": "Thomas M\u00fcller", "id": 1670174994}, {"indices": [91, 107], "screen_name": "jamesdrodriguez", "id_str": "280701704", "name": "James Rodr\u00edguez", "id": 280701704}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 199, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2358, "description": "\u2022 Hamilton College '21 \u2022 IG:claireinzerillo \u2022 \ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8", "created_at": "Fri Sep 02 00:44:13 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ClaireInzerillo", "id_str": "366342354", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 366342354, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/366342354/1525445294", "statuses_count": 679, "follow_request_sent": null, "followers_count": 183, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Claire Inzerillo", "location": "Boston, MA", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 18:32:04", "current_time": 1529080324564, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 16:32:04 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"entities": {"urls": [], "hashtags": [{"indices": [158, 162], "text": "mar"}, {"indices": [164, 168], "text": "irn"}, {"indices": [169, 178], "text": "worldcup"}], "user_mentions": [], "symbols": []}, "full_text": "You hear it, faintly at first. The hairs on the back of your neck rise, your pulse quickens, a bead of cold sweat falls down your brow. The vuvuzela is back. #mar\u2060 #irn #worldcup\u2060 \u2060", "display_text_range": [0, 181]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 15:20:09 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 59, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007643932648509440", "in_reply_to_user_id": null, "favorite_count": 108, "id": 1007643932648509440, "text": "You hear it, faintly at first. The hairs on the back of your neck rise, your pulse quickens, a bead of cold sweat f\u2026 https://t.co/WkNLUc0jPA", "place": null, "lang": "en", "quote_count": 5, "favorited": false, "coordinates": null, "truncated": true, "reply_count": 9, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1007643932648509440", "url": "https://t.co/WkNLUc0jPA"}], "hashtags": [], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 946, "profile_image_url_https": "https://pbs.twimg.com/profile_images/958288251370049536/88lS51I9_normal.jpg", "listed_count": 1537, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 7951, "description": "Football, boxing, UFC, cricket, NFL, darts, rugby and more. Created by @JOE_co_uk.", "created_at": "Thu Mar 07 19:06:26 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "SportsJOE_UK", "id_str": "1249836458", "profile_link_color": "FAB81E", "translator_type": "none", "id": 1249836458, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/958288251370049536/88lS51I9_normal.jpg", "time_zone": null, "url": "http://www.JOE.co.uk/sport", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249836458/1519637471", "statuses_count": 48266, "follow_request_sent": null, "followers_count": 354282, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "SportsJOE", "location": "United Kingdom", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007662031082749953", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007662031082749953, "text": "RT @SportsJOE_UK: You hear it, faintly at first. The hairs on the back of your neck rise, your pulse quickens, a bead of cold sweat falls d\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529080324322", "reply_count": 0, "entities": {"urls": [], "hashtags": [], "user_mentions": [{"indices": [3, 16], "screen_name": "SportsJOE_UK", "id_str": "1249836458", "name": "SportsJOE", "id": 1249836458}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 199, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2361, "description": "\u2022 Hamilton College '21 \u2022 IG:claireinzerillo \u2022 \ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8", "created_at": "Fri Sep 02 00:44:13 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ClaireInzerillo", "id_str": "366342354", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 366342354, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/366342354/1525445294", "statuses_count": 679, "follow_request_sent": null, "followers_count": 184, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Claire Inzerillo", "location": "Boston, MA", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-15 22:47:46",
+    "current_time": 1529095666452,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9x83eUVdjx",
+          "source_user_id": 595343731,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+          "source_status_id": 1007711276397748225,
+          "url": "https://t.co/9x83eUVdjx",
+          "indices": [
+            97,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 820,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007711255233224705",
+          "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1",
+          "source_status_id_str": "1007711276397748225",
+          "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+          "id": 1007711255233224705,
+          "source_user_id_str": "595343731"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 20:47:46 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9x83eUVdjx",
+            "indices": [
+              83,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 465,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 820,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007711255233224705",
+            "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+            "id": 1007711255233224705,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+            "url": "https://t.co/9x83eUVdjx"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 19:47:45 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 3646,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007711276397748225",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1683,
+      "id": 1007711276397748225,
+      "text": "RETWEET if you think Cristiano Ronaldo is the best player in the world.\n\n#WorldCup https://t.co/9x83eUVdjx",
+      "place": null,
+      "lang": "en",
+      "quote_count": 78,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 62,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              73,
+              82
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9x83eUVdjx",
+            "indices": [
+              83,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 465,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 820,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007711255233224705",
+            "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+            "id": 1007711255233224705,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+            "url": "https://t.co/9x83eUVdjx"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        82
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 286,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/798291870338125824/fAau31Ai_normal.jpg",
+        "listed_count": 2144,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 73,
+        "description": "Unofficial English Premier League page run by fans. Premier League news updates, stats & transfer news. (We don't claim to own any content that we post). 18+.",
+        "created_at": "Thu May 31 09:35:07 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "protected": false,
+        "screen_name": "EPLBible",
+        "id_str": "595343731",
+        "profile_link_color": "3B94D9",
+        "translator_type": "none",
+        "id": 595343731,
+        "geo_enabled": true,
+        "profile_background_color": "EDECE9",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/798291870338125824/fAau31Ai_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/595343731/1505667454",
+        "statuses_count": 16523,
+        "follow_request_sent": null,
+        "followers_count": 540063,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "World Cup",
+        "location": "Barclaysbible@gmail.com",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007726379587301376",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007726379587301376,
+    "text": "RT @EPLBible: RETWEET if you think Cristiano Ronaldo is the best player in the world.\n\n#WorldCup https://t.co/9x83eUVdjx",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529095666201",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            87,
+            96
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9x83eUVdjx",
+          "source_user_id": 595343731,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+          "source_status_id": 1007711276397748225,
+          "url": "https://t.co/9x83eUVdjx",
+          "indices": [
+            97,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 820,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007711255233224705",
+          "expanded_url": "https://twitter.com/EPLBible/status/1007711276397748225/photo/1",
+          "source_status_id_str": "1007711276397748225",
+          "media_url_https": "https://pbs.twimg.com/media/DfwcDCxW4AEwXPH.jpg",
+          "id": 1007711255233224705,
+          "source_user_id_str": "595343731"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "EPLBible",
+          "id_str": "595343731",
+          "name": "World Cup",
+          "id": 595343731
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 199,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2366,
+      "description": "• Hamilton College '21 • IG:claireinzerillo • 🇨🇴🇺🇸",
+      "created_at": "Fri Sep 02 00:44:13 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ClaireInzerillo",
+      "id_str": "366342354",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 366342354,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/366342354/1525445294",
+      "statuses_count": 681,
+      "follow_request_sent": null,
+      "followers_count": 184,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Claire Inzerillo",
+      "location": "Boston, MA",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 16:51:27",
+    "current_time": 1528987887117,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 14:51:26 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/YISTeYFONt",
+              "indices": [
+                147,
+                170
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1500,
+                  "h": 1500,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007273734896541698",
+              "expanded_url": "https://twitter.com/FCBayernEN/status/1007273829444530176/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg",
+              "id": 1007273734896541698,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg",
+              "url": "https://t.co/YISTeYFONt"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                19,
+                25
+              ],
+              "text": "Klose"
+            },
+            {
+              "indices": [
+                114,
+                123
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                124,
+                135
+              ],
+              "text": "Russia2018"
+            },
+            {
+              "indices": [
+                136,
+                146
+              ],
+              "text": "MiaSanMia"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/YISTeYFONt",
+              "indices": [
+                147,
+                170
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1500,
+                  "h": 1500,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007273734896541698",
+              "expanded_url": "https://twitter.com/FCBayernEN/status/1007273829444530176/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg",
+              "id": 1007273734896541698,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqOIAgW4AIs3Au.jpg",
+              "url": "https://t.co/YISTeYFONt"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                44,
+                56
+              ],
+              "screen_name": "esmuellert_",
+              "id_str": "1670174994",
+              "name": "Thomas Müller",
+              "id": 1670174994
+            },
+            {
+              "indices": [
+                75,
+                91
+              ],
+              "screen_name": "jamesdrodriguez",
+              "id_str": "280701704",
+              "name": "James Rodríguez",
+              "id": 280701704
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "2⃣0⃣0⃣6⃣: Miroslav #Klose \n⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣0⃣: @esmuellert_ \n⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣4⃣: @jamesdrodriguez \n⚽⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣8⃣: 🤔\n\n#WorldCup #Russia2018 #MiaSanMia https://t.co/YISTeYFONt",
+        "display_text_range": [
+          0,
+          146
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 14:49:29 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 21,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007273829444530176",
+      "in_reply_to_user_id": null,
+      "favorite_count": 63,
+      "id": 1007273829444530176,
+      "text": "2⃣0⃣0⃣6⃣: Miroslav #Klose \n⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣0⃣: @esmuellert_ \n⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣4⃣: @jamesdrodriguez \n⚽⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣8⃣: 🤔… https://t.co/QdeBil9VjE",
+      "place": null,
+      "lang": "und",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 4,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007273829444530176",
+            "url": "https://t.co/QdeBil9VjE"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              25
+            ],
+            "text": "Klose"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              44,
+              56
+            ],
+            "screen_name": "esmuellert_",
+            "id_str": "1670174994",
+            "name": "Thomas Müller",
+            "id": 1670174994
+          },
+          {
+            "indices": [
+              75,
+              91
+            ],
+            "screen_name": "jamesdrodriguez",
+            "id_str": "280701704",
+            "name": "James Rodríguez",
+            "id": 280701704
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 34,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874168880993882112/CgMJsx1g_normal.jpg",
+        "listed_count": 3415,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1316,
+        "description": "Welcome to the official English #FCBayern München Twitter page! #MiaSanMia. Deutsch @FCBayern / Español @FCBayernES / US Fans @FCBayernUS / Arabic @FCBayernAR",
+        "created_at": "Thu Oct 24 10:22:52 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "FCBayernEN",
+        "id_str": "2152685876",
+        "profile_link_color": "B30000",
+        "translator_type": "none",
+        "id": 2152685876,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874168880993882112/CgMJsx1g_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.fcbayern.de/en",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2152685876/1528124648",
+        "statuses_count": 39591,
+        "follow_request_sent": null,
+        "followers_count": 920937,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "FC Bayern English",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007274320069038080",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007274320069038080,
+    "text": "RT @FCBayernEN: 2⃣0⃣0⃣6⃣: Miroslav #Klose \n⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣0⃣: @esmuellert_ \n⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣4⃣: @jamesdrodriguez \n⚽⚽⚽⚽⚽⚽\n\n2⃣0⃣1⃣8⃣: 🤔\n\n#WorldCup…",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528987886813",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            41
+          ],
+          "text": "Klose"
+        },
+        {
+          "indices": [
+            130,
+            139
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "FCBayernEN",
+          "id_str": "2152685876",
+          "name": "FC Bayern English",
+          "id": 2152685876
+        },
+        {
+          "indices": [
+            60,
+            72
+          ],
+          "screen_name": "esmuellert_",
+          "id_str": "1670174994",
+          "name": "Thomas Müller",
+          "id": 1670174994
+        },
+        {
+          "indices": [
+            91,
+            107
+          ],
+          "screen_name": "jamesdrodriguez",
+          "id_str": "280701704",
+          "name": "James Rodríguez",
+          "id": 280701704
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 199,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2358,
+      "description": "• Hamilton College '21 • IG:claireinzerillo • 🇨🇴🇺🇸",
+      "created_at": "Fri Sep 02 00:44:13 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ClaireInzerillo",
+      "id_str": "366342354",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 366342354,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/366342354/1525445294",
+      "statuses_count": 679,
+      "follow_request_sent": null,
+      "followers_count": 183,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Claire Inzerillo",
+      "location": "Boston, MA",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 18:32:04",
+    "current_time": 1529080324564,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 16:32:04 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                158,
+                162
+              ],
+              "text": "mar"
+            },
+            {
+              "indices": [
+                164,
+                168
+              ],
+              "text": "irn"
+            },
+            {
+              "indices": [
+                169,
+                178
+              ],
+              "text": "worldcup"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "You hear it, faintly at first. The hairs on the back of your neck rise, your pulse quickens, a bead of cold sweat falls down your brow. The vuvuzela is back. #mar⁠ #irn #worldcup⁠ ⁠",
+        "display_text_range": [
+          0,
+          181
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 15:20:09 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 59,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007643932648509440",
+      "in_reply_to_user_id": null,
+      "favorite_count": 108,
+      "id": 1007643932648509440,
+      "text": "You hear it, faintly at first. The hairs on the back of your neck rise, your pulse quickens, a bead of cold sweat f… https://t.co/WkNLUc0jPA",
+      "place": null,
+      "lang": "en",
+      "quote_count": 5,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 9,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007643932648509440",
+            "url": "https://t.co/WkNLUc0jPA"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 946,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958288251370049536/88lS51I9_normal.jpg",
+        "listed_count": 1537,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 7951,
+        "description": "Football, boxing, UFC, cricket, NFL, darts, rugby and more. Created by @JOE_co_uk.",
+        "created_at": "Thu Mar 07 19:06:26 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "SportsJOE_UK",
+        "id_str": "1249836458",
+        "profile_link_color": "FAB81E",
+        "translator_type": "none",
+        "id": 1249836458,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958288251370049536/88lS51I9_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.JOE.co.uk/sport",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249836458/1519637471",
+        "statuses_count": 48266,
+        "follow_request_sent": null,
+        "followers_count": 354282,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "SportsJOE",
+        "location": "United Kingdom",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007662031082749953",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007662031082749953,
+    "text": "RT @SportsJOE_UK: You hear it, faintly at first. The hairs on the back of your neck rise, your pulse quickens, a bead of cold sweat falls d…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529080324322",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "SportsJOE_UK",
+          "id_str": "1249836458",
+          "name": "SportsJOE",
+          "id": 1249836458
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 199,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2361,
+      "description": "• Hamilton College '21 • IG:claireinzerillo • 🇨🇴🇺🇸",
+      "created_at": "Fri Sep 02 00:44:13 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ClaireInzerillo",
+      "id_str": "366342354",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 366342354,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005200740745392128/ZOxa5QWI_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/366342354/1525445294",
+      "statuses_count": 679,
+      "follow_request_sent": null,
+      "followers_count": 184,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Claire Inzerillo",
+      "location": "Boston, MA",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

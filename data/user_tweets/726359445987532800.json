@@ -1,1 +1,402 @@
-{"created_date": "2018-06-16 13:01:38", "current_time": 1529146898350, "extended_entities": {"media": [{"display_url": "pic.twitter.com/fywgK6hwEy", "source_user_id": 3436726391, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "source_status_id": 1007717805406478337, "url": "https://t.co/fywgK6hwEy", "indices": [59, 82], "sizes": {"small": {"w": 590, "h": 476, "resize": "fit"}, "large": {"w": 590, "h": 476, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 590, "h": 476, "resize": "fit"}}, "id_str": "1007717602754465792", "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1", "source_status_id_str": "1007717805406478337", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "id": 1007717602754465792, "source_user_id_str": "3436726391", "video_info": {"aspect_ratio": [295, 238], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/Dfwh0hIWkAAYXLi.mp4"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 11:01:38 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/fywgK6hwEy", "indices": [39, 62], "sizes": {"small": {"w": 590, "h": 476, "resize": "fit"}, "large": {"w": 590, "h": 476, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 590, "h": 476, "resize": "fit"}}, "id_str": "1007717602754465792", "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "id": 1007717602754465792, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "url": "https://t.co/fywgK6hwEy", "video_info": {"aspect_ratio": [295, 238], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/Dfwh0hIWkAAYXLi.mp4"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 20:13:41 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 6881, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007717805406478337", "in_reply_to_user_id": null, "favorite_count": 8022, "id": 1007717805406478337, "text": "\u2764\ufe0f #PORESP #WorldCup #CristianoRonaldo https://t.co/fywgK6hwEy", "place": null, "lang": "und", "quote_count": 276, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 106, "entities": {"urls": [], "hashtags": [{"indices": [3, 10], "text": "PORESP"}, {"indices": [11, 20], "text": "WorldCup"}, {"indices": [21, 38], "text": "CristianoRonaldo"}], "media": [{"display_url": "pic.twitter.com/fywgK6hwEy", "indices": [39, 62], "sizes": {"small": {"w": 590, "h": 476, "resize": "fit"}, "large": {"w": 590, "h": 476, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 590, "h": 476, "resize": "fit"}}, "id_str": "1007717602754465792", "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "id": 1007717602754465792, "type": "photo", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "url": "https://t.co/fywgK6hwEy"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 38], "contributors": null, "user": {"utc_offset": null, "friends_count": 651, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006908823939047424/BbGkNZGr_normal.jpg", "listed_count": 114, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 29505, "description": "eu sou a onda", "created_at": "Sun Aug 23 13:48:54 +0000 2015", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "insoniascarvao", "id_str": "3436726391", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 3436726391, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006908823939047424/BbGkNZGr_normal.jpg", "time_zone": null, "url": "http://www.facebook.com/insoniascarvao", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/3436726391/1469017306", "statuses_count": 21330, "follow_request_sent": null, "followers_count": 23164, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Ins\u00f3nias em Carv\u00e3o", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007941261758738433", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007941261758738433, "text": "RT @insoniascarvao: \u2764\ufe0f #PORESP #WorldCup #CristianoRonaldo https://t.co/fywgK6hwEy", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529146898103", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [23, 30], "text": "PORESP"}, {"indices": [31, 40], "text": "WorldCup"}, {"indices": [41, 58], "text": "CristianoRonaldo"}], "media": [{"display_url": "pic.twitter.com/fywgK6hwEy", "source_user_id": 3436726391, "type": "photo", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "source_status_id": 1007717805406478337, "url": "https://t.co/fywgK6hwEy", "indices": [59, 82], "sizes": {"small": {"w": 590, "h": 476, "resize": "fit"}, "large": {"w": 590, "h": 476, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 590, "h": 476, "resize": "fit"}}, "id_str": "1007717602754465792", "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1", "source_status_id_str": "1007717805406478337", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg", "id": 1007717602754465792, "source_user_id_str": "3436726391"}], "user_mentions": [{"indices": [3, 18], "screen_name": "insoniascarvao", "id_str": "3436726391", "name": "Ins\u00f3nias em Carv\u00e3o", "id": 3436726391}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 77, "profile_image_url_https": "https://pbs.twimg.com/profile_images/983020995849150465/20v4gO-2_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 69, "description": "with you", "created_at": "Sat Apr 30 10:36:01 +0000 2016", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "hacds_", "id_str": "726359445987532800", "profile_link_color": "FAB81E", "translator_type": "none", "id": 726359445987532800, "geo_enabled": false, "profile_background_color": "000000", "lang": "pt", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/983020995849150465/20v4gO-2_normal.jpg", "time_zone": null, "url": "http://Instagram.com/hacds_", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/726359445987532800/1528634232", "statuses_count": 223, "follow_request_sent": null, "followers_count": 18, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "hugo", "location": "Coimbra, Portugal", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 13:01:38",
+    "current_time": 1529146898350,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fywgK6hwEy",
+          "source_user_id": 3436726391,
+          "type": "animated_gif",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+          "source_status_id": 1007717805406478337,
+          "url": "https://t.co/fywgK6hwEy",
+          "indices": [
+            59,
+            82
+          ],
+          "sizes": {
+            "small": {
+              "w": 590,
+              "h": 476,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 590,
+              "h": 476,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 590,
+              "h": 476,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007717602754465792",
+          "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1",
+          "source_status_id_str": "1007717805406478337",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+          "id": 1007717602754465792,
+          "source_user_id_str": "3436726391",
+          "video_info": {
+            "aspect_ratio": [
+              295,
+              238
+            ],
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 0,
+                "url": "https://video.twimg.com/tweet_video/Dfwh0hIWkAAYXLi.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 11:01:38 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/fywgK6hwEy",
+            "indices": [
+              39,
+              62
+            ],
+            "sizes": {
+              "small": {
+                "w": 590,
+                "h": 476,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 590,
+                "h": 476,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 590,
+                "h": 476,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007717602754465792",
+            "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+            "id": 1007717602754465792,
+            "type": "animated_gif",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+            "url": "https://t.co/fywgK6hwEy",
+            "video_info": {
+              "aspect_ratio": [
+                295,
+                238
+              ],
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 0,
+                  "url": "https://video.twimg.com/tweet_video/Dfwh0hIWkAAYXLi.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 20:13:41 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 6881,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007717805406478337",
+      "in_reply_to_user_id": null,
+      "favorite_count": 8022,
+      "id": 1007717805406478337,
+      "text": "❤️ #PORESP #WorldCup #CristianoRonaldo https://t.co/fywgK6hwEy",
+      "place": null,
+      "lang": "und",
+      "quote_count": 276,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 106,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              3,
+              10
+            ],
+            "text": "PORESP"
+          },
+          {
+            "indices": [
+              11,
+              20
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              21,
+              38
+            ],
+            "text": "CristianoRonaldo"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/fywgK6hwEy",
+            "indices": [
+              39,
+              62
+            ],
+            "sizes": {
+              "small": {
+                "w": 590,
+                "h": 476,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 590,
+                "h": 476,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 590,
+                "h": 476,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007717602754465792",
+            "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+            "id": 1007717602754465792,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+            "url": "https://t.co/fywgK6hwEy"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        38
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 651,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006908823939047424/BbGkNZGr_normal.jpg",
+        "listed_count": 114,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 29505,
+        "description": "eu sou a onda",
+        "created_at": "Sun Aug 23 13:48:54 +0000 2015",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "insoniascarvao",
+        "id_str": "3436726391",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 3436726391,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006908823939047424/BbGkNZGr_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.facebook.com/insoniascarvao",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3436726391/1469017306",
+        "statuses_count": 21330,
+        "follow_request_sent": null,
+        "followers_count": 23164,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Insónias em Carvão",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007941261758738433",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007941261758738433,
+    "text": "RT @insoniascarvao: ❤️ #PORESP #WorldCup #CristianoRonaldo https://t.co/fywgK6hwEy",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529146898103",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            23,
+            30
+          ],
+          "text": "PORESP"
+        },
+        {
+          "indices": [
+            31,
+            40
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            41,
+            58
+          ],
+          "text": "CristianoRonaldo"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fywgK6hwEy",
+          "source_user_id": 3436726391,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+          "source_status_id": 1007717805406478337,
+          "url": "https://t.co/fywgK6hwEy",
+          "indices": [
+            59,
+            82
+          ],
+          "sizes": {
+            "small": {
+              "w": 590,
+              "h": 476,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 590,
+              "h": 476,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 590,
+              "h": 476,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007717602754465792",
+          "expanded_url": "https://twitter.com/insoniascarvao/status/1007717805406478337/photo/1",
+          "source_status_id_str": "1007717805406478337",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfwh0hIWkAAYXLi.jpg",
+          "id": 1007717602754465792,
+          "source_user_id_str": "3436726391"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "insoniascarvao",
+          "id_str": "3436726391",
+          "name": "Insónias em Carvão",
+          "id": 3436726391
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 77,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/983020995849150465/20v4gO-2_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 69,
+      "description": "with you",
+      "created_at": "Sat Apr 30 10:36:01 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "hacds_",
+      "id_str": "726359445987532800",
+      "profile_link_color": "FAB81E",
+      "translator_type": "none",
+      "id": 726359445987532800,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "pt",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/983020995849150465/20v4gO-2_normal.jpg",
+      "time_zone": null,
+      "url": "http://Instagram.com/hacds_",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/726359445987532800/1528634232",
+      "statuses_count": 223,
+      "follow_request_sent": null,
+      "followers_count": 18,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "hugo",
+      "location": "Coimbra, Portugal",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

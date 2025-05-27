@@ -1,7 +1,2865 @@
-{"created_date": "2018-06-17 02:10:57", "current_time": 1529194257022, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 00:10:56 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/ERkF5nSxfh", "indices": [142, 165], "sizes": {"small": {"w": 640, "h": 360, "resize": "fit"}, "large": {"w": 640, "h": 360, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 640, "h": 360, "resize": "fit"}}, "id_str": "1007807878047129600", "expanded_url": "https://twitter.com/SurajHansal/status/1007809461128515584/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg", "id": 1007807878047129600, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg", "url": "https://t.co/ERkF5nSxfh", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 55802, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/640x360/dQ9oNk9mK5MoSQ-7.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/320x180/PY7KzzA-hqBmn4WN.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/pl/NrGWeyc6otgkZiuo.m3u8?tag=3"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [106, 115], "text": "Portugal"}, {"indices": [127, 136], "text": "WorldCup"}, {"indices": [137, 141], "text": "POR"}], "media": [{"display_url": "pic.twitter.com/ERkF5nSxfh", "indices": [142, 165], "sizes": {"small": {"w": 640, "h": 360, "resize": "fit"}, "large": {"w": 640, "h": 360, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 640, "h": 360, "resize": "fit"}}, "id_str": "1007807878047129600", "expanded_url": "https://twitter.com/SurajHansal/status/1007809461128515584/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg", "id": 1007807878047129600, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg", "url": "https://t.co/ERkF5nSxfh", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 55802, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/640x360/dQ9oNk9mK5MoSQ-7.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/320x180/PY7KzzA-hqBmn4WN.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/pl/NrGWeyc6otgkZiuo.m3u8?tag=3"}]}}], "user_mentions": [{"indices": [116, 126], "screen_name": "Cristiano", "id_str": "155659213", "name": "Cristiano Ronaldo", "id": 155659213}], "symbols": []}, "full_text": "Watch this Cristiano Ronaldo's third goal against Spain. Portuguese commentary is Amazing. GOAL GOAL GOAL #Portugal @Cristiano #WorldCup #POR https://t.co/ERkF5nSxfh", "display_text_range": [0, 141]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 02:17:54 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 307, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007809461128515584", "in_reply_to_user_id": null, "favorite_count": 443, "id": 1007809461128515584, "text": "Watch this Cristiano Ronaldo's third goal against Spain. Portuguese commentary is Amazing. GOAL GOAL GOAL #Portugal\u2026 https://t.co/f5ffDJdXdY", "place": null, "lang": "en", "quote_count": 53, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 11, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1007809461128515584", "url": "https://t.co/f5ffDJdXdY"}], "hashtags": [{"indices": [106, 115], "text": "Portugal"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 8979, "profile_image_url_https": "https://pbs.twimg.com/profile_images/779836411289735168/y068uMuQ_normal.jpg", "listed_count": 32, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 341, "description": "I'm an entrepreneur #Days #Dool #DiMera #YR", "created_at": "Mon Jul 11 23:10:23 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "SurajHansal", "id_str": "333697997", "profile_link_color": "A6A197", "translator_type": "none", "id": 333697997, "geo_enabled": true, "profile_background_color": "EFE8CB", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "C7BCA0", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/779836411289735168/y068uMuQ_normal.jpg", "time_zone": null, "url": "http://www.nbc.com/days-of-our-lives", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/333697997/1395194525", "statuses_count": 7242, "follow_request_sent": null, "followers_count": 24282, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Suraj Hansal", "location": "Toronto, Ontario ", "profile_sidebar_fill_color": "251F17", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008139898451156993", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008139898451156993, "text": "RT @SurajHansal: Watch this Cristiano Ronaldo's third goal against Spain. Portuguese commentary is Amazing. GOAL GOAL GOAL #Portugal @Crist\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529194256781", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [123, 132], "text": "Portugal"}], "user_mentions": [{"indices": [3, 15], "screen_name": "SurajHansal", "id_str": "333697997", "name": "Suraj Hansal", "id": 333697997}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5774, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8571, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 14:19:45", "current_time": 1529065185901, "extended_entities": {"media": [{"display_url": "pic.twitter.com/90i3ZUNY2Z", "source_user_id": 1285874648, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "source_status_id": 1007326643243880448, "url": "https://t.co/90i3ZUNY2Z", "indices": [30, 53], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 722, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 722, "h": 480, "resize": "fit"}}, "id_str": "1007326636201660416", "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1", "source_status_id_str": "1007326643243880448", "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "id": 1007326636201660416, "source_user_id_str": "1285874648"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 12:19:45 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/90i3ZUNY2Z", "indices": [13, 36], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 722, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 722, "h": 480, "resize": "fit"}}, "id_str": "1007326636201660416", "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "id": 1007326636201660416, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "url": "https://t.co/90i3ZUNY2Z"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 18:19:21 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", "retweet_count": 72, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007326643243880448", "in_reply_to_user_id": null, "favorite_count": 52, "id": 1007326643243880448, "text": "\ud83c\udf1a\ud83d\ude02 #WorldCup https://t.co/90i3ZUNY2Z", "place": null, "lang": "und", "quote_count": 1, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [3, 12], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/90i3ZUNY2Z", "indices": [13, 36], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 722, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 722, "h": 480, "resize": "fit"}}, "id_str": "1007326636201660416", "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "id": 1007326636201660416, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "url": "https://t.co/90i3ZUNY2Z"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 12], "contributors": null, "user": {"utc_offset": null, "friends_count": 279, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006896601426747392/Eea8RC2u_normal.jpg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 2726, "description": "Of course it happened inside your head, but why on earth should that mean that it is not real ?", "created_at": "Thu Mar 21 12:36:33 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "Rania_Elhag", "id_str": "1285874648", "profile_link_color": "9266CC", "translator_type": "none", "id": 1285874648, "geo_enabled": true, "profile_background_color": "131516", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006896601426747392/Eea8RC2u_normal.jpg", "time_zone": null, "url": "http://bzfd.it/2i7q5jM", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285874648/1528933652", "statuses_count": 3259, "follow_request_sent": null, "followers_count": 1672, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "FOUR \u25b3\u20d2\u20d8", "location": "Hogwarts \u26a1\ufe0f", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007598534823051271", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007598534823051271, "text": "RT @Rania_Elhag: \ud83c\udf1a\ud83d\ude02 #WorldCup https://t.co/90i3ZUNY2Z", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529065185634", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [20, 29], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/90i3ZUNY2Z", "source_user_id": 1285874648, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "source_status_id": 1007326643243880448, "url": "https://t.co/90i3ZUNY2Z", "indices": [30, 53], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 722, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 722, "h": 480, "resize": "fit"}}, "id_str": "1007326636201660416", "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1", "source_status_id_str": "1007326643243880448", "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg", "id": 1007326636201660416, "source_user_id_str": "1285874648"}], "user_mentions": [{"indices": [3, 15], "screen_name": "Rania_Elhag", "id_str": "1285874648", "name": "FOUR \u25b3\u20d2\u20d8", "id": 1285874648}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5648, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8230, "follow_request_sent": null, "followers_count": 29, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 14:29:44", "current_time": 1529065784129, "extended_entities": {"media": [{"display_url": "pic.twitter.com/kBUUzqsQrW", "source_user_id": 2507992141, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "source_status_id": 1007325782086180864, "url": "https://t.co/kBUUzqsQrW", "indices": [116, 139], "sizes": {"small": {"w": 680, "h": 661, "resize": "fit"}, "large": {"w": 1800, "h": 1750, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1167, "resize": "fit"}}, "id_str": "1007325741955108865", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "source_status_id_str": "1007325782086180864", "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "id": 1007325741955108865, "source_user_id_str": "2507992141"}, {"display_url": "pic.twitter.com/kBUUzqsQrW", "source_user_id": 2507992141, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg", "source_status_id": 1007325782086180864, "url": "https://t.co/kBUUzqsQrW", "indices": [116, 139], "sizes": {"small": {"w": 680, "h": 444, "resize": "fit"}, "large": {"w": 1930, "h": 1260, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 783, "resize": "fit"}}, "id_str": "1007325760598761472", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "source_status_id_str": "1007325782086180864", "media_url_https": "https://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg", "id": 1007325760598761472, "source_user_id_str": "2507992141"}, {"display_url": "pic.twitter.com/kBUUzqsQrW", "source_user_id": 2507992141, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg", "source_status_id": 1007325782086180864, "url": "https://t.co/kBUUzqsQrW", "indices": [116, 139], "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 1199, "h": 1600, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 899, "h": 1200, "resize": "fit"}}, "id_str": "1007325771176841222", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "source_status_id_str": "1007325782086180864", "media_url_https": "https://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg", "id": 1007325771176841222, "source_user_id_str": "2507992141"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 12:29:43 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/kBUUzqsQrW", "indices": [95, 118], "sizes": {"small": {"w": 680, "h": 661, "resize": "fit"}, "large": {"w": 1800, "h": 1750, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1167, "resize": "fit"}}, "id_str": "1007325741955108865", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "id": 1007325741955108865, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "url": "https://t.co/kBUUzqsQrW"}, {"display_url": "pic.twitter.com/kBUUzqsQrW", "indices": [95, 118], "sizes": {"small": {"w": 680, "h": 444, "resize": "fit"}, "large": {"w": 1930, "h": 1260, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 783, "resize": "fit"}}, "id_str": "1007325760598761472", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg", "id": 1007325760598761472, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg", "url": "https://t.co/kBUUzqsQrW"}, {"display_url": "pic.twitter.com/kBUUzqsQrW", "indices": [95, 118], "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 1199, "h": 1600, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 899, "h": 1200, "resize": "fit"}}, "id_str": "1007325771176841222", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg", "id": 1007325771176841222, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg", "url": "https://t.co/kBUUzqsQrW"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 18:15:56 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 61, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007325782086180864", "in_reply_to_user_id": null, "favorite_count": 134, "id": 1007325782086180864, "text": "#WorldCup Manchester United players are in #Russia2018: \ud83d\udd34\n#BEL Lukaku\n#ENG Rashford\n#FRA Pogba https://t.co/kBUUzqsQrW", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [0, 9], "text": "WorldCup"}, {"indices": [43, 54], "text": "Russia2018"}, {"indices": [58, 62], "text": "BEL"}, {"indices": [70, 74], "text": "ENG"}, {"indices": [84, 88], "text": "FRA"}], "media": [{"display_url": "pic.twitter.com/kBUUzqsQrW", "indices": [95, 118], "sizes": {"small": {"w": 680, "h": 661, "resize": "fit"}, "large": {"w": 1800, "h": 1750, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1167, "resize": "fit"}}, "id_str": "1007325741955108865", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "id": 1007325741955108865, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "url": "https://t.co/kBUUzqsQrW"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 94], "contributors": null, "user": {"utc_offset": null, "friends_count": 2879, "profile_image_url_https": "https://pbs.twimg.com/profile_images/916423242843414540/gScEVkz2_normal.jpg", "listed_count": 32, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 33489, "description": "Snapchat: Omoladebadmus21\r\nOmoladebadmus9@gmail.com \nLife travel, lifestyle & experience\nMy life & future is all about my team Man United #MUFC #ManUtd \ud83d\udd34\ud83d\udd34\ud83c\udf1f\u26bd", "created_at": "Mon May 19 17:25:29 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "OmoladeBadmus21", "id_str": "2507992141", "profile_link_color": "F7081C", "translator_type": "none", "id": 2507992141, "geo_enabled": true, "profile_background_color": "8B542B", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/916423242843414540/gScEVkz2_normal.jpg", "time_zone": null, "url": "http://Instagram.com/Omoladebadmus21", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2507992141/1523214072", "statuses_count": 43448, "follow_request_sent": null, "followers_count": 3707, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Omolade Badmus MUFC \ud83d\udd34\ud83d\udd34", "location": "Hackney, London", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007601043717292032", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007601043717292032, "text": "RT @OmoladeBadmus21: #WorldCup Manchester United players are in #Russia2018: \ud83d\udd34\n#BEL Lukaku\n#ENG Rashford\n#FRA Pogba https://t.co/kBUUzqsQrW", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529065783801", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [21, 30], "text": "WorldCup"}, {"indices": [64, 75], "text": "Russia2018"}, {"indices": [79, 83], "text": "BEL"}, {"indices": [91, 95], "text": "ENG"}, {"indices": [105, 109], "text": "FRA"}], "media": [{"display_url": "pic.twitter.com/kBUUzqsQrW", "source_user_id": 2507992141, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "source_status_id": 1007325782086180864, "url": "https://t.co/kBUUzqsQrW", "indices": [116, 139], "sizes": {"small": {"w": 680, "h": 661, "resize": "fit"}, "large": {"w": 1800, "h": 1750, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1167, "resize": "fit"}}, "id_str": "1007325741955108865", "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1", "source_status_id_str": "1007325782086180864", "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg", "id": 1007325741955108865, "source_user_id_str": "2507992141"}], "user_mentions": [{"indices": [3, 19], "screen_name": "OmoladeBadmus21", "id_str": "2507992141", "name": "Omolade Badmus MUFC \ud83d\udd34\ud83d\udd34", "id": 2507992141}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5648, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8287, "follow_request_sent": null, "followers_count": 29, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 15:30:32", "current_time": 1529069432579, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:30:32 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 11:14:59 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 4, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007582233891352576", "in_reply_to_user_id": null, "favorite_count": 21, "id": 1007582233891352576, "text": "Best England song? #WorldCup", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 1, "entities": {"urls": [], "hashtags": [{"indices": [19, 28], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 508, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006657717602279430/ZkkCTz_F_normal.jpg", "listed_count": 6, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3678, "description": null, "created_at": "Fri May 17 21:53:59 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "WillWillwalt", "id_str": "1436773975", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 1436773975, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006657717602279430/ZkkCTz_F_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436773975/1529046105", "statuses_count": 2373, "follow_request_sent": null, "followers_count": 350, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Will", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007616346727710720", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007616346727710720, "text": "RT @WillWillwalt: Best England song? #WorldCup", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529069432323", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [37, 46], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 16], "screen_name": "WillWillwalt", "id_str": "1436773975", "name": "Will", "id": 1436773975}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5663, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8319, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 15:38:27", "current_time": 1529069907569, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:38:27 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/Gt7pPB1eJL", "indices": [252, 275], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007292696682090496", "expanded_url": "https://twitter.com/EGMTravel/status/1007293015742746625/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg", "id": 1007292696682090496, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg", "url": "https://t.co/Gt7pPB1eJL"}]}, "entities": {"urls": [], "hashtags": [{"indices": [11, 18], "text": "Russia"}, {"indices": [19, 26], "text": "Brazil"}, {"indices": [27, 35], "text": "Germany"}, {"indices": [89, 98], "text": "WorldCup"}, {"indices": [101, 122], "text": "FootballWorldCup2018"}, {"indices": [123, 132], "text": "football"}, {"indices": [133, 150], "text": "FifaWorldCup2018"}, {"indices": [151, 164], "text": "FIFAWorldCup"}, {"indices": [165, 180], "text": "FifaWorldCup18"}, {"indices": [181, 191], "text": "\u041a\u0443\u0431\u043e\u043a\u043c\u0438\u0440\u0430"}, {"indices": [192, 210], "text": "Weltmeisterschaft"}, {"indices": [211, 227], "text": "CopaDoMundo2018"}, {"indices": [228, 240], "text": "CopaDoMundo"}, {"indices": [241, 251], "text": "EGMTravel"}], "media": [{"display_url": "pic.twitter.com/Gt7pPB1eJL", "indices": [252, 275], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007292696682090496", "expanded_url": "https://twitter.com/EGMTravel/status/1007293015742746625/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg", "id": 1007292696682090496, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg", "url": "https://t.co/Gt7pPB1eJL"}], "user_mentions": [], "symbols": []}, "full_text": "Supporting #Russia #Brazil #Germany from Burma (Myanmar)!\nWhat is your favourite team in #WorldCup?\n\n#FootballWorldCup2018 #football #FifaWorldCup2018 #FIFAWorldCup #FifaWorldCup18 #\u041a\u0443\u0431\u043e\u043a\u043c\u0438\u0440\u0430 #Weltmeisterschaft #CopaDoMundo2018 #CopaDoMundo\n#EGMTravel https://t.co/Gt7pPB1eJL", "display_text_range": [0, 251]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:05:44 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 41, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007293015742746625", "in_reply_to_user_id": null, "favorite_count": 94, "id": 1007293015742746625, "text": "Supporting #Russia #Brazil #Germany from Burma (Myanmar)!\nWhat is your favourite team in #WorldCup?\u2026 https://t.co/ixs01CnDV1", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 1, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [101, 124], "expanded_url": "https://twitter.com/i/web/status/1007293015742746625", "url": "https://t.co/ixs01CnDV1"}], "hashtags": [{"indices": [11, 18], "text": "Russia"}, {"indices": [19, 26], "text": "Brazil"}, {"indices": [27, 35], "text": "Germany"}, {"indices": [89, 98], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 458, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003271308489027585/wYJqCfLx_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5298, "description": "A Best Myanmar Professional Travel Agency for Leisure & Adventure Tours | Responsible Travel | Travel Expert | DM for info! #EGMTravel #CustomizedTour", "created_at": "Tue Mar 28 09:58:36 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "EGMTravel", "id_str": "846662801368145924", "profile_link_color": "006400", "translator_type": "none", "id": 846662801368145924, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1003271308489027585/wYJqCfLx_normal.jpg", "time_zone": null, "url": "https://emeraldgardenmyanmar.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/846662801368145924/1528728096", "statuses_count": 254, "follow_request_sent": null, "followers_count": 802, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Emerald Garden Myanmar Travel", "location": "Myanmar", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007618338946600961", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007618338946600961, "text": "RT @EGMTravel: Supporting #Russia #Brazil #Germany from Burma (Myanmar)!\nWhat is your favourite team in #WorldCup?\n\n#FootballWorldCup2018 #\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529069907305", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [26, 33], "text": "Russia"}, {"indices": [34, 41], "text": "Brazil"}, {"indices": [42, 50], "text": "Germany"}, {"indices": [104, 113], "text": "WorldCup"}, {"indices": [116, 137], "text": "FootballWorldCup2018"}], "user_mentions": [{"indices": [3, 13], "screen_name": "EGMTravel", "id_str": "846662801368145924", "name": "Emerald Garden Myanmar Travel", "id": 846662801368145924}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5705, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8365, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 15:38:32", "current_time": 1529069912569, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:38:32 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/9lPeL1V4io", "indices": [268, 291], "sizes": {"small": {"w": 680, "h": 534, "resize": "fit"}, "large": {"w": 739, "h": 580, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 739, "h": 580, "resize": "fit"}}, "id_str": "1007454642412793856", "expanded_url": "https://twitter.com/kebato5/status/1007454651854282757/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg", "id": 1007454642412793856, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg", "url": "https://t.co/9lPeL1V4io"}]}, "entities": {"urls": [], "hashtags": [{"indices": [41, 45], "text": "bts"}, {"indices": [46, 51], "text": "fire"}, {"indices": [52, 61], "text": "jungkook"}, {"indices": [62, 75], "text": "choreography"}, {"indices": [76, 85], "text": "reaction"}, {"indices": [86, 100], "text": "reactionvideo"}, {"indices": [101, 110], "text": "youtuber"}, {"indices": [111, 122], "text": "SouthKorea"}, {"indices": [123, 130], "text": "korean"}, {"indices": [131, 140], "text": "american"}, {"indices": [141, 147], "text": "asain"}, {"indices": [148, 156], "text": "russian"}, {"indices": [157, 163], "text": "funny"}, {"indices": [164, 169], "text": "cute"}, {"indices": [170, 187], "text": "TeenChoiceAwards"}, {"indices": [188, 197], "text": "WorldCup"}, {"indices": [198, 209], "text": "YOUNGBLOOD"}, {"indices": [210, 220], "text": "adventure"}, {"indices": [221, 235], "text": "ALONETOGETHER"}, {"indices": [236, 244], "text": "Begging"}, {"indices": [245, 258], "text": "BTSPROMPARTY"}, {"indices": [259, 267], "text": "Charmed"}], "media": [{"display_url": "pic.twitter.com/9lPeL1V4io", "indices": [268, 291], "sizes": {"small": {"w": 680, "h": 534, "resize": "fit"}, "large": {"w": 739, "h": 580, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 739, "h": 580, "resize": "fit"}}, "id_str": "1007454642412793856", "expanded_url": "https://twitter.com/kebato5/status/1007454651854282757/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg", "id": 1007454642412793856, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg", "url": "https://t.co/9lPeL1V4io"}], "user_mentions": [], "symbols": []}, "full_text": "Hey check out my new video!!! Bts fire \ud83d\udd25 #bts #fire #jungkook #choreography #reaction #reactionvideo #youtuber #SouthKorea #korean #american #asain #russian #funny #cute #TeenChoiceAwards #WorldCup #YOUNGBLOOD #adventure #ALONETOGETHER #Begging #BTSPROMPARTY #Charmed https://t.co/9lPeL1V4io", "display_text_range": [0, 267]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 02:48:01 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 22, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007454651854282757", "in_reply_to_user_id": null, "favorite_count": 4, "id": 1007454651854282757, "text": "Hey check out my new video!!! Bts fire \ud83d\udd25 #bts #fire #jungkook #choreography #reaction #reactionvideo #youtuber\u2026 https://t.co/DL8YwxYFf3", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [112, 135], "expanded_url": "https://twitter.com/i/web/status/1007454651854282757", "url": "https://t.co/DL8YwxYFf3"}], "hashtags": [{"indices": [41, 45], "text": "bts"}, {"indices": [46, 51], "text": "fire"}, {"indices": [52, 61], "text": "jungkook"}, {"indices": [62, 75], "text": "choreography"}, {"indices": [76, 85], "text": "reaction"}, {"indices": [86, 100], "text": "reactionvideo"}, {"indices": [101, 110], "text": "youtuber"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 1121, "profile_image_url_https": "https://pbs.twimg.com/profile_images/995674588758540288/aYZvTiEL_normal.jpg", "listed_count": 1, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 404, "description": "Hey check out my YouTube channel on YouTube kebato! I post reaction videos, soon to become famous! I\u2019m not the best but still can make you laugh :)", "created_at": "Sun May 13 14:36:33 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "kebato5", "id_str": "995674162889920518", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 995674162889920518, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/995674588758540288/aYZvTiEL_normal.jpg", "time_zone": null, "url": "https://m.youtube.com/channel/UCxCzn30JhWjnXKGt24cv8Yw", "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 431, "follow_request_sent": null, "followers_count": 126, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "kebato", "location": "Brooklyn, NY", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007618359871991808", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007618359871991808, "text": "RT @kebato5: Hey check out my new video!!! Bts fire \ud83d\udd25 #bts #fire #jungkook #choreography #reaction #reactionvideo #youtuber #SouthKorea #ko\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529069912294", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [54, 58], "text": "bts"}, {"indices": [59, 64], "text": "fire"}, {"indices": [65, 74], "text": "jungkook"}, {"indices": [75, 88], "text": "choreography"}, {"indices": [89, 98], "text": "reaction"}, {"indices": [99, 113], "text": "reactionvideo"}, {"indices": [114, 123], "text": "youtuber"}, {"indices": [124, 135], "text": "SouthKorea"}], "user_mentions": [{"indices": [3, 11], "screen_name": "kebato5", "id_str": "995674162889920518", "name": "kebato", "id": 995674162889920518}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5705, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8366, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 15:42:14", "current_time": 1529070134022, "extended_entities": {"media": [{"display_url": "pic.twitter.com/G7m1KFrhjP", "source_user_id": 862185000673755136, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "source_status_id": 1007546875359068161, "url": "https://t.co/G7m1KFrhjP", "indices": [104, 127], "sizes": {"small": {"w": 480, "h": 270, "resize": "fit"}, "large": {"w": 480, "h": 270, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 270, "resize": "fit"}}, "id_str": "1007546862562242560", "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1", "source_status_id_str": "1007546875359068161", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "id": 1007546862562242560, "source_user_id_str": "862185000673755136", "video_info": {"aspect_ratio": [16, 9], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/DfuGiIWU8AAIIXN.mp4"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:42:13 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/G7m1KFrhjP", "indices": [90, 113], "sizes": {"small": {"w": 480, "h": 270, "resize": "fit"}, "large": {"w": 480, "h": 270, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 270, "resize": "fit"}}, "id_str": "1007546862562242560", "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "id": 1007546862562242560, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "url": "https://t.co/G7m1KFrhjP", "video_info": {"aspect_ratio": [16, 9], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/DfuGiIWU8AAIIXN.mp4"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 08:54:29 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 17, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007546875359068161", "in_reply_to_user_id": null, "favorite_count": 22, "id": 1007546875359068161, "text": "Today\u2019s #WorldCup Matches! \n\n#EGY \ud83c\udd9a #URU\n\n#MAR \ud83c\udd9a #IRN \n\n#POR \ud83c\udd9a #ESP \n\n#FridayFeeling \u26bd\ufe0f \ud83d\udcfa https://t.co/G7m1KFrhjP", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [8, 17], "text": "WorldCup"}, {"indices": [29, 33], "text": "EGY"}, {"indices": [36, 40], "text": "URU"}, {"indices": [42, 46], "text": "MAR"}, {"indices": [49, 53], "text": "IRN"}, {"indices": [56, 60], "text": "POR"}, {"indices": [63, 67], "text": "ESP"}, {"indices": [70, 84], "text": "FridayFeeling"}], "media": [{"display_url": "pic.twitter.com/G7m1KFrhjP", "indices": [90, 113], "sizes": {"small": {"w": 480, "h": 270, "resize": "fit"}, "large": {"w": 480, "h": 270, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 270, "resize": "fit"}}, "id_str": "1007546862562242560", "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "id": 1007546862562242560, "type": "photo", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "url": "https://t.co/G7m1KFrhjP"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 89], "contributors": null, "user": {"utc_offset": null, "friends_count": 125, "profile_image_url_https": "https://pbs.twimg.com/profile_images/982799941859819520/zXcBv3so_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 2729, "description": "A human. Being. I like to draw on foggy windows.", "created_at": "Wed May 10 05:58:17 +0000 2017", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "saskanet", "id_str": "862185000673755136", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 862185000673755136, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "es", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/982799941859819520/zXcBv3so_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/862185000673755136/1522011215", "statuses_count": 197, "follow_request_sent": null, "followers_count": 1281, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Nes", "location": "Regina, Saskatchewan", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007619288587370496", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007619288587370496, "text": "RT @saskanet: Today\u2019s #WorldCup Matches! \n\n#EGY \ud83c\udd9a #URU\n\n#MAR \ud83c\udd9a #IRN \n\n#POR \ud83c\udd9a #ESP \n\n#FridayFeeling \u26bd\ufe0f \ud83d\udcfa https://t.co/G7m1KFrhjP", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529070133717", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [22, 31], "text": "WorldCup"}, {"indices": [43, 47], "text": "EGY"}, {"indices": [50, 54], "text": "URU"}, {"indices": [56, 60], "text": "MAR"}, {"indices": [63, 67], "text": "IRN"}, {"indices": [70, 74], "text": "POR"}, {"indices": [77, 81], "text": "ESP"}, {"indices": [84, 98], "text": "FridayFeeling"}], "media": [{"display_url": "pic.twitter.com/G7m1KFrhjP", "source_user_id": 862185000673755136, "type": "photo", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "source_status_id": 1007546875359068161, "url": "https://t.co/G7m1KFrhjP", "indices": [104, 127], "sizes": {"small": {"w": 480, "h": 270, "resize": "fit"}, "large": {"w": 480, "h": 270, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 270, "resize": "fit"}}, "id_str": "1007546862562242560", "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1", "source_status_id_str": "1007546875359068161", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg", "id": 1007546862562242560, "source_user_id_str": "862185000673755136"}], "user_mentions": [{"indices": [3, 12], "screen_name": "saskanet", "id_str": "862185000673755136", "name": "Nes", "id": 862185000673755136}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5001, "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5718, "description": null, "created_at": "Thu May 17 05:56:13 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "FellaSahla", "id_str": "996992766243586051", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 996992766243586051, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 8382, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Fella Sahla", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-17 02:10:57",
+    "current_time": 1529194257022,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 00:10:56 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ERkF5nSxfh",
+              "indices": [
+                142,
+                165
+              ],
+              "sizes": {
+                "small": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007807878047129600",
+              "expanded_url": "https://twitter.com/SurajHansal/status/1007809461128515584/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg",
+              "id": 1007807878047129600,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg",
+              "url": "https://t.co/ERkF5nSxfh",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 55802,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/640x360/dQ9oNk9mK5MoSQ-7.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/320x180/PY7KzzA-hqBmn4WN.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/pl/NrGWeyc6otgkZiuo.m3u8?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                106,
+                115
+              ],
+              "text": "Portugal"
+            },
+            {
+              "indices": [
+                127,
+                136
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                137,
+                141
+              ],
+              "text": "POR"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ERkF5nSxfh",
+              "indices": [
+                142,
+                165
+              ],
+              "sizes": {
+                "small": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007807878047129600",
+              "expanded_url": "https://twitter.com/SurajHansal/status/1007809461128515584/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg",
+              "id": 1007807878047129600,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007807878047129600/pu/img/vRXeVNivgm-3YmsR.jpg",
+              "url": "https://t.co/ERkF5nSxfh",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 55802,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/640x360/dQ9oNk9mK5MoSQ-7.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/vid/320x180/PY7KzzA-hqBmn4WN.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007807878047129600/pu/pl/NrGWeyc6otgkZiuo.m3u8?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                116,
+                126
+              ],
+              "screen_name": "Cristiano",
+              "id_str": "155659213",
+              "name": "Cristiano Ronaldo",
+              "id": 155659213
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "Watch this Cristiano Ronaldo's third goal against Spain. Portuguese commentary is Amazing. GOAL GOAL GOAL #Portugal @Cristiano #WorldCup #POR https://t.co/ERkF5nSxfh",
+        "display_text_range": [
+          0,
+          141
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 02:17:54 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 307,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007809461128515584",
+      "in_reply_to_user_id": null,
+      "favorite_count": 443,
+      "id": 1007809461128515584,
+      "text": "Watch this Cristiano Ronaldo's third goal against Spain. Portuguese commentary is Amazing. GOAL GOAL GOAL #Portugal… https://t.co/f5ffDJdXdY",
+      "place": null,
+      "lang": "en",
+      "quote_count": 53,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 11,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007809461128515584",
+            "url": "https://t.co/f5ffDJdXdY"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              106,
+              115
+            ],
+            "text": "Portugal"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 8979,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/779836411289735168/y068uMuQ_normal.jpg",
+        "listed_count": 32,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 341,
+        "description": "I'm an entrepreneur #Days #Dool #DiMera #YR",
+        "created_at": "Mon Jul 11 23:10:23 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "protected": false,
+        "screen_name": "SurajHansal",
+        "id_str": "333697997",
+        "profile_link_color": "A6A197",
+        "translator_type": "none",
+        "id": 333697997,
+        "geo_enabled": true,
+        "profile_background_color": "EFE8CB",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "C7BCA0",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/779836411289735168/y068uMuQ_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.nbc.com/days-of-our-lives",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333697997/1395194525",
+        "statuses_count": 7242,
+        "follow_request_sent": null,
+        "followers_count": 24282,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Suraj Hansal",
+        "location": "Toronto, Ontario ",
+        "profile_sidebar_fill_color": "251F17",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008139898451156993",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008139898451156993,
+    "text": "RT @SurajHansal: Watch this Cristiano Ronaldo's third goal against Spain. Portuguese commentary is Amazing. GOAL GOAL GOAL #Portugal @Crist…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529194256781",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            123,
+            132
+          ],
+          "text": "Portugal"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "SurajHansal",
+          "id_str": "333697997",
+          "name": "Suraj Hansal",
+          "id": 333697997
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5774,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8571,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 14:19:45",
+    "current_time": 1529065185901,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/90i3ZUNY2Z",
+          "source_user_id": 1285874648,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+          "source_status_id": 1007326643243880448,
+          "url": "https://t.co/90i3ZUNY2Z",
+          "indices": [
+            30,
+            53
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 722,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 722,
+              "h": 480,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007326636201660416",
+          "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1",
+          "source_status_id_str": "1007326643243880448",
+          "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+          "id": 1007326636201660416,
+          "source_user_id_str": "1285874648"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 12:19:45 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/90i3ZUNY2Z",
+            "indices": [
+              13,
+              36
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 722,
+                "h": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 722,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007326636201660416",
+            "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+            "id": 1007326636201660416,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+            "url": "https://t.co/90i3ZUNY2Z"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 18:19:21 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "retweet_count": 72,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007326643243880448",
+      "in_reply_to_user_id": null,
+      "favorite_count": 52,
+      "id": 1007326643243880448,
+      "text": "🌚😂 #WorldCup https://t.co/90i3ZUNY2Z",
+      "place": null,
+      "lang": "und",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              3,
+              12
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/90i3ZUNY2Z",
+            "indices": [
+              13,
+              36
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 722,
+                "h": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 722,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007326636201660416",
+            "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+            "id": 1007326636201660416,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+            "url": "https://t.co/90i3ZUNY2Z"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        12
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 279,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006896601426747392/Eea8RC2u_normal.jpg",
+        "listed_count": 2,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 2726,
+        "description": "Of course it happened inside your head, but why on earth should that mean that it is not real ?",
+        "created_at": "Thu Mar 21 12:36:33 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "Rania_Elhag",
+        "id_str": "1285874648",
+        "profile_link_color": "9266CC",
+        "translator_type": "none",
+        "id": 1285874648,
+        "geo_enabled": true,
+        "profile_background_color": "131516",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006896601426747392/Eea8RC2u_normal.jpg",
+        "time_zone": null,
+        "url": "http://bzfd.it/2i7q5jM",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285874648/1528933652",
+        "statuses_count": 3259,
+        "follow_request_sent": null,
+        "followers_count": 1672,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "FOUR △⃒⃘",
+        "location": "Hogwarts ⚡️",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007598534823051271",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007598534823051271,
+    "text": "RT @Rania_Elhag: 🌚😂 #WorldCup https://t.co/90i3ZUNY2Z",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529065185634",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            20,
+            29
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/90i3ZUNY2Z",
+          "source_user_id": 1285874648,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+          "source_status_id": 1007326643243880448,
+          "url": "https://t.co/90i3ZUNY2Z",
+          "indices": [
+            30,
+            53
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 722,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 722,
+              "h": 480,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007326636201660416",
+          "expanded_url": "https://twitter.com/Rania_Elhag/status/1007326643243880448/photo/1",
+          "source_status_id_str": "1007326643243880448",
+          "media_url_https": "https://pbs.twimg.com/media/Dfq-PROW0AASInU.jpg",
+          "id": 1007326636201660416,
+          "source_user_id_str": "1285874648"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "Rania_Elhag",
+          "id_str": "1285874648",
+          "name": "FOUR △⃒⃘",
+          "id": 1285874648
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5648,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8230,
+      "follow_request_sent": null,
+      "followers_count": 29,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 14:29:44",
+    "current_time": 1529065784129,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kBUUzqsQrW",
+          "source_user_id": 2507992141,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+          "source_status_id": 1007325782086180864,
+          "url": "https://t.co/kBUUzqsQrW",
+          "indices": [
+            116,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 661,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1167,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007325741955108865",
+          "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+          "source_status_id_str": "1007325782086180864",
+          "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+          "id": 1007325741955108865,
+          "source_user_id_str": "2507992141"
+        },
+        {
+          "display_url": "pic.twitter.com/kBUUzqsQrW",
+          "source_user_id": 2507992141,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg",
+          "source_status_id": 1007325782086180864,
+          "url": "https://t.co/kBUUzqsQrW",
+          "indices": [
+            116,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 444,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1930,
+              "h": 1260,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 783,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007325760598761472",
+          "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+          "source_status_id_str": "1007325782086180864",
+          "media_url_https": "https://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg",
+          "id": 1007325760598761472,
+          "source_user_id_str": "2507992141"
+        },
+        {
+          "display_url": "pic.twitter.com/kBUUzqsQrW",
+          "source_user_id": 2507992141,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg",
+          "source_status_id": 1007325782086180864,
+          "url": "https://t.co/kBUUzqsQrW",
+          "indices": [
+            116,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1199,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 899,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007325771176841222",
+          "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+          "source_status_id_str": "1007325782086180864",
+          "media_url_https": "https://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg",
+          "id": 1007325771176841222,
+          "source_user_id_str": "2507992141"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 12:29:43 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kBUUzqsQrW",
+            "indices": [
+              95,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 661,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1800,
+                "h": 1750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1167,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007325741955108865",
+            "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+            "id": 1007325741955108865,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+            "url": "https://t.co/kBUUzqsQrW"
+          },
+          {
+            "display_url": "pic.twitter.com/kBUUzqsQrW",
+            "indices": [
+              95,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 444,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1930,
+                "h": 1260,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 783,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007325760598761472",
+            "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg",
+            "id": 1007325760598761472,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfq9cTWW4AAXaar.jpg",
+            "url": "https://t.co/kBUUzqsQrW"
+          },
+          {
+            "display_url": "pic.twitter.com/kBUUzqsQrW",
+            "indices": [
+              95,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1199,
+                "h": 1600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 899,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007325771176841222",
+            "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg",
+            "id": 1007325771176841222,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfq9c6wXkAYT8-L.jpg",
+            "url": "https://t.co/kBUUzqsQrW"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 18:15:56 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 61,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007325782086180864",
+      "in_reply_to_user_id": null,
+      "favorite_count": 134,
+      "id": 1007325782086180864,
+      "text": "#WorldCup Manchester United players are in #Russia2018: 🔴\n#BEL Lukaku\n#ENG Rashford\n#FRA Pogba https://t.co/kBUUzqsQrW",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              43,
+              54
+            ],
+            "text": "Russia2018"
+          },
+          {
+            "indices": [
+              58,
+              62
+            ],
+            "text": "BEL"
+          },
+          {
+            "indices": [
+              70,
+              74
+            ],
+            "text": "ENG"
+          },
+          {
+            "indices": [
+              84,
+              88
+            ],
+            "text": "FRA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kBUUzqsQrW",
+            "indices": [
+              95,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 661,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1800,
+                "h": 1750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1167,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007325741955108865",
+            "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+            "id": 1007325741955108865,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+            "url": "https://t.co/kBUUzqsQrW"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        94
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 2879,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/916423242843414540/gScEVkz2_normal.jpg",
+        "listed_count": 32,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 33489,
+        "description": "Snapchat: Omoladebadmus21\r\nOmoladebadmus9@gmail.com \nLife travel, lifestyle & experience\nMy life & future is all about my team Man United #MUFC #ManUtd 🔴🔴🌟⚽",
+        "created_at": "Mon May 19 17:25:29 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "OmoladeBadmus21",
+        "id_str": "2507992141",
+        "profile_link_color": "F7081C",
+        "translator_type": "none",
+        "id": 2507992141,
+        "geo_enabled": true,
+        "profile_background_color": "8B542B",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/916423242843414540/gScEVkz2_normal.jpg",
+        "time_zone": null,
+        "url": "http://Instagram.com/Omoladebadmus21",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2507992141/1523214072",
+        "statuses_count": 43448,
+        "follow_request_sent": null,
+        "followers_count": 3707,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Omolade Badmus MUFC 🔴🔴",
+        "location": "Hackney, London",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007601043717292032",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007601043717292032,
+    "text": "RT @OmoladeBadmus21: #WorldCup Manchester United players are in #Russia2018: 🔴\n#BEL Lukaku\n#ENG Rashford\n#FRA Pogba https://t.co/kBUUzqsQrW",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529065783801",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            21,
+            30
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            64,
+            75
+          ],
+          "text": "Russia2018"
+        },
+        {
+          "indices": [
+            79,
+            83
+          ],
+          "text": "BEL"
+        },
+        {
+          "indices": [
+            91,
+            95
+          ],
+          "text": "ENG"
+        },
+        {
+          "indices": [
+            105,
+            109
+          ],
+          "text": "FRA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kBUUzqsQrW",
+          "source_user_id": 2507992141,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+          "source_status_id": 1007325782086180864,
+          "url": "https://t.co/kBUUzqsQrW",
+          "indices": [
+            116,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 661,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1167,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007325741955108865",
+          "expanded_url": "https://twitter.com/OmoladeBadmus21/status/1007325782086180864/photo/1",
+          "source_status_id_str": "1007325782086180864",
+          "media_url_https": "https://pbs.twimg.com/media/Dfq9bN5XUAEjUTl.jpg",
+          "id": 1007325741955108865,
+          "source_user_id_str": "2507992141"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "OmoladeBadmus21",
+          "id_str": "2507992141",
+          "name": "Omolade Badmus MUFC 🔴🔴",
+          "id": 2507992141
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5648,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8287,
+      "follow_request_sent": null,
+      "followers_count": 29,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:30:32",
+    "current_time": 1529069432579,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:30:32 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 11:14:59 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 4,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007582233891352576",
+      "in_reply_to_user_id": null,
+      "favorite_count": 21,
+      "id": 1007582233891352576,
+      "text": "Best England song? #WorldCup",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 1,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              28
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 508,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006657717602279430/ZkkCTz_F_normal.jpg",
+        "listed_count": 6,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3678,
+        "description": null,
+        "created_at": "Fri May 17 21:53:59 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WillWillwalt",
+        "id_str": "1436773975",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 1436773975,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006657717602279430/ZkkCTz_F_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436773975/1529046105",
+        "statuses_count": 2373,
+        "follow_request_sent": null,
+        "followers_count": 350,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Will",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007616346727710720",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007616346727710720,
+    "text": "RT @WillWillwalt: Best England song? #WorldCup",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529069432323",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            37,
+            46
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "WillWillwalt",
+          "id_str": "1436773975",
+          "name": "Will",
+          "id": 1436773975
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5663,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8319,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:38:27",
+    "current_time": 1529069907569,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:38:27 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Gt7pPB1eJL",
+              "indices": [
+                252,
+                275
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1365,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007292696682090496",
+              "expanded_url": "https://twitter.com/EGMTravel/status/1007293015742746625/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg",
+              "id": 1007292696682090496,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg",
+              "url": "https://t.co/Gt7pPB1eJL"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                11,
+                18
+              ],
+              "text": "Russia"
+            },
+            {
+              "indices": [
+                19,
+                26
+              ],
+              "text": "Brazil"
+            },
+            {
+              "indices": [
+                27,
+                35
+              ],
+              "text": "Germany"
+            },
+            {
+              "indices": [
+                89,
+                98
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                101,
+                122
+              ],
+              "text": "FootballWorldCup2018"
+            },
+            {
+              "indices": [
+                123,
+                132
+              ],
+              "text": "football"
+            },
+            {
+              "indices": [
+                133,
+                150
+              ],
+              "text": "FifaWorldCup2018"
+            },
+            {
+              "indices": [
+                151,
+                164
+              ],
+              "text": "FIFAWorldCup"
+            },
+            {
+              "indices": [
+                165,
+                180
+              ],
+              "text": "FifaWorldCup18"
+            },
+            {
+              "indices": [
+                181,
+                191
+              ],
+              "text": "Кубокмира"
+            },
+            {
+              "indices": [
+                192,
+                210
+              ],
+              "text": "Weltmeisterschaft"
+            },
+            {
+              "indices": [
+                211,
+                227
+              ],
+              "text": "CopaDoMundo2018"
+            },
+            {
+              "indices": [
+                228,
+                240
+              ],
+              "text": "CopaDoMundo"
+            },
+            {
+              "indices": [
+                241,
+                251
+              ],
+              "text": "EGMTravel"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Gt7pPB1eJL",
+              "indices": [
+                252,
+                275
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1365,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007292696682090496",
+              "expanded_url": "https://twitter.com/EGMTravel/status/1007293015742746625/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg",
+              "id": 1007292696682090496,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqfXuqU0AASai9.jpg",
+              "url": "https://t.co/Gt7pPB1eJL"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Supporting #Russia #Brazil #Germany from Burma (Myanmar)!\nWhat is your favourite team in #WorldCup?\n\n#FootballWorldCup2018 #football #FifaWorldCup2018 #FIFAWorldCup #FifaWorldCup18 #Кубокмира #Weltmeisterschaft #CopaDoMundo2018 #CopaDoMundo\n#EGMTravel https://t.co/Gt7pPB1eJL",
+        "display_text_range": [
+          0,
+          251
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 16:05:44 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 41,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007293015742746625",
+      "in_reply_to_user_id": null,
+      "favorite_count": 94,
+      "id": 1007293015742746625,
+      "text": "Supporting #Russia #Brazil #Germany from Burma (Myanmar)!\nWhat is your favourite team in #WorldCup?… https://t.co/ixs01CnDV1",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 1,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              101,
+              124
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007293015742746625",
+            "url": "https://t.co/ixs01CnDV1"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              11,
+              18
+            ],
+            "text": "Russia"
+          },
+          {
+            "indices": [
+              19,
+              26
+            ],
+            "text": "Brazil"
+          },
+          {
+            "indices": [
+              27,
+              35
+            ],
+            "text": "Germany"
+          },
+          {
+            "indices": [
+              89,
+              98
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 458,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003271308489027585/wYJqCfLx_normal.jpg",
+        "listed_count": 4,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 5298,
+        "description": "A Best Myanmar Professional Travel Agency for Leisure & Adventure Tours | Responsible Travel | Travel Expert | DM for info! #EGMTravel #CustomizedTour",
+        "created_at": "Tue Mar 28 09:58:36 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "EGMTravel",
+        "id_str": "846662801368145924",
+        "profile_link_color": "006400",
+        "translator_type": "none",
+        "id": 846662801368145924,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1003271308489027585/wYJqCfLx_normal.jpg",
+        "time_zone": null,
+        "url": "https://emeraldgardenmyanmar.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/846662801368145924/1528728096",
+        "statuses_count": 254,
+        "follow_request_sent": null,
+        "followers_count": 802,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Emerald Garden Myanmar Travel",
+        "location": "Myanmar",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007618338946600961",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007618338946600961,
+    "text": "RT @EGMTravel: Supporting #Russia #Brazil #Germany from Burma (Myanmar)!\nWhat is your favourite team in #WorldCup?\n\n#FootballWorldCup2018 #…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529069907305",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            26,
+            33
+          ],
+          "text": "Russia"
+        },
+        {
+          "indices": [
+            34,
+            41
+          ],
+          "text": "Brazil"
+        },
+        {
+          "indices": [
+            42,
+            50
+          ],
+          "text": "Germany"
+        },
+        {
+          "indices": [
+            104,
+            113
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            116,
+            137
+          ],
+          "text": "FootballWorldCup2018"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "EGMTravel",
+          "id_str": "846662801368145924",
+          "name": "Emerald Garden Myanmar Travel",
+          "id": 846662801368145924
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5705,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8365,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:38:32",
+    "current_time": 1529069912569,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:38:32 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/9lPeL1V4io",
+              "indices": [
+                268,
+                291
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 534,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 739,
+                  "h": 580,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 739,
+                  "h": 580,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007454642412793856",
+              "expanded_url": "https://twitter.com/kebato5/status/1007454651854282757/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg",
+              "id": 1007454642412793856,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg",
+              "url": "https://t.co/9lPeL1V4io"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                41,
+                45
+              ],
+              "text": "bts"
+            },
+            {
+              "indices": [
+                46,
+                51
+              ],
+              "text": "fire"
+            },
+            {
+              "indices": [
+                52,
+                61
+              ],
+              "text": "jungkook"
+            },
+            {
+              "indices": [
+                62,
+                75
+              ],
+              "text": "choreography"
+            },
+            {
+              "indices": [
+                76,
+                85
+              ],
+              "text": "reaction"
+            },
+            {
+              "indices": [
+                86,
+                100
+              ],
+              "text": "reactionvideo"
+            },
+            {
+              "indices": [
+                101,
+                110
+              ],
+              "text": "youtuber"
+            },
+            {
+              "indices": [
+                111,
+                122
+              ],
+              "text": "SouthKorea"
+            },
+            {
+              "indices": [
+                123,
+                130
+              ],
+              "text": "korean"
+            },
+            {
+              "indices": [
+                131,
+                140
+              ],
+              "text": "american"
+            },
+            {
+              "indices": [
+                141,
+                147
+              ],
+              "text": "asain"
+            },
+            {
+              "indices": [
+                148,
+                156
+              ],
+              "text": "russian"
+            },
+            {
+              "indices": [
+                157,
+                163
+              ],
+              "text": "funny"
+            },
+            {
+              "indices": [
+                164,
+                169
+              ],
+              "text": "cute"
+            },
+            {
+              "indices": [
+                170,
+                187
+              ],
+              "text": "TeenChoiceAwards"
+            },
+            {
+              "indices": [
+                188,
+                197
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                198,
+                209
+              ],
+              "text": "YOUNGBLOOD"
+            },
+            {
+              "indices": [
+                210,
+                220
+              ],
+              "text": "adventure"
+            },
+            {
+              "indices": [
+                221,
+                235
+              ],
+              "text": "ALONETOGETHER"
+            },
+            {
+              "indices": [
+                236,
+                244
+              ],
+              "text": "Begging"
+            },
+            {
+              "indices": [
+                245,
+                258
+              ],
+              "text": "BTSPROMPARTY"
+            },
+            {
+              "indices": [
+                259,
+                267
+              ],
+              "text": "Charmed"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/9lPeL1V4io",
+              "indices": [
+                268,
+                291
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 534,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 739,
+                  "h": 580,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 739,
+                  "h": 580,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007454642412793856",
+              "expanded_url": "https://twitter.com/kebato5/status/1007454651854282757/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg",
+              "id": 1007454642412793856,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfsyqNhVMAARdP7.jpg",
+              "url": "https://t.co/9lPeL1V4io"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Hey check out my new video!!! Bts fire 🔥 #bts #fire #jungkook #choreography #reaction #reactionvideo #youtuber #SouthKorea #korean #american #asain #russian #funny #cute #TeenChoiceAwards #WorldCup #YOUNGBLOOD #adventure #ALONETOGETHER #Begging #BTSPROMPARTY #Charmed https://t.co/9lPeL1V4io",
+        "display_text_range": [
+          0,
+          267
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 02:48:01 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 22,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007454651854282757",
+      "in_reply_to_user_id": null,
+      "favorite_count": 4,
+      "id": 1007454651854282757,
+      "text": "Hey check out my new video!!! Bts fire 🔥 #bts #fire #jungkook #choreography #reaction #reactionvideo #youtuber… https://t.co/DL8YwxYFf3",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007454651854282757",
+            "url": "https://t.co/DL8YwxYFf3"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              41,
+              45
+            ],
+            "text": "bts"
+          },
+          {
+            "indices": [
+              46,
+              51
+            ],
+            "text": "fire"
+          },
+          {
+            "indices": [
+              52,
+              61
+            ],
+            "text": "jungkook"
+          },
+          {
+            "indices": [
+              62,
+              75
+            ],
+            "text": "choreography"
+          },
+          {
+            "indices": [
+              76,
+              85
+            ],
+            "text": "reaction"
+          },
+          {
+            "indices": [
+              86,
+              100
+            ],
+            "text": "reactionvideo"
+          },
+          {
+            "indices": [
+              101,
+              110
+            ],
+            "text": "youtuber"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1121,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/995674588758540288/aYZvTiEL_normal.jpg",
+        "listed_count": 1,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 404,
+        "description": "Hey check out my YouTube channel on YouTube kebato! I post reaction videos, soon to become famous! I’m not the best but still can make you laugh :)",
+        "created_at": "Sun May 13 14:36:33 +0000 2018",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "kebato5",
+        "id_str": "995674162889920518",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 995674162889920518,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/995674588758540288/aYZvTiEL_normal.jpg",
+        "time_zone": null,
+        "url": "https://m.youtube.com/channel/UCxCzn30JhWjnXKGt24cv8Yw",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 431,
+        "follow_request_sent": null,
+        "followers_count": 126,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "kebato",
+        "location": "Brooklyn, NY",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007618359871991808",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007618359871991808,
+    "text": "RT @kebato5: Hey check out my new video!!! Bts fire 🔥 #bts #fire #jungkook #choreography #reaction #reactionvideo #youtuber #SouthKorea #ko…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529069912294",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            58
+          ],
+          "text": "bts"
+        },
+        {
+          "indices": [
+            59,
+            64
+          ],
+          "text": "fire"
+        },
+        {
+          "indices": [
+            65,
+            74
+          ],
+          "text": "jungkook"
+        },
+        {
+          "indices": [
+            75,
+            88
+          ],
+          "text": "choreography"
+        },
+        {
+          "indices": [
+            89,
+            98
+          ],
+          "text": "reaction"
+        },
+        {
+          "indices": [
+            99,
+            113
+          ],
+          "text": "reactionvideo"
+        },
+        {
+          "indices": [
+            114,
+            123
+          ],
+          "text": "youtuber"
+        },
+        {
+          "indices": [
+            124,
+            135
+          ],
+          "text": "SouthKorea"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "kebato5",
+          "id_str": "995674162889920518",
+          "name": "kebato",
+          "id": 995674162889920518
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5705,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8366,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:42:14",
+    "current_time": 1529070134022,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/G7m1KFrhjP",
+          "source_user_id": 862185000673755136,
+          "type": "animated_gif",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+          "source_status_id": 1007546875359068161,
+          "url": "https://t.co/G7m1KFrhjP",
+          "indices": [
+            104,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007546862562242560",
+          "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1",
+          "source_status_id_str": "1007546875359068161",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+          "id": 1007546862562242560,
+          "source_user_id_str": "862185000673755136",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 0,
+                "url": "https://video.twimg.com/tweet_video/DfuGiIWU8AAIIXN.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:42:13 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/G7m1KFrhjP",
+            "indices": [
+              90,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007546862562242560",
+            "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+            "id": 1007546862562242560,
+            "type": "animated_gif",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+            "url": "https://t.co/G7m1KFrhjP",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 0,
+                  "url": "https://video.twimg.com/tweet_video/DfuGiIWU8AAIIXN.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 08:54:29 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 17,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007546875359068161",
+      "in_reply_to_user_id": null,
+      "favorite_count": 22,
+      "id": 1007546875359068161,
+      "text": "Today’s #WorldCup Matches! \n\n#EGY 🆚 #URU\n\n#MAR 🆚 #IRN \n\n#POR 🆚 #ESP \n\n#FridayFeeling ⚽️ 📺 https://t.co/G7m1KFrhjP",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              8,
+              17
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              29,
+              33
+            ],
+            "text": "EGY"
+          },
+          {
+            "indices": [
+              36,
+              40
+            ],
+            "text": "URU"
+          },
+          {
+            "indices": [
+              42,
+              46
+            ],
+            "text": "MAR"
+          },
+          {
+            "indices": [
+              49,
+              53
+            ],
+            "text": "IRN"
+          },
+          {
+            "indices": [
+              56,
+              60
+            ],
+            "text": "POR"
+          },
+          {
+            "indices": [
+              63,
+              67
+            ],
+            "text": "ESP"
+          },
+          {
+            "indices": [
+              70,
+              84
+            ],
+            "text": "FridayFeeling"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/G7m1KFrhjP",
+            "indices": [
+              90,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007546862562242560",
+            "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+            "id": 1007546862562242560,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+            "url": "https://t.co/G7m1KFrhjP"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        89
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 125,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/982799941859819520/zXcBv3so_normal.jpg",
+        "listed_count": 0,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 2729,
+        "description": "A human. Being. I like to draw on foggy windows.",
+        "created_at": "Wed May 10 05:58:17 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "saskanet",
+        "id_str": "862185000673755136",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 862185000673755136,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "es",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/982799941859819520/zXcBv3so_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862185000673755136/1522011215",
+        "statuses_count": 197,
+        "follow_request_sent": null,
+        "followers_count": 1281,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Nes",
+        "location": "Regina, Saskatchewan",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007619288587370496",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007619288587370496,
+    "text": "RT @saskanet: Today’s #WorldCup Matches! \n\n#EGY 🆚 #URU\n\n#MAR 🆚 #IRN \n\n#POR 🆚 #ESP \n\n#FridayFeeling ⚽️ 📺 https://t.co/G7m1KFrhjP",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529070133717",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            22,
+            31
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            43,
+            47
+          ],
+          "text": "EGY"
+        },
+        {
+          "indices": [
+            50,
+            54
+          ],
+          "text": "URU"
+        },
+        {
+          "indices": [
+            56,
+            60
+          ],
+          "text": "MAR"
+        },
+        {
+          "indices": [
+            63,
+            67
+          ],
+          "text": "IRN"
+        },
+        {
+          "indices": [
+            70,
+            74
+          ],
+          "text": "POR"
+        },
+        {
+          "indices": [
+            77,
+            81
+          ],
+          "text": "ESP"
+        },
+        {
+          "indices": [
+            84,
+            98
+          ],
+          "text": "FridayFeeling"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/G7m1KFrhjP",
+          "source_user_id": 862185000673755136,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+          "source_status_id": 1007546875359068161,
+          "url": "https://t.co/G7m1KFrhjP",
+          "indices": [
+            104,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 270,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007546862562242560",
+          "expanded_url": "https://twitter.com/saskanet/status/1007546875359068161/photo/1",
+          "source_status_id_str": "1007546875359068161",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfuGiIWU8AAIIXN.jpg",
+          "id": 1007546862562242560,
+          "source_user_id_str": "862185000673755136"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "saskanet",
+          "id_str": "862185000673755136",
+          "name": "Nes",
+          "id": 862185000673755136
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5001,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5718,
+      "description": null,
+      "created_at": "Thu May 17 05:56:13 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "FellaSahla",
+      "id_str": "996992766243586051",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 996992766243586051,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996993196386234373/CPfLEG76_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8382,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fella Sahla",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

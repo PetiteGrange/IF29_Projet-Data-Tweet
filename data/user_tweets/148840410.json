@@ -1,0 +1,213 @@
+[
+  {
+    "created_date": "2018-06-15 20:40:22",
+    "current_time": 1529088022329,
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:30:12 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007691760288583680",
+      "in_reply_to_user_id": null,
+      "favorite_count": 7,
+      "id": 1007691760288583680,
+      "text": "TO THINK!!!...... that Chelsea shipped off Diego Costa to acquire Morata, tells you how much of a joke the London club is. \n\nUnthinkable.",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 1,
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 2658,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/536522705504587776/XH8DtMTB_normal.jpeg",
+        "listed_count": 70,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 4884,
+        "description": "Sustainability Consultant | Fervid in my convictions | Gentle in my mannerisms | Voracious Arsenal apologist",
+        "created_at": "Mon Sep 05 15:14:36 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "protected": false,
+        "screen_name": "9jaBloke",
+        "id_str": "368386840",
+        "profile_link_color": "1F98C7",
+        "translator_type": "none",
+        "id": 368386840,
+        "geo_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "lang": "en",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_text_color": "663B12",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/536522705504587776/XH8DtMTB_normal.jpeg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/368386840/1451914450",
+        "statuses_count": 111531,
+        "follow_request_sent": null,
+        "followers_count": 9292,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Charles the 1st",
+        "location": "Sheffield - Lagos - PHC",
+        "profile_sidebar_fill_color": "DAECF4",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:22 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "quoted_status_id": 1007691760288583680,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007694317622882305",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694317622882305,
+    "text": "Let's focus on #WorldCup https://t.co/rWXJmE7ZUy",
+    "place": {
+      "country_code": "NG",
+      "country": "Nigeria",
+      "full_name": "Ibadan, Nigeria",
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              3.777011,
+              7.299143
+            ],
+            [
+              3.777011,
+              7.559006
+            ],
+            [
+              4.033582,
+              7.559006
+            ],
+            [
+              4.033582,
+              7.299143
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "place_type": "city",
+      "name": "Ibadan",
+      "attributes": {},
+      "id": "0065f09a6666479e",
+      "url": "https://api.twitter.com/1.1/geo/id/0065f09a6666479e.json"
+    },
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/9jaBloke/status/1007691760288583680",
+      "display": "twitter.com/9jaBloke/statu…",
+      "url": "https://t.co/rWXJmE7ZUy"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088022033",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/9jaBloke/statu…",
+          "indices": [
+            25,
+            48
+          ],
+          "expanded_url": "https://twitter.com/9jaBloke/status/1007691760288583680",
+          "url": "https://t.co/rWXJmE7ZUy"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            24
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      24
+    ],
+    "quoted_status_id_str": "1007691760288583680",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 678,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992289378339729408/sBNHHL9K_normal.jpg",
+      "listed_count": 14,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 246,
+      "description": "Principal Partner Sil Garment Care, Entrepreneur,Facility Manager,Risk Taker, Ávid Gunner. A person who chases two rabbits catches neither. #stayfocused",
+      "created_at": "Thu May 27 18:58:34 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "protected": false,
+      "screen_name": "horlarjyde",
+      "id_str": "148840410",
+      "profile_link_color": "9D582E",
+      "translator_type": "none",
+      "id": 148840410,
+      "geo_enabled": true,
+      "profile_background_color": "8B542B",
+      "lang": "en",
+      "profile_sidebar_border_color": "D9B17E",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992289378339729408/sBNHHL9K_normal.jpg",
+      "time_zone": null,
+      "url": "https://m.facebook.com/awe.olajide.5?ref=bookmarks",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/148840410/1519877875",
+      "statuses_count": 38779,
+      "follow_request_sent": null,
+      "followers_count": 954,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Awe Olajide",
+      "location": "Next To You...",
+      "profile_sidebar_fill_color": "EADEAA",
+      "notifications": null
+    }
+  }
+]

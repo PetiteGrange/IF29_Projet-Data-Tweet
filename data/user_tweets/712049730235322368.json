@@ -1,0 +1,207 @@
+[
+  {
+    "created_date": "2018-06-14 12:52:52",
+    "current_time": 1528973572713,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:52:52 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                116,
+                128
+              ],
+              "text": "CopaDoMundo"
+            },
+            {
+              "indices": [
+                129,
+                138
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                141,
+                160
+              ],
+              "text": "QuintaDetremuraSDV"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "🔄🔄 VOTE E DÊ RT!\n\n🤔 A Copa começa hoje r queremos saber: Você assiste pelo futebol ou pra ver os jogadores gatos? \n\n#CopaDoMundo\n#WorldCup \n\n#QuintaDetremuraSDV",
+        "display_text_range": [
+          0,
+          160
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 10:34:32 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007209667234291712",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007209667234291712,
+      "text": "🔄🔄 VOTE E DÊ RT!\n\n🤔 A Copa começa hoje r queremos saber: Você assiste pelo futebol ou pra ver os jogadores gatos?… https://t.co/cn7belqYx8",
+      "place": null,
+      "lang": "pt",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007209667234291712",
+            "url": "https://t.co/cn7belqYx8"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 374,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948182165061238784/R3qrZ9Dm_normal.jpg",
+        "listed_count": 6,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 12326,
+        "description": "O Comenta Pop é para você que curte Música, Tv, e entretenimento em geral. ⭐⭐ Follow this account if you like TV, Music and more. ⭐⭐ Contato - DM",
+        "created_at": "Mon Mar 21 22:54:19 +0000 2016",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "comentapop",
+        "id_str": "712049730235322368",
+        "profile_link_color": "3B0B39",
+        "translator_type": "none",
+        "id": 712049730235322368,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "pt",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948182165061238784/R3qrZ9Dm_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/712049730235322368/1522584811",
+        "statuses_count": 2687,
+        "follow_request_sent": null,
+        "followers_count": 1185,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Comenta Pop 🔥",
+        "location": null,
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007214281383907328",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007214281383907328,
+    "text": "RT @comentapop: 🔄🔄 VOTE E DÊ RT!\n\n🤔 A Copa começa hoje r queremos saber: Você assiste pelo futebol ou pra ver os jogadores gatos? \n\n#CopaDo…",
+    "place": null,
+    "lang": "pt",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973572475",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "comentapop",
+          "id_str": "712049730235322368",
+          "name": "Comenta Pop 🔥",
+          "id": 712049730235322368
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 374,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/948182165061238784/R3qrZ9Dm_normal.jpg",
+      "listed_count": 6,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 12326,
+      "description": "O Comenta Pop é para você que curte Música, Tv, e entretenimento em geral. ⭐⭐ Follow this account if you like TV, Music and more. ⭐⭐ Contato - DM",
+      "created_at": "Mon Mar 21 22:54:19 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "comentapop",
+      "id_str": "712049730235322368",
+      "profile_link_color": "3B0B39",
+      "translator_type": "none",
+      "id": 712049730235322368,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "pt",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/948182165061238784/R3qrZ9Dm_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/712049730235322368/1522584811",
+      "statuses_count": 2688,
+      "follow_request_sent": null,
+      "followers_count": 1185,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Comenta Pop 🔥",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

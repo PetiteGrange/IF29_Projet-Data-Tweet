@@ -1,0 +1,513 @@
+[
+  {
+    "created_date": "2018-06-14 04:27:33",
+    "current_time": 1528943253335,
+    "quoted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/xpSXPxw6wg",
+              "indices": [
+                275,
+                298
+              ],
+              "sizes": {
+                "small": {
+                  "w": 470,
+                  "h": 313,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 470,
+                  "h": 313,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 470,
+                  "h": 313,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006861151047598080",
+              "expanded_url": "https://twitter.com/FahadBuzwair/status/1006861171972927488/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfkW4d5VQAAeGzi.jpg",
+              "id": 1006861151047598080,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfkW4d5VQAAeGzi.jpg",
+              "url": "https://t.co/xpSXPxw6wg"
+            },
+            {
+              "display_url": "pic.twitter.com/xpSXPxw6wg",
+              "indices": [
+                275,
+                298
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 471,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 471,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006861151076900864",
+              "expanded_url": "https://twitter.com/FahadBuzwair/status/1006861171972927488/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfkW4eAUYAAmooo.jpg",
+              "id": 1006861151076900864,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfkW4eAUYAAmooo.jpg",
+              "url": "https://t.co/xpSXPxw6wg"
+            },
+            {
+              "display_url": "pic.twitter.com/xpSXPxw6wg",
+              "indices": [
+                275,
+                298
+              ],
+              "sizes": {
+                "small": {
+                  "w": 470,
+                  "h": 264,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 470,
+                  "h": 264,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 470,
+                  "h": 264,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006861151076925441",
+              "expanded_url": "https://twitter.com/FahadBuzwair/status/1006861171972927488/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfkW4eAUwAEghAK.jpg",
+              "id": 1006861151076925441,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfkW4eAUwAEghAK.jpg",
+              "url": "https://t.co/xpSXPxw6wg"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                12,
+                19
+              ],
+              "text": "المغرب"
+            },
+            {
+              "indices": [
+                61,
+                72
+              ],
+              "text": "المغرب2026"
+            },
+            {
+              "indices": [
+                101,
+                109
+              ],
+              "text": "قطر2022"
+            },
+            {
+              "indices": [
+                252,
+                264
+              ],
+              "text": "morocco2026"
+            },
+            {
+              "indices": [
+                265,
+                274
+              ],
+              "text": "worldcup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/xpSXPxw6wg",
+              "indices": [
+                275,
+                298
+              ],
+              "sizes": {
+                "small": {
+                  "w": 470,
+                  "h": 313,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 470,
+                  "h": 313,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 470,
+                  "h": 313,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006861151047598080",
+              "expanded_url": "https://twitter.com/FahadBuzwair/status/1006861171972927488/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfkW4d5VQAAeGzi.jpg",
+              "id": 1006861151047598080,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfkW4d5VQAAeGzi.jpg",
+              "url": "https://t.co/xpSXPxw6wg"
+            },
+            {
+              "display_url": "pic.twitter.com/xpSXPxw6wg",
+              "indices": [
+                275,
+                298
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 471,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 471,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006861151076900864",
+              "expanded_url": "https://twitter.com/FahadBuzwair/status/1006861171972927488/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfkW4eAUYAAmooo.jpg",
+              "id": 1006861151076900864,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfkW4eAUYAAmooo.jpg",
+              "url": "https://t.co/xpSXPxw6wg"
+            },
+            {
+              "display_url": "pic.twitter.com/xpSXPxw6wg",
+              "indices": [
+                275,
+                298
+              ],
+              "sizes": {
+                "small": {
+                  "w": 470,
+                  "h": 264,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 470,
+                  "h": 264,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 470,
+                  "h": 264,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006861151076925441",
+              "expanded_url": "https://twitter.com/FahadBuzwair/status/1006861171972927488/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfkW4eAUwAEghAK.jpg",
+              "id": 1006861151076925441,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfkW4eAUwAEghAK.jpg",
+              "url": "https://t.co/xpSXPxw6wg"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "حظ أوفر للـ #المغرب الشقيق 🇲🇦\n\nقلوبنا كانت معكم، وتمنينا فوز #المغرب2026 لنفرح كما فرح كل العرب بفوز #قطر2022  ، ولكن قدر الله وماشاء فعل.\n \n✅ فخورون بكم \n✅وبإصراركم للفوز ومنافستكم لكبرى دول العالم\n\nوتمنياتنا من القلب لكم بمستقبل قادم أفضل و أجمل 🙏🏼\n\n#morocco2026\n#worldcup https://t.co/xpSXPxw6wg",
+        "display_text_range": [
+          0,
+          274
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 11:29:44 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 259,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1006861171972927488",
+      "in_reply_to_user_id": null,
+      "favorite_count": 466,
+      "id": 1006861171972927488,
+      "text": "حظ أوفر للـ #المغرب الشقيق 🇲🇦\n\nقلوبنا كانت معكم، وتمنينا فوز #المغرب2026 لنفرح كما فرح كل العرب بفوز #قطر2022  ، ول… https://t.co/ysfga8sFbf",
+      "place": null,
+      "lang": "ar",
+      "quote_count": 3,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 46,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1006861171972927488",
+            "url": "https://t.co/ysfga8sFbf"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              12,
+              19
+            ],
+            "text": "المغرب"
+          },
+          {
+            "indices": [
+              61,
+              72
+            ],
+            "text": "المغرب2026"
+          },
+          {
+            "indices": [
+              101,
+              109
+            ],
+            "text": "قطر2022"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1616,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006017373248393216/49BhdqZs_normal.jpg",
+        "listed_count": 174,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 3386,
+        "description": "😀ياحظك! لقيتني أخيراً |👻|Buzwair |📩|Fahad@alaqat.co |☎| +974-50444646",
+        "created_at": "Sat Dec 11 00:03:59 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "protected": false,
+        "screen_name": "FahadBuzwair",
+        "id_str": "225204919",
+        "profile_link_color": "CC3366",
+        "translator_type": "none",
+        "id": 225204919,
+        "geo_enabled": true,
+        "profile_background_color": "DBE9ED",
+        "lang": "ar",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006017373248393216/49BhdqZs_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.snapchat.com/add/buzwair",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225204919/1453420966",
+        "statuses_count": 30997,
+        "follow_request_sent": null,
+        "followers_count": 97430,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "فهد بن عبدالعزيز",
+        "location": "Qatar",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:27:30 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "quoted_status_id": 1006861171972927488,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007087102708756480",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007087102708756480,
+    "text": "للتوضيح فقط ليس كل العرب فرحو بتنظيم # قطر للمونديال https://t.co/QZQ0kXjaos",
+    "place": {
+      "country_code": "QA",
+      "country": "دولة قطر",
+      "full_name": "الريان, دولة قطر",
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              50.750076,
+              24.567387
+            ],
+            [
+              50.750076,
+              25.808051
+            ],
+            [
+              51.54436,
+              25.808051
+            ],
+            [
+              51.54436,
+              24.567387
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "place_type": "admin",
+      "name": "الريان",
+      "attributes": {},
+      "id": "0033b59d59056043",
+      "url": "https://api.twitter.com/1.1/geo/id/0033b59d59056043.json"
+    },
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/fahadbuzwair/status/1006861171972927488",
+      "display": "twitter.com/fahadbuzwair/s…",
+      "url": "https://t.co/QZQ0kXjaos"
+    },
+    "lang": "ar",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528943250716",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/fahadbuzwair/s…",
+          "indices": [
+            53,
+            76
+          ],
+          "expanded_url": "https://twitter.com/fahadbuzwair/status/1006861171972927488",
+          "url": "https://t.co/QZQ0kXjaos"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      52
+    ],
+    "quoted_status_id_str": "1006861171972927488",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 166,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991468631451209729/1Qn9y9N__normal.jpg",
+      "listed_count": 3,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 153,
+      "description": "football referee",
+      "created_at": "Mon Sep 26 21:48:41 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "M557_",
+      "id_str": "380576464",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 380576464,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "ar",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991468631451209729/1Qn9y9N__normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/380576464/1447140589",
+      "statuses_count": 4455,
+      "follow_request_sent": null,
+      "followers_count": 921,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Mohammed alshammari",
+      "location": "QATAR",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

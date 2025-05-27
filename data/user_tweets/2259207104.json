@@ -1,1 +1,424 @@
-{"created_date": "2018-06-15 20:57:23", "current_time": 1529089043581, "extended_entities": {"media": [{"display_url": "pic.twitter.com/4mGgMIYU32", "source_user_id": 95331070, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "source_status_id": 1007278800869249024, "url": "https://t.co/4mGgMIYU32", "indices": [89, 112], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 1000, "h": 665, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1000, "h": 665, "resize": "fit"}}, "id_str": "1007278795777368064", "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1", "source_status_id_str": "1007278800869249024", "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "id": 1007278795777368064, "source_user_id_str": "95331070"}, {"display_url": "pic.twitter.com/4mGgMIYU32", "source_user_id": 95331070, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg", "source_status_id": 1007278800869249024, "url": "https://t.co/4mGgMIYU32", "indices": [89, 112], "sizes": {"small": {"w": 680, "h": 475, "resize": "fit"}, "large": {"w": 1024, "h": 716, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1024, "h": 716, "resize": "fit"}}, "id_str": "1007278795756326912", "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1", "source_status_id_str": "1007278800869249024", "media_url_https": "https://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg", "id": 1007278795756326912, "source_user_id_str": "95331070"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 18:57:23 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/4mGgMIYU32", "indices": [70, 93], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 1000, "h": 665, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1000, "h": 665, "resize": "fit"}}, "id_str": "1007278795777368064", "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "id": 1007278795777368064, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "url": "https://t.co/4mGgMIYU32"}, {"display_url": "pic.twitter.com/4mGgMIYU32", "indices": [70, 93], "sizes": {"small": {"w": 680, "h": 475, "resize": "fit"}, "large": {"w": 1024, "h": 716, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1024, "h": 716, "resize": "fit"}}, "id_str": "1007278795756326912", "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg", "id": 1007278795756326912, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg", "url": "https://t.co/4mGgMIYU32"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:09:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 20879, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007278800869249024", "in_reply_to_user_id": null, "favorite_count": 61740, "id": 1007278800869249024, "text": "AH MEU DEUS OS FILHOS DELE LEVARAM A TA\u00c7A E O CHAPEU DELE #Russia2018 https://t.co/4mGgMIYU32", "place": null, "lang": "pt", "quote_count": 2822, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 244, "entities": {"urls": [], "hashtags": [{"indices": [58, 69], "text": "Russia2018"}], "media": [{"display_url": "pic.twitter.com/4mGgMIYU32", "indices": [70, 93], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 1000, "h": 665, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1000, "h": 665, "resize": "fit"}}, "id_str": "1007278795777368064", "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "id": 1007278795777368064, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "url": "https://t.co/4mGgMIYU32"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 69], "contributors": null, "user": {"utc_offset": null, "friends_count": 2508, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006944778179801088/FCz_QGf3_normal.jpg", "listed_count": 217, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2705, "description": "We don't need no piece of paper from the city hall. [Fan Account]", "created_at": "Tue Dec 08 02:17:03 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "legendarychld", "id_str": "95331070", "profile_link_color": "91D2FA", "translator_type": "none", "id": 95331070, "geo_enabled": true, "profile_background_color": "FFFAFF", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006944778179801088/FCz_QGf3_normal.jpg", "time_zone": null, "url": "https://curiouscat.me/legendarychld", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/95331070/1528922315", "statuses_count": 272191, "follow_request_sent": null, "followers_count": 3982, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "thain\u00e1", "location": "timelarry", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007698601051553792", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007698601051553792, "text": "RT @legendarychld: AH MEU DEUS OS FILHOS DELE LEVARAM A TA\u00c7A E O CHAPEU DELE #Russia2018 https://t.co/4mGgMIYU32", "place": null, "lang": "pt", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529089043282", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [77, 88], "text": "Russia2018"}], "media": [{"display_url": "pic.twitter.com/4mGgMIYU32", "source_user_id": 95331070, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "source_status_id": 1007278800869249024, "url": "https://t.co/4mGgMIYU32", "indices": [89, 112], "sizes": {"small": {"w": 680, "h": 452, "resize": "fit"}, "large": {"w": 1000, "h": 665, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1000, "h": 665, "resize": "fit"}}, "id_str": "1007278795777368064", "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1", "source_status_id_str": "1007278800869249024", "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg", "id": 1007278795777368064, "source_user_id_str": "95331070"}], "user_mentions": [{"indices": [3, 17], "screen_name": "legendarychld", "id_str": "95331070", "name": "thain\u00e1", "id": 95331070}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1304, "profile_image_url_https": "https://pbs.twimg.com/profile_images/978062884352741376/9-04Y8_e_normal.jpg", "listed_count": 8, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 94945, "description": null, "created_at": "Mon Dec 23 17:40:05 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "_Someplace_", "id_str": "2259207104", "profile_link_color": "0D0D0D", "translator_type": "none", "id": 2259207104, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "pt", "profile_sidebar_border_color": "000000", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/978062884352741376/9-04Y8_e_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2259207104/1523611744", "statuses_count": 60501, "follow_request_sent": null, "followers_count": 1653, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Bea", "location": "Instagram: _descolorir_", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-15 20:57:23",
+    "current_time": 1529089043581,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4mGgMIYU32",
+          "source_user_id": 95331070,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+          "source_status_id": 1007278800869249024,
+          "url": "https://t.co/4mGgMIYU32",
+          "indices": [
+            89,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 665,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 665,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007278795777368064",
+          "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1",
+          "source_status_id_str": "1007278800869249024",
+          "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+          "id": 1007278795777368064,
+          "source_user_id_str": "95331070"
+        },
+        {
+          "display_url": "pic.twitter.com/4mGgMIYU32",
+          "source_user_id": 95331070,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg",
+          "source_status_id": 1007278800869249024,
+          "url": "https://t.co/4mGgMIYU32",
+          "indices": [
+            89,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 475,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 716,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 716,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007278795756326912",
+          "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1",
+          "source_status_id_str": "1007278800869249024",
+          "media_url_https": "https://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg",
+          "id": 1007278795756326912,
+          "source_user_id_str": "95331070"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:57:23 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4mGgMIYU32",
+            "indices": [
+              70,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 665,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 665,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007278795777368064",
+            "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+            "id": 1007278795777368064,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+            "url": "https://t.co/4mGgMIYU32"
+          },
+          {
+            "display_url": "pic.twitter.com/4mGgMIYU32",
+            "indices": [
+              70,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 475,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 716,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 716,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007278795756326912",
+            "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg",
+            "id": 1007278795756326912,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqSulrW0AAwd8Y.jpg",
+            "url": "https://t.co/4mGgMIYU32"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:09:15 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 20879,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007278800869249024",
+      "in_reply_to_user_id": null,
+      "favorite_count": 61740,
+      "id": 1007278800869249024,
+      "text": "AH MEU DEUS OS FILHOS DELE LEVARAM A TAÇA E O CHAPEU DELE #Russia2018 https://t.co/4mGgMIYU32",
+      "place": null,
+      "lang": "pt",
+      "quote_count": 2822,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 244,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              58,
+              69
+            ],
+            "text": "Russia2018"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4mGgMIYU32",
+            "indices": [
+              70,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 665,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 665,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007278795777368064",
+            "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+            "id": 1007278795777368064,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+            "url": "https://t.co/4mGgMIYU32"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        69
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 2508,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006944778179801088/FCz_QGf3_normal.jpg",
+        "listed_count": 217,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 2705,
+        "description": "We don't need no piece of paper from the city hall. [Fan Account]",
+        "created_at": "Tue Dec 08 02:17:03 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "legendarychld",
+        "id_str": "95331070",
+        "profile_link_color": "91D2FA",
+        "translator_type": "none",
+        "id": 95331070,
+        "geo_enabled": true,
+        "profile_background_color": "FFFAFF",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006944778179801088/FCz_QGf3_normal.jpg",
+        "time_zone": null,
+        "url": "https://curiouscat.me/legendarychld",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95331070/1528922315",
+        "statuses_count": 272191,
+        "follow_request_sent": null,
+        "followers_count": 3982,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "thainá",
+        "location": "timelarry",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007698601051553792",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007698601051553792,
+    "text": "RT @legendarychld: AH MEU DEUS OS FILHOS DELE LEVARAM A TAÇA E O CHAPEU DELE #Russia2018 https://t.co/4mGgMIYU32",
+    "place": null,
+    "lang": "pt",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529089043282",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            77,
+            88
+          ],
+          "text": "Russia2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4mGgMIYU32",
+          "source_user_id": 95331070,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+          "source_status_id": 1007278800869249024,
+          "url": "https://t.co/4mGgMIYU32",
+          "indices": [
+            89,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 665,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 665,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007278795777368064",
+          "expanded_url": "https://twitter.com/legendarychld/status/1007278800869249024/photo/1",
+          "source_status_id_str": "1007278800869249024",
+          "media_url_https": "https://pbs.twimg.com/media/DfqSulwX4AA88Ml.jpg",
+          "id": 1007278795777368064,
+          "source_user_id_str": "95331070"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "legendarychld",
+          "id_str": "95331070",
+          "name": "thainá",
+          "id": 95331070
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1304,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978062884352741376/9-04Y8_e_normal.jpg",
+      "listed_count": 8,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 94945,
+      "description": null,
+      "created_at": "Mon Dec 23 17:40:05 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "_Someplace_",
+      "id_str": "2259207104",
+      "profile_link_color": "0D0D0D",
+      "translator_type": "none",
+      "id": 2259207104,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "pt",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978062884352741376/9-04Y8_e_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2259207104/1523611744",
+      "statuses_count": 60501,
+      "follow_request_sent": null,
+      "followers_count": 1653,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Bea",
+      "location": "Instagram: _descolorir_",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "created_date": "2018-06-15 20:44:35",
+    "current_time": 1529088275186,
+    "in_reply_to_status_id_str": "1007692920344989696",
+    "in_reply_to_status_id": 1007692920344989696,
+    "created_at": "Fri Jun 15 18:44:34 +0000 2018",
+    "in_reply_to_user_id_str": "14409814",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": "Sk4tz",
+    "is_quote_status": false,
+    "id_str": "1007695378332807168",
+    "in_reply_to_user_id": 14409814,
+    "favorite_count": 0,
+    "id": 1007695378332807168,
+    "text": "De Gea macht Fehler?! 🤔\n\n#PORESP  \n\n#WM2018 #WC2018 #WorldCup2018 #Russia2018",
+    "place": null,
+    "lang": "de",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088274926",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            25,
+            32
+          ],
+          "text": "PORESP"
+        },
+        {
+          "indices": [
+            36,
+            43
+          ],
+          "text": "WM2018"
+        },
+        {
+          "indices": [
+            44,
+            51
+          ],
+          "text": "WC2018"
+        },
+        {
+          "indices": [
+            52,
+            65
+          ],
+          "text": "WorldCup2018"
+        },
+        {
+          "indices": [
+            66,
+            77
+          ],
+          "text": "Russia2018"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 110,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/948928465868410881/IyCoM01D_normal.jpg",
+      "listed_count": 58,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 160419,
+      "description": "2005-04-20 💑 ➡️ 2018-04-20🤵💍👰 @MrsSk4tz | 2014-05-10 💝 Helene Fischer",
+      "created_at": "Wed Apr 16 16:30:02 +0000 2008",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false,
+      "screen_name": "Sk4tz",
+      "id_str": "14409814",
+      "profile_link_color": "ABB8C2",
+      "translator_type": "none",
+      "id": 14409814,
+      "geo_enabled": true,
+      "profile_background_color": "1A1B1F",
+      "lang": "en",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_text_color": "666666",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/948928465868410881/IyCoM01D_normal.jpg",
+      "time_zone": null,
+      "url": "http://google.com/+AdamPavlukov",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14409814/1515077176",
+      "statuses_count": 69492,
+      "follow_request_sent": null,
+      "followers_count": 619,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Adam Pavljukov",
+      "location": "Hamburg, Germany",
+      "profile_sidebar_fill_color": "252429",
+      "notifications": null
+    }
+  }
+]

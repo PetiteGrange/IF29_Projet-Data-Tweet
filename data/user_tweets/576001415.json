@@ -1,0 +1,338 @@
+[
+  {
+    "created_date": "2018-06-14 12:51:38",
+    "current_time": 1528973498178,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:51:37 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/KGcyIBm464",
+              "indices": [
+                149,
+                172
+              ],
+              "sizes": {
+                "small": {
+                  "w": 481,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1448,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007188016920694784",
+              "expanded_url": "https://twitter.com/MAV_Preston/status/1007188022788542469/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpAKkKWkAAb_e0.jpg",
+              "id": 1007188016920694784,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpAKkKWkAAb_e0.jpg",
+              "url": "https://t.co/KGcyIBm464"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                87,
+                96
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                140,
+                143
+              ],
+              "text": "DV"
+            },
+            {
+              "indices": [
+                144,
+                148
+              ],
+              "text": "VAW"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/KGcyIBm464",
+              "indices": [
+                149,
+                172
+              ],
+              "sizes": {
+                "small": {
+                  "w": 481,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1448,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007188016920694784",
+              "expanded_url": "https://twitter.com/MAV_Preston/status/1007188022788542469/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpAKkKWkAAb_e0.jpg",
+              "id": 1007188016920694784,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpAKkKWkAAb_e0.jpg",
+              "url": "https://t.co/KGcyIBm464"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                31,
+                46
+              ],
+              "screen_name": "WhiteRibbon_UK",
+              "id_str": "40346974",
+              "name": "White Ribbon UK",
+              "id": 40346974
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "Good &amp; simple message from @WhiteRibbon_UK. Domestic abuse may increase during the #WorldCup, but football or alcohol DO NOT excuse it! #DV #VAW https://t.co/KGcyIBm464",
+        "display_text_range": [
+          0,
+          148
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 09:08:31 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 7,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007188022788542469",
+      "in_reply_to_user_id": null,
+      "favorite_count": 10,
+      "id": 1007188022788542469,
+      "text": "Good &amp; simple message from @WhiteRibbon_UK. Domestic abuse may increase during the #WorldCup, but football or alcoh… https://t.co/Cg5BCkx5dl",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007188022788542469",
+            "url": "https://t.co/Cg5BCkx5dl"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              87,
+              96
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              31,
+              46
+            ],
+            "screen_name": "WhiteRibbon_UK",
+            "id_str": "40346974",
+            "name": "White Ribbon UK",
+            "id": 40346974
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 2784,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/934071097649221632/xtrZNVgi_normal.jpg",
+        "listed_count": 185,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 2660,
+        "description": "MAV is a men's campaign to end violence against women. Also concerned about male victims of abuse & homophobic bullying. Email: mavpreston@hotmail.co.uk",
+        "created_at": "Sat Jul 30 16:16:42 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "MAV_Preston",
+        "id_str": "345442962",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 345442962,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/934071097649221632/xtrZNVgi_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345442962/1511693510",
+        "statuses_count": 27759,
+        "follow_request_sent": null,
+        "followers_count": 9980,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Men Against Violence",
+        "location": "Preston, Lancashire, UK",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007213968379842560",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007213968379842560,
+    "text": "RT @MAV_Preston: Good &amp; simple message from @WhiteRibbon_UK. Domestic abuse may increase during the #WorldCup, but football or alcohol DO N…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973497849",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            104,
+            113
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "MAV_Preston",
+          "id_str": "345442962",
+          "name": "Men Against Violence",
+          "id": 345442962
+        },
+        {
+          "indices": [
+            48,
+            63
+          ],
+          "screen_name": "WhiteRibbon_UK",
+          "id_str": "40346974",
+          "name": "White Ribbon UK",
+          "id": 40346974
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1767,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/776897165130096640/xCTeXngv_normal.jpg",
+      "listed_count": 73,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 35606,
+      "description": "Sports Consultancy @BARA_Rugby Founder @WhiteRibbon_uk  @MoonlightTrust @StayingPutUK Ambassador @rememberww1 Patron All views are my own",
+      "created_at": "Thu May 10 06:43:26 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ikramofficial",
+      "id_str": "576001415",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 576001415,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/776897165130096640/xCTeXngv_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.whiteribbon.org.uk",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/576001415/1502488792",
+      "statuses_count": 41149,
+      "follow_request_sent": null,
+      "followers_count": 3921,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Ikram Butt",
+      "location": "Leeds ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

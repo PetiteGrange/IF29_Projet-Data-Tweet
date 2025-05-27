@@ -1,1 +1,252 @@
-{"created_date": "2018-06-14 17:48:05", "current_time": 1528991285790, "extended_entities": {"media": [{"display_url": "pic.twitter.com/YKBuuXLXd0", "indices": [66, 89], "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 960, "h": 1280, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 900, "h": 1200, "resize": "fit"}}, "id_str": "1007288536616366086", "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg", "id": 1007288536616366086, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg", "url": "https://t.co/YKBuuXLXd0"}, {"display_url": "pic.twitter.com/YKBuuXLXd0", "indices": [66, 89], "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 960, "h": 1280, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 900, "h": 1200, "resize": "fit"}}, "id_str": "1007288548674940928", "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqbmSIWsAAIkV7.jpg", "id": 1007288548674940928, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqbmSIWsAAIkV7.jpg", "url": "https://t.co/YKBuuXLXd0"}, {"display_url": "pic.twitter.com/YKBuuXLXd0", "indices": [66, 89], "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 960, "h": 1280, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 900, "h": 1200, "resize": "fit"}}, "id_str": "1007288561203281920", "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqbnAzWAAAN1vn.jpg", "id": 1007288561203281920, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqbnAzWAAAN1vn.jpg", "url": "https://t.co/YKBuuXLXd0"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:48:05 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007288573245181952", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007288573245181952, "text": "Start of a whole month of great matches @FIFAWorldCup #Russia2018 https://t.co/YKBuuXLXd0", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528991285035", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [54, 65], "text": "Russia2018"}], "media": [{"display_url": "pic.twitter.com/YKBuuXLXd0", "indices": [66, 89], "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 960, "h": 1280, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 900, "h": 1200, "resize": "fit"}}, "id_str": "1007288536616366086", "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg", "id": 1007288536616366086, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg", "url": "https://t.co/YKBuuXLXd0"}], "user_mentions": [{"indices": [40, 53], "screen_name": "FIFAWorldCup", "id_str": "138372303", "name": "FIFA World Cup \ud83c\udfc6", "id": 138372303}], "symbols": []}, "display_text_range": [0, 65], "contributors": null, "user": {"utc_offset": null, "friends_count": 848, "profile_image_url_https": "https://pbs.twimg.com/profile_images/943037645025873921/TLB9jFn-_normal.jpg", "listed_count": 20, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", "default_profile_image": false, "favourites_count": 947, "description": "global citizen, entrepreneur #Dalivalli", "created_at": "Sat Nov 20 17:51:14 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", "protected": false, "screen_name": "OrkhanAliyev", "id_str": "217841376", "profile_link_color": "1010C7", "translator_type": "regular", "id": 217841376, "geo_enabled": true, "profile_background_color": "131516", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/943037645025873921/TLB9jFn-_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/217841376/1496519528", "statuses_count": 6227, "follow_request_sent": null, "followers_count": 524, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Orkhan Aliyev", "location": "Land of everburning flames \ud83d\udd25", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 17:48:05",
+    "current_time": 1528991285790,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YKBuuXLXd0",
+          "indices": [
+            66,
+            89
+          ],
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007288536616366086",
+          "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg",
+          "id": 1007288536616366086,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg",
+          "url": "https://t.co/YKBuuXLXd0"
+        },
+        {
+          "display_url": "pic.twitter.com/YKBuuXLXd0",
+          "indices": [
+            66,
+            89
+          ],
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007288548674940928",
+          "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqbmSIWsAAIkV7.jpg",
+          "id": 1007288548674940928,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqbmSIWsAAIkV7.jpg",
+          "url": "https://t.co/YKBuuXLXd0"
+        },
+        {
+          "display_url": "pic.twitter.com/YKBuuXLXd0",
+          "indices": [
+            66,
+            89
+          ],
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007288561203281920",
+          "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqbnAzWAAAN1vn.jpg",
+          "id": 1007288561203281920,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqbnAzWAAAN1vn.jpg",
+          "url": "https://t.co/YKBuuXLXd0"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:48:05 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007288573245181952",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007288573245181952,
+    "text": "Start of a whole month of great matches @FIFAWorldCup #Russia2018 https://t.co/YKBuuXLXd0",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528991285035",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            65
+          ],
+          "text": "Russia2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YKBuuXLXd0",
+          "indices": [
+            66,
+            89
+          ],
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007288536616366086",
+          "expanded_url": "https://twitter.com/OrkhanAliyev/status/1007288573245181952/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg",
+          "id": 1007288536616366086,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqbllNXcAY_YCK.jpg",
+          "url": "https://t.co/YKBuuXLXd0"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            40,
+            53
+          ],
+          "screen_name": "FIFAWorldCup",
+          "id_str": "138372303",
+          "name": "FIFA World Cup 🏆",
+          "id": 138372303
+        }
+      ],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      65
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 848,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/943037645025873921/TLB9jFn-_normal.jpg",
+      "listed_count": 20,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 947,
+      "description": "global citizen, entrepreneur #Dalivalli",
+      "created_at": "Sat Nov 20 17:51:14 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "protected": false,
+      "screen_name": "OrkhanAliyev",
+      "id_str": "217841376",
+      "profile_link_color": "1010C7",
+      "translator_type": "regular",
+      "id": 217841376,
+      "geo_enabled": true,
+      "profile_background_color": "131516",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/943037645025873921/TLB9jFn-_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/217841376/1496519528",
+      "statuses_count": 6227,
+      "follow_request_sent": null,
+      "followers_count": 524,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Orkhan Aliyev",
+      "location": "Land of everburning flames 🔥",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "notifications": null
+    }
+  }
+]

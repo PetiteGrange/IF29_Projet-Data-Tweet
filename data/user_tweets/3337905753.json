@@ -1,1 +1,407 @@
-{"created_date": "2018-06-15 02:49:01", "current_time": 1529023741849, "extended_entities": {"media": [{"display_url": "pic.twitter.com/UVotbDS9Y4", "source_user_id": 263456799, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "source_status_id": 1007255724249042944, "url": "https://t.co/UVotbDS9Y4", "indices": [67, 90], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 2048, "h": 1154, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 676, "resize": "fit"}}, "id_str": "1007255691868942337", "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1", "source_status_id_str": "1007255724249042944", "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "id": 1007255691868942337, "source_user_id_str": "263456799"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 00:49:01 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/UVotbDS9Y4", "indices": [52, 75], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 2048, "h": 1154, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 676, "resize": "fit"}}, "id_str": "1007255691868942337", "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "id": 1007255691868942337, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "url": "https://t.co/UVotbDS9Y4"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 13:37:33 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 3, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007255724249042944", "in_reply_to_user_id": null, "favorite_count": 70, "id": 1007255724249042944, "text": "Lleg\u00f3 el d\u00eda! #LuzhnikiStadium\n#WorldCup #Rusia2018 https://t.co/UVotbDS9Y4", "place": {"country_code": "RU", "country": "Rusia", "full_name": "Mosc\u00fa, Rusia", "bounding_box": {"coordinates": [[[36.887816, 55.488324], [36.887816, 56.021251], [37.967469, 56.021251], [37.967469, 55.488324]]], "type": "Polygon"}, "place_type": "city", "name": "Mosc\u00fa", "attributes": {}, "id": "4303d1afc1e98c37", "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json"}, "lang": "es", "quote_count": 1, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 2, "entities": {"urls": [], "hashtags": [{"indices": [14, 30], "text": "LuzhnikiStadium"}, {"indices": [31, 40], "text": "WorldCup"}, {"indices": [41, 51], "text": "Rusia2018"}], "media": [{"display_url": "pic.twitter.com/UVotbDS9Y4", "indices": [52, 75], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 2048, "h": 1154, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 676, "resize": "fit"}}, "id_str": "1007255691868942337", "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "id": 1007255691868942337, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "url": "https://t.co/UVotbDS9Y4"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 51], "contributors": null, "user": {"utc_offset": null, "friends_count": 1112, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006889400616259584/xqm5AXiO_normal.jpg", "listed_count": 30, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 6444, "description": "Views are my own.\n\n#VivaElFutbol!", "created_at": "Thu Mar 10 02:27:33 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "solmunoza", "id_str": "263456799", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 263456799, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "es", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006889400616259584/xqm5AXiO_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/263456799/1528664849", "statuses_count": 28436, "follow_request_sent": null, "followers_count": 2343, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Sol Munoz A.", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007424706008567808", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007424706008567808, "text": "RT @solmunoza: Lleg\u00f3 el d\u00eda! #LuzhnikiStadium\n#WorldCup #Rusia2018 https://t.co/UVotbDS9Y4", "place": null, "lang": "es", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529023741615", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [29, 45], "text": "LuzhnikiStadium"}, {"indices": [46, 55], "text": "WorldCup"}, {"indices": [56, 66], "text": "Rusia2018"}], "media": [{"display_url": "pic.twitter.com/UVotbDS9Y4", "source_user_id": 263456799, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "source_status_id": 1007255724249042944, "url": "https://t.co/UVotbDS9Y4", "indices": [67, 90], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 2048, "h": 1154, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 676, "resize": "fit"}}, "id_str": "1007255691868942337", "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1", "source_status_id_str": "1007255724249042944", "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg", "id": 1007255691868942337, "source_user_id_str": "263456799"}], "user_mentions": [{"indices": [3, 13], "screen_name": "solmunoza", "id_str": "263456799", "name": "Sol Munoz A.", "id": 263456799}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 78, "profile_image_url_https": "https://pbs.twimg.com/profile_images/752153522909708289/mFmSqK0E_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 546, "description": null, "created_at": "Sun Jun 21 00:11:25 +0000 2015", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "VTobartaylor", "id_str": "3337905753", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 3337905753, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "es", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/752153522909708289/mFmSqK0E_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 777, "follow_request_sent": null, "followers_count": 54, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Veronica Tobar T.", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-15 02:49:01",
+    "current_time": 1529023741849,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UVotbDS9Y4",
+          "source_user_id": 263456799,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+          "source_status_id": 1007255724249042944,
+          "url": "https://t.co/UVotbDS9Y4",
+          "indices": [
+            67,
+            90
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1154,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007255691868942337",
+          "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1",
+          "source_status_id_str": "1007255724249042944",
+          "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+          "id": 1007255691868942337,
+          "source_user_id_str": "263456799"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 00:49:01 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UVotbDS9Y4",
+            "indices": [
+              52,
+              75
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1154,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007255691868942337",
+            "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+            "id": 1007255691868942337,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+            "url": "https://t.co/UVotbDS9Y4"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 13:37:33 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 3,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007255724249042944",
+      "in_reply_to_user_id": null,
+      "favorite_count": 70,
+      "id": 1007255724249042944,
+      "text": "Llegó el día! #LuzhnikiStadium\n#WorldCup #Rusia2018 https://t.co/UVotbDS9Y4",
+      "place": {
+        "country_code": "RU",
+        "country": "Rusia",
+        "full_name": "Moscú, Rusia",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                36.887816,
+                55.488324
+              ],
+              [
+                36.887816,
+                56.021251
+              ],
+              [
+                37.967469,
+                56.021251
+              ],
+              [
+                37.967469,
+                55.488324
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "place_type": "city",
+        "name": "Moscú",
+        "attributes": {},
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json"
+      },
+      "lang": "es",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 2,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              30
+            ],
+            "text": "LuzhnikiStadium"
+          },
+          {
+            "indices": [
+              31,
+              40
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              41,
+              51
+            ],
+            "text": "Rusia2018"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UVotbDS9Y4",
+            "indices": [
+              52,
+              75
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1154,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007255691868942337",
+            "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+            "id": 1007255691868942337,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+            "url": "https://t.co/UVotbDS9Y4"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        51
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1112,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006889400616259584/xqm5AXiO_normal.jpg",
+        "listed_count": 30,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 6444,
+        "description": "Views are my own.\n\n#VivaElFutbol!",
+        "created_at": "Thu Mar 10 02:27:33 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "solmunoza",
+        "id_str": "263456799",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 263456799,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "es",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006889400616259584/xqm5AXiO_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263456799/1528664849",
+        "statuses_count": 28436,
+        "follow_request_sent": null,
+        "followers_count": 2343,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Sol Munoz A.",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007424706008567808",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007424706008567808,
+    "text": "RT @solmunoza: Llegó el día! #LuzhnikiStadium\n#WorldCup #Rusia2018 https://t.co/UVotbDS9Y4",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529023741615",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            29,
+            45
+          ],
+          "text": "LuzhnikiStadium"
+        },
+        {
+          "indices": [
+            46,
+            55
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            56,
+            66
+          ],
+          "text": "Rusia2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UVotbDS9Y4",
+          "source_user_id": 263456799,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+          "source_status_id": 1007255724249042944,
+          "url": "https://t.co/UVotbDS9Y4",
+          "indices": [
+            67,
+            90
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1154,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007255691868942337",
+          "expanded_url": "https://twitter.com/solmunoza/status/1007255724249042944/photo/1",
+          "source_status_id_str": "1007255724249042944",
+          "media_url_https": "https://pbs.twimg.com/media/Dfp9tw_WsAEykbx.jpg",
+          "id": 1007255691868942337,
+          "source_user_id_str": "263456799"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "solmunoza",
+          "id_str": "263456799",
+          "name": "Sol Munoz A.",
+          "id": 263456799
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 78,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/752153522909708289/mFmSqK0E_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 546,
+      "description": null,
+      "created_at": "Sun Jun 21 00:11:25 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "VTobartaylor",
+      "id_str": "3337905753",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 3337905753,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "es",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/752153522909708289/mFmSqK0E_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 777,
+      "follow_request_sent": null,
+      "followers_count": 54,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Veronica Tobar T.",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

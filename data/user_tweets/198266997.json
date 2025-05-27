@@ -1,1 +1,340 @@
-{"created_date": "2018-06-16 23:47:24", "current_time": 1529185644479, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 21:47:24 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/wvWh3fUUcG", "source_user_id": 179155772, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg", "source_status_id": 1007686267696484354, "url": "https://t.co/wvWh3fUUcG", "indices": [127, 150], "sizes": {"small": {"w": 680, "h": 385, "resize": "fit"}, "large": {"w": 848, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 848, "h": 480, "resize": "fit"}}, "id_str": "1007686042474999812", "expanded_url": "https://twitter.com/decanocom/status/1007686267696484354/video/1", "source_status_id_str": "1007686267696484354", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg", "id": 1007686042474999812, "source_user_id_str": "179155772", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [53, 30], "duration_millis": 53163, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/636x360/hTH1Kq_rTiFMQ_Qs.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/318x180/pEEnmrZe-vrsREjX.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/pl/uT1WjNfRVORWi0sA.m3u8?tag=3"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [117, 126], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/wvWh3fUUcG", "source_user_id": 179155772, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg", "source_status_id": 1007686267696484354, "url": "https://t.co/wvWh3fUUcG", "indices": [127, 150], "sizes": {"small": {"w": 680, "h": 385, "resize": "fit"}, "large": {"w": 848, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 848, "h": 480, "resize": "fit"}}, "id_str": "1007686042474999812", "expanded_url": "https://twitter.com/decanocom/status/1007686267696484354/video/1", "source_status_id_str": "1007686267696484354", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg", "id": 1007686042474999812, "source_user_id_str": "179155772", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [53, 30], "duration_millis": 53163, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/636x360/hTH1Kq_rTiFMQ_Qs.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/318x180/pEEnmrZe-vrsREjX.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/pl/uT1WjNfRVORWi0sA.m3u8?tag=3"}]}}], "user_mentions": [], "symbols": []}, "full_text": "This is the best video you\u2019ll see today. School kids in Uruguay reacting to their late winner. More than a game. \ud83d\ude0d\ud83c\uddfa\ud83c\uddfe #WorldCup https://t.co/wvWh3fUUcG", "display_text_range": [0, 150]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 00:12:42 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 10859, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007777952992497664", "in_reply_to_user_id": null, "favorite_count": 25520, "id": 1007777952992497664, "text": "This is the best video you\u2019ll see today. School kids in Uruguay reacting to their late winner. More than a game. \ud83d\ude0d\u2026 https://t.co/TOHMLfdppJ", "place": null, "lang": "en", "quote_count": 2869, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 401, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007777952992497664", "url": "https://t.co/TOHMLfdppJ"}], "hashtags": [], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 557, "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "listed_count": 113, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3052, "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd", "created_at": "Mon Nov 18 12:29:31 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Krowd9", "id_str": "2201228281", "profile_link_color": "1B95E0", "translator_type": "none", "id": 2201228281, "geo_enabled": true, "profile_background_color": "D9D9D9", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "time_zone": null, "url": "http://www.krowd9.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410", "statuses_count": 9405, "follow_request_sent": null, "followers_count": 15627, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Krowd9 | 2018 World Cup \ud83c\udfc6", "location": "England, United Kingdom", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008103774223785984", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008103774223785984, "text": "RT @Krowd9: This is the best video you\u2019ll see today. School kids in Uruguay reacting to their late winner. More than a game. \ud83d\ude0d\ud83c\uddfa\ud83c\uddfe #WorldCup\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529185644094", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [129, 138], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 10], "screen_name": "Krowd9", "id_str": "2201228281", "name": "Krowd9 | 2018 World Cup \ud83c\udfc6", "id": 2201228281}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 876, "profile_image_url_https": "https://pbs.twimg.com/profile_images/798621968350248961/1xTAqwOT_normal.jpg", "listed_count": 23, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 6011, "description": "\u2022Athens 04 Beijing 08 London 2012 athlete \u2022 @teamwales 2014 \u2022 Retired teacher \u2022 My views not my employer @clwbsgiliau", "created_at": "Sun Oct 03 20:40:43 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "SteffRhughes", "id_str": "198266997", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 198266997, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/798621968350248961/1xTAqwOT_normal.jpg", "time_zone": null, "url": "http://www.sgiliau.co.uk", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/198266997/1489779775", "statuses_count": 13377, "follow_request_sent": null, "followers_count": 2185, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Steff Hughes", "location": "Caerfyrddin, Cymru.", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 23:47:24",
+    "current_time": 1529185644479,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 21:47:24 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/wvWh3fUUcG",
+              "source_user_id": 179155772,
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg",
+              "source_status_id": 1007686267696484354,
+              "url": "https://t.co/wvWh3fUUcG",
+              "indices": [
+                127,
+                150
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 385,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 480,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007686042474999812",
+              "expanded_url": "https://twitter.com/decanocom/status/1007686267696484354/video/1",
+              "source_status_id_str": "1007686267696484354",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg",
+              "id": 1007686042474999812,
+              "source_user_id_str": "179155772",
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  53,
+                  30
+                ],
+                "duration_millis": 53163,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/636x360/hTH1Kq_rTiFMQ_Qs.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/318x180/pEEnmrZe-vrsREjX.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/pl/uT1WjNfRVORWi0sA.m3u8?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                117,
+                126
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/wvWh3fUUcG",
+              "source_user_id": 179155772,
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg",
+              "source_status_id": 1007686267696484354,
+              "url": "https://t.co/wvWh3fUUcG",
+              "indices": [
+                127,
+                150
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 385,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 480,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007686042474999812",
+              "expanded_url": "https://twitter.com/decanocom/status/1007686267696484354/video/1",
+              "source_status_id_str": "1007686267696484354",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007686042474999812/pu/img/9cGTVe0MXyxdOV0x.jpg",
+              "id": 1007686042474999812,
+              "source_user_id_str": "179155772",
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  53,
+                  30
+                ],
+                "duration_millis": 53163,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/636x360/hTH1Kq_rTiFMQ_Qs.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/vid/318x180/pEEnmrZe-vrsREjX.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007686042474999812/pu/pl/uT1WjNfRVORWi0sA.m3u8?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "This is the best video you’ll see today. School kids in Uruguay reacting to their late winner. More than a game. 😍🇺🇾 #WorldCup https://t.co/wvWh3fUUcG",
+        "display_text_range": [
+          0,
+          150
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 00:12:42 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 10859,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007777952992497664",
+      "in_reply_to_user_id": null,
+      "favorite_count": 25520,
+      "id": 1007777952992497664,
+      "text": "This is the best video you’ll see today. School kids in Uruguay reacting to their late winner. More than a game. 😍… https://t.co/TOHMLfdppJ",
+      "place": null,
+      "lang": "en",
+      "quote_count": 2869,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 401,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007777952992497664",
+            "url": "https://t.co/TOHMLfdppJ"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 557,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+        "listed_count": 113,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3052,
+        "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd",
+        "created_at": "Mon Nov 18 12:29:31 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Krowd9",
+        "id_str": "2201228281",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 2201228281,
+        "geo_enabled": true,
+        "profile_background_color": "D9D9D9",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.krowd9.com",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410",
+        "statuses_count": 9405,
+        "follow_request_sent": null,
+        "followers_count": 15627,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Krowd9 | 2018 World Cup 🏆",
+        "location": "England, United Kingdom",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008103774223785984",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008103774223785984,
+    "text": "RT @Krowd9: This is the best video you’ll see today. School kids in Uruguay reacting to their late winner. More than a game. 😍🇺🇾 #WorldCup…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529185644094",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            129,
+            138
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            10
+          ],
+          "screen_name": "Krowd9",
+          "id_str": "2201228281",
+          "name": "Krowd9 | 2018 World Cup 🏆",
+          "id": 2201228281
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 876,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/798621968350248961/1xTAqwOT_normal.jpg",
+      "listed_count": 23,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 6011,
+      "description": "•Athens 04 Beijing 08 London 2012 athlete • @teamwales 2014 • Retired teacher • My views not my employer @clwbsgiliau",
+      "created_at": "Sun Oct 03 20:40:43 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "SteffRhughes",
+      "id_str": "198266997",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 198266997,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/798621968350248961/1xTAqwOT_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.sgiliau.co.uk",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/198266997/1489779775",
+      "statuses_count": 13377,
+      "follow_request_sent": null,
+      "followers_count": 2185,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Steff Hughes",
+      "location": "Caerfyrddin, Cymru.",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

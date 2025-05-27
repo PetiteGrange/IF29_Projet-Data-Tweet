@@ -1,0 +1,100 @@
+[
+  {
+    "created_date": "2018-06-15 20:44:34",
+    "current_time": 1529088274037,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:44:33 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695373681483776",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695373681483776,
+    "text": "Gol de #POR y pone el 2-1 sobre #ESP #WorldCup",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088273817",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            11
+          ],
+          "text": "POR"
+        },
+        {
+          "indices": [
+            32,
+            36
+          ],
+          "text": "ESP"
+        },
+        {
+          "indices": [
+            37,
+            46
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 842,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991881319624962048/C2NHZveW_normal.jpg",
+      "listed_count": 12,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 14640,
+      "description": "Actor, modelo y conductor./ Mexicano y español/ Culé, Chiva & Cora/ Miami phins/ F1/ Tenis/ Sharapova & Slavic fan/ I am that, I am.",
+      "created_at": "Wed Jan 20 19:24:49 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "jumamusim",
+      "id_str": "106809621",
+      "profile_link_color": "11B1EB",
+      "translator_type": "none",
+      "id": 106809621,
+      "geo_enabled": true,
+      "profile_background_color": "E30938",
+      "lang": "es",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "0CB3E6",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991881319624962048/C2NHZveW_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/106809621/1496022744",
+      "statuses_count": 12152,
+      "follow_request_sent": null,
+      "followers_count": 305,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Juanma Musi",
+      "location": "México",
+      "profile_sidebar_fill_color": "F0F0F0",
+      "notifications": null
+    }
+  }
+]

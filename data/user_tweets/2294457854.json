@@ -1,1 +1,100 @@
-{"created_date": "2018-06-15 16:07:29", "current_time": 1529071649602, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 14:07:29 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007625645596106763", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007625645596106763, "text": "\u30b5\u30c3\u30ab\u30fc\u666e\u6bb5\u306f\u7d76\u5bfe\u898b\u306a\u3044\u3051\u3069world cup\u306f\u898b\u3061\u3083\u3046\u308f\n\n#WorldCup\n#\u30a6\u30eb\u30b0\u30a2\u30a4\ud83c\uddfa\ud83c\uddfe\n#\u30a8\u30b8\u30d7\u30c8\ud83c\uddea\ud83c\uddec", "place": null, "lang": "ja", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529071649346", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [31, 40], "text": "WorldCup"}, {"indices": [41, 47], "text": "\u30a6\u30eb\u30b0\u30a2\u30a4"}, {"indices": [50, 55], "text": "\u30a8\u30b8\u30d7\u30c8"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 351, "profile_image_url_https": "https://pbs.twimg.com/profile_images/902485629312811008/RAag2YlR_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 214, "description": "\u4e0a\u91ce\u539f\u897f/\u65e5\u5ddd/MU.Basketball.#10/21\u6b73/NBA.PG13/LGM/Sky is the limit", "created_at": "Thu Jan 16 13:35:21 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "redhawks107", "id_str": "2294457854", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 2294457854, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "ja", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/902485629312811008/RAag2YlR_normal.jpg", "time_zone": null, "url": "http://Instagram.com/kooozooo10", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294457854/1526377763", "statuses_count": 475, "follow_request_sent": null, "followers_count": 358, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "\u548c\u667a\u5eb7\u9020", "location": "\u5c71\u68a8\u2192\u6771\u4eac", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-15 16:07:29",
+    "current_time": 1529071649602,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 14:07:29 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007625645596106763",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007625645596106763,
+    "text": "サッカー普段は絶対見ないけどworld cupは見ちゃうわ\n\n#WorldCup\n#ウルグアイ🇺🇾\n#エジプト🇪🇬",
+    "place": null,
+    "lang": "ja",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529071649346",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            31,
+            40
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            41,
+            47
+          ],
+          "text": "ウルグアイ"
+        },
+        {
+          "indices": [
+            50,
+            55
+          ],
+          "text": "エジプト"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 351,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/902485629312811008/RAag2YlR_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 214,
+      "description": "上野原西/日川/MU.Basketball.#10/21歳/NBA.PG13/LGM/Sky is the limit",
+      "created_at": "Thu Jan 16 13:35:21 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "redhawks107",
+      "id_str": "2294457854",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2294457854,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "ja",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/902485629312811008/RAag2YlR_normal.jpg",
+      "time_zone": null,
+      "url": "http://Instagram.com/kooozooo10",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294457854/1526377763",
+      "statuses_count": 475,
+      "follow_request_sent": null,
+      "followers_count": 358,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "和智康造",
+      "location": "山梨→東京",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

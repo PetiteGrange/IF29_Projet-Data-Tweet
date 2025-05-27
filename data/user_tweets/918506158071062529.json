@@ -1,0 +1,834 @@
+[
+  {
+    "created_date": "2018-06-14 12:50:30",
+    "current_time": 1528973430610,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:50:30 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Pw1Ar73D2x",
+              "indices": [
+                206,
+                229
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007165713159720960",
+              "expanded_url": "https://twitter.com/WHO_Europe/status/1007166628109389824/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "id": 1007165713159720960,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "url": "https://t.co/Pw1Ar73D2x",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 34440,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/1280x720/Ga_oncMYMXtxQYyH.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/640x360/Wtd_XiCHR91bpN5z.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/pl/XdAUIRRExEFi5cIA.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/320x180/FgZ4ckmqUDtcqigs.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                4,
+                13
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                27,
+                34
+              ],
+              "text": "Russia"
+            },
+            {
+              "indices": [
+                196,
+                205
+              ],
+              "text": "beatNCDs"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Pw1Ar73D2x",
+              "indices": [
+                206,
+                229
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007165713159720960",
+              "expanded_url": "https://twitter.com/WHO_Europe/status/1007166628109389824/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "id": 1007165713159720960,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "url": "https://t.co/Pw1Ar73D2x",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 34440,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/1280x720/Ga_oncMYMXtxQYyH.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/640x360/Wtd_XiCHR91bpN5z.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/pl/XdAUIRRExEFi5cIA.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/320x180/FgZ4ckmqUDtcqigs.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                54,
+                66
+              ],
+              "screen_name": "MINZDRAV_RF",
+              "id_str": "1542881726",
+              "name": "Минздрав РФ",
+              "id": 1542881726
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "The #WorldCup kicks off in #Russia this week! WHO and @MINZDRAV_RF want you to support the game AND your health. Avoid snacks that are high in salt, choose healthy options to protect your heart ❤️#beatNCDs https://t.co/Pw1Ar73D2x",
+        "display_text_range": [
+          0,
+          205
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 07:43:31 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 61,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007166628109389824",
+      "in_reply_to_user_id": null,
+      "favorite_count": 71,
+      "id": 1007166628109389824,
+      "text": "The #WorldCup kicks off in #Russia this week! WHO and @MINZDRAV_RF want you to support the game AND your health. Av… https://t.co/v44iJud6db",
+      "place": null,
+      "lang": "en",
+      "quote_count": 7,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 15,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007166628109389824",
+            "url": "https://t.co/v44iJud6db"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              4,
+              13
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              27,
+              34
+            ],
+            "text": "Russia"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              54,
+              66
+            ],
+            "screen_name": "MINZDRAV_RF",
+            "id_str": "1542881726",
+            "name": "Минздрав РФ",
+            "id": 1542881726
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 833,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/841958015569932289/31W3Calb_normal.jpg",
+        "listed_count": 1267,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 892,
+        "description": "The WHO Regional Office for Europe is one of 6 WHO regional offices around the world. It collaborates with a range of public health stakeholders in the Region.",
+        "created_at": "Mon Mar 22 18:03:22 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WHO_Europe",
+        "id_str": "125403342",
+        "profile_link_color": "0C55C4",
+        "translator_type": "none",
+        "id": 125403342,
+        "geo_enabled": true,
+        "profile_background_color": "06659C",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/841958015569932289/31W3Calb_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.euro.who.int",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125403342/1525161231",
+        "statuses_count": 16341,
+        "follow_request_sent": null,
+        "followers_count": 58878,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "WHO/Europe",
+        "location": "Copenhagen",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007213684983074817",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007213684983074817,
+    "text": "RT @WHO_Europe: The #WorldCup kicks off in #Russia this week! WHO and @MINZDRAV_RF want you to support the game AND your health. Avoid snac…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973430282",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            20,
+            29
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            43,
+            50
+          ],
+          "text": "Russia"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "WHO_Europe",
+          "id_str": "125403342",
+          "name": "WHO/Europe",
+          "id": 125403342
+        },
+        {
+          "indices": [
+            70,
+            82
+          ],
+          "screen_name": "MINZDRAV_RF",
+          "id_str": "1542881726",
+          "name": "Минздрав РФ",
+          "id": 1542881726
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 47,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/925047271460237312/yrG74YET_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 258,
+      "description": "ถูกประนามว่าเป็นผู้มาก่อนกาล",
+      "created_at": "Thu Oct 12 15:58:27 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "Forvote_etc",
+      "id_str": "918506158071062529",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 918506158071062529,
+      "geo_enabled": true,
+      "profile_background_color": "F5F8FA",
+      "lang": "th",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/925047271460237312/yrG74YET_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/918506158071062529/1509384707",
+      "statuses_count": 641,
+      "follow_request_sent": null,
+      "followers_count": 3,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Aeiouuhu",
+      "location": "จ.สงขลา, ประเทศไทย",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 12:52:49",
+    "current_time": 1528973569142,
+    "quoted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Pw1Ar73D2x",
+              "indices": [
+                206,
+                229
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007165713159720960",
+              "expanded_url": "https://twitter.com/WHO_Europe/status/1007166628109389824/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "id": 1007165713159720960,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "url": "https://t.co/Pw1Ar73D2x",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 34440,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/1280x720/Ga_oncMYMXtxQYyH.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/640x360/Wtd_XiCHR91bpN5z.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/pl/XdAUIRRExEFi5cIA.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/320x180/FgZ4ckmqUDtcqigs.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                4,
+                13
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                27,
+                34
+              ],
+              "text": "Russia"
+            },
+            {
+              "indices": [
+                196,
+                205
+              ],
+              "text": "beatNCDs"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Pw1Ar73D2x",
+              "indices": [
+                206,
+                229
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007165713159720960",
+              "expanded_url": "https://twitter.com/WHO_Europe/status/1007166628109389824/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "id": 1007165713159720960,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007165713159720960/pu/img/k4neojnyC77dqVeC.jpg",
+              "url": "https://t.co/Pw1Ar73D2x",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 34440,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/1280x720/Ga_oncMYMXtxQYyH.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/640x360/Wtd_XiCHR91bpN5z.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/pl/XdAUIRRExEFi5cIA.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007165713159720960/pu/vid/320x180/FgZ4ckmqUDtcqigs.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                54,
+                66
+              ],
+              "screen_name": "MINZDRAV_RF",
+              "id_str": "1542881726",
+              "name": "Минздрав РФ",
+              "id": 1542881726
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "The #WorldCup kicks off in #Russia this week! WHO and @MINZDRAV_RF want you to support the game AND your health. Avoid snacks that are high in salt, choose healthy options to protect your heart ❤️#beatNCDs https://t.co/Pw1Ar73D2x",
+        "display_text_range": [
+          0,
+          205
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 07:43:31 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 60,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007166628109389824",
+      "in_reply_to_user_id": null,
+      "favorite_count": 71,
+      "id": 1007166628109389824,
+      "text": "The #WorldCup kicks off in #Russia this week! WHO and @MINZDRAV_RF want you to support the game AND your health. Av… https://t.co/v44iJud6db",
+      "place": null,
+      "lang": "en",
+      "quote_count": 7,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 15,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007166628109389824",
+            "url": "https://t.co/v44iJud6db"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              4,
+              13
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              27,
+              34
+            ],
+            "text": "Russia"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              54,
+              66
+            ],
+            "screen_name": "MINZDRAV_RF",
+            "id_str": "1542881726",
+            "name": "Минздрав РФ",
+            "id": 1542881726
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 833,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/841958015569932289/31W3Calb_normal.jpg",
+        "listed_count": 1267,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 892,
+        "description": "The WHO Regional Office for Europe is one of 6 WHO regional offices around the world. It collaborates with a range of public health stakeholders in the Region.",
+        "created_at": "Mon Mar 22 18:03:22 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WHO_Europe",
+        "id_str": "125403342",
+        "profile_link_color": "0C55C4",
+        "translator_type": "none",
+        "id": 125403342,
+        "geo_enabled": true,
+        "profile_background_color": "06659C",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/841958015569932289/31W3Calb_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.euro.who.int",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125403342/1525161231",
+        "statuses_count": 16341,
+        "follow_request_sent": null,
+        "followers_count": 58878,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "WHO/Europe",
+        "location": "Copenhagen",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:52:48 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "quoted_status_id": 1007166628109389824,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007214266003292162",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007214266003292162,
+    "text": "ดู #บอลโลก2018  ให้สนุกไม่ทุกข์จากโรคเรื้อรัง ระวังการกิน #ลดเค็ม #ลดเกลือ ความดันไม่ขึ้น เชียร์สบายๆ https://t.co/M9uOO6XHme",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/WHO_Europe/status/1007166628109389824",
+      "display": "twitter.com/WHO_Europe/sta…",
+      "url": "https://t.co/M9uOO6XHme"
+    },
+    "lang": "th",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973568808",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/WHO_Europe/sta…",
+          "indices": [
+            102,
+            125
+          ],
+          "expanded_url": "https://twitter.com/WHO_Europe/status/1007166628109389824",
+          "url": "https://t.co/M9uOO6XHme"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "text": "บอลโลก2018"
+        },
+        {
+          "indices": [
+            58,
+            65
+          ],
+          "text": "ลดเค็ม"
+        },
+        {
+          "indices": [
+            66,
+            74
+          ],
+          "text": "ลดเกลือ"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      101
+    ],
+    "quoted_status_id_str": "1007166628109389824",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 47,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/925047271460237312/yrG74YET_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 258,
+      "description": "ถูกประนามว่าเป็นผู้มาก่อนกาล",
+      "created_at": "Thu Oct 12 15:58:27 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "Forvote_etc",
+      "id_str": "918506158071062529",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 918506158071062529,
+      "geo_enabled": true,
+      "profile_background_color": "F5F8FA",
+      "lang": "th",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/925047271460237312/yrG74YET_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/918506158071062529/1509384707",
+      "statuses_count": 641,
+      "follow_request_sent": null,
+      "followers_count": 3,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Aeiouuhu",
+      "location": "จ.สงขลา, ประเทศไทย",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

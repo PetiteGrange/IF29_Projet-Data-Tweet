@@ -1,0 +1,407 @@
+[
+  {
+    "created_date": "2018-06-14 04:19:40",
+    "current_time": 1528942780724,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:19:40 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/erq7sOZUJB",
+              "indices": [
+                272,
+                295
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007084731912146944",
+              "expanded_url": "https://twitter.com/316_ammar/status/1007084754125148162/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfniOlhX0AA_j--.jpg",
+              "id": 1007084731912146944,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfniOlhX0AA_j--.jpg",
+              "url": "https://t.co/erq7sOZUJB"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                23,
+                38
+              ],
+              "text": "كاس_العالم2018"
+            },
+            {
+              "indices": [
+                88,
+                93
+              ],
+              "text": "ينبع"
+            },
+            {
+              "indices": [
+                113,
+                126
+              ],
+              "text": "اصداء_العالم"
+            },
+            {
+              "indices": [
+                128,
+                143
+              ],
+              "text": "البيارق_سعوديه"
+            },
+            {
+              "indices": [
+                144,
+                151
+              ],
+              "text": "beoutq"
+            },
+            {
+              "indices": [
+                152,
+                161
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                163,
+                178
+              ],
+              "text": "السعودية_روسيا"
+            },
+            {
+              "indices": [
+                180,
+                196
+              ],
+              "text": "المنتخب_السعودي"
+            },
+            {
+              "indices": [
+                198,
+                224
+              ],
+              "text": "بالتوفيق_لمنتخبنا_السعودي"
+            },
+            {
+              "indices": [
+                226,
+                247
+              ],
+              "text": "المونديال_علي_beoutQ"
+            },
+            {
+              "indices": [
+                249,
+                271
+              ],
+              "text": "كاس_العالم_روسيا_2018"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/erq7sOZUJB",
+              "indices": [
+                272,
+                295
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007084731912146944",
+              "expanded_url": "https://twitter.com/316_ammar/status/1007084754125148162/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfniOlhX0AA_j--.jpg",
+              "id": 1007084731912146944,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfniOlhX0AA_j--.jpg",
+              "url": "https://t.co/erq7sOZUJB"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "استمتع بمشاهدة مباريات #كاس_العالم2018\nمع اصدقائك في مقهى و ديوانية الاصـالـة 🇸🇦\nالموقع #ينبع - بعد اشارة نفط 🔥🏆\n#اصداء_العالم \n#البيارق_سعوديه\n#beoutq #WorldCup \n#السعودية_روسيا \n#المنتخب_السعودي \n#بالتوفيق_لمنتخبنا_السعودي \n#المونديال_علي_beoutQ \n#كاس_العالم_روسيا_2018 https://t.co/erq7sOZUJB",
+        "display_text_range": [
+          0,
+          271
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 02:18:10 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007084754125148162",
+      "in_reply_to_user_id": null,
+      "favorite_count": 4,
+      "id": 1007084754125148162,
+      "text": "استمتع بمشاهدة مباريات #كاس_العالم2018\nمع اصدقائك في مقهى و ديوانية الاصـالـة 🇸🇦\nالموقع #ينبع - بعد اشارة نفط 🔥🏆… https://t.co/TzgJ7QQY06",
+      "place": {
+        "country_code": "SA",
+        "country": "Kingdom of Saudi Arabia",
+        "full_name": "Yanbu, Kingdom of Saudi Arabia",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                37.932389,
+                23.84889
+              ],
+              [
+                37.932389,
+                24.361158
+              ],
+              [
+                38.449908,
+                24.361158
+              ],
+              [
+                38.449908,
+                23.84889
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "place_type": "city",
+        "name": "Yanbu",
+        "attributes": {},
+        "id": "01c9235e06017c53",
+        "url": "https://api.twitter.com/1.1/geo/id/01c9235e06017c53.json"
+      },
+      "lang": "ar",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007084754125148162",
+            "url": "https://t.co/TzgJ7QQY06"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              23,
+              38
+            ],
+            "text": "كاس_العالم2018"
+          },
+          {
+            "indices": [
+              88,
+              93
+            ],
+            "text": "ينبع"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 4547,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936729989625667584/tOLu_q6y_normal.jpg",
+        "listed_count": 20,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 2315,
+        "description": "اللهم أني اسألك توفيقاً في طريقي  وراحةَ في نفسي وتيسيراً لأمري || هـاوي تـصـويـر📸|| تـغـريداتي في المفضلة ||",
+        "created_at": "Sun Jun 17 07:19:12 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "316_ammar",
+        "id_str": "610596964",
+        "profile_link_color": "009999",
+        "translator_type": "none",
+        "id": 610596964,
+        "geo_enabled": true,
+        "profile_background_color": "131516",
+        "lang": "ar",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936729989625667584/tOLu_q6y_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/610596964/1511583382",
+        "statuses_count": 50991,
+        "follow_request_sent": null,
+        "followers_count": 9087,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "عمار السناني",
+        "location": " K.S.A - Yanbu",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007085130471628801",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007085130471628801,
+    "text": "RT @316_ammar: استمتع بمشاهدة مباريات #كاس_العالم2018\nمع اصدقائك في مقهى و ديوانية الاصـالـة 🇸🇦\nالموقع #ينبع - بعد اشارة نفط 🔥🏆\n#اصداء_العا…",
+    "place": null,
+    "lang": "ar",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528942780498",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            38,
+            53
+          ],
+          "text": "كاس_العالم2018"
+        },
+        {
+          "indices": [
+            103,
+            108
+          ],
+          "text": "ينبع"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "316_ammar",
+          "id_str": "610596964",
+          "name": "عمار السناني",
+          "id": 610596964
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 140,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002978339181735941/uftv3a1X_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 147,
+      "description": "light.",
+      "created_at": "Fri Jun 01 22:27:06 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "9illli0",
+      "id_str": "1002677949215264768",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1002677949215264768,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1002978339181735941/uftv3a1X_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 44,
+      "follow_request_sent": null,
+      "followers_count": 80,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "99.",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

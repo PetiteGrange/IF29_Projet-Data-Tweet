@@ -1,1 +1,347 @@
-{"created_date": "2018-06-14 05:42:15", "current_time": 1528947735997, "extended_entities": {"media": [{"display_url": "pic.twitter.com/QgiBrHZ2oU", "source_user_id": 29479000, "type": "photo", "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "source_status_id": 1006527788847951873, "url": "https://t.co/QgiBrHZ2oU", "indices": [50, 73], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1006527760033046529", "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1", "source_status_id_str": "1006527788847951873", "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "id": 1006527760033046529, "source_user_id_str": "29479000"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 03:42:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/QgiBrHZ2oU", "indices": [32, 55], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1006527760033046529", "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1", "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "id": 1006527760033046529, "type": "photo", "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "url": "https://t.co/QgiBrHZ2oU"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Tue Jun 12 13:24:59 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 5672, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1006527788847951873", "in_reply_to_user_id": null, "favorite_count": 47134, "id": 1006527788847951873, "text": "Vai come\u00e7ar!! \ud83e\udd19\ud83c\udffe \u26bd \ud83c\udde7\ud83c\uddf7\n#WorldCup https://t.co/QgiBrHZ2oU", "place": null, "lang": "pt", "quote_count": 594, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 427, "entities": {"urls": [], "hashtags": [{"indices": [22, 31], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/QgiBrHZ2oU", "indices": [32, 55], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1006527760033046529", "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1", "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "id": 1006527760033046529, "type": "photo", "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "url": "https://t.co/QgiBrHZ2oU"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 31], "contributors": null, "user": {"utc_offset": null, "friends_count": 96, "profile_image_url_https": "https://pbs.twimg.com/profile_images/979416952711073793/jO2qmuCF_normal.jpg", "listed_count": 28827, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 604, "description": "P\u00e1gina oficial do jogador Ronaldinho Ga\u00facho. Duas vezes eleito o melhor do mundo pela FIFA. ronaldinho@nooke.ag", "created_at": "Tue Apr 07 16:11:50 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "10Ronaldinho", "id_str": "29479000", "profile_link_color": "FAB81E", "translator_type": "none", "id": 29479000, "geo_enabled": true, "profile_background_color": "FFFFFF", "lang": "pt", "profile_sidebar_border_color": "000000", "profile_text_color": "91702F", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/979416952711073793/jO2qmuCF_normal.jpg", "time_zone": null, "url": "http://ronaldinho.com/", "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 4919, "follow_request_sent": null, "followers_count": 17930343, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Ronaldinho Ga\u00facho", "location": "Rio de Janeiro, Brasil", "profile_sidebar_fill_color": "F5F5F5", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007105914325913602", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007105914325913602, "text": "RT @10Ronaldinho: Vai come\u00e7ar!! \ud83e\udd19\ud83c\udffe \u26bd \ud83c\udde7\ud83c\uddf7\n#WorldCup https://t.co/QgiBrHZ2oU", "place": null, "lang": "pt", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528947735755", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [40, 49], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/QgiBrHZ2oU", "source_user_id": 29479000, "type": "photo", "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "source_status_id": 1006527788847951873, "url": "https://t.co/QgiBrHZ2oU", "indices": [50, 73], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1080, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1080, "h": 1080, "resize": "fit"}}, "id_str": "1006527760033046529", "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1", "source_status_id_str": "1006527788847951873", "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg", "id": 1006527760033046529, "source_user_id_str": "29479000"}], "user_mentions": [{"indices": [3, 16], "screen_name": "10Ronaldinho", "id_str": "29479000", "name": "Ronaldinho Ga\u00facho", "id": 29479000}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 191, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005679395120525312/HTMiLpL4_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 2328, "description": "#paz", "created_at": "Sun Apr 16 17:57:57 +0000 2017", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "cacaulima33", "id_str": "853668801006718980", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 853668801006718980, "geo_enabled": true, "profile_background_color": "F5F8FA", "lang": "pt", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1005679395120525312/HTMiLpL4_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/853668801006718980/1528947554", "statuses_count": 6777, "follow_request_sent": null, "followers_count": 132, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Cacau", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 05:42:15",
+    "current_time": 1528947735997,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/QgiBrHZ2oU",
+          "source_user_id": 29479000,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+          "source_status_id": 1006527788847951873,
+          "url": "https://t.co/QgiBrHZ2oU",
+          "indices": [
+            50,
+            73
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1006527760033046529",
+          "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1",
+          "source_status_id_str": "1006527788847951873",
+          "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+          "id": 1006527760033046529,
+          "source_user_id_str": "29479000"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 03:42:15 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QgiBrHZ2oU",
+            "indices": [
+              32,
+              55
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1006527760033046529",
+            "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+            "id": 1006527760033046529,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+            "url": "https://t.co/QgiBrHZ2oU"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Tue Jun 12 13:24:59 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 5672,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1006527788847951873",
+      "in_reply_to_user_id": null,
+      "favorite_count": 47134,
+      "id": 1006527788847951873,
+      "text": "Vai começar!! 🤙🏾 ⚽ 🇧🇷\n#WorldCup https://t.co/QgiBrHZ2oU",
+      "place": null,
+      "lang": "pt",
+      "quote_count": 594,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 427,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              22,
+              31
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QgiBrHZ2oU",
+            "indices": [
+              32,
+              55
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1006527760033046529",
+            "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+            "id": 1006527760033046529,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+            "url": "https://t.co/QgiBrHZ2oU"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        31
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 96,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979416952711073793/jO2qmuCF_normal.jpg",
+        "listed_count": 28827,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 604,
+        "description": "Página oficial do jogador Ronaldinho Gaúcho. Duas vezes eleito o melhor do mundo pela FIFA. ronaldinho@nooke.ag",
+        "created_at": "Tue Apr 07 16:11:50 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "10Ronaldinho",
+        "id_str": "29479000",
+        "profile_link_color": "FAB81E",
+        "translator_type": "none",
+        "id": 29479000,
+        "geo_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "lang": "pt",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "91702F",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979416952711073793/jO2qmuCF_normal.jpg",
+        "time_zone": null,
+        "url": "http://ronaldinho.com/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 4919,
+        "follow_request_sent": null,
+        "followers_count": 17930343,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Ronaldinho Gaúcho",
+        "location": "Rio de Janeiro, Brasil",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007105914325913602",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007105914325913602,
+    "text": "RT @10Ronaldinho: Vai começar!! 🤙🏾 ⚽ 🇧🇷\n#WorldCup https://t.co/QgiBrHZ2oU",
+    "place": null,
+    "lang": "pt",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528947735755",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            49
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/QgiBrHZ2oU",
+          "source_user_id": 29479000,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+          "source_status_id": 1006527788847951873,
+          "url": "https://t.co/QgiBrHZ2oU",
+          "indices": [
+            50,
+            73
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1006527760033046529",
+          "expanded_url": "https://twitter.com/10Ronaldinho/status/1006527788847951873/photo/1",
+          "source_status_id_str": "1006527788847951873",
+          "media_url_https": "https://pbs.twimg.com/media/DffnqjlW4AEWyJB.jpg",
+          "id": 1006527760033046529,
+          "source_user_id_str": "29479000"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "10Ronaldinho",
+          "id_str": "29479000",
+          "name": "Ronaldinho Gaúcho",
+          "id": 29479000
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 191,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005679395120525312/HTMiLpL4_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 2328,
+      "description": "#paz",
+      "created_at": "Sun Apr 16 17:57:57 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "cacaulima33",
+      "id_str": "853668801006718980",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 853668801006718980,
+      "geo_enabled": true,
+      "profile_background_color": "F5F8FA",
+      "lang": "pt",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005679395120525312/HTMiLpL4_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/853668801006718980/1528947554",
+      "statuses_count": 6777,
+      "follow_request_sent": null,
+      "followers_count": 132,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Cacau",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

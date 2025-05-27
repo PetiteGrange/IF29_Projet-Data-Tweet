@@ -1,0 +1,14 @@
+Liste des features :
+
+- n_tweets: Le nombre de tweets postés
+- n_replies: Le nombre de tweets étant des réponses à un autre tweet
+- n_quotes: Le nombre de tweets étant des citations d'autres tweets
+- n_retweets: Le nombre de tweets étant des retweets d'autres tweets
+- max_followers: Le nombre maximal de followers atteint sur la période étudiée
+- n_mentions: Le nombre de mentions utilisées
+- n_hashtags: Le nombre de hashtags utilisés	
+- n_urls: Le nombre d'urls utilisées	
+- n_out_urls: Le nombre d'urls renvoyant vers d'autres sites que Twitter utilisées
+- f_tweets: La fréquence de tweets (tweets/h)	
+- f_friends: La fréquence des nouveaux follows
+- time_active: Ecart de temps entre le premier et le dernier tweet enregistré (h)

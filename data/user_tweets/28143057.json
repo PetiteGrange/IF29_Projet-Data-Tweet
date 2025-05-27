@@ -1,1 +1,300 @@
-{"created_date": "2018-06-14 13:45:07", "current_time": 1528976707340, "quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/2kjMoRSH4w", "indices": [107, 130], "sizes": {"small": {"w": 480, "h": 360, "resize": "fit"}, "large": {"w": 480, "h": 360, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 360, "resize": "fit"}}, "id_str": "1006907946868006912", "expanded_url": "https://twitter.com/mohammedali_93/status/1006908250023866370/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg", "id": 1006907946868006912, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg", "url": "https://t.co/2kjMoRSH4w", "video_info": {"aspect_ratio": [4, 3], "duration_millis": 139880, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1006907946868006912/pu/vid/480x360/2xlYXQF6i8AZZKwd.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1006907946868006912/pu/pl/StREOId06Zh5mDHK.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1006907946868006912/pu/vid/240x180/ssLi1PdjZPstpq-A.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Wed Jun 13 14:36:48 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 456, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1006908250023866370", "in_reply_to_user_id": null, "favorite_count": 804, "id": 1006908250023866370, "text": "On the eve of the #WorldCup let's remember the greatest individual performance in the WC this century #FRA https://t.co/2kjMoRSH4w", "place": null, "lang": "en", "quote_count": 86, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 18, "entities": {"urls": [], "hashtags": [{"indices": [18, 27], "text": "WorldCup"}, {"indices": [102, 106], "text": "FRA"}], "media": [{"display_url": "pic.twitter.com/2kjMoRSH4w", "indices": [107, 130], "sizes": {"small": {"w": 480, "h": 360, "resize": "fit"}, "large": {"w": 480, "h": 360, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 360, "resize": "fit"}}, "id_str": "1006907946868006912", "expanded_url": "https://twitter.com/mohammedali_93/status/1006908250023866370/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg", "id": 1006907946868006912, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg", "url": "https://t.co/2kjMoRSH4w"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 106], "contributors": null, "user": {"utc_offset": null, "friends_count": 770, "profile_image_url_https": "https://pbs.twimg.com/profile_images/766259680490450946/EVWdtHDE_normal.jpg", "listed_count": 253, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 8438, "description": "\ud83d\udcdd\ud83d\udde3\ufe0f\u26bd\ufe0f.   Liable to swear often. Views are my own - no one else wants them #TeamOM \u26aa\ufe0f\ud83d\udc99", "created_at": "Mon Sep 20 20:46:26 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "mohammedali_93", "id_str": "193043670", "profile_link_color": "0084B4", "translator_type": "none", "id": 193043670, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/766259680490450946/EVWdtHDE_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/193043670/1485257782", "statuses_count": 49075, "follow_request_sent": null, "followers_count": 11142, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Mohammed Ali", "location": "SH / LDN / PAR", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 11:45:07 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "quoted_status_id": 1006908250023866370, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007227428836728833", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007227428836728833, "text": "Oh my word https://t.co/tNxGbkf0Lj", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/mohammedali_93/status/1006908250023866370", "display": "twitter.com/mohammedali_93\u2026", "url": "https://t.co/tNxGbkf0Lj"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528976707072", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/mohammedali_93\u2026", "indices": [11, 34], "expanded_url": "https://twitter.com/mohammedali_93/status/1006908250023866370", "url": "https://t.co/tNxGbkf0Lj"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 10], "quoted_status_id_str": "1006908250023866370", "contributors": null, "user": {"utc_offset": null, "friends_count": 1244, "profile_image_url_https": "https://pbs.twimg.com/profile_images/759841177378000897/SIqry1Xd_normal.jpg", "listed_count": 5, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 9443, "description": null, "created_at": "Wed Apr 01 16:57:14 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "grant_cronin", "id_str": "28143057", "profile_link_color": "0084B4", "translator_type": "none", "id": 28143057, "geo_enabled": true, "profile_background_color": "9AE4E8", "lang": "en", "profile_sidebar_border_color": "BDDCAD", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/759841177378000897/SIqry1Xd_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28143057/1448840737", "statuses_count": 27980, "follow_request_sent": null, "followers_count": 540, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Grant Cronin", "location": "Lancashire", "profile_sidebar_fill_color": "DDFFCC", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 13:45:07",
+    "current_time": 1528976707340,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2kjMoRSH4w",
+            "indices": [
+              107,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1006907946868006912",
+            "expanded_url": "https://twitter.com/mohammedali_93/status/1006908250023866370/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg",
+            "id": 1006907946868006912,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg",
+            "url": "https://t.co/2kjMoRSH4w",
+            "video_info": {
+              "aspect_ratio": [
+                4,
+                3
+              ],
+              "duration_millis": 139880,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1006907946868006912/pu/vid/480x360/2xlYXQF6i8AZZKwd.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1006907946868006912/pu/pl/StREOId06Zh5mDHK.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1006907946868006912/pu/vid/240x180/ssLi1PdjZPstpq-A.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 14:36:48 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 456,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1006908250023866370",
+      "in_reply_to_user_id": null,
+      "favorite_count": 804,
+      "id": 1006908250023866370,
+      "text": "On the eve of the #WorldCup let's remember the greatest individual performance in the WC this century #FRA https://t.co/2kjMoRSH4w",
+      "place": null,
+      "lang": "en",
+      "quote_count": 86,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 18,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              18,
+              27
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              102,
+              106
+            ],
+            "text": "FRA"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2kjMoRSH4w",
+            "indices": [
+              107,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1006907946868006912",
+            "expanded_url": "https://twitter.com/mohammedali_93/status/1006908250023866370/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg",
+            "id": 1006907946868006912,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1006907946868006912/pu/img/JfNcouvzdK3wMHka.jpg",
+            "url": "https://t.co/2kjMoRSH4w"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        106
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 770,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/766259680490450946/EVWdtHDE_normal.jpg",
+        "listed_count": 253,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 8438,
+        "description": "📝🗣️⚽️.   Liable to swear often. Views are my own - no one else wants them #TeamOM ⚪️💙",
+        "created_at": "Mon Sep 20 20:46:26 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "mohammedali_93",
+        "id_str": "193043670",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 193043670,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766259680490450946/EVWdtHDE_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193043670/1485257782",
+        "statuses_count": 49075,
+        "follow_request_sent": null,
+        "followers_count": 11142,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Mohammed Ali",
+        "location": "SH / LDN / PAR",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 11:45:07 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "quoted_status_id": 1006908250023866370,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007227428836728833",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007227428836728833,
+    "text": "Oh my word https://t.co/tNxGbkf0Lj",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/mohammedali_93/status/1006908250023866370",
+      "display": "twitter.com/mohammedali_93…",
+      "url": "https://t.co/tNxGbkf0Lj"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528976707072",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/mohammedali_93…",
+          "indices": [
+            11,
+            34
+          ],
+          "expanded_url": "https://twitter.com/mohammedali_93/status/1006908250023866370",
+          "url": "https://t.co/tNxGbkf0Lj"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      10
+    ],
+    "quoted_status_id_str": "1006908250023866370",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1244,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/759841177378000897/SIqry1Xd_normal.jpg",
+      "listed_count": 5,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 9443,
+      "description": null,
+      "created_at": "Wed Apr 01 16:57:14 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "grant_cronin",
+      "id_str": "28143057",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 28143057,
+      "geo_enabled": true,
+      "profile_background_color": "9AE4E8",
+      "lang": "en",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/759841177378000897/SIqry1Xd_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/28143057/1448840737",
+      "statuses_count": 27980,
+      "follow_request_sent": null,
+      "followers_count": 540,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Grant Cronin",
+      "location": "Lancashire",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "notifications": null
+    }
+  }
+]

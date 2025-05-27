@@ -1,0 +1,583 @@
+[
+  {
+    "created_date": "2018-06-15 20:41:36",
+    "current_time": 1529088096001,
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 18:33:19 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 74,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007330157575753728",
+      "in_reply_to_user_id": null,
+      "favorite_count": 176,
+      "id": 1007330157575753728,
+      "text": "¿Qué música Latina tienes en tu playlist para el Mundial #WorldCup? 🎧⬇ @FIFAWorldCup",
+      "place": null,
+      "lang": "es",
+      "quote_count": 31,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 331,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              57,
+              66
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              71,
+              84
+            ],
+            "screen_name": "FIFAWorldCup",
+            "id_str": "138372303",
+            "name": "FIFA World Cup 🏆",
+            "id": 138372303
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1718,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993841742700077057/EEwSD40F_normal.jpg",
+        "listed_count": 4051,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 5390,
+        "description": "Esta es la cuenta oficial de La Academia Latina de la Grabación, reconocida por la presentación y entrega de los Latin GRAMMYs. #LatinGRAMMY",
+        "created_at": "Tue May 19 21:52:30 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "LatinGRAMMYs",
+        "id_str": "41221076",
+        "profile_link_color": "ED174B",
+        "translator_type": "regular",
+        "id": 41221076,
+        "geo_enabled": true,
+        "profile_background_color": "192E59",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993841742700077057/EEwSD40F_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.latingrammy.com/",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41221076/1527016325",
+        "statuses_count": 17977,
+        "follow_request_sent": null,
+        "followers_count": 2808505,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Latin GRAMMYs",
+        "location": "Miami, FL",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:41:35 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Thu Jun 14 18:33:19 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "retweet_count": 74,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1007330157575753728",
+        "in_reply_to_user_id": null,
+        "favorite_count": 176,
+        "id": 1007330157575753728,
+        "text": "¿Qué música Latina tienes en tu playlist para el Mundial #WorldCup? 🎧⬇ @FIFAWorldCup",
+        "place": null,
+        "lang": "es",
+        "quote_count": 31,
+        "favorited": false,
+        "coordinates": null,
+        "truncated": false,
+        "reply_count": 331,
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                57,
+                66
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                71,
+                84
+              ],
+              "screen_name": "FIFAWorldCup",
+              "id_str": "138372303",
+              "name": "FIFA World Cup 🏆",
+              "id": 138372303
+            }
+          ],
+          "symbols": []
+        },
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 1718,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/993841742700077057/EEwSD40F_normal.jpg",
+          "listed_count": 4051,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "default_profile_image": false,
+          "favourites_count": 5390,
+          "description": "Esta es la cuenta oficial de La Academia Latina de la Grabación, reconocida por la presentación y entrega de los Latin GRAMMYs. #LatinGRAMMY",
+          "created_at": "Tue May 19 21:52:30 +0000 2009",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "protected": false,
+          "screen_name": "LatinGRAMMYs",
+          "id_str": "41221076",
+          "profile_link_color": "ED174B",
+          "translator_type": "regular",
+          "id": 41221076,
+          "geo_enabled": true,
+          "profile_background_color": "192E59",
+          "lang": "en",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_text_color": "333333",
+          "verified": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/993841742700077057/EEwSD40F_normal.jpg",
+          "time_zone": null,
+          "url": "http://www.latingrammy.com/",
+          "contributors_enabled": false,
+          "profile_background_tile": true,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/41221076/1527016325",
+          "statuses_count": 17977,
+          "follow_request_sent": null,
+          "followers_count": 2808505,
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "following": null,
+          "name": "Latin GRAMMYs",
+          "location": "Miami, FL",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 23:00:05 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "quoted_status_id": 1007330157575753728,
+      "retweet_count": 31,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1007397290389196800",
+      "in_reply_to_user_id": null,
+      "favorite_count": 34,
+      "id": 1007397290389196800,
+      "text": "\"Princesa\" TINI feat Karol G ⇩⇩ https://t.co/meZRt1ZFCw",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/LatinGRAMMYs/status/1007330157575753728",
+        "display": "twitter.com/LatinGRAMMYs/s…",
+        "url": "https://t.co/meZRt1ZFCw"
+      },
+      "lang": "ht",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/LatinGRAMMYs/s…",
+            "indices": [
+              32,
+              55
+            ],
+            "expanded_url": "https://twitter.com/LatinGRAMMYs/status/1007330157575753728",
+            "url": "https://t.co/meZRt1ZFCw"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        31
+      ],
+      "quoted_status_id_str": "1007330157575753728",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 834,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006918358837522432/ytv2n56q_normal.jpg",
+        "listed_count": 4,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 358,
+        "description": "Ayudamos a promocionar a Tini Stoessel mundialmente.",
+        "created_at": "Mon Dec 04 02:16:34 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "TiniPromotiones",
+        "id_str": "937505880903438336",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 937505880903438336,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "es",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006918358837522432/ytv2n56q_normal.jpg",
+        "time_zone": null,
+        "url": "http://tinipromotiones.es.tl",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/937505880903438336/1528413085",
+        "statuses_count": 1723,
+        "follow_request_sent": null,
+        "followers_count": 1972,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Tini Promotion World.",
+        "location": "Argentina",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1007330157575753728,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007694626692698112",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694626692698112,
+    "text": "RT @TiniPromotiones: \"Princesa\" TINI feat Karol G ⇩⇩ https://t.co/meZRt1ZFCw",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/LatinGRAMMYs/status/1007330157575753728",
+      "display": "twitter.com/LatinGRAMMYs/s…",
+      "url": "https://t.co/meZRt1ZFCw"
+    },
+    "lang": "ht",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088095721",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/LatinGRAMMYs/s…",
+          "indices": [
+            53,
+            76
+          ],
+          "expanded_url": "https://twitter.com/LatinGRAMMYs/status/1007330157575753728",
+          "url": "https://t.co/meZRt1ZFCw"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "TiniPromotiones",
+          "id_str": "937505880903438336",
+          "name": "Tini Promotion World.",
+          "id": 937505880903438336
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1007330157575753728",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 885,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003752487646527488/mBw3SxYQ_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 12005,
+      "description": "❤Ross Lynch❤  11/10/17 1 MG DE TINI EN INSTA 12/10/17 4 MG DE TINI EN TWITTER 21/10/17 1 RT de Tini {Fan Account}",
+      "created_at": "Mon Jul 27 23:06:46 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "b_tinistas",
+      "id_str": "3298825416",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 3298825416,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "pt",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003752487646527488/mBw3SxYQ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3298825416/1527518730",
+      "statuses_count": 24982,
+      "follow_request_sent": null,
+      "followers_count": 824,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Milli",
+      "location": "20/10/17 1 mg de Tini ",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:41:38",
+    "current_time": 1529088098765,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:41:38 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 18:33:19 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 75,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007330157575753728",
+      "in_reply_to_user_id": null,
+      "favorite_count": 176,
+      "id": 1007330157575753728,
+      "text": "¿Qué música Latina tienes en tu playlist para el Mundial #WorldCup? 🎧⬇ @FIFAWorldCup",
+      "place": null,
+      "lang": "es",
+      "quote_count": 31,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 331,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              57,
+              66
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              71,
+              84
+            ],
+            "screen_name": "FIFAWorldCup",
+            "id_str": "138372303",
+            "name": "FIFA World Cup 🏆",
+            "id": 138372303
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1718,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993841742700077057/EEwSD40F_normal.jpg",
+        "listed_count": 4051,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 5390,
+        "description": "Esta es la cuenta oficial de La Academia Latina de la Grabación, reconocida por la presentación y entrega de los Latin GRAMMYs. #LatinGRAMMY",
+        "created_at": "Tue May 19 21:52:30 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "LatinGRAMMYs",
+        "id_str": "41221076",
+        "profile_link_color": "ED174B",
+        "translator_type": "regular",
+        "id": 41221076,
+        "geo_enabled": true,
+        "profile_background_color": "192E59",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993841742700077057/EEwSD40F_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.latingrammy.com/",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41221076/1527016325",
+        "statuses_count": 17977,
+        "follow_request_sent": null,
+        "followers_count": 2808505,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Latin GRAMMYs",
+        "location": "Miami, FL",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694638445158401",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694638445158401,
+    "text": "RT @LatinGRAMMYs: ¿Qué música Latina tienes en tu playlist para el Mundial #WorldCup? 🎧⬇ @FIFAWorldCup",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088098523",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            75,
+            84
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "LatinGRAMMYs",
+          "id_str": "41221076",
+          "name": "Latin GRAMMYs",
+          "id": 41221076
+        },
+        {
+          "indices": [
+            89,
+            102
+          ],
+          "screen_name": "FIFAWorldCup",
+          "id_str": "138372303",
+          "name": "FIFA World Cup 🏆",
+          "id": 138372303
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 885,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003752487646527488/mBw3SxYQ_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 12005,
+      "description": "❤Ross Lynch❤  11/10/17 1 MG DE TINI EN INSTA 12/10/17 4 MG DE TINI EN TWITTER 21/10/17 1 RT de Tini {Fan Account}",
+      "created_at": "Mon Jul 27 23:06:46 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "b_tinistas",
+      "id_str": "3298825416",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 3298825416,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "pt",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003752487646527488/mBw3SxYQ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3298825416/1527518730",
+      "statuses_count": 24983,
+      "follow_request_sent": null,
+      "followers_count": 824,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Milli",
+      "location": "20/10/17 1 mg de Tini ",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

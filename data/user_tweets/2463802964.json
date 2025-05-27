@@ -1,0 +1,455 @@
+[
+  {
+    "created_date": "2018-06-14 12:52:26",
+    "current_time": 1528973546054,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yzaeZFp7ms",
+          "source_user_id": 913224040831229953,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+          "source_status_id": 1007200075762864129,
+          "url": "https://t.co/yzaeZFp7ms",
+          "indices": [
+            73,
+            96
+          ],
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 352,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 352,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 352,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007199924650422272",
+          "expanded_url": "https://twitter.com/captainigbokwe/status/1007200075762864129/video/1",
+          "source_status_id_str": "1007200075762864129",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+          "id": 1007199924650422272,
+          "source_user_id_str": "913224040831229953",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              20,
+              11
+            ],
+            "duration_millis": 9800,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1007199924650422272/pu/pl/m24MRlPVaNpyhuKn.m3u8?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 256000,
+                "url": "https://video.twimg.com/ext_tw_video/1007199924650422272/pu/vid/326x180/Si8IkuVE4DTF7fLZ.mp4?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:52:25 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/yzaeZFp7ms",
+            "indices": [
+              53,
+              76
+            ],
+            "sizes": {
+              "small": {
+                "w": 640,
+                "h": 352,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 352,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 352,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007199924650422272",
+            "expanded_url": "https://twitter.com/captainigbokwe/status/1007200075762864129/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+            "id": 1007199924650422272,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+            "url": "https://t.co/yzaeZFp7ms",
+            "video_info": {
+              "aspect_ratio": [
+                20,
+                11
+              ],
+              "duration_millis": 9800,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007199924650422272/pu/pl/m24MRlPVaNpyhuKn.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007199924650422272/pu/vid/326x180/Si8IkuVE4DTF7fLZ.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 09:56:25 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 3,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007200075762864129",
+      "in_reply_to_user_id": null,
+      "favorite_count": 30,
+      "id": 1007200075762864129,
+      "text": "The 🏆 is ours \n#WorldCup \n#Russia2018 \n#WorldCup2018 https://t.co/yzaeZFp7ms",
+      "place": {
+        "country_code": "NG",
+        "country": "Nigeria",
+        "full_name": "Karu, Nigeria",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                7.550692,
+                8.979321
+              ],
+              [
+                7.550692,
+                9.048007
+              ],
+              [
+                7.609988,
+                9.048007
+              ],
+              [
+                7.609988,
+                8.979321
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "place_type": "city",
+        "name": "Karu",
+        "attributes": {},
+        "id": "016866085b3a225b",
+        "url": "https://api.twitter.com/1.1/geo/id/016866085b3a225b.json"
+      },
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 1,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              15,
+              24
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              26,
+              37
+            ],
+            "text": "Russia2018"
+          },
+          {
+            "indices": [
+              39,
+              52
+            ],
+            "text": "WorldCup2018"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/yzaeZFp7ms",
+            "indices": [
+              53,
+              76
+            ],
+            "sizes": {
+              "small": {
+                "w": 640,
+                "h": 352,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 352,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 352,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007199924650422272",
+            "expanded_url": "https://twitter.com/captainigbokwe/status/1007200075762864129/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+            "id": 1007199924650422272,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+            "url": "https://t.co/yzaeZFp7ms"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        52
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 37,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969152016810479616/n_MSYHJt_normal.jpg",
+        "listed_count": 1,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 712,
+        "description": null,
+        "created_at": "Thu Sep 28 02:09:13 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "captainigbokwe",
+        "id_str": "913224040831229953",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 913224040831229953,
+        "geo_enabled": true,
+        "profile_background_color": "F5F8FA",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969152016810479616/n_MSYHJt_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/913224040831229953/1519898819",
+        "statuses_count": 721,
+        "follow_request_sent": null,
+        "followers_count": 3421,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "GODWIN IGBOKWE",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007214169664512000",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007214169664512000,
+    "text": "RT @captainigbokwe: The 🏆 is ours \n#WorldCup \n#Russia2018 \n#WorldCup2018 https://t.co/yzaeZFp7ms",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973545839",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            44
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            46,
+            57
+          ],
+          "text": "Russia2018"
+        },
+        {
+          "indices": [
+            59,
+            72
+          ],
+          "text": "WorldCup2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yzaeZFp7ms",
+          "source_user_id": 913224040831229953,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+          "source_status_id": 1007200075762864129,
+          "url": "https://t.co/yzaeZFp7ms",
+          "indices": [
+            73,
+            96
+          ],
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 352,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 352,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 352,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007199924650422272",
+          "expanded_url": "https://twitter.com/captainigbokwe/status/1007200075762864129/video/1",
+          "source_status_id_str": "1007200075762864129",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007199924650422272/pu/img/VCklbhnZwBHN35w4.jpg",
+          "id": 1007199924650422272,
+          "source_user_id_str": "913224040831229953",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "captainigbokwe",
+          "id_str": "913224040831229953",
+          "name": "GODWIN IGBOKWE",
+          "id": 913224040831229953
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 245,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001524626856579072/Xo0xmAQ5_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 956,
+      "description": null,
+      "created_at": "Fri Apr 25 23:58:57 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "fisayomiiii",
+      "id_str": "2463802964",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2463802964,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1001524626856579072/Xo0xmAQ5_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 740,
+      "follow_request_sent": null,
+      "followers_count": 126,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Fisayomiiii",
+      "location": "Atlanta 🇳🇬 🇺🇸",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

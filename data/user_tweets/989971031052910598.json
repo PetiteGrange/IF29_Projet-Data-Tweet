@@ -1,2 +1,650 @@
-{"created_date": "2018-06-14 15:13:12", "current_time": 1528981992609, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 13:13:12 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/Me9DsaVK5d", "indices": [148, 171], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1000, "h": 666, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1000, "h": 666, "resize": "fit"}}, "id_str": "1007249128307548163", "expanded_url": "https://twitter.com/haciendoWEB_/status/1007249149132230656/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg", "id": 1007249128307548163, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg", "url": "https://t.co/Me9DsaVK5d"}]}, "entities": {"urls": [], "hashtags": [{"indices": [30, 40], "text": "argentina"}, {"indices": [41, 45], "text": "afa"}, {"indices": [46, 52], "text": "messi"}, {"indices": [53, 63], "text": "seleccion"}, {"indices": [64, 73], "text": "worldcup"}, {"indices": [74, 85], "text": "russia2018"}, {"indices": [86, 93], "text": "futbol"}, {"indices": [94, 101], "text": "soccer"}, {"indices": [102, 111], "text": "football"}, {"indices": [112, 127], "text": "vamosargentina"}, {"indices": [128, 147], "text": "traenoslacopamessi"}], "media": [{"display_url": "pic.twitter.com/Me9DsaVK5d", "indices": [148, 171], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1000, "h": 666, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1000, "h": 666, "resize": "fit"}}, "id_str": "1007249128307548163", "expanded_url": "https://twitter.com/haciendoWEB_/status/1007249149132230656/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg", "id": 1007249128307548163, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg", "url": "https://t.co/Me9DsaVK5d"}], "user_mentions": [], "symbols": []}, "full_text": "\u00a1Traenos la Copa Messi! \u26bd\ud83c\udde6\ud83c\uddf7\ud83c\udfc6\n\n#argentina #afa #messi #seleccion #worldcup #russia2018 #futbol #soccer #football #vamosargentina #traenoslacopamessi https://t.co/Me9DsaVK5d", "display_text_range": [0, 147]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 13:11:25 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 1, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007249149132230656", "in_reply_to_user_id": null, "favorite_count": 1, "id": 1007249149132230656, "text": "\u00a1Traenos la Copa Messi! \u26bd\ud83c\udde6\ud83c\uddf7\ud83c\udfc6\n\n#argentina #afa #messi #seleccion #worldcup #russia2018 #futbol #soccer #football\u2026 https://t.co/OKBZVLpl3V", "place": null, "lang": "es", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [113, 136], "expanded_url": "https://twitter.com/i/web/status/1007249149132230656", "url": "https://t.co/OKBZVLpl3V"}], "hashtags": [{"indices": [30, 40], "text": "argentina"}, {"indices": [41, 45], "text": "afa"}, {"indices": [46, 52], "text": "messi"}, {"indices": [53, 63], "text": "seleccion"}, {"indices": [64, 73], "text": "worldcup"}, {"indices": [74, 85], "text": "russia2018"}, {"indices": [86, 93], "text": "futbol"}, {"indices": [94, 101], "text": "soccer"}, {"indices": [102, 111], "text": "football"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 58, "profile_image_url_https": "https://pbs.twimg.com/profile_images/918858251441229825/oSTblT5Z_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 0, "description": "\u00bfListo para hacer crecer tu negocio?\nHosting, Registraci\u00f3n de dominio, buscadores, no te compliques, estamos para hacertela f\u00e1cil.", "created_at": "Tue Sep 26 16:08:52 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "haciendoWEB_", "id_str": "912710570507407360", "profile_link_color": "ABB8C2", "translator_type": "none", "id": 912710570507407360, "geo_enabled": false, "profile_background_color": "000000", "lang": "es", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/918858251441229825/oSTblT5Z_normal.jpg", "time_zone": null, "url": "http://www.haciendoweb.com.ar", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/912710570507407360/1507909298", "statuses_count": 41, "follow_request_sent": null, "followers_count": 8, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "haciendoWEB", "location": "Buenos Aires, Argentina", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007249596723220480", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007249596723220480, "text": "RT @haciendoWEB_: \u00a1Traenos la Copa Messi! \u26bd\ud83c\udde6\ud83c\uddf7\ud83c\udfc6\n\n#argentina #afa #messi #seleccion #worldcup #russia2018 #futbol #soccer #football #vamosarg\u2026", "place": null, "lang": "es", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528981992308", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [48, 58], "text": "argentina"}, {"indices": [59, 63], "text": "afa"}, {"indices": [64, 70], "text": "messi"}, {"indices": [71, 81], "text": "seleccion"}, {"indices": [82, 91], "text": "worldcup"}, {"indices": [92, 103], "text": "russia2018"}, {"indices": [104, 111], "text": "futbol"}, {"indices": [112, 119], "text": "soccer"}, {"indices": [120, 129], "text": "football"}], "user_mentions": [{"indices": [3, 16], "screen_name": "haciendoWEB_", "id_str": "912710570507407360", "name": "haciendoWEB", "id": 912710570507407360}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 100, "profile_image_url_https": "https://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 1945, "description": "CUENTA NUEVA. Youtuber.\nInstagram: @mateobunivayt\nFacebook: @mateobunivayt", "created_at": "Fri Apr 27 20:54:21 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "MateoBuniva_", "id_str": "989971031052910598", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 989971031052910598, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "es", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg", "time_zone": null, "url": "https://www.youtube.com/channel/UCXrrcRddup2bm57pQ0QGhFg?view_as=subscriber", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/989971031052910598/1524863298", "statuses_count": 550, "follow_request_sent": null, "followers_count": 44, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Mateo Buniva \u2620", "location": "Argentina", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 20:31:35", "current_time": 1529087495005, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 18:31:34 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 18:30:51 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 1, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007691923836960769", "in_reply_to_user_id": null, "favorite_count": 1, "id": 1007691923836960769, "text": "Que partido el de Portugal vs Espa\u00f1a  #WorldCup", "place": null, "lang": "es", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [38, 47], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 283, "profile_image_url_https": "https://pbs.twimg.com/profile_images/995850034963861504/SLP4gMGi_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1690, "description": "Student-Doctor at SCUHS \ud83d\udc68\ud83c\udffb\u200d\u2695\ufe0f", "created_at": "Fri Aug 03 15:33:47 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ColonRene", "id_str": "735070752", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 735070752, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/995850034963861504/SLP4gMGi_normal.jpg", "time_zone": null, "url": "https://www.instagram.com/renecolon_/", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/735070752/1517074603", "statuses_count": 5572, "follow_request_sent": null, "followers_count": 420, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Ren\u00e9 E.", "location": "Los Angeles, CA", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007692106092220416", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007692106092220416, "text": "RT @ColonRene: Que partido el de Portugal vs Espa\u00f1a  #WorldCup", "place": null, "lang": "es", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529087494763", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [53, 62], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 13], "screen_name": "ColonRene", "id_str": "735070752", "name": "Ren\u00e9 E.", "id": 735070752}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 101, "profile_image_url_https": "https://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 2423, "description": "CUENTA NUEVA. Youtuber.\nInstagram: @mateobunivayt\nFacebook: @mateobunivayt", "created_at": "Fri Apr 27 20:54:21 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "MateoBuniva_", "id_str": "989971031052910598", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 989971031052910598, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "es", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg", "time_zone": null, "url": "https://www.youtube.com/channel/UCXrrcRddup2bm57pQ0QGhFg?view_as=subscriber", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/989971031052910598/1524863298", "statuses_count": 601, "follow_request_sent": null, "followers_count": 50, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Mateo Buniva \u2620", "location": "Argentina", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 15:13:12",
+    "current_time": 1528981992609,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 13:13:12 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Me9DsaVK5d",
+              "indices": [
+                148,
+                171
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 666,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1000,
+                  "h": 666,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007249128307548163",
+              "expanded_url": "https://twitter.com/haciendoWEB_/status/1007249149132230656/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg",
+              "id": 1007249128307548163,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg",
+              "url": "https://t.co/Me9DsaVK5d"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                30,
+                40
+              ],
+              "text": "argentina"
+            },
+            {
+              "indices": [
+                41,
+                45
+              ],
+              "text": "afa"
+            },
+            {
+              "indices": [
+                46,
+                52
+              ],
+              "text": "messi"
+            },
+            {
+              "indices": [
+                53,
+                63
+              ],
+              "text": "seleccion"
+            },
+            {
+              "indices": [
+                64,
+                73
+              ],
+              "text": "worldcup"
+            },
+            {
+              "indices": [
+                74,
+                85
+              ],
+              "text": "russia2018"
+            },
+            {
+              "indices": [
+                86,
+                93
+              ],
+              "text": "futbol"
+            },
+            {
+              "indices": [
+                94,
+                101
+              ],
+              "text": "soccer"
+            },
+            {
+              "indices": [
+                102,
+                111
+              ],
+              "text": "football"
+            },
+            {
+              "indices": [
+                112,
+                127
+              ],
+              "text": "vamosargentina"
+            },
+            {
+              "indices": [
+                128,
+                147
+              ],
+              "text": "traenoslacopamessi"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Me9DsaVK5d",
+              "indices": [
+                148,
+                171
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 666,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1000,
+                  "h": 666,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007249128307548163",
+              "expanded_url": "https://twitter.com/haciendoWEB_/status/1007249149132230656/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg",
+              "id": 1007249128307548163,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Dfp3vt0X4AMPCew.jpg",
+              "url": "https://t.co/Me9DsaVK5d"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "¡Traenos la Copa Messi! ⚽🇦🇷🏆\n\n#argentina #afa #messi #seleccion #worldcup #russia2018 #futbol #soccer #football #vamosargentina #traenoslacopamessi https://t.co/Me9DsaVK5d",
+        "display_text_range": [
+          0,
+          147
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 13:11:25 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007249149132230656",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007249149132230656,
+      "text": "¡Traenos la Copa Messi! ⚽🇦🇷🏆\n\n#argentina #afa #messi #seleccion #worldcup #russia2018 #futbol #soccer #football… https://t.co/OKBZVLpl3V",
+      "place": null,
+      "lang": "es",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              113,
+              136
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007249149132230656",
+            "url": "https://t.co/OKBZVLpl3V"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              30,
+              40
+            ],
+            "text": "argentina"
+          },
+          {
+            "indices": [
+              41,
+              45
+            ],
+            "text": "afa"
+          },
+          {
+            "indices": [
+              46,
+              52
+            ],
+            "text": "messi"
+          },
+          {
+            "indices": [
+              53,
+              63
+            ],
+            "text": "seleccion"
+          },
+          {
+            "indices": [
+              64,
+              73
+            ],
+            "text": "worldcup"
+          },
+          {
+            "indices": [
+              74,
+              85
+            ],
+            "text": "russia2018"
+          },
+          {
+            "indices": [
+              86,
+              93
+            ],
+            "text": "futbol"
+          },
+          {
+            "indices": [
+              94,
+              101
+            ],
+            "text": "soccer"
+          },
+          {
+            "indices": [
+              102,
+              111
+            ],
+            "text": "football"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 58,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918858251441229825/oSTblT5Z_normal.jpg",
+        "listed_count": 0,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 0,
+        "description": "¿Listo para hacer crecer tu negocio?\nHosting, Registración de dominio, buscadores, no te compliques, estamos para hacertela fácil.",
+        "created_at": "Tue Sep 26 16:08:52 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "haciendoWEB_",
+        "id_str": "912710570507407360",
+        "profile_link_color": "ABB8C2",
+        "translator_type": "none",
+        "id": 912710570507407360,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "es",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/918858251441229825/oSTblT5Z_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.haciendoweb.com.ar",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912710570507407360/1507909298",
+        "statuses_count": 41,
+        "follow_request_sent": null,
+        "followers_count": 8,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "haciendoWEB",
+        "location": "Buenos Aires, Argentina",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007249596723220480",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007249596723220480,
+    "text": "RT @haciendoWEB_: ¡Traenos la Copa Messi! ⚽🇦🇷🏆\n\n#argentina #afa #messi #seleccion #worldcup #russia2018 #futbol #soccer #football #vamosarg…",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528981992308",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            58
+          ],
+          "text": "argentina"
+        },
+        {
+          "indices": [
+            59,
+            63
+          ],
+          "text": "afa"
+        },
+        {
+          "indices": [
+            64,
+            70
+          ],
+          "text": "messi"
+        },
+        {
+          "indices": [
+            71,
+            81
+          ],
+          "text": "seleccion"
+        },
+        {
+          "indices": [
+            82,
+            91
+          ],
+          "text": "worldcup"
+        },
+        {
+          "indices": [
+            92,
+            103
+          ],
+          "text": "russia2018"
+        },
+        {
+          "indices": [
+            104,
+            111
+          ],
+          "text": "futbol"
+        },
+        {
+          "indices": [
+            112,
+            119
+          ],
+          "text": "soccer"
+        },
+        {
+          "indices": [
+            120,
+            129
+          ],
+          "text": "football"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "haciendoWEB_",
+          "id_str": "912710570507407360",
+          "name": "haciendoWEB",
+          "id": 912710570507407360
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 100,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 1945,
+      "description": "CUENTA NUEVA. Youtuber.\nInstagram: @mateobunivayt\nFacebook: @mateobunivayt",
+      "created_at": "Fri Apr 27 20:54:21 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "MateoBuniva_",
+      "id_str": "989971031052910598",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 989971031052910598,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "es",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.youtube.com/channel/UCXrrcRddup2bm57pQ0QGhFg?view_as=subscriber",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/989971031052910598/1524863298",
+      "statuses_count": 550,
+      "follow_request_sent": null,
+      "followers_count": 44,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Mateo Buniva ☠",
+      "location": "Argentina",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:31:35",
+    "current_time": 1529087495005,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:31:34 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:30:51 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007691923836960769",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007691923836960769,
+      "text": "Que partido el de Portugal vs España  #WorldCup",
+      "place": null,
+      "lang": "es",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              38,
+              47
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 283,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/995850034963861504/SLP4gMGi_normal.jpg",
+        "listed_count": 1,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1690,
+        "description": "Student-Doctor at SCUHS 👨🏻‍⚕️",
+        "created_at": "Fri Aug 03 15:33:47 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "ColonRene",
+        "id_str": "735070752",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 735070752,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/995850034963861504/SLP4gMGi_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.instagram.com/renecolon_/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/735070752/1517074603",
+        "statuses_count": 5572,
+        "follow_request_sent": null,
+        "followers_count": 420,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "René E.",
+        "location": "Los Angeles, CA",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007692106092220416",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007692106092220416,
+    "text": "RT @ColonRene: Que partido el de Portugal vs España  #WorldCup",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529087494763",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            53,
+            62
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "ColonRene",
+          "id_str": "735070752",
+          "name": "René E.",
+          "id": 735070752
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 101,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 2423,
+      "description": "CUENTA NUEVA. Youtuber.\nInstagram: @mateobunivayt\nFacebook: @mateobunivayt",
+      "created_at": "Fri Apr 27 20:54:21 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "MateoBuniva_",
+      "id_str": "989971031052910598",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 989971031052910598,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "es",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/990028743858155521/QmzGJJOP_normal.jpg",
+      "time_zone": null,
+      "url": "https://www.youtube.com/channel/UCXrrcRddup2bm57pQ0QGhFg?view_as=subscriber",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/989971031052910598/1524863298",
+      "statuses_count": 601,
+      "follow_request_sent": null,
+      "followers_count": 50,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Mateo Buniva ☠",
+      "location": "Argentina",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

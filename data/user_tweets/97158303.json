@@ -1,0 +1,214 @@
+[
+  {
+    "created_date": "2018-06-14 05:43:33",
+    "current_time": 1528947813826,
+    "extended_tweet": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/8pxfAlp1qK",
+            "indices": [
+              128,
+              151
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007106229980704770",
+            "expanded_url": "https://twitter.com/nickbakernz/status/1007106238960635906/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfn1x8EVMAI1S65.jpg",
+            "id": 1007106229980704770,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfn1x8EVMAI1S65.jpg",
+            "url": "https://t.co/8pxfAlp1qK"
+          }
+        ]
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              118,
+              127
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/8pxfAlp1qK",
+            "indices": [
+              128,
+              151
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007106229980704770",
+            "expanded_url": "https://twitter.com/nickbakernz/status/1007106238960635906/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfn1x8EVMAI1S65.jpg",
+            "id": 1007106229980704770,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfn1x8EVMAI1S65.jpg",
+            "url": "https://t.co/8pxfAlp1qK"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              19,
+              30
+            ],
+            "screen_name": "CucumberNZ",
+            "id_str": "166728491",
+            "name": "Cucumber",
+            "id": 166728491
+          }
+        ],
+        "symbols": []
+      },
+      "full_text": "World Cup lunch at @CucumberNZ today. Most of the 32 teams represented in cuisine. Some made more effort than others! #WorldCup https://t.co/8pxfAlp1qK",
+      "display_text_range": [
+        0,
+        127
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 03:43:33 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007106238960635906",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007106238960635906,
+    "text": "World Cup lunch at @CucumberNZ today. Most of the 32 teams represented in cuisine. Some made more effort than other… https://t.co/HId62AjUWE",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": true,
+    "timestamp_ms": "1528947813154",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/1007106238960635906",
+          "url": "https://t.co/HId62AjUWE"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            19,
+            30
+          ],
+          "screen_name": "CucumberNZ",
+          "id_str": "166728491",
+          "name": "Cucumber",
+          "id": 166728491
+        }
+      ],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 651,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/458704040268816384/Mw-2azql_normal.jpeg",
+      "listed_count": 50,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 4523,
+      "description": "Digital Analytics and all things Digital. Google Analytics .. and sport.",
+      "created_at": "Wed Dec 16 07:22:35 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "nickbakernz",
+      "id_str": "97158303",
+      "profile_link_color": "94D487",
+      "translator_type": "none",
+      "id": 97158303,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/458704040268816384/Mw-2azql_normal.jpeg",
+      "time_zone": null,
+      "url": "http://www.cucumber.co.nz/blog/?author=Nick+Baker",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/97158303/1398217091",
+      "statuses_count": 10307,
+      "follow_request_sent": null,
+      "followers_count": 645,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Nick Baker",
+      "location": "Tauranga, New Zealand",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

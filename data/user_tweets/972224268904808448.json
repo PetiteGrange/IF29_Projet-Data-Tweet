@@ -1,0 +1,427 @@
+[
+  {
+    "created_date": "2018-06-15 20:42:37",
+    "current_time": 1529088157259,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:42:37 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/vxjIW7Q2Ww",
+              "indices": [
+                264,
+                287
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 372,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 464,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 464,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006995919655481344",
+              "expanded_url": "https://twitter.com/melissarocs/status/1006995981030830081/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1006995919655481344/pu/img/Nc-bh_DJWMC72A2x.jpg",
+              "id": 1006995919655481344,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1006995919655481344/pu/img/Nc-bh_DJWMC72A2x.jpg",
+              "url": "https://t.co/vxjIW7Q2Ww",
+              "video_info": {
+                "aspect_ratio": [
+                  53,
+                  29
+                ],
+                "duration_millis": 59968,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1006995919655481344/pu/pl/GzgvaPQrjYZGMbfn.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1006995919655481344/pu/vid/328x180/ABn8n91pYdS86pv9.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1006995919655481344/pu/vid/656x360/Ugcv-DZW3OZZHvwB.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                24
+              ],
+              "text": "NuevaAlianzaYMagisterio"
+            },
+            {
+              "indices": [
+                128,
+                143
+              ],
+              "text": "CertezaLaboral"
+            },
+            {
+              "indices": [
+                146,
+                165
+              ],
+              "text": "SalarioProfesional"
+            },
+            {
+              "indices": [
+                169,
+                184
+              ],
+              "text": "FelizMiercoles"
+            },
+            {
+              "indices": [
+                185,
+                191
+              ],
+              "text": "13Jun"
+            },
+            {
+              "indices": [
+                192,
+                198
+              ],
+              "text": "Dumbo"
+            },
+            {
+              "indices": [
+                199,
+                211
+              ],
+              "text": "Mundial2026"
+            },
+            {
+              "indices": [
+                212,
+                221
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                222,
+                226
+              ],
+              "text": "BTS"
+            },
+            {
+              "indices": [
+                227,
+                237
+              ],
+              "text": "Wimbledon"
+            },
+            {
+              "indices": [
+                238,
+                249
+              ],
+              "text": "TeenChoice"
+            },
+            {
+              "indices": [
+                250,
+                253
+              ],
+              "text": "RT"
+            },
+            {
+              "indices": [
+                254,
+                263
+              ],
+              "text": "RandomNU"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/vxjIW7Q2Ww",
+              "indices": [
+                264,
+                287
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 372,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 464,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 464,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1006995919655481344",
+              "expanded_url": "https://twitter.com/melissarocs/status/1006995981030830081/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1006995919655481344/pu/img/Nc-bh_DJWMC72A2x.jpg",
+              "id": 1006995919655481344,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1006995919655481344/pu/img/Nc-bh_DJWMC72A2x.jpg",
+              "url": "https://t.co/vxjIW7Q2Ww",
+              "video_info": {
+                "aspect_ratio": [
+                  53,
+                  29
+                ],
+                "duration_millis": 59968,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1006995919655481344/pu/pl/GzgvaPQrjYZGMbfn.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1006995919655481344/pu/vid/328x180/ABn8n91pYdS86pv9.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1006995919655481344/pu/vid/656x360/Ugcv-DZW3OZZHvwB.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "#NuevaAlianzaYMagisterio 🙋‍♀👨‍🏫es una fuerza política que brinda educación 📚 de calidad para tus hijos📚👩🏻‍🎓 y a los maestros👩‍🏫 #CertezaLaboral ✅ #SalarioProfesional ✅\n\n#FelizMiercoles #13Jun #Dumbo #Mundial2026 #WorldCup #BTS #Wimbledon #TeenChoice #RT #RandomNU https://t.co/vxjIW7Q2Ww",
+        "display_text_range": [
+          0,
+          263
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 20:25:25 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 12,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1006995981030830081",
+      "in_reply_to_user_id": null,
+      "favorite_count": 12,
+      "id": 1006995981030830081,
+      "text": "#NuevaAlianzaYMagisterio 🙋‍♀👨‍🏫es una fuerza política que brinda educación 📚 de calidad para tus hijos📚👩🏻‍🎓 y a los… https://t.co/jj41dJMWsj",
+      "place": null,
+      "lang": "es",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1006995981030830081",
+            "url": "https://t.co/jj41dJMWsj"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              24
+            ],
+            "text": "NuevaAlianzaYMagisterio"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 242,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/949363632223158272/LhmG7G2s_normal.jpg",
+        "listed_count": 1,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1043,
+        "description": "Comunicóloga 📷💻\nmichoacana ❤🎬🎶⚽\nhttp://Instagram.com/melissarocs/       http://pinterest.com/MelissaRoCs/ \n 👻melissarocs",
+        "created_at": "Wed Jul 16 19:51:40 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "melissarocs",
+        "id_str": "2651810581",
+        "profile_link_color": "DD2E44",
+        "translator_type": "none",
+        "id": 2651810581,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "es",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/949363632223158272/LhmG7G2s_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2651810581/1498536978",
+        "statuses_count": 2686,
+        "follow_request_sent": null,
+        "followers_count": 236,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Melissa Castro",
+        "location": "Guanajuato, México",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694883811971074",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694883811971074,
+    "text": "RT @melissarocs: #NuevaAlianzaYMagisterio 🙋‍♀👨‍🏫es una fuerza política que brinda educación 📚 de calidad para tus hijos📚👩🏻‍🎓 y a los maestr…",
+    "place": null,
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088157023",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            41
+          ],
+          "text": "NuevaAlianzaYMagisterio"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "melissarocs",
+          "id_str": "2651810581",
+          "name": "Melissa Castro",
+          "id": 2651810581
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 153,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992497414463459328/UQo2_tK7_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 7785,
+      "description": "Mercedes Limón \nInvestigadora. Agricultora. Amante de la paz",
+      "created_at": "Fri Mar 09 21:35:03 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "bebalimons1",
+      "id_str": "972224268904808448",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 972224268904808448,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992497414463459328/UQo2_tK7_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 8602,
+      "follow_request_sent": null,
+      "followers_count": 108,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Mercedes   Limón   @bebalimons",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

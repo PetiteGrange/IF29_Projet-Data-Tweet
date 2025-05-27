@@ -1,0 +1,347 @@
+[
+  {
+    "created_date": "2018-06-15 20:41:44",
+    "current_time": 1529088104531,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JvT7FfS2Xc",
+          "source_user_id": 51820179,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+          "source_status_id": 1007690891069411328,
+          "url": "https://t.co/JvT7FfS2Xc",
+          "indices": [
+            58,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007690881841942531",
+          "expanded_url": "https://twitter.com/WHEAD76/status/1007690891069411328/photo/1",
+          "source_status_id_str": "1007690891069411328",
+          "media_url_https": "https://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+          "id": 1007690881841942531,
+          "source_user_id_str": "51820179"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:41:44 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JvT7FfS2Xc",
+            "indices": [
+              45,
+              68
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007690881841942531",
+            "expanded_url": "https://twitter.com/WHEAD76/status/1007690891069411328/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+            "id": 1007690881841942531,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+            "url": "https://t.co/JvT7FfS2Xc"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:26:45 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 4,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007690891069411328",
+      "in_reply_to_user_id": null,
+      "favorite_count": 3,
+      "id": 1007690891069411328,
+      "text": "That statue was accurate after all #WorldCup https://t.co/JvT7FfS2Xc",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              35,
+              44
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JvT7FfS2Xc",
+            "indices": [
+              45,
+              68
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007690881841942531",
+            "expanded_url": "https://twitter.com/WHEAD76/status/1007690891069411328/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+            "id": 1007690881841942531,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+            "url": "https://t.co/JvT7FfS2Xc"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        44
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 299,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2686666032/10a46e0bf9c8ffef607c274240dd6d8f_normal.jpeg",
+        "listed_count": 1,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 39,
+        "description": null,
+        "created_at": "Sun Jun 28 19:41:03 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WHEAD76",
+        "id_str": "51820179",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 51820179,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2686666032/10a46e0bf9c8ffef607c274240dd6d8f_normal.jpeg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 207,
+        "follow_request_sent": null,
+        "followers_count": 21,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Wendy Head",
+        "location": "Newcastle upon Tyne",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694662600142850",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694662600142850,
+    "text": "RT @WHEAD76: That statue was accurate after all #WorldCup https://t.co/JvT7FfS2Xc",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088104282",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            57
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JvT7FfS2Xc",
+          "source_user_id": 51820179,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+          "source_status_id": 1007690891069411328,
+          "url": "https://t.co/JvT7FfS2Xc",
+          "indices": [
+            58,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007690881841942531",
+          "expanded_url": "https://twitter.com/WHEAD76/status/1007690891069411328/photo/1",
+          "source_status_id_str": "1007690891069411328",
+          "media_url_https": "https://pbs.twimg.com/media/DfwJhJ-W0AM-ZTo.jpg",
+          "id": 1007690881841942531,
+          "source_user_id_str": "51820179"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "WHEAD76",
+          "id_str": "51820179",
+          "name": "Wendy Head",
+          "id": 51820179
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1469,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006539459792441346/fKqXVdZ7_normal.jpg",
+      "listed_count": 31,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 7426,
+      "description": "hit on the head with a frying pan.\n(Just a regular guy in a small town. Writer, photographer, father.)",
+      "created_at": "Sun Aug 31 19:13:41 +0000 2008",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "protected": false,
+      "screen_name": "daviddgoodwin",
+      "id_str": "16069510",
+      "profile_link_color": "ABB8C2",
+      "translator_type": "none",
+      "id": 16069510,
+      "geo_enabled": false,
+      "profile_background_color": "4A913C",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006539459792441346/fKqXVdZ7_normal.jpg",
+      "time_zone": null,
+      "url": "http://daviddgoodwin.com",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16069510/1528209368",
+      "statuses_count": 18428,
+      "follow_request_sent": null,
+      "followers_count": 410,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "person man, person man",
+      "location": "Eclectic, Alabama, U.S.",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "notifications": null
+    }
+  }
+]

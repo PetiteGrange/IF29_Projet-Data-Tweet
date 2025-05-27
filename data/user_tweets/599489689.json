@@ -1,3 +1,1270 @@
-{"created_date": "2018-06-16 17:28:20", "current_time": 1529162900878, "extended_entities": {"media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "source_user_id": 410811457, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "source_status_id": 1007994498776010752, "url": "https://t.co/DOvuBeb8c6", "indices": [37, 60], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "source_status_id_str": "1007994498776010752", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "source_user_id_str": "410811457", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [30, 53], "duration_millis": 17185, "variants": [{"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 15:28:20 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "indices": [21, 44], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "url": "https://t.co/DOvuBeb8c6", "video_info": {"aspect_ratio": [30, 53], "duration_millis": 17185, "variants": [{"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:33:10 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 2917, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007994498776010752", "in_reply_to_user_id": null, "favorite_count": 7901, "id": 1007994498776010752, "text": "Messi \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 #Worldcup https://t.co/DOvuBeb8c6", "place": null, "lang": "fr", "quote_count": 347, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 194, "entities": {"urls": [], "hashtags": [{"indices": [11, 20], "text": "Worldcup"}], "media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "indices": [21, 44], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "url": "https://t.co/DOvuBeb8c6"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 20], "contributors": null, "user": {"utc_offset": null, "friends_count": 1444, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg", "listed_count": 3517, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 498, "description": "Twitter where strangers can become friends. @Arsenal, @BBCMOTD, @FOXSports, @CallawayGolf, @GalvinGreen, @Belstaff and @OfficialTriumph", "created_at": "Sat Nov 12 16:09:46 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "IanWright0", "id_str": "410811457", "profile_link_color": "942D98", "translator_type": "none", "id": 410811457, "geo_enabled": true, "profile_background_color": "010101", "lang": "en", "profile_sidebar_border_color": "333333", "profile_text_color": "CCCCCC", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg", "time_zone": null, "url": "http://Instagram.com/wrightyofficial", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/410811457/1504249193", "statuses_count": 20145, "follow_request_sent": null, "followers_count": 1446535, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Ian Wright", "location": "London, England", "profile_sidebar_fill_color": "333333", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008008381205024769", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008008381205024769, "text": "RT @IanWright0: Messi \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 #Worldcup https://t.co/DOvuBeb8c6", "place": null, "lang": "fr", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529162900626", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [27, 36], "text": "Worldcup"}], "media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "source_user_id": 410811457, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "source_status_id": 1007994498776010752, "url": "https://t.co/DOvuBeb8c6", "indices": [37, 60], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "source_status_id_str": "1007994498776010752", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "source_user_id_str": "410811457", "additional_media_info": {"monetizable": false}}], "user_mentions": [{"indices": [3, 14], "screen_name": "IanWright0", "id_str": "410811457", "name": "Ian Wright", "id": 410811457}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 332, "profile_image_url_https": "https://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", "default_profile_image": false, "favourites_count": 403, "description": "I will never allow myself to be so desperate that i end up settling for far less than what i deserve", "created_at": "Mon Jun 04 19:13:27 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", "protected": false, "screen_name": "swanisurfazz", "id_str": "599489689", "profile_link_color": "0099B9", "translator_type": "none", "id": 599489689, "geo_enabled": false, "profile_background_color": "12768A", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "3C3940", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/599489689/1387641300", "statuses_count": 35466, "follow_request_sent": null, "followers_count": 281, "profile_use_background_image": true, "default_profile": false, "following": null, "name": ")\u0332\u0305S\u0305\u0332u\u03acr\u0454\u0332\u0323\u0323\u0323z\ud83e\udd47\ud83c\udde7\ud83c\uddf7", "location": null, "profile_sidebar_fill_color": "95E8EC", "notifications": null}}
-{"created_date": "2018-06-17 17:38:21", "current_time": 1529249901208, "extended_entities": {"media": [{"display_url": "pic.twitter.com/UPJzm9CIfY", "source_user_id": 890891, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "source_status_id": 1008367935151378432, "url": "https://t.co/UPJzm9CIfY", "indices": [34, 57], "sizes": {"small": {"w": 680, "h": 471, "resize": "fit"}, "large": {"w": 2048, "h": 1417, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 830, "resize": "fit"}}, "id_str": "1008367645639442438", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "source_status_id_str": "1008367935151378432", "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "id": 1008367645639442438, "source_user_id_str": "890891"}, {"display_url": "pic.twitter.com/UPJzm9CIfY", "source_user_id": 890891, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg", "source_status_id": 1008367935151378432, "url": "https://t.co/UPJzm9CIfY", "indices": [34, 57], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1008367650488176641", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "source_status_id_str": "1008367935151378432", "media_url_https": "https://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg", "id": 1008367650488176641, "source_user_id_str": "890891"}, {"display_url": "pic.twitter.com/UPJzm9CIfY", "source_user_id": 890891, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg", "source_status_id": 1008367935151378432, "url": "https://t.co/UPJzm9CIfY", "indices": [34, 57], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1008367657450602496", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "source_status_id_str": "1008367935151378432", "media_url_https": "https://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg", "id": 1008367657450602496, "source_user_id_str": "890891"}, {"display_url": "pic.twitter.com/UPJzm9CIfY", "source_user_id": 890891, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg", "source_status_id": 1008367935151378432, "url": "https://t.co/UPJzm9CIfY", "indices": [34, 57], "sizes": {"small": {"w": 680, "h": 426, "resize": "fit"}, "large": {"w": 2048, "h": 1285, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 753, "resize": "fit"}}, "id_str": "1008367662915817473", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "source_status_id_str": "1008367935151378432", "media_url_https": "https://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg", "id": 1008367662915817473, "source_user_id_str": "890891"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 15:38:20 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/UPJzm9CIfY", "indices": [14, 37], "sizes": {"small": {"w": 680, "h": 471, "resize": "fit"}, "large": {"w": 2048, "h": 1417, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 830, "resize": "fit"}}, "id_str": "1008367645639442438", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "id": 1008367645639442438, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "url": "https://t.co/UPJzm9CIfY"}, {"display_url": "pic.twitter.com/UPJzm9CIfY", "indices": [14, 37], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1008367650488176641", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg", "id": 1008367650488176641, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg", "url": "https://t.co/UPJzm9CIfY"}, {"display_url": "pic.twitter.com/UPJzm9CIfY", "indices": [14, 37], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1008367657450602496", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg", "id": 1008367657450602496, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg", "url": "https://t.co/UPJzm9CIfY"}, {"display_url": "pic.twitter.com/UPJzm9CIfY", "indices": [14, 37], "sizes": {"small": {"w": 680, "h": 426, "resize": "fit"}, "large": {"w": 2048, "h": 1285, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 753, "resize": "fit"}}, "id_str": "1008367662915817473", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg", "id": 1008367662915817473, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg", "url": "https://t.co/UPJzm9CIfY"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 15:17:04 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 1396, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008367935151378432", "in_reply_to_user_id": null, "favorite_count": 2355, "id": 1008367935151378432, "text": "\ud83c\uddf2\ud83c\uddfd\n\n#WorldCup https://t.co/UPJzm9CIfY", "place": null, "lang": "und", "quote_count": 71, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 23, "entities": {"urls": [], "hashtags": [{"indices": [4, 13], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/UPJzm9CIfY", "indices": [14, 37], "sizes": {"small": {"w": 680, "h": 471, "resize": "fit"}, "large": {"w": 2048, "h": 1417, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 830, "resize": "fit"}}, "id_str": "1008367645639442438", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "id": 1008367645639442438, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "url": "https://t.co/UPJzm9CIfY"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 13], "contributors": null, "user": {"utc_offset": null, "friends_count": 620, "profile_image_url_https": "https://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg", "listed_count": 16329, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 163, "description": "Get the Free B/R App", "created_at": "Sat Mar 10 23:52:36 +0000 2007", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "BleacherReport", "id_str": "890891", "profile_link_color": "000000", "translator_type": "none", "id": 890891, "geo_enabled": false, "profile_background_color": "444444", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg", "time_zone": null, "url": "https://br.app.link/get-the-BR-app", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/890891/1523712004", "statuses_count": 93950, "follow_request_sent": null, "followers_count": 6671780, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Bleacher Report", "location": null, "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008373286940659712", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008373286940659712, "text": "RT @BleacherReport: \ud83c\uddf2\ud83c\uddfd\n\n#WorldCup https://t.co/UPJzm9CIfY", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529249900933", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [24, 33], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/UPJzm9CIfY", "source_user_id": 890891, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "source_status_id": 1008367935151378432, "url": "https://t.co/UPJzm9CIfY", "indices": [34, 57], "sizes": {"small": {"w": 680, "h": 471, "resize": "fit"}, "large": {"w": 2048, "h": 1417, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 830, "resize": "fit"}}, "id_str": "1008367645639442438", "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1", "source_status_id_str": "1008367935151378432", "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg", "id": 1008367645639442438, "source_user_id_str": "890891"}], "user_mentions": [{"indices": [3, 18], "screen_name": "BleacherReport", "id_str": "890891", "name": "Bleacher Report", "id": 890891}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 332, "profile_image_url_https": "https://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", "default_profile_image": false, "favourites_count": 403, "description": "I will never allow myself to be so desperate that i end up settling for far less than what i deserve", "created_at": "Mon Jun 04 19:13:27 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", "protected": false, "screen_name": "swanisurfazz", "id_str": "599489689", "profile_link_color": "0099B9", "translator_type": "none", "id": 599489689, "geo_enabled": false, "profile_background_color": "12768A", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "3C3940", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/599489689/1387641300", "statuses_count": 35481, "follow_request_sent": null, "followers_count": 281, "profile_use_background_image": true, "default_profile": false, "following": null, "name": ")\u0332\u0305S\u0305\u0332u\u03acr\u0454\u0332\u0323\u0323\u0323z\ud83e\udd47\ud83c\udde7\ud83c\uddf7", "location": null, "profile_sidebar_fill_color": "95E8EC", "notifications": null}}
-{"created_date": "2018-06-15 15:59:50", "current_time": 1529071190434, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:59:50 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/XwINpKwFgk", "indices": [125, 148], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1500, "h": 1000, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007558816223899649", "expanded_url": "https://twitter.com/FootbalIStuff/status/1007558836813815808/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg", "id": 1007558816223899649, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg", "url": "https://t.co/XwINpKwFgk"}]}, "entities": {"urls": [], "hashtags": [{"indices": [0, 9], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/XwINpKwFgk", "indices": [125, 148], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1500, "h": 1000, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007558816223899649", "expanded_url": "https://twitter.com/FootbalIStuff/status/1007558836813815808/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg", "id": 1007558816223899649, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg", "url": "https://t.co/XwINpKwFgk"}], "user_mentions": [], "symbols": []}, "full_text": "#WorldCup\u2060 \u2060\u2060fixtures today:\n\n\u23f1 1pm:\n\ud83c\uddea\ud83c\uddec Egypt vs. Uruguay \ud83c\uddfa\ud83c\uddfe\n\n\u23f1 4pm:\n\ud83c\uddf2\ud83c\udde6 Morocco vs. Iran \ud83c\uddee\ud83c\uddf7\n\n\u23f1 7pm:\n\ud83c\uddf5\ud83c\uddf9 Portugal vs. Spain \ud83c\uddea\ud83c\uddf8 https://t.co/XwINpKwFgk", "display_text_range": [0, 124]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 09:42:00 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 248, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007558836813815808", "in_reply_to_user_id": null, "favorite_count": 540, "id": 1007558836813815808, "text": "#WorldCup\u2060 \u2060\u2060fixtures today:\n\n\u23f1 1pm:\n\ud83c\uddea\ud83c\uddec Egypt vs. Uruguay \ud83c\uddfa\ud83c\uddfe\n\n\u23f1 4pm:\n\ud83c\uddf2\ud83c\udde6 Morocco vs. Iran \ud83c\uddee\ud83c\uddf7\n\n\u23f1 7pm:\n\ud83c\uddf5\ud83c\uddf9 Portugal vs.\u2026 https://t.co/mvtA2WSGUy", "place": null, "lang": "en", "quote_count": 15, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 8, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1007558836813815808", "url": "https://t.co/mvtA2WSGUy"}], "hashtags": [{"indices": [0, 9], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 94084, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007197309082456065/4d6uuf_Y_normal.jpg", "listed_count": 1321, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 19, "description": "We Post Everything Related to Football (We do not claim to own the content we post) 18+. Contact: footbstuff@gmail.com", "created_at": "Mon Mar 26 12:51:01 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "FootbalIStuff", "id_str": "537186173", "profile_link_color": "124988", "translator_type": "regular", "id": 537186173, "geo_enabled": false, "profile_background_color": "3B94D9", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1007197309082456065/4d6uuf_Y_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/537186173/1528812563", "statuses_count": 22291, "follow_request_sent": null, "followers_count": 499423, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "\ud83c\uddea\ud83c\uddec vs \ud83c\uddfa\ud83c\uddfe Football Stuff", "location": "UK", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007623719559278592", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007623719559278592, "text": "RT @FootbalIStuff: #WorldCup\u2060 \u2060\u2060fixtures today:\n\n\u23f1 1pm:\n\ud83c\uddea\ud83c\uddec Egypt vs. Uruguay \ud83c\uddfa\ud83c\uddfe\n\n\u23f1 4pm:\n\ud83c\uddf2\ud83c\udde6 Morocco vs. Iran \ud83c\uddee\ud83c\uddf7\n\n\u23f1 7pm:\n\ud83c\uddf5\ud83c\uddf9 Portugal vs. Spai\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529071190143", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [19, 28], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 17], "screen_name": "FootbalIStuff", "id_str": "537186173", "name": "\ud83c\uddea\ud83c\uddec vs \ud83c\uddfa\ud83c\uddfe Football Stuff", "id": 537186173}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 332, "profile_image_url_https": "https://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", "default_profile_image": false, "favourites_count": 402, "description": "I will never allow myself to be so desperate that i end up settling for far less than what i deserve", "created_at": "Mon Jun 04 19:13:27 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", "protected": false, "screen_name": "swanisurfazz", "id_str": "599489689", "profile_link_color": "0099B9", "translator_type": "none", "id": 599489689, "geo_enabled": false, "profile_background_color": "12768A", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "3C3940", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/599489689/1387641300", "statuses_count": 35437, "follow_request_sent": null, "followers_count": 281, "profile_use_background_image": true, "default_profile": false, "following": null, "name": ")\u0332\u0305S\u0305\u0332u\u03acr\u0454\u0332\u0323\u0323\u0323z", "location": null, "profile_sidebar_fill_color": "95E8EC", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 17:28:20",
+    "current_time": 1529162900878,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DOvuBeb8c6",
+          "source_user_id": 410811457,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "source_status_id": 1007994498776010752,
+          "url": "https://t.co/DOvuBeb8c6",
+          "indices": [
+            37,
+            60
+          ],
+          "sizes": {
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007994461744517120",
+          "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+          "source_status_id_str": "1007994498776010752",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "id": 1007994461744517120,
+          "source_user_id_str": "410811457",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              30,
+              53
+            ],
+            "duration_millis": 17185,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 256000,
+                "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 15:28:20 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DOvuBeb8c6",
+            "indices": [
+              21,
+              44
+            ],
+            "sizes": {
+              "small": {
+                "w": 385,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007994461744517120",
+            "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "id": 1007994461744517120,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "url": "https://t.co/DOvuBeb8c6",
+            "video_info": {
+              "aspect_ratio": [
+                30,
+                53
+              ],
+              "duration_millis": 17185,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 14:33:10 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 2917,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007994498776010752",
+      "in_reply_to_user_id": null,
+      "favorite_count": 7901,
+      "id": 1007994498776010752,
+      "text": "Messi 😱😱😱😱 #Worldcup https://t.co/DOvuBeb8c6",
+      "place": null,
+      "lang": "fr",
+      "quote_count": 347,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 194,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              11,
+              20
+            ],
+            "text": "Worldcup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DOvuBeb8c6",
+            "indices": [
+              21,
+              44
+            ],
+            "sizes": {
+              "small": {
+                "w": 385,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007994461744517120",
+            "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "id": 1007994461744517120,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "url": "https://t.co/DOvuBeb8c6"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        20
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1444,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg",
+        "listed_count": 3517,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 498,
+        "description": "Twitter where strangers can become friends. @Arsenal, @BBCMOTD, @FOXSports, @CallawayGolf, @GalvinGreen, @Belstaff and @OfficialTriumph",
+        "created_at": "Sat Nov 12 16:09:46 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "IanWright0",
+        "id_str": "410811457",
+        "profile_link_color": "942D98",
+        "translator_type": "none",
+        "id": 410811457,
+        "geo_enabled": true,
+        "profile_background_color": "010101",
+        "lang": "en",
+        "profile_sidebar_border_color": "333333",
+        "profile_text_color": "CCCCCC",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg",
+        "time_zone": null,
+        "url": "http://Instagram.com/wrightyofficial",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410811457/1504249193",
+        "statuses_count": 20145,
+        "follow_request_sent": null,
+        "followers_count": 1446535,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Ian Wright",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "333333",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008008381205024769",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008008381205024769,
+    "text": "RT @IanWright0: Messi 😱😱😱😱 #Worldcup https://t.co/DOvuBeb8c6",
+    "place": null,
+    "lang": "fr",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529162900626",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            27,
+            36
+          ],
+          "text": "Worldcup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DOvuBeb8c6",
+          "source_user_id": 410811457,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "source_status_id": 1007994498776010752,
+          "url": "https://t.co/DOvuBeb8c6",
+          "indices": [
+            37,
+            60
+          ],
+          "sizes": {
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007994461744517120",
+          "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+          "source_status_id_str": "1007994498776010752",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "id": 1007994461744517120,
+          "source_user_id_str": "410811457",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "IanWright0",
+          "id_str": "410811457",
+          "name": "Ian Wright",
+          "id": 410811457
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 332,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 403,
+      "description": "I will never allow myself to be so desperate that i end up settling for far less than what i deserve",
+      "created_at": "Mon Jun 04 19:13:27 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "protected": false,
+      "screen_name": "swanisurfazz",
+      "id_str": "599489689",
+      "profile_link_color": "0099B9",
+      "translator_type": "none",
+      "id": 599489689,
+      "geo_enabled": false,
+      "profile_background_color": "12768A",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "3C3940",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/599489689/1387641300",
+      "statuses_count": 35466,
+      "follow_request_sent": null,
+      "followers_count": 281,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": ")̲̅S̲̅uάrє̲̣̣̣z🥇🇧🇷",
+      "location": null,
+      "profile_sidebar_fill_color": "95E8EC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-17 17:38:21",
+    "current_time": 1529249901208,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UPJzm9CIfY",
+          "source_user_id": 890891,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+          "source_status_id": 1008367935151378432,
+          "url": "https://t.co/UPJzm9CIfY",
+          "indices": [
+            34,
+            57
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1417,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 830,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008367645639442438",
+          "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+          "source_status_id_str": "1008367935151378432",
+          "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+          "id": 1008367645639442438,
+          "source_user_id_str": "890891"
+        },
+        {
+          "display_url": "pic.twitter.com/UPJzm9CIfY",
+          "source_user_id": 890891,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg",
+          "source_status_id": 1008367935151378432,
+          "url": "https://t.co/UPJzm9CIfY",
+          "indices": [
+            34,
+            57
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008367650488176641",
+          "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+          "source_status_id_str": "1008367935151378432",
+          "media_url_https": "https://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg",
+          "id": 1008367650488176641,
+          "source_user_id_str": "890891"
+        },
+        {
+          "display_url": "pic.twitter.com/UPJzm9CIfY",
+          "source_user_id": 890891,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg",
+          "source_status_id": 1008367935151378432,
+          "url": "https://t.co/UPJzm9CIfY",
+          "indices": [
+            34,
+            57
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008367657450602496",
+          "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+          "source_status_id_str": "1008367935151378432",
+          "media_url_https": "https://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg",
+          "id": 1008367657450602496,
+          "source_user_id_str": "890891"
+        },
+        {
+          "display_url": "pic.twitter.com/UPJzm9CIfY",
+          "source_user_id": 890891,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg",
+          "source_status_id": 1008367935151378432,
+          "url": "https://t.co/UPJzm9CIfY",
+          "indices": [
+            34,
+            57
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1285,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 753,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008367662915817473",
+          "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+          "source_status_id_str": "1008367935151378432",
+          "media_url_https": "https://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg",
+          "id": 1008367662915817473,
+          "source_user_id_str": "890891"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 15:38:20 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UPJzm9CIfY",
+            "indices": [
+              14,
+              37
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1417,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 830,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008367645639442438",
+            "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+            "id": 1008367645639442438,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+            "url": "https://t.co/UPJzm9CIfY"
+          },
+          {
+            "display_url": "pic.twitter.com/UPJzm9CIfY",
+            "indices": [
+              14,
+              37
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008367650488176641",
+            "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg",
+            "id": 1008367650488176641,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df5xCRpX0AEyvFP.jpg",
+            "url": "https://t.co/UPJzm9CIfY"
+          },
+          {
+            "display_url": "pic.twitter.com/UPJzm9CIfY",
+            "indices": [
+              14,
+              37
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008367657450602496",
+            "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg",
+            "id": 1008367657450602496,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df5xCrlWAAA_rY0.jpg",
+            "url": "https://t.co/UPJzm9CIfY"
+          },
+          {
+            "display_url": "pic.twitter.com/UPJzm9CIfY",
+            "indices": [
+              14,
+              37
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 426,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1285,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 753,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008367662915817473",
+            "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg",
+            "id": 1008367662915817473,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df5xC_8WkAEnvHE.jpg",
+            "url": "https://t.co/UPJzm9CIfY"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sun Jun 17 15:17:04 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 1396,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008367935151378432",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2355,
+      "id": 1008367935151378432,
+      "text": "🇲🇽\n\n#WorldCup https://t.co/UPJzm9CIfY",
+      "place": null,
+      "lang": "und",
+      "quote_count": 71,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 23,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              4,
+              13
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UPJzm9CIfY",
+            "indices": [
+              14,
+              37
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1417,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 830,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008367645639442438",
+            "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+            "id": 1008367645639442438,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+            "url": "https://t.co/UPJzm9CIfY"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        13
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 620,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg",
+        "listed_count": 16329,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 163,
+        "description": "Get the Free B/R App",
+        "created_at": "Sat Mar 10 23:52:36 +0000 2007",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "BleacherReport",
+        "id_str": "890891",
+        "profile_link_color": "000000",
+        "translator_type": "none",
+        "id": 890891,
+        "geo_enabled": false,
+        "profile_background_color": "444444",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg",
+        "time_zone": null,
+        "url": "https://br.app.link/get-the-BR-app",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/890891/1523712004",
+        "statuses_count": 93950,
+        "follow_request_sent": null,
+        "followers_count": 6671780,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Bleacher Report",
+        "location": null,
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008373286940659712",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008373286940659712,
+    "text": "RT @BleacherReport: 🇲🇽\n\n#WorldCup https://t.co/UPJzm9CIfY",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529249900933",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            33
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UPJzm9CIfY",
+          "source_user_id": 890891,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+          "source_status_id": 1008367935151378432,
+          "url": "https://t.co/UPJzm9CIfY",
+          "indices": [
+            34,
+            57
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1417,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 830,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008367645639442438",
+          "expanded_url": "https://twitter.com/BleacherReport/status/1008367935151378432/photo/1",
+          "source_status_id_str": "1008367935151378432",
+          "media_url_https": "https://pbs.twimg.com/media/Df5xB_lWAAYt8lr.jpg",
+          "id": 1008367645639442438,
+          "source_user_id_str": "890891"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "BleacherReport",
+          "id_str": "890891",
+          "name": "Bleacher Report",
+          "id": 890891
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 332,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 403,
+      "description": "I will never allow myself to be so desperate that i end up settling for far less than what i deserve",
+      "created_at": "Mon Jun 04 19:13:27 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "protected": false,
+      "screen_name": "swanisurfazz",
+      "id_str": "599489689",
+      "profile_link_color": "0099B9",
+      "translator_type": "none",
+      "id": 599489689,
+      "geo_enabled": false,
+      "profile_background_color": "12768A",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "3C3940",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/599489689/1387641300",
+      "statuses_count": 35481,
+      "follow_request_sent": null,
+      "followers_count": 281,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": ")̲̅S̲̅uάrє̲̣̣̣z🥇🇧🇷",
+      "location": null,
+      "profile_sidebar_fill_color": "95E8EC",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:59:50",
+    "current_time": 1529071190434,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:59:50 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/XwINpKwFgk",
+              "indices": [
+                125,
+                148
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1500,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007558816223899649",
+              "expanded_url": "https://twitter.com/FootbalIStuff/status/1007558836813815808/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg",
+              "id": 1007558816223899649,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg",
+              "url": "https://t.co/XwINpKwFgk"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                9
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/XwINpKwFgk",
+              "indices": [
+                125,
+                148
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1500,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007558816223899649",
+              "expanded_url": "https://twitter.com/FootbalIStuff/status/1007558836813815808/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg",
+              "id": 1007558816223899649,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfuRZ7NWsAEDRai.jpg",
+              "url": "https://t.co/XwINpKwFgk"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "#WorldCup⁠ ⁠⁠fixtures today:\n\n⏱ 1pm:\n🇪🇬 Egypt vs. Uruguay 🇺🇾\n\n⏱ 4pm:\n🇲🇦 Morocco vs. Iran 🇮🇷\n\n⏱ 7pm:\n🇵🇹 Portugal vs. Spain 🇪🇸 https://t.co/XwINpKwFgk",
+        "display_text_range": [
+          0,
+          124
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 09:42:00 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 248,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007558836813815808",
+      "in_reply_to_user_id": null,
+      "favorite_count": 540,
+      "id": 1007558836813815808,
+      "text": "#WorldCup⁠ ⁠⁠fixtures today:\n\n⏱ 1pm:\n🇪🇬 Egypt vs. Uruguay 🇺🇾\n\n⏱ 4pm:\n🇲🇦 Morocco vs. Iran 🇮🇷\n\n⏱ 7pm:\n🇵🇹 Portugal vs.… https://t.co/mvtA2WSGUy",
+      "place": null,
+      "lang": "en",
+      "quote_count": 15,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 8,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007558836813815808",
+            "url": "https://t.co/mvtA2WSGUy"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 94084,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007197309082456065/4d6uuf_Y_normal.jpg",
+        "listed_count": 1321,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 19,
+        "description": "We Post Everything Related to Football (We do not claim to own the content we post) 18+. Contact: footbstuff@gmail.com",
+        "created_at": "Mon Mar 26 12:51:01 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "FootbalIStuff",
+        "id_str": "537186173",
+        "profile_link_color": "124988",
+        "translator_type": "regular",
+        "id": 537186173,
+        "geo_enabled": false,
+        "profile_background_color": "3B94D9",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007197309082456065/4d6uuf_Y_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/537186173/1528812563",
+        "statuses_count": 22291,
+        "follow_request_sent": null,
+        "followers_count": 499423,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "🇪🇬 vs 🇺🇾 Football Stuff",
+        "location": "UK",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007623719559278592",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007623719559278592,
+    "text": "RT @FootbalIStuff: #WorldCup⁠ ⁠⁠fixtures today:\n\n⏱ 1pm:\n🇪🇬 Egypt vs. Uruguay 🇺🇾\n\n⏱ 4pm:\n🇲🇦 Morocco vs. Iran 🇮🇷\n\n⏱ 7pm:\n🇵🇹 Portugal vs. Spai…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529071190143",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            19,
+            28
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "FootbalIStuff",
+          "id_str": "537186173",
+          "name": "🇪🇬 vs 🇺🇾 Football Stuff",
+          "id": 537186173
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 332,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 402,
+      "description": "I will never allow myself to be so desperate that i end up settling for far less than what i deserve",
+      "created_at": "Mon Jun 04 19:13:27 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "protected": false,
+      "screen_name": "swanisurfazz",
+      "id_str": "599489689",
+      "profile_link_color": "0099B9",
+      "translator_type": "none",
+      "id": 599489689,
+      "geo_enabled": false,
+      "profile_background_color": "12768A",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "3C3940",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/981761672741310465/96PsNS1t_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/599489689/1387641300",
+      "statuses_count": 35437,
+      "follow_request_sent": null,
+      "followers_count": 281,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": ")̲̅S̲̅uάrє̲̣̣̣z",
+      "location": null,
+      "profile_sidebar_fill_color": "95E8EC",
+      "notifications": null
+    }
+  }
+]

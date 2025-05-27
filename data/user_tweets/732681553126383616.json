@@ -1,0 +1,411 @@
+[
+  {
+    "created_date": "2018-06-15 20:40:49",
+    "current_time": 1529088049260,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SCv8xOc9kr",
+          "source_user_id": 119593082,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+          "source_status_id": 1007691615337472000,
+          "url": "https://t.co/SCv8xOc9kr",
+          "indices": [
+            108,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007691514057666560",
+          "expanded_url": "https://twitter.com/FOXSoccer/status/1007691615337472000/video/1",
+          "source_status_id_str": "1007691615337472000",
+          "media_url_https": "https://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+          "id": 1007691514057666560,
+          "source_user_id_str": "119593082",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Diego Costa equalizes",
+            "embeddable": false,
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:49 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SCv8xOc9kr",
+            "source_user_id": 119593082,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+            "source_status_id": 1007691615337472000,
+            "url": "https://t.co/SCv8xOc9kr",
+            "indices": [
+              94,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007691514057666560",
+            "expanded_url": "https://twitter.com/FOXSoccer/status/1007691615337472000/video/1",
+            "source_status_id_str": "1007691615337472000",
+            "media_url_https": "https://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+            "id": 1007691514057666560,
+            "source_user_id_str": "119593082",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Diego Costa equalizes",
+              "embeddable": false,
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:32:05 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 46,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007692233141825539",
+      "in_reply_to_user_id": null,
+      "favorite_count": 148,
+      "id": 1007692233141825539,
+      "text": "This is one of the finest solo efforts you'll see at the #WorldCup\n\nUnreal, @diegocosta. #ESP\nhttps://t.co/SCv8xOc9kr",
+      "place": null,
+      "lang": "en",
+      "quote_count": 12,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 2,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              57,
+              66
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              89,
+              93
+            ],
+            "text": "ESP"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SCv8xOc9kr",
+            "source_user_id": 119593082,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+            "source_status_id": 1007691615337472000,
+            "url": "https://t.co/SCv8xOc9kr",
+            "indices": [
+              94,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007691514057666560",
+            "expanded_url": "https://twitter.com/FOXSoccer/status/1007691615337472000/video/1",
+            "source_status_id_str": "1007691615337472000",
+            "media_url_https": "https://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+            "id": 1007691514057666560,
+            "source_user_id_str": "119593082",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Diego Costa equalizes",
+              "embeddable": false,
+              "monetizable": false
+            }
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              76,
+              87
+            ],
+            "screen_name": "diegocosta",
+            "id_str": "2427418736",
+            "name": "Diego Costa",
+            "id": 2427418736
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1609,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/893320394807095297/e69KTor2_normal.jpg",
+        "listed_count": 1302,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 14021,
+        "description": "Fluent in the universal language ⚽️",
+        "created_at": "Mon Feb 06 14:33:52 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "COPA90US",
+        "id_str": "484815388",
+        "profile_link_color": "141414",
+        "translator_type": "regular",
+        "id": 484815388,
+        "geo_enabled": true,
+        "profile_background_color": "141414",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/893320394807095297/e69KTor2_normal.jpg",
+        "time_zone": null,
+        "url": "http://youtube.com/COPA90US",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/484815388/1501819172",
+        "statuses_count": 45696,
+        "follow_request_sent": null,
+        "followers_count": 469347,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "COPA90 US",
+        "location": "New York, NY",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694430776655872",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694430776655872,
+    "text": "RT @COPA90US: This is one of the finest solo efforts you'll see at the #WorldCup\n\nUnreal, @diegocosta. #ESP\nhttps://t.co/SCv8xOc9kr",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088049011",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            71,
+            80
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            103,
+            107
+          ],
+          "text": "ESP"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SCv8xOc9kr",
+          "source_user_id": 119593082,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+          "source_status_id": 1007691615337472000,
+          "url": "https://t.co/SCv8xOc9kr",
+          "indices": [
+            108,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007691514057666560",
+          "expanded_url": "https://twitter.com/FOXSoccer/status/1007691615337472000/video/1",
+          "source_status_id_str": "1007691615337472000",
+          "media_url_https": "https://pbs.twimg.com/media/DfwKLe4V4AArxjb.jpg",
+          "id": 1007691514057666560,
+          "source_user_id_str": "119593082",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Diego Costa equalizes",
+            "embeddable": false,
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "COPA90US",
+          "id_str": "484815388",
+          "name": "COPA90 US",
+          "id": 484815388
+        },
+        {
+          "indices": [
+            90,
+            101
+          ],
+          "screen_name": "diegocosta",
+          "id_str": "2427418736",
+          "name": "Diego Costa",
+          "id": 2427418736
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 527,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996218563684777985/nsNYUkIO_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 57609,
+      "description": "PHS soccer⚽️",
+      "created_at": "Tue May 17 21:17:49 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "escarzaga_andre",
+      "id_str": "732681553126383616",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 732681553126383616,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996218563684777985/nsNYUkIO_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/732681553126383616/1519186900",
+      "statuses_count": 4204,
+      "follow_request_sent": null,
+      "followers_count": 292,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Andrè Escarzaga",
+      "location": "Porterville, CA",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

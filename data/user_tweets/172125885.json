@@ -1,0 +1,1026 @@
+[
+  {
+    "created_date": "2018-06-15 20:40:02",
+    "current_time": 1529088002127,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:01 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/x12GoALRvH",
+              "indices": [
+                182,
+                205
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 454,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007690167203835905",
+              "expanded_url": "https://twitter.com/thelivesoccer_/status/1007690280919818240/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwI3jvWsAErBMB.jpg",
+              "id": 1007690167203835905,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwI3jvWsAErBMB.jpg",
+              "url": "https://t.co/x12GoALRvH"
+            },
+            {
+              "display_url": "pic.twitter.com/x12GoALRvH",
+              "indices": [
+                182,
+                205
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 454,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007690167371681792",
+              "expanded_url": "https://twitter.com/thelivesoccer_/status/1007690280919818240/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwI3kXX0AAWbyc.jpg",
+              "id": 1007690167371681792,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwI3kXX0AAWbyc.jpg",
+              "url": "https://t.co/x12GoALRvH"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                64,
+                73
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                154,
+                161
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                162,
+                181
+              ],
+              "text": "WorldCupRussia2018"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/x12GoALRvH",
+              "indices": [
+                182,
+                205
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 454,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007690167203835905",
+              "expanded_url": "https://twitter.com/thelivesoccer_/status/1007690280919818240/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwI3jvWsAErBMB.jpg",
+              "id": 1007690167203835905,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwI3jvWsAErBMB.jpg",
+              "url": "https://t.co/x12GoALRvH"
+            },
+            {
+              "display_url": "pic.twitter.com/x12GoALRvH",
+              "indices": [
+                182,
+                205
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 454,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 683,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007690167371681792",
+              "expanded_url": "https://twitter.com/thelivesoccer_/status/1007690280919818240/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwI3kXX0AAWbyc.jpg",
+              "id": 1007690167371681792,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwI3kXX0AAWbyc.jpg",
+              "url": "https://t.co/x12GoALRvH"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "DID YOU KNOW: Only four players have scored in four consecutive #WorldCup⁠ ⁠ tournaments:\n\n🇧🇷 Pele\n🇩🇪 Uwe Seeler\n🇩🇪 Miroslav Klose \n🇵🇹 Cristiano Ronaldo\n\n#PORESP #WorldCupRussia2018 https://t.co/x12GoALRvH",
+        "display_text_range": [
+          0,
+          181
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:24:19 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 46,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007690280919818240",
+      "in_reply_to_user_id": null,
+      "favorite_count": 89,
+      "id": 1007690280919818240,
+      "text": "DID YOU KNOW: Only four players have scored in four consecutive #WorldCup⁠ ⁠ tournaments:\n\n🇧🇷 Pele\n🇩🇪 Uwe Seeler\n🇩🇪… https://t.co/87dDNLzcrt",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 5,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007690280919818240",
+            "url": "https://t.co/87dDNLzcrt"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              64,
+              73
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1102,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002068224207478784/FKBoDny__normal.jpg",
+        "listed_count": 34,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 133,
+        "description": "Official Live soccer Twitter account. The centre of all football news, views, transfers & more.",
+        "created_at": "Tue Feb 07 05:20:11 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "thelivesoccer_",
+        "id_str": "485411848",
+        "profile_link_color": "B30054",
+        "translator_type": "none",
+        "id": 485411848,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002068224207478784/FKBoDny__normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/485411848/1529011311",
+        "statuses_count": 2453,
+        "follow_request_sent": null,
+        "followers_count": 36726,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "#WorldCupRussia2018",
+        "location": null,
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694232721809409",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694232721809409,
+    "text": "RT @thelivesoccer_: DID YOU KNOW: Only four players have scored in four consecutive #WorldCup⁠ ⁠ tournaments:\n\n🇧🇷 Pele\n🇩🇪 Uwe Seeler\n🇩🇪 Mir…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088001791",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            93
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "thelivesoccer_",
+          "id_str": "485411848",
+          "name": "#WorldCupRussia2018",
+          "id": 485411848
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 492,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004886059308802048/9rxPIrJg_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 499,
+      "description": "a little something wild and free",
+      "created_at": "Wed Jul 28 23:51:19 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "protected": false,
+      "screen_name": "lluviaveronica",
+      "id_str": "172125885",
+      "profile_link_color": "A1088A",
+      "translator_type": "none",
+      "id": 172125885,
+      "geo_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "C914AE",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004886059308802048/9rxPIrJg_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/172125885/1518067760",
+      "statuses_count": 22385,
+      "follow_request_sent": null,
+      "followers_count": 153,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Veronica",
+      "location": "🤘🏼 Texas, USA ",
+      "profile_sidebar_fill_color": "A97CED",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:40:08",
+    "current_time": 1529088008172,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:07 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ruAv4jTHr2",
+              "indices": [
+                277,
+                300
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 461,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1417,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 813,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007691740340420609",
+              "expanded_url": "https://twitter.com/TheSporTalk/status/1007691763224600577/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwKTIIWAAEw-ee.jpg",
+              "id": 1007691740340420609,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwKTIIWAAEw-ee.jpg",
+              "url": "https://t.co/ruAv4jTHr2"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                222,
+                231
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                232,
+                236
+              ],
+              "text": "POR"
+            },
+            {
+              "indices": [
+                237,
+                244
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                246,
+                265
+              ],
+              "text": "WorldCupRussia2018"
+            },
+            {
+              "indices": [
+                266,
+                276
+              ],
+              "text": "Cristiano"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ruAv4jTHr2",
+              "indices": [
+                277,
+                300
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 461,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1417,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 813,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007691740340420609",
+              "expanded_url": "https://twitter.com/TheSporTalk/status/1007691763224600577/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwKTIIWAAEw-ee.jpg",
+              "id": 1007691740340420609,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwKTIIWAAEw-ee.jpg",
+              "url": "https://t.co/ruAv4jTHr2"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Cristiano Ronaldo becomes the first player in history to score in eight consecutive major tournaments.\n\n2004: Euros\n2006: World Cup\n2008: Euros\n2010: World Cup\n2012: Euros\n2014: World Cup\n2016: Euros\n2018: World Cup\n\n🔥🔥🔥\n\n#WorldCup #POR #PORESP \n#WorldCupRussia2018 #Cristiano https://t.co/ruAv4jTHr2",
+        "display_text_range": [
+          0,
+          276
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:30:13 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 16,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007691763224600577",
+      "in_reply_to_user_id": null,
+      "favorite_count": 30,
+      "id": 1007691763224600577,
+      "text": "Cristiano Ronaldo becomes the first player in history to score in eight consecutive major tournaments.\n\n2004: Euros… https://t.co/x7LlhpnM6w",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007691763224600577",
+            "url": "https://t.co/x7LlhpnM6w"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1876,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007528733094416384/WL4lPS8y_normal.jpg",
+        "listed_count": 28,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 171,
+        "description": "LOADING.....",
+        "created_at": "Tue Jul 01 12:58:13 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "protected": false,
+        "screen_name": "TheSporTalk",
+        "id_str": "2597974921",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 2597974921,
+        "geo_enabled": true,
+        "profile_background_color": "1A1B1F",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007528733094416384/WL4lPS8y_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2597974921/1528578534",
+        "statuses_count": 17723,
+        "follow_request_sent": null,
+        "followers_count": 12161,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "#WorldCup 🏆",
+        "location": "International 🌍",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694258587996160",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694258587996160,
+    "text": "RT @TheSporTalk: Cristiano Ronaldo becomes the first player in history to score in eight consecutive major tournaments.\n\n2004: Euros\n2006:…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088007958",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "TheSporTalk",
+          "id_str": "2597974921",
+          "name": "#WorldCup 🏆",
+          "id": 2597974921
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 492,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004886059308802048/9rxPIrJg_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 499,
+      "description": "a little something wild and free",
+      "created_at": "Wed Jul 28 23:51:19 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "protected": false,
+      "screen_name": "lluviaveronica",
+      "id_str": "172125885",
+      "profile_link_color": "A1088A",
+      "translator_type": "none",
+      "id": 172125885,
+      "geo_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "C914AE",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004886059308802048/9rxPIrJg_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/172125885/1518067760",
+      "statuses_count": 22386,
+      "follow_request_sent": null,
+      "followers_count": 153,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Veronica",
+      "location": "🤘🏼 Texas, USA ",
+      "profile_sidebar_fill_color": "A97CED",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:40:40",
+    "current_time": 1529088040705,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:40 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/0rXtMEFN5q",
+              "indices": [
+                136,
+                159
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1080,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1080,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007690607266058240",
+              "expanded_url": "https://twitter.com/TheSporTalk/status/1007690618120949763/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwJRLGXUAAPi5Z.jpg",
+              "id": 1007690607266058240,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwJRLGXUAAPi5Z.jpg",
+              "url": "https://t.co/0rXtMEFN5q"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                81,
+                88
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                89,
+                93
+              ],
+              "text": "POR"
+            },
+            {
+              "indices": [
+                94,
+                103
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                105,
+                124
+              ],
+              "text": "WorldCupRussia2018"
+            },
+            {
+              "indices": [
+                125,
+                135
+              ],
+              "text": "Cristiano"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/0rXtMEFN5q",
+              "indices": [
+                136,
+                159
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1080,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1080,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007690607266058240",
+              "expanded_url": "https://twitter.com/TheSporTalk/status/1007690618120949763/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwJRLGXUAAPi5Z.jpg",
+              "id": 1007690607266058240,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwJRLGXUAAPi5Z.jpg",
+              "url": "https://t.co/0rXtMEFN5q"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "2006 ✔\n2010 ✔\n2014 ✔\n2018 ✔\n\nCristiano Ronaldo scores in his fourth World Cup 🏆\n\n#PORESP #POR #WorldCup \n#WorldCupRussia2018 #Cristiano https://t.co/0rXtMEFN5q",
+        "display_text_range": [
+          0,
+          135
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:25:40 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 15,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007690618120949763",
+      "in_reply_to_user_id": null,
+      "favorite_count": 22,
+      "id": 1007690618120949763,
+      "text": "2006 ✔\n2010 ✔\n2014 ✔\n2018 ✔\n\nCristiano Ronaldo scores in his fourth World Cup 🏆\n\n#PORESP #POR #WorldCup… https://t.co/C0MTW8Heub",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              105,
+              128
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007690618120949763",
+            "url": "https://t.co/C0MTW8Heub"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              81,
+              88
+            ],
+            "text": "PORESP"
+          },
+          {
+            "indices": [
+              89,
+              93
+            ],
+            "text": "POR"
+          },
+          {
+            "indices": [
+              94,
+              103
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1876,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007528733094416384/WL4lPS8y_normal.jpg",
+        "listed_count": 28,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 171,
+        "description": "LOADING.....",
+        "created_at": "Tue Jul 01 12:58:13 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "protected": false,
+        "screen_name": "TheSporTalk",
+        "id_str": "2597974921",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 2597974921,
+        "geo_enabled": true,
+        "profile_background_color": "1A1B1F",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007528733094416384/WL4lPS8y_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2597974921/1528578534",
+        "statuses_count": 17723,
+        "follow_request_sent": null,
+        "followers_count": 12161,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "#WorldCup 🏆",
+        "location": "International 🌍",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694395049734144",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694395049734144,
+    "text": "RT @TheSporTalk: 2006 ✔\n2010 ✔\n2014 ✔\n2018 ✔\n\nCristiano Ronaldo scores in his fourth World Cup 🏆\n\n#PORESP #POR #WorldCup \n#WorldCupRussia20…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088040493",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            98,
+            105
+          ],
+          "text": "PORESP"
+        },
+        {
+          "indices": [
+            106,
+            110
+          ],
+          "text": "POR"
+        },
+        {
+          "indices": [
+            111,
+            120
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "TheSporTalk",
+          "id_str": "2597974921",
+          "name": "#WorldCup 🏆",
+          "id": 2597974921
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 492,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004886059308802048/9rxPIrJg_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 499,
+      "description": "a little something wild and free",
+      "created_at": "Wed Jul 28 23:51:19 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "protected": false,
+      "screen_name": "lluviaveronica",
+      "id_str": "172125885",
+      "profile_link_color": "A1088A",
+      "translator_type": "none",
+      "id": 172125885,
+      "geo_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "C914AE",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004886059308802048/9rxPIrJg_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/172125885/1518067760",
+      "statuses_count": 22387,
+      "follow_request_sent": null,
+      "followers_count": 153,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Veronica",
+      "location": "🤘🏼 Texas, USA ",
+      "profile_sidebar_fill_color": "A97CED",
+      "notifications": null
+    }
+  }
+]

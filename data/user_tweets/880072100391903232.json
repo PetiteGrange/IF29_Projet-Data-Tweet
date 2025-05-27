@@ -1,1 +1,383 @@
-{"created_date": "2018-06-16 04:26:25", "current_time": 1529115985264, "extended_entities": {"media": [{"display_url": "pic.twitter.com/0Z0p3MW5qk", "source_user_id": 138372303, "type": "photo", "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "source_status_id": 1007508105771483137, "url": "https://t.co/0Z0p3MW5qk", "indices": [62, 85], "sizes": {"small": {"w": 680, "h": 535, "resize": "fit"}, "large": {"w": 2048, "h": 1613, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 945, "resize": "fit"}}, "id_str": "1007507871616131072", "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1", "source_status_id_str": "1007508105771483137", "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "id": 1007507871616131072, "source_user_id_str": "138372303"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 02:26:24 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/0Z0p3MW5qk", "indices": [44, 67], "sizes": {"small": {"w": 680, "h": 535, "resize": "fit"}, "large": {"w": 2048, "h": 1613, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 945, "resize": "fit"}}, "id_str": "1007507871616131072", "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1", "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "id": 1007507871616131072, "type": "photo", "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "url": "https://t.co/0Z0p3MW5qk"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 06:20:25 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 7370, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007508105771483137", "in_reply_to_user_id": null, "favorite_count": 29075, "id": 1007508105771483137, "text": "Happy Birthday, @MoSalah! \ud83c\udf89\n\n#EGY\n#WorldCup https://t.co/0Z0p3MW5qk", "place": null, "lang": "en", "quote_count": 518, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 363, "entities": {"urls": [], "hashtags": [{"indices": [29, 33], "text": "EGY"}, {"indices": [34, 43], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/0Z0p3MW5qk", "indices": [44, 67], "sizes": {"small": {"w": 680, "h": 535, "resize": "fit"}, "large": {"w": 2048, "h": 1613, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 945, "resize": "fit"}}, "id_str": "1007507871616131072", "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1", "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "id": 1007507871616131072, "type": "photo", "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "url": "https://t.co/0Z0p3MW5qk"}], "user_mentions": [{"indices": [16, 24], "screen_name": "MoSalah", "id_str": "2396677714", "name": "Mohamed Salah", "id": 2396677714}], "symbols": []}, "display_text_range": [0, 43], "contributors": null, "user": {"utc_offset": null, "friends_count": 541, "profile_image_url_https": "https://pbs.twimg.com/profile_images/875621877279883264/sL6GBCf2_normal.jpg", "listed_count": 11348, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 356, "description": "The official Twitter account of the FIFA World Cup!", "created_at": "Thu Apr 29 10:58:07 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "FIFAWorldCup", "id_str": "138372303", "profile_link_color": "1F98C7", "translator_type": "none", "id": 138372303, "geo_enabled": true, "profile_background_color": "C6E2EE", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "663B12", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/875621877279883264/sL6GBCf2_normal.jpg", "time_zone": null, "url": "http://www.fifa.com/worldcup", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/138372303/1528966543", "statuses_count": 16032, "follow_request_sent": null, "followers_count": 6152337, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "FIFA World Cup \ud83c\udfc6", "location": null, "profile_sidebar_fill_color": "DAECF4", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007811602782019584", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007811602782019584, "text": "RT @FIFAWorldCup: Happy Birthday, @MoSalah! \ud83c\udf89\n\n#EGY\n#WorldCup https://t.co/0Z0p3MW5qk", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529115984994", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [47, 51], "text": "EGY"}, {"indices": [52, 61], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/0Z0p3MW5qk", "source_user_id": 138372303, "type": "photo", "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "source_status_id": 1007508105771483137, "url": "https://t.co/0Z0p3MW5qk", "indices": [62, 85], "sizes": {"small": {"w": 680, "h": 535, "resize": "fit"}, "large": {"w": 2048, "h": 1613, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 945, "resize": "fit"}}, "id_str": "1007507871616131072", "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1", "source_status_id_str": "1007508105771483137", "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg", "id": 1007507871616131072, "source_user_id_str": "138372303"}], "user_mentions": [{"indices": [3, 16], "screen_name": "FIFAWorldCup", "id_str": "138372303", "name": "FIFA World Cup \ud83c\udfc6", "id": 138372303}, {"indices": [34, 42], "screen_name": "MoSalah", "id_str": "2396677714", "name": "Mohamed Salah", "id": 2396677714}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 199, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003504478438359040/M6zWi4Q4_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3687, "description": "No te quedes con ganas de nada~Crusheada por Theodore Mosby&Marcelo Vieira", "created_at": "Wed Jun 28 14:35:14 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "MariaGalan02", "id_str": "880072100391903232", "profile_link_color": "19CF86", "translator_type": "none", "id": 880072100391903232, "geo_enabled": false, "profile_background_color": "000000", "lang": "es", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1003504478438359040/M6zWi4Q4_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/880072100391903232/1527742763", "statuses_count": 1925, "follow_request_sent": null, "followers_count": 109, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Limoncito", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 04:26:25",
+    "current_time": 1529115985264,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0Z0p3MW5qk",
+          "source_user_id": 138372303,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+          "source_status_id": 1007508105771483137,
+          "url": "https://t.co/0Z0p3MW5qk",
+          "indices": [
+            62,
+            85
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 535,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1613,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 945,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007507871616131072",
+          "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1",
+          "source_status_id_str": "1007508105771483137",
+          "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+          "id": 1007507871616131072,
+          "source_user_id_str": "138372303"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 02:26:24 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0Z0p3MW5qk",
+            "indices": [
+              44,
+              67
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 535,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1613,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 945,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007507871616131072",
+            "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+            "id": 1007507871616131072,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+            "url": "https://t.co/0Z0p3MW5qk"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 06:20:25 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 7370,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007508105771483137",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29075,
+      "id": 1007508105771483137,
+      "text": "Happy Birthday, @MoSalah! 🎉\n\n#EGY\n#WorldCup https://t.co/0Z0p3MW5qk",
+      "place": null,
+      "lang": "en",
+      "quote_count": 518,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 363,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              29,
+              33
+            ],
+            "text": "EGY"
+          },
+          {
+            "indices": [
+              34,
+              43
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0Z0p3MW5qk",
+            "indices": [
+              44,
+              67
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 535,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1613,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 945,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007507871616131072",
+            "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+            "id": 1007507871616131072,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+            "url": "https://t.co/0Z0p3MW5qk"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              16,
+              24
+            ],
+            "screen_name": "MoSalah",
+            "id_str": "2396677714",
+            "name": "Mohamed Salah",
+            "id": 2396677714
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        43
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 541,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875621877279883264/sL6GBCf2_normal.jpg",
+        "listed_count": 11348,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 356,
+        "description": "The official Twitter account of the FIFA World Cup!",
+        "created_at": "Thu Apr 29 10:58:07 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "FIFAWorldCup",
+        "id_str": "138372303",
+        "profile_link_color": "1F98C7",
+        "translator_type": "none",
+        "id": 138372303,
+        "geo_enabled": true,
+        "profile_background_color": "C6E2EE",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "663B12",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875621877279883264/sL6GBCf2_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.fifa.com/worldcup",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138372303/1528966543",
+        "statuses_count": 16032,
+        "follow_request_sent": null,
+        "followers_count": 6152337,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "FIFA World Cup 🏆",
+        "location": null,
+        "profile_sidebar_fill_color": "DAECF4",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007811602782019584",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007811602782019584,
+    "text": "RT @FIFAWorldCup: Happy Birthday, @MoSalah! 🎉\n\n#EGY\n#WorldCup https://t.co/0Z0p3MW5qk",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529115984994",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            47,
+            51
+          ],
+          "text": "EGY"
+        },
+        {
+          "indices": [
+            52,
+            61
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0Z0p3MW5qk",
+          "source_user_id": 138372303,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+          "source_status_id": 1007508105771483137,
+          "url": "https://t.co/0Z0p3MW5qk",
+          "indices": [
+            62,
+            85
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 535,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1613,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 945,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007507871616131072",
+          "expanded_url": "https://twitter.com/FIFAWorldCup/status/1007508105771483137/photo/1",
+          "source_status_id_str": "1007508105771483137",
+          "media_url_https": "https://pbs.twimg.com/media/DftjEjwW4AAtjT4.jpg",
+          "id": 1007507871616131072,
+          "source_user_id_str": "138372303"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "FIFAWorldCup",
+          "id_str": "138372303",
+          "name": "FIFA World Cup 🏆",
+          "id": 138372303
+        },
+        {
+          "indices": [
+            34,
+            42
+          ],
+          "screen_name": "MoSalah",
+          "id_str": "2396677714",
+          "name": "Mohamed Salah",
+          "id": 2396677714
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 199,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003504478438359040/M6zWi4Q4_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 3687,
+      "description": "No te quedes con ganas de nada~Crusheada por Theodore Mosby&Marcelo Vieira",
+      "created_at": "Wed Jun 28 14:35:14 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "MariaGalan02",
+      "id_str": "880072100391903232",
+      "profile_link_color": "19CF86",
+      "translator_type": "none",
+      "id": 880072100391903232,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "es",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003504478438359040/M6zWi4Q4_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/880072100391903232/1527742763",
+      "statuses_count": 1925,
+      "follow_request_sent": null,
+      "followers_count": 109,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Limoncito",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

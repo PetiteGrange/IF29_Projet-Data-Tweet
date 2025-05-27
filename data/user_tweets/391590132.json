@@ -1,2 +1,608 @@
-{"created_date": "2018-06-14 20:57:16", "current_time": 1529002636677, "extended_entities": {"media": [{"display_url": "pic.twitter.com/GaKwYZKe1z", "source_user_id": 133357255, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "source_status_id": 1007289664938631170, "url": "https://t.co/GaKwYZKe1z", "indices": [57, 80], "sizes": {"small": {"w": 544, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 900, "resize": "fit"}}, "id_str": "1007289617668886536", "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1", "source_status_id_str": "1007289664938631170", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "id": 1007289617668886536, "source_user_id_str": "133357255", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [4, 5], "duration_millis": 13863, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/512x640/LYF1H2sofOlFGtEM.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/pl/h0TjQ5HI1PQrUGI5.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/256x320/NBEpnlEDjFIZY5OL.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 18:57:16 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/GaKwYZKe1z", "indices": [39, 62], "sizes": {"small": {"w": 544, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 900, "resize": "fit"}}, "id_str": "1007289617668886536", "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "id": 1007289617668886536, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "url": "https://t.co/GaKwYZKe1z", "video_info": {"aspect_ratio": [4, 5], "duration_millis": 13863, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/512x640/LYF1H2sofOlFGtEM.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/pl/h0TjQ5HI1PQrUGI5.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/256x320/NBEpnlEDjFIZY5OL.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:52:25 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 26, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007289664938631170", "in_reply_to_user_id": null, "favorite_count": 67, "id": 1007289664938631170, "text": "Gotta love England loool #Worldcup2018 https://t.co/GaKwYZKe1z", "place": null, "lang": "en", "quote_count": 2, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 7, "entities": {"urls": [], "hashtags": [{"indices": [25, 38], "text": "Worldcup2018"}], "media": [{"display_url": "pic.twitter.com/GaKwYZKe1z", "indices": [39, 62], "sizes": {"small": {"w": 544, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 900, "resize": "fit"}}, "id_str": "1007289617668886536", "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "id": 1007289617668886536, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "url": "https://t.co/GaKwYZKe1z"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 38], "contributors": null, "user": {"utc_offset": null, "friends_count": 1167, "profile_image_url_https": "https://pbs.twimg.com/profile_images/980723033794019328/bl_HHhu2_normal.jpg", "listed_count": 166, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 1051, "description": null, "created_at": "Thu Apr 15 15:44:16 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "MicRighteous", "id_str": "133357255", "profile_link_color": "000000", "translator_type": "regular", "id": 133357255, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/980723033794019328/bl_HHhu2_normal.jpg", "time_zone": null, "url": "https://itun.es/gb/jiEKdb", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/133357255/1488218927", "statuses_count": 36282, "follow_request_sent": null, "followers_count": 61267, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "MiC Righteous.", "location": "DREAMLAND ", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007336184576606208", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007336184576606208, "text": "RT @MicRighteous: Gotta love England loool #Worldcup2018 https://t.co/GaKwYZKe1z", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529002636461", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [43, 56], "text": "Worldcup2018"}], "media": [{"display_url": "pic.twitter.com/GaKwYZKe1z", "source_user_id": 133357255, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "source_status_id": 1007289664938631170, "url": "https://t.co/GaKwYZKe1z", "indices": [57, 80], "sizes": {"small": {"w": 544, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 900, "resize": "fit"}}, "id_str": "1007289617668886536", "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1", "source_status_id_str": "1007289664938631170", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg", "id": 1007289617668886536, "source_user_id_str": "133357255", "additional_media_info": {"monetizable": false}}], "user_mentions": [{"indices": [3, 16], "screen_name": "MicRighteous", "id_str": "133357255", "name": "MiC Righteous.", "id": 133357255}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 247, "profile_image_url_https": "https://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1215, "description": "Graduated at Bournemouth Uni.\n\nQualified Personal Trainer & Nutritionist.\n\n'Faith is taking the first step, even when you don't see the whole staircase' MLK", "created_at": "Sat Oct 15 20:20:45 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "RoyGreeno", "id_str": "391590132", "profile_link_color": "94D487", "translator_type": "none", "id": 391590132, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/391590132/1475594252", "statuses_count": 11682, "follow_request_sent": null, "followers_count": 390, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Roy Green", "location": "England, United Kingdom", "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-14 22:27:37", "current_time": 1529008057797, "quoted_status": {"extended_tweet": {"entities": {"urls": [], "hashtags": [{"indices": [242, 253], "text": "Russia2018"}], "user_mentions": [], "symbols": []}, "full_text": "World Cup tickets sales by country... \nRussian fans 871,797\ud83c\uddf7\ud83c\uddfa \nUSA 88,825\ud83c\uddfa\ud83c\uddf8 \nBrazil 72,512\ud83c\udde7\ud83c\uddf7 \nColombia 65,234\ud83c\udde8\ud83c\uddf4 \nGermany 62,541\ud83c\udde9\ud83c\uddea \nMexico 60,302\ud83c\uddf2\ud83c\uddfd \nArgentina 54,031\ud83c\udde6\ud83c\uddf7 \nPeru 43,583\ud83c\uddf5\ud83c\uddea \nChina 40,251\ud83c\udde8\ud83c\uddf3 \nAustralia 36,359\ud83c\udde6\ud83c\uddfa \nEngland 32,362\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f \n#Russia2018", "display_text_range": [0, 253]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 10:18:19 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 1167, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007205586994454528", "in_reply_to_user_id": null, "favorite_count": 2254, "id": 1007205586994454528, "text": "World Cup tickets sales by country... \nRussian fans 871,797\ud83c\uddf7\ud83c\uddfa \nUSA 88,825\ud83c\uddfa\ud83c\uddf8 \nBrazil 72,512\ud83c\udde7\ud83c\uddf7 \nColombia 65,234\ud83c\udde8\ud83c\uddf4 \nGe\u2026 https://t.co/4GGyEgsHbp", "place": null, "lang": "en", "quote_count": 208, "favorited": false, "coordinates": null, "truncated": true, "reply_count": 161, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1007205586994454528", "url": "https://t.co/4GGyEgsHbp"}], "hashtags": [], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1117, "profile_image_url_https": "https://pbs.twimg.com/profile_images/970762322930290688/1fRjnxk7_normal.jpg", "listed_count": 2690, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", "default_profile_image": false, "favourites_count": 2624, "description": "Dad, husband, that bloke off @BBCbreakfast & @BBCSport. Email Jonny.mcwilliams@crowntalentgroup.com or find me on https://www.instagram.com/mrdanwalker/", "created_at": "Wed Jun 17 12:35:35 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", "protected": false, "screen_name": "mrdanwalker", "id_str": "47945492", "profile_link_color": "2200FF", "translator_type": "none", "id": 47945492, "geo_enabled": false, "profile_background_color": "FFFFFF", "lang": "en", "profile_sidebar_border_color": "1B0D4D", "profile_text_color": "000000", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/970762322930290688/1fRjnxk7_normal.jpg", "time_zone": null, "url": "http://www.danwalker.tv", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/47945492/1528987788", "statuses_count": 50021, "follow_request_sent": null, "followers_count": 512488, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Dan Walker", "location": "Usually in the North", "profile_sidebar_fill_color": "BC95DE", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 20:27:37 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "quoted_status_id": 1007205586994454528, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007358922221551619", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007358922221551619, "text": "Mad https://t.co/rUPInI7PHx", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/mrdanwalker/status/1007205586994454528", "display": "twitter.com/mrdanwalker/st\u2026", "url": "https://t.co/rUPInI7PHx"}, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529008057538", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/mrdanwalker/st\u2026", "indices": [4, 27], "expanded_url": "https://twitter.com/mrdanwalker/status/1007205586994454528", "url": "https://t.co/rUPInI7PHx"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 3], "quoted_status_id_str": "1007205586994454528", "contributors": null, "user": {"utc_offset": null, "friends_count": 247, "profile_image_url_https": "https://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1215, "description": "Graduated at Bournemouth Uni.\n\nQualified Personal Trainer & Nutritionist.\n\n'Faith is taking the first step, even when you don't see the whole staircase' MLK", "created_at": "Sat Oct 15 20:20:45 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "RoyGreeno", "id_str": "391590132", "profile_link_color": "94D487", "translator_type": "none", "id": 391590132, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/391590132/1475594252", "statuses_count": 11683, "follow_request_sent": null, "followers_count": 390, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Roy Green", "location": "England, United Kingdom", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 20:57:16",
+    "current_time": 1529002636677,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GaKwYZKe1z",
+          "source_user_id": 133357255,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+          "source_status_id": 1007289664938631170,
+          "url": "https://t.co/GaKwYZKe1z",
+          "indices": [
+            57,
+            80
+          ],
+          "sizes": {
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 900,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007289617668886536",
+          "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1",
+          "source_status_id_str": "1007289664938631170",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+          "id": 1007289617668886536,
+          "source_user_id_str": "133357255",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              5
+            ],
+            "duration_millis": 13863,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/512x640/LYF1H2sofOlFGtEM.mp4?tag=3"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/pl/h0TjQ5HI1PQrUGI5.m3u8?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 256000,
+                "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/256x320/NBEpnlEDjFIZY5OL.mp4?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 18:57:16 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GaKwYZKe1z",
+            "indices": [
+              39,
+              62
+            ],
+            "sizes": {
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007289617668886536",
+            "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+            "id": 1007289617668886536,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+            "url": "https://t.co/GaKwYZKe1z",
+            "video_info": {
+              "aspect_ratio": [
+                4,
+                5
+              ],
+              "duration_millis": 13863,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/512x640/LYF1H2sofOlFGtEM.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/pl/h0TjQ5HI1PQrUGI5.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007289617668886536/pu/vid/256x320/NBEpnlEDjFIZY5OL.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:52:25 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 26,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007289664938631170",
+      "in_reply_to_user_id": null,
+      "favorite_count": 67,
+      "id": 1007289664938631170,
+      "text": "Gotta love England loool #Worldcup2018 https://t.co/GaKwYZKe1z",
+      "place": null,
+      "lang": "en",
+      "quote_count": 2,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 7,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              25,
+              38
+            ],
+            "text": "Worldcup2018"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GaKwYZKe1z",
+            "indices": [
+              39,
+              62
+            ],
+            "sizes": {
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007289617668886536",
+            "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+            "id": 1007289617668886536,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+            "url": "https://t.co/GaKwYZKe1z"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        38
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1167,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980723033794019328/bl_HHhu2_normal.jpg",
+        "listed_count": 166,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1051,
+        "description": null,
+        "created_at": "Thu Apr 15 15:44:16 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "MicRighteous",
+        "id_str": "133357255",
+        "profile_link_color": "000000",
+        "translator_type": "regular",
+        "id": 133357255,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980723033794019328/bl_HHhu2_normal.jpg",
+        "time_zone": null,
+        "url": "https://itun.es/gb/jiEKdb",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133357255/1488218927",
+        "statuses_count": 36282,
+        "follow_request_sent": null,
+        "followers_count": 61267,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "MiC Righteous.",
+        "location": "DREAMLAND ",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007336184576606208",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007336184576606208,
+    "text": "RT @MicRighteous: Gotta love England loool #Worldcup2018 https://t.co/GaKwYZKe1z",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529002636461",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            43,
+            56
+          ],
+          "text": "Worldcup2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GaKwYZKe1z",
+          "source_user_id": 133357255,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+          "source_status_id": 1007289664938631170,
+          "url": "https://t.co/GaKwYZKe1z",
+          "indices": [
+            57,
+            80
+          ],
+          "sizes": {
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 900,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007289617668886536",
+          "expanded_url": "https://twitter.com/MicRighteous/status/1007289664938631170/video/1",
+          "source_status_id_str": "1007289664938631170",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007289617668886536/pu/img/Lw1F7GS1ToWE49LQ.jpg",
+          "id": 1007289617668886536,
+          "source_user_id_str": "133357255",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "MicRighteous",
+          "id_str": "133357255",
+          "name": "MiC Righteous.",
+          "id": 133357255
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 247,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1215,
+      "description": "Graduated at Bournemouth Uni.\n\nQualified Personal Trainer & Nutritionist.\n\n'Faith is taking the first step, even when you don't see the whole staircase' MLK",
+      "created_at": "Sat Oct 15 20:20:45 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "RoyGreeno",
+      "id_str": "391590132",
+      "profile_link_color": "94D487",
+      "translator_type": "none",
+      "id": 391590132,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/391590132/1475594252",
+      "statuses_count": 11682,
+      "follow_request_sent": null,
+      "followers_count": 390,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Roy Green",
+      "location": "England, United Kingdom",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 22:27:37",
+    "current_time": 1529008057797,
+    "quoted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                242,
+                253
+              ],
+              "text": "Russia2018"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "World Cup tickets sales by country... \nRussian fans 871,797🇷🇺 \nUSA 88,825🇺🇸 \nBrazil 72,512🇧🇷 \nColombia 65,234🇨🇴 \nGermany 62,541🇩🇪 \nMexico 60,302🇲🇽 \nArgentina 54,031🇦🇷 \nPeru 43,583🇵🇪 \nChina 40,251🇨🇳 \nAustralia 36,359🇦🇺 \nEngland 32,362🏴󠁧󠁢󠁥󠁮󠁧󠁿 \n#Russia2018",
+        "display_text_range": [
+          0,
+          253
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 10:18:19 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 1167,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007205586994454528",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2254,
+      "id": 1007205586994454528,
+      "text": "World Cup tickets sales by country... \nRussian fans 871,797🇷🇺 \nUSA 88,825🇺🇸 \nBrazil 72,512🇧🇷 \nColombia 65,234🇨🇴 \nGe… https://t.co/4GGyEgsHbp",
+      "place": null,
+      "lang": "en",
+      "quote_count": 208,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 161,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007205586994454528",
+            "url": "https://t.co/4GGyEgsHbp"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1117,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970762322930290688/1fRjnxk7_normal.jpg",
+        "listed_count": 2690,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 2624,
+        "description": "Dad, husband, that bloke off @BBCbreakfast & @BBCSport. Email Jonny.mcwilliams@crowntalentgroup.com or find me on https://www.instagram.com/mrdanwalker/",
+        "created_at": "Wed Jun 17 12:35:35 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "protected": false,
+        "screen_name": "mrdanwalker",
+        "id_str": "47945492",
+        "profile_link_color": "2200FF",
+        "translator_type": "none",
+        "id": 47945492,
+        "geo_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "lang": "en",
+        "profile_sidebar_border_color": "1B0D4D",
+        "profile_text_color": "000000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970762322930290688/1fRjnxk7_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.danwalker.tv",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47945492/1528987788",
+        "statuses_count": 50021,
+        "follow_request_sent": null,
+        "followers_count": 512488,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Dan Walker",
+        "location": "Usually in the North",
+        "profile_sidebar_fill_color": "BC95DE",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 20:27:37 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "quoted_status_id": 1007205586994454528,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007358922221551619",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007358922221551619,
+    "text": "Mad https://t.co/rUPInI7PHx",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/mrdanwalker/status/1007205586994454528",
+      "display": "twitter.com/mrdanwalker/st…",
+      "url": "https://t.co/rUPInI7PHx"
+    },
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529008057538",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/mrdanwalker/st…",
+          "indices": [
+            4,
+            27
+          ],
+          "expanded_url": "https://twitter.com/mrdanwalker/status/1007205586994454528",
+          "url": "https://t.co/rUPInI7PHx"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      3
+    ],
+    "quoted_status_id_str": "1007205586994454528",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 247,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg",
+      "listed_count": 4,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1215,
+      "description": "Graduated at Bournemouth Uni.\n\nQualified Personal Trainer & Nutritionist.\n\n'Faith is taking the first step, even when you don't see the whole staircase' MLK",
+      "created_at": "Sat Oct 15 20:20:45 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "RoyGreeno",
+      "id_str": "391590132",
+      "profile_link_color": "94D487",
+      "translator_type": "none",
+      "id": 391590132,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909754262573502464/VzAcJjvC_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/391590132/1475594252",
+      "statuses_count": 11683,
+      "follow_request_sent": null,
+      "followers_count": 390,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Roy Green",
+      "location": "England, United Kingdom",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

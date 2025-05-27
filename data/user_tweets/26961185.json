@@ -1,0 +1,348 @@
+[
+  {
+    "created_date": "2018-06-14 12:52:55",
+    "current_time": 1528973575890,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:52:55 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/pDLUCkNQXk",
+              "indices": [
+                226,
+                249
+              ],
+              "sizes": {
+                "small": {
+                  "w": 518,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 851,
+                  "h": 1117,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 851,
+                  "h": 1117,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007213288718045184",
+              "expanded_url": "https://twitter.com/jwharahaljutele/status/1007213309332983808/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpXJk8XkAA07d7.jpg",
+              "id": 1007213288718045184,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpXJk8XkAA07d7.jpg",
+              "url": "https://t.co/pDLUCkNQXk"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                76,
+                87
+              ],
+              "text": "كأس_العالم"
+            },
+            {
+              "indices": [
+                96,
+                111
+              ],
+              "text": "السعودية_روسيا"
+            },
+            {
+              "indices": [
+                148,
+                152
+              ],
+              "text": "ksa"
+            },
+            {
+              "indices": [
+                159,
+                185
+              ],
+              "text": "بالتوفيق_لمنتخبنا_السعودي"
+            },
+            {
+              "indices": [
+                186,
+                199
+              ],
+              "text": "معاك_يالأخضر"
+            },
+            {
+              "indices": [
+                204,
+                217
+              ],
+              "text": "WorldCup2018"
+            },
+            {
+              "indices": [
+                218,
+                225
+              ],
+              "text": "RUSKSA"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/pDLUCkNQXk",
+              "indices": [
+                226,
+                249
+              ],
+              "sizes": {
+                "small": {
+                  "w": 518,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 851,
+                  "h": 1117,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 851,
+                  "h": 1117,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007213288718045184",
+              "expanded_url": "https://twitter.com/jwharahaljutele/status/1007213309332983808/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpXJk8XkAA07d7.jpg",
+              "id": 1007213288718045184,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpXJk8XkAA07d7.jpg",
+              "url": "https://t.co/pDLUCkNQXk"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "ولي العهد الأمير محمد بن سلمان سيلتقي الرئيس الروسي وسيحضر حفل افتتاح بطولة #كأس_العالم ومباراة #السعودية_روسيا .\n\nسلمناك بإيد الله يحفظك ويرعاك 🙏🏼\n#ksa⁠ ⁠⁠ ⁠\n#بالتوفيق_لمنتخبنا_السعودي\n#معاك_يالأخضر 🇸🇦💚\n#WorldCup2018\n#RUSKSA https://t.co/pDLUCkNQXk",
+        "display_text_range": [
+          0,
+          225
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 10:49:00 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 3,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007213309332983808",
+      "in_reply_to_user_id": null,
+      "favorite_count": 0,
+      "id": 1007213309332983808,
+      "text": "ولي العهد الأمير محمد بن سلمان سيلتقي الرئيس الروسي وسيحضر حفل افتتاح بطولة #كأس_العالم ومباراة #السعودية_روسيا .… https://t.co/W8Di9O240X",
+      "place": null,
+      "lang": "ar",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007213309332983808",
+            "url": "https://t.co/W8Di9O240X"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              76,
+              87
+            ],
+            "text": "كأس_العالم"
+          },
+          {
+            "indices": [
+              96,
+              111
+            ],
+            "text": "السعودية_روسيا"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 356,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/989758082765877248/tTMkWz_9_normal.jpg",
+        "listed_count": 5,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 362,
+        "description": "مستشار القيادة واﻻدارة اﻻستراتيجية /سفيرة للإبداع /أغرد للوطن/للمستقبل/كاتبة رأي/مؤسس ل: مشروع إعداد القادة/ مبادرة أنا قارىء/مبادرة حروفيات",
+        "created_at": "Tue Oct 19 06:55:54 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "jwharahaljutele",
+        "id_str": "204678025",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 204678025,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/989758082765877248/tTMkWz_9_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204678025/1500879397",
+        "statuses_count": 8450,
+        "follow_request_sent": null,
+        "followers_count": 3376,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "الجوهره الجطيلي 🇸🇦",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007214294042324992",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007214294042324992,
+    "text": "RT @jwharahaljutele: ولي العهد الأمير محمد بن سلمان سيلتقي الرئيس الروسي وسيحضر حفل افتتاح بطولة #كأس_العالم ومباراة #السعودية_روسيا .\n\nسلم…",
+    "place": null,
+    "lang": "ar",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973575493",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            108
+          ],
+          "text": "كأس_العالم"
+        },
+        {
+          "indices": [
+            117,
+            132
+          ],
+          "text": "السعودية_روسيا"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "jwharahaljutele",
+          "id_str": "204678025",
+          "name": "الجوهره الجطيلي 🇸🇦",
+          "id": 204678025
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1236,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/750348098132537344/3wZMrELu_normal.jpg",
+      "listed_count": 113,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 3699,
+      "description": "أحلم أن أكون بطول ظل والدي رحمة الله عليه, التغريد يجعلني أحس بدفئ الحرية\n A Free Spirit and an Outgoing Soul, Strategic Planning Worst Case Scenario Specialist",
+      "created_at": "Fri Mar 27 06:06:29 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "protected": false,
+      "screen_name": "Alshaikh1",
+      "id_str": "26961185",
+      "profile_link_color": "0099B9",
+      "translator_type": "none",
+      "id": 26961185,
+      "geo_enabled": false,
+      "profile_background_color": "0099B9",
+      "lang": "en",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_text_color": "3C3940",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/750348098132537344/3wZMrELu_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26961185/1423114628",
+      "statuses_count": 904755,
+      "follow_request_sent": null,
+      "followers_count": 3900,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "سمير بن يوسف الشيخ",
+      "location": "Alkhobar - Saudi Arabia",
+      "profile_sidebar_fill_color": "95E8EC",
+      "notifications": null
+    }
+  }
+]

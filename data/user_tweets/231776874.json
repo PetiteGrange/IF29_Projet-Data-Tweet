@@ -1,2 +1,565 @@
-{"created_date": "2018-06-15 23:44:15", "current_time": 1529099055636, "extended_entities": {"media": [{"display_url": "pic.twitter.com/s92QUJ0laq", "source_user_id": 462312323, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "source_status_id": 1007715086163726336, "url": "https://t.co/s92QUJ0laq", "indices": [67, 90], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007715072259616770", "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1", "source_status_id_str": "1007715086163726336", "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "id": 1007715072259616770, "source_user_id_str": "462312323"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:44:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/s92QUJ0laq", "indices": [46, 69], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007715072259616770", "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "id": 1007715072259616770, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "url": "https://t.co/s92QUJ0laq"}]}, "in_reply_to_status_id_str": "1007713733815230464", "in_reply_to_status_id": 1007713733815230464, "created_at": "Fri Jun 15 20:02:53 +0000 2018", "in_reply_to_user_id_str": "462312323", "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "retweet_count": 357, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": "Football__Tweet", "is_quote_status": false, "id_str": "1007715086163726336", "in_reply_to_user_id": 462312323, "favorite_count": 1090, "id": 1007715086163726336, "text": "...and breathe. \n\n#WorldCup #POR #ESP #PORESP https://t.co/s92QUJ0laq", "place": null, "lang": "en", "quote_count": 27, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 6, "entities": {"urls": [], "hashtags": [{"indices": [18, 27], "text": "WorldCup"}, {"indices": [28, 32], "text": "POR"}, {"indices": [33, 37], "text": "ESP"}, {"indices": [38, 45], "text": "PORESP"}], "media": [{"display_url": "pic.twitter.com/s92QUJ0laq", "indices": [46, 69], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007715072259616770", "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "id": 1007715072259616770, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "url": "https://t.co/s92QUJ0laq"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 45], "contributors": null, "user": {"utc_offset": null, "friends_count": 395, "profile_image_url_https": "https://pbs.twimg.com/profile_images/844981797683376130/dE7IE_D3_normal.jpg", "listed_count": 2017, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 1609, "description": "The home of World Cup football discussion. 18+.", "created_at": "Thu Jan 12 20:31:01 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "Football__Tweet", "id_str": "462312323", "profile_link_color": "0255C9", "translator_type": "regular", "id": 462312323, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "666666", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/844981797683376130/dE7IE_D3_normal.jpg", "time_zone": null, "url": "https://www.instagram.com/football__tweet/", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/462312323/1529072292", "statuses_count": 70611, "follow_request_sent": null, "followers_count": 365481, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\ud83c\uddeb\ud83c\uddf7 vs \ud83c\udde6\ud83c\uddfa Football Tweet", "location": "team@thesocialsup.com", "profile_sidebar_fill_color": "252429", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007740594796531712", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007740594796531712, "text": "RT @Football__Tweet: ...and breathe. \n\n#WorldCup #POR #ESP #PORESP https://t.co/s92QUJ0laq", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529099055371", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [39, 48], "text": "WorldCup"}, {"indices": [49, 53], "text": "POR"}, {"indices": [54, 58], "text": "ESP"}, {"indices": [59, 66], "text": "PORESP"}], "media": [{"display_url": "pic.twitter.com/s92QUJ0laq", "source_user_id": 462312323, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "source_status_id": 1007715086163726336, "url": "https://t.co/s92QUJ0laq", "indices": [67, 90], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007715072259616770", "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1", "source_status_id_str": "1007715086163726336", "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg", "id": 1007715072259616770, "source_user_id_str": "462312323"}], "user_mentions": [{"indices": [3, 19], "screen_name": "Football__Tweet", "id_str": "462312323", "name": "\ud83c\uddeb\ud83c\uddf7 vs \ud83c\udde6\ud83c\uddfa Football Tweet", "id": 462312323}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 96, "profile_image_url_https": "https://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 578, "description": null, "created_at": "Wed Dec 29 12:45:58 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "james_miller27", "id_str": "231776874", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 231776874, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/231776874/1457174389", "statuses_count": 4180, "follow_request_sent": null, "followers_count": 94, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "James Miller", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 15:30:47", "current_time": 1529069447495, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:30:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 10:19:23 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "retweet_count": 558, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007568245002469381", "in_reply_to_user_id": null, "favorite_count": 4945, "id": 1007568245002469381, "text": "I just text Mo Salah to wish him luck for today's #WorldCup game. He said Thanks James. I said No problem Mo.", "place": null, "lang": "en", "quote_count": 16, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 53, "entities": {"urls": [], "hashtags": [{"indices": [50, 59], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 3, "profile_image_url_https": "https://pbs.twimg.com/profile_images/684474502810628096/zzk_I2p4_normal.jpg", "listed_count": 1333, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 336, "description": "18+", "created_at": "Sat Jul 06 21:00:09 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "BoringMilner", "id_str": "1573649600", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 1573649600, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/684474502810628096/zzk_I2p4_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 1650, "follow_request_sent": null, "followers_count": 624037, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Boring James Milner", "location": "boringmilner@hotmail.com", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007616409499766784", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007616409499766784, "text": "RT @BoringMilner: I just text Mo Salah to wish him luck for today's #WorldCup game. He said Thanks James. I said No problem Mo.", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529069447289", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [68, 77], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 16], "screen_name": "BoringMilner", "id_str": "1573649600", "name": "Boring James Milner", "id": 1573649600}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 96, "profile_image_url_https": "https://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 578, "description": null, "created_at": "Wed Dec 29 12:45:58 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "james_miller27", "id_str": "231776874", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 231776874, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/231776874/1457174389", "statuses_count": 4177, "follow_request_sent": null, "followers_count": 94, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "James Miller", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-15 23:44:15",
+    "current_time": 1529099055636,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s92QUJ0laq",
+          "source_user_id": 462312323,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+          "source_status_id": 1007715086163726336,
+          "url": "https://t.co/s92QUJ0laq",
+          "indices": [
+            67,
+            90
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007715072259616770",
+          "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1",
+          "source_status_id_str": "1007715086163726336",
+          "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+          "id": 1007715072259616770,
+          "source_user_id_str": "462312323"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 21:44:15 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/s92QUJ0laq",
+            "indices": [
+              46,
+              69
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007715072259616770",
+            "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+            "id": 1007715072259616770,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+            "url": "https://t.co/s92QUJ0laq"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": "1007713733815230464",
+      "in_reply_to_status_id": 1007713733815230464,
+      "created_at": "Fri Jun 15 20:02:53 +0000 2018",
+      "in_reply_to_user_id_str": "462312323",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 357,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": "Football__Tweet",
+      "is_quote_status": false,
+      "id_str": "1007715086163726336",
+      "in_reply_to_user_id": 462312323,
+      "favorite_count": 1090,
+      "id": 1007715086163726336,
+      "text": "...and breathe. \n\n#WorldCup #POR #ESP #PORESP https://t.co/s92QUJ0laq",
+      "place": null,
+      "lang": "en",
+      "quote_count": 27,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 6,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              18,
+              27
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              28,
+              32
+            ],
+            "text": "POR"
+          },
+          {
+            "indices": [
+              33,
+              37
+            ],
+            "text": "ESP"
+          },
+          {
+            "indices": [
+              38,
+              45
+            ],
+            "text": "PORESP"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/s92QUJ0laq",
+            "indices": [
+              46,
+              69
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007715072259616770",
+            "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+            "id": 1007715072259616770,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+            "url": "https://t.co/s92QUJ0laq"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        45
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 395,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/844981797683376130/dE7IE_D3_normal.jpg",
+        "listed_count": 2017,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1609,
+        "description": "The home of World Cup football discussion. 18+.",
+        "created_at": "Thu Jan 12 20:31:01 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "protected": false,
+        "screen_name": "Football__Tweet",
+        "id_str": "462312323",
+        "profile_link_color": "0255C9",
+        "translator_type": "regular",
+        "id": 462312323,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "666666",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/844981797683376130/dE7IE_D3_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.instagram.com/football__tweet/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/462312323/1529072292",
+        "statuses_count": 70611,
+        "follow_request_sent": null,
+        "followers_count": 365481,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "🇫🇷 vs 🇦🇺 Football Tweet",
+        "location": "team@thesocialsup.com",
+        "profile_sidebar_fill_color": "252429",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007740594796531712",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007740594796531712,
+    "text": "RT @Football__Tweet: ...and breathe. \n\n#WorldCup #POR #ESP #PORESP https://t.co/s92QUJ0laq",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529099055371",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            39,
+            48
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            49,
+            53
+          ],
+          "text": "POR"
+        },
+        {
+          "indices": [
+            54,
+            58
+          ],
+          "text": "ESP"
+        },
+        {
+          "indices": [
+            59,
+            66
+          ],
+          "text": "PORESP"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s92QUJ0laq",
+          "source_user_id": 462312323,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+          "source_status_id": 1007715086163726336,
+          "url": "https://t.co/s92QUJ0laq",
+          "indices": [
+            67,
+            90
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007715072259616770",
+          "expanded_url": "https://twitter.com/Football__Tweet/status/1007715086163726336/photo/1",
+          "source_status_id_str": "1007715086163726336",
+          "media_url_https": "https://pbs.twimg.com/media/DfwfhOTXcAIV8l8.jpg",
+          "id": 1007715072259616770,
+          "source_user_id_str": "462312323"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "Football__Tweet",
+          "id_str": "462312323",
+          "name": "🇫🇷 vs 🇦🇺 Football Tweet",
+          "id": 462312323
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 96,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 578,
+      "description": null,
+      "created_at": "Wed Dec 29 12:45:58 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "james_miller27",
+      "id_str": "231776874",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 231776874,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/231776874/1457174389",
+      "statuses_count": 4180,
+      "follow_request_sent": null,
+      "followers_count": 94,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "James Miller",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:30:47",
+    "current_time": 1529069447495,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:30:47 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 10:19:23 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 558,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007568245002469381",
+      "in_reply_to_user_id": null,
+      "favorite_count": 4945,
+      "id": 1007568245002469381,
+      "text": "I just text Mo Salah to wish him luck for today's #WorldCup game. He said Thanks James. I said No problem Mo.",
+      "place": null,
+      "lang": "en",
+      "quote_count": 16,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 53,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              50,
+              59
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 3,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684474502810628096/zzk_I2p4_normal.jpg",
+        "listed_count": 1333,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 336,
+        "description": "18+",
+        "created_at": "Sat Jul 06 21:00:09 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "BoringMilner",
+        "id_str": "1573649600",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 1573649600,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684474502810628096/zzk_I2p4_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 1650,
+        "follow_request_sent": null,
+        "followers_count": 624037,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Boring James Milner",
+        "location": "boringmilner@hotmail.com",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007616409499766784",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007616409499766784,
+    "text": "RT @BoringMilner: I just text Mo Salah to wish him luck for today's #WorldCup game. He said Thanks James. I said No problem Mo.",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529069447289",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            68,
+            77
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "BoringMilner",
+          "id_str": "1573649600",
+          "name": "Boring James Milner",
+          "id": 1573649600
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 96,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 578,
+      "description": null,
+      "created_at": "Wed Dec 29 12:45:58 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "james_miller27",
+      "id_str": "231776874",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 231776874,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/771113470481883136/F4ZLyjjP_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/231776874/1457174389",
+      "statuses_count": 4177,
+      "follow_request_sent": null,
+      "followers_count": 94,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "James Miller",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

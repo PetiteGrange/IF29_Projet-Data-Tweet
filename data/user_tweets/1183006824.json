@@ -1,1 +1,471 @@
-{"created_date": "2018-06-14 22:23:53", "current_time": 1529007833878, "extended_entities": {"media": [{"display_url": "pic.twitter.com/jdxyNiVwoG", "source_user_id": 56341776, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "source_status_id": 1007280945605554178, "url": "https://t.co/jdxyNiVwoG", "indices": [106, 129], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007280832699142145", "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1", "source_status_id_str": "1007280945605554178", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "id": 1007280832699142145, "source_user_id_str": "56341776", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [16, 9], "duration_millis": 21560, "variants": [{"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/1280x720/xQbEDCp6VFuaNnrp.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/pl/HjyuPjztNe1wMnML.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/640x360/F7v2yzTuLZljbX7V.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/320x180/cosNmI9nvCB1W8Fi.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 20:23:53 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/jdxyNiVwoG", "indices": [93, 116], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007280832699142145", "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "id": 1007280832699142145, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "url": "https://t.co/jdxyNiVwoG", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 21560, "variants": [{"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/1280x720/xQbEDCp6VFuaNnrp.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/pl/HjyuPjztNe1wMnML.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/640x360/F7v2yzTuLZljbX7V.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/320x180/cosNmI9nvCB1W8Fi.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:17:46 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 3, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007280945605554178", "in_reply_to_user_id": null, "favorite_count": 11, "id": 1007280945605554178, "text": "Mauro e Nicoletta scatenati con Casatschok!!! \ud83d\ude02 \n#RUSKSA #WorldCup @mauroplati @nicolettartl https://t.co/jdxyNiVwoG", "place": null, "lang": "it", "quote_count": 1, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 9, "entities": {"urls": [], "hashtags": [{"indices": [49, 56], "text": "RUSKSA"}, {"indices": [57, 66], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/jdxyNiVwoG", "indices": [93, 116], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007280832699142145", "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "id": 1007280832699142145, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "url": "https://t.co/jdxyNiVwoG"}], "user_mentions": [{"indices": [67, 78], "screen_name": "mauroplati", "id_str": "35098707", "name": "Mauro Plati Coruzzi", "id": 35098707}, {"indices": [79, 92], "screen_name": "nicolettartl", "id_str": "1183006824", "name": "nicoletta deponti", "id": 1183006824}], "symbols": []}, "display_text_range": [0, 92], "contributors": null, "user": {"utc_offset": null, "friends_count": 537, "profile_image_url_https": "https://pbs.twimg.com/profile_images/719555530088386560/MIqYiEzx_normal.jpg", "listed_count": 975, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 6172, "description": "Very Normal People - In RADIOVISIONE (canale 36 del digitale terrestre e 750 di Sky), in streaming su http://www.rtl.it e l'App ufficiale.", "created_at": "Mon Jul 13 10:43:32 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "rtl1025", "id_str": "56341776", "profile_link_color": "C70000", "translator_type": "none", "id": 56341776, "geo_enabled": true, "profile_background_color": "000000", "lang": "it", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/719555530088386560/MIqYiEzx_normal.jpg", "time_zone": null, "url": "http://www.rtl.it", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/56341776/1528809080", "statuses_count": 62256, "follow_request_sent": null, "followers_count": 750972, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "RTL 102.5", "location": "Italy", "profile_sidebar_fill_color": "CCCCCC", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007357983062462464", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007357983062462464, "text": "RT @rtl1025: Mauro e Nicoletta scatenati con Casatschok!!! \ud83d\ude02 \n#RUSKSA #WorldCup @mauroplati @nicolettartl https://t.co/jdxyNiVwoG", "place": null, "lang": "it", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529007833625", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [62, 69], "text": "RUSKSA"}, {"indices": [70, 79], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/jdxyNiVwoG", "source_user_id": 56341776, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "source_status_id": 1007280945605554178, "url": "https://t.co/jdxyNiVwoG", "indices": [106, 129], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007280832699142145", "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1", "source_status_id_str": "1007280945605554178", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg", "id": 1007280832699142145, "source_user_id_str": "56341776", "additional_media_info": {"monetizable": false}}], "user_mentions": [{"indices": [3, 11], "screen_name": "rtl1025", "id_str": "56341776", "name": "RTL 102.5", "id": 56341776}, {"indices": [80, 91], "screen_name": "mauroplati", "id_str": "35098707", "name": "Mauro Plati Coruzzi", "id": 35098707}, {"indices": [92, 105], "screen_name": "nicolettartl", "id_str": "1183006824", "name": "nicoletta deponti", "id": 1183006824}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 493, "profile_image_url_https": "https://pbs.twimg.com/profile_images/413324291355447296/6toQp5P5_normal.jpeg", "listed_count": 14, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2852, "description": "instagram nicolettartl mail nicoletta@rtl.it", "created_at": "Fri Feb 15 15:52:07 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "nicolettartl", "id_str": "1183006824", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 1183006824, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "it", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/413324291355447296/6toQp5P5_normal.jpeg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183006824/1387383950", "statuses_count": 3055, "follow_request_sent": null, "followers_count": 7623, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "nicoletta deponti", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 22:23:53",
+    "current_time": 1529007833878,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/jdxyNiVwoG",
+          "source_user_id": 56341776,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+          "source_status_id": 1007280945605554178,
+          "url": "https://t.co/jdxyNiVwoG",
+          "indices": [
+            106,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007280832699142145",
+          "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1",
+          "source_status_id_str": "1007280945605554178",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+          "id": 1007280832699142145,
+          "source_user_id_str": "56341776",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 21560,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 2176000,
+                "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/1280x720/xQbEDCp6VFuaNnrp.mp4?tag=3"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/pl/HjyuPjztNe1wMnML.m3u8?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/640x360/F7v2yzTuLZljbX7V.mp4?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 256000,
+                "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/320x180/cosNmI9nvCB1W8Fi.mp4?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 20:23:53 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jdxyNiVwoG",
+            "indices": [
+              93,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007280832699142145",
+            "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+            "id": 1007280832699142145,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+            "url": "https://t.co/jdxyNiVwoG",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 21560,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 2176000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/1280x720/xQbEDCp6VFuaNnrp.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/pl/HjyuPjztNe1wMnML.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/640x360/F7v2yzTuLZljbX7V.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007280832699142145/pu/vid/320x180/cosNmI9nvCB1W8Fi.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:17:46 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 3,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007280945605554178",
+      "in_reply_to_user_id": null,
+      "favorite_count": 11,
+      "id": 1007280945605554178,
+      "text": "Mauro e Nicoletta scatenati con Casatschok!!! 😂 \n#RUSKSA #WorldCup @mauroplati @nicolettartl https://t.co/jdxyNiVwoG",
+      "place": null,
+      "lang": "it",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 9,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              49,
+              56
+            ],
+            "text": "RUSKSA"
+          },
+          {
+            "indices": [
+              57,
+              66
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jdxyNiVwoG",
+            "indices": [
+              93,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007280832699142145",
+            "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+            "id": 1007280832699142145,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+            "url": "https://t.co/jdxyNiVwoG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              67,
+              78
+            ],
+            "screen_name": "mauroplati",
+            "id_str": "35098707",
+            "name": "Mauro Plati Coruzzi",
+            "id": 35098707
+          },
+          {
+            "indices": [
+              79,
+              92
+            ],
+            "screen_name": "nicolettartl",
+            "id_str": "1183006824",
+            "name": "nicoletta deponti",
+            "id": 1183006824
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        92
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 537,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719555530088386560/MIqYiEzx_normal.jpg",
+        "listed_count": 975,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 6172,
+        "description": "Very Normal People - In RADIOVISIONE (canale 36 del digitale terrestre e 750 di Sky), in streaming su http://www.rtl.it e l'App ufficiale.",
+        "created_at": "Mon Jul 13 10:43:32 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "rtl1025",
+        "id_str": "56341776",
+        "profile_link_color": "C70000",
+        "translator_type": "none",
+        "id": 56341776,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "it",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719555530088386560/MIqYiEzx_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.rtl.it",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56341776/1528809080",
+        "statuses_count": 62256,
+        "follow_request_sent": null,
+        "followers_count": 750972,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "RTL 102.5",
+        "location": "Italy",
+        "profile_sidebar_fill_color": "CCCCCC",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007357983062462464",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007357983062462464,
+    "text": "RT @rtl1025: Mauro e Nicoletta scatenati con Casatschok!!! 😂 \n#RUSKSA #WorldCup @mauroplati @nicolettartl https://t.co/jdxyNiVwoG",
+    "place": null,
+    "lang": "it",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529007833625",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            62,
+            69
+          ],
+          "text": "RUSKSA"
+        },
+        {
+          "indices": [
+            70,
+            79
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/jdxyNiVwoG",
+          "source_user_id": 56341776,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+          "source_status_id": 1007280945605554178,
+          "url": "https://t.co/jdxyNiVwoG",
+          "indices": [
+            106,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007280832699142145",
+          "expanded_url": "https://twitter.com/rtl1025/status/1007280945605554178/video/1",
+          "source_status_id_str": "1007280945605554178",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007280832699142145/pu/img/gOO6zZt4VLcOEKTd.jpg",
+          "id": 1007280832699142145,
+          "source_user_id_str": "56341776",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "rtl1025",
+          "id_str": "56341776",
+          "name": "RTL 102.5",
+          "id": 56341776
+        },
+        {
+          "indices": [
+            80,
+            91
+          ],
+          "screen_name": "mauroplati",
+          "id_str": "35098707",
+          "name": "Mauro Plati Coruzzi",
+          "id": 35098707
+        },
+        {
+          "indices": [
+            92,
+            105
+          ],
+          "screen_name": "nicolettartl",
+          "id_str": "1183006824",
+          "name": "nicoletta deponti",
+          "id": 1183006824
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 493,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/413324291355447296/6toQp5P5_normal.jpeg",
+      "listed_count": 14,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2852,
+      "description": "instagram nicolettartl mail nicoletta@rtl.it",
+      "created_at": "Fri Feb 15 15:52:07 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "nicolettartl",
+      "id_str": "1183006824",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1183006824,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "it",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/413324291355447296/6toQp5P5_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183006824/1387383950",
+      "statuses_count": 3055,
+      "follow_request_sent": null,
+      "followers_count": 7623,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "nicoletta deponti",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

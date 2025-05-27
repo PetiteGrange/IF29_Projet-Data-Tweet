@@ -1,1 +1,591 @@
-{"created_date": "2018-06-16 02:06:25", "current_time": 1529107585953, "quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/uqzWBeVet8", "indices": [86, 109], "sizes": {"small": {"w": 480, "h": 480, "resize": "fit"}, "large": {"w": 480, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 480, "resize": "fit"}}, "id_str": "1007284761251975168", "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "id": 1007284761251975168, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "url": "https://t.co/uqzWBeVet8", "video_info": {"aspect_ratio": [1, 1], "duration_millis": 26268, "variants": [{"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/pl/wSgfQjrHtoVuIWbj.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/240x240/lsdTYw4DIMV2-YFI.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/480x480/0yeJUFQyKJnfa_--.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:33:28 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", "retweet_count": 1976, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007284895113269248", "in_reply_to_user_id": null, "favorite_count": 5845, "id": 1007284895113269248, "text": "Un partido normal en la tercera divisi\u00f3n de f\u00fatbol en Rusia. \n\n#Rusia2018 \n\n#WorldCup https://t.co/uqzWBeVet8", "place": null, "lang": "es", "quote_count": 529, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 204, "entities": {"urls": [], "hashtags": [{"indices": [63, 73], "text": "Rusia2018"}, {"indices": [76, 85], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/uqzWBeVet8", "indices": [86, 109], "sizes": {"small": {"w": 480, "h": 480, "resize": "fit"}, "large": {"w": 480, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 480, "resize": "fit"}}, "id_str": "1007284761251975168", "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "id": 1007284761251975168, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "url": "https://t.co/uqzWBeVet8"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 85], "contributors": null, "user": {"utc_offset": null, "friends_count": 1, "profile_image_url_https": "https://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg", "listed_count": 2538, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", "default_profile_image": false, "favourites_count": 1904, "description": "\u00abFotograf\u00edas e im\u00e1genes que marcaron la historia de la humanidad. Momentos \u00fanicos e irrepetibles.\u00bb Publicidad: contactohistorico@gmail.com", "created_at": "Wed Jan 09 08:13:28 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", "protected": false, "screen_name": "HistoriaEnFotos", "id_str": "1073159618", "profile_link_color": "FF3300", "translator_type": "regular", "id": 1073159618, "geo_enabled": true, "profile_background_color": "709397", "lang": "es", "profile_sidebar_border_color": "86A4A6", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073159618/1408765634", "statuses_count": 13130, "follow_request_sent": null, "followers_count": 849508, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Im\u00e1genes Hist\u00f3ricas", "location": "\u00abPrimera cuenta en Espa\u00f1ol\u00bb", "profile_sidebar_fill_color": "A0C5C7", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 00:06:25 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/uqzWBeVet8", "indices": [86, 109], "sizes": {"small": {"w": 480, "h": 480, "resize": "fit"}, "large": {"w": 480, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 480, "resize": "fit"}}, "id_str": "1007284761251975168", "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "id": 1007284761251975168, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "url": "https://t.co/uqzWBeVet8", "video_info": {"aspect_ratio": [1, 1], "duration_millis": 26268, "variants": [{"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/pl/wSgfQjrHtoVuIWbj.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/240x240/lsdTYw4DIMV2-YFI.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/480x480/0yeJUFQyKJnfa_--.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:33:28 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", "retweet_count": 1976, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007284895113269248", "in_reply_to_user_id": null, "favorite_count": 5845, "id": 1007284895113269248, "text": "Un partido normal en la tercera divisi\u00f3n de f\u00fatbol en Rusia. \n\n#Rusia2018 \n\n#WorldCup https://t.co/uqzWBeVet8", "place": null, "lang": "es", "quote_count": 529, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 204, "entities": {"urls": [], "hashtags": [{"indices": [63, 73], "text": "Rusia2018"}, {"indices": [76, 85], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/uqzWBeVet8", "indices": [86, 109], "sizes": {"small": {"w": 480, "h": 480, "resize": "fit"}, "large": {"w": 480, "h": 480, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 480, "resize": "fit"}}, "id_str": "1007284761251975168", "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "id": 1007284761251975168, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg", "url": "https://t.co/uqzWBeVet8"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 85], "contributors": null, "user": {"utc_offset": null, "friends_count": 1, "profile_image_url_https": "https://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg", "listed_count": 2538, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", "default_profile_image": false, "favourites_count": 1904, "description": "\u00abFotograf\u00edas e im\u00e1genes que marcaron la historia de la humanidad. Momentos \u00fanicos e irrepetibles.\u00bb Publicidad: contactohistorico@gmail.com", "created_at": "Wed Jan 09 08:13:28 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", "protected": false, "screen_name": "HistoriaEnFotos", "id_str": "1073159618", "profile_link_color": "FF3300", "translator_type": "regular", "id": 1073159618, "geo_enabled": true, "profile_background_color": "709397", "lang": "es", "profile_sidebar_border_color": "86A4A6", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073159618/1408765634", "statuses_count": 13130, "follow_request_sent": null, "followers_count": 849508, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Im\u00e1genes Hist\u00f3ricas", "location": "\u00abPrimera cuenta en Espa\u00f1ol\u00bb", "profile_sidebar_fill_color": "A0C5C7", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 23:57:30 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1007284895113269248, "retweet_count": 202, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007411739569410050", "in_reply_to_user_id": null, "favorite_count": 211, "id": 1007411739569410050, "text": "ese oso tendr\u00eda q estar en su h\u00e1bitat y esta agarrando una pelota, se dan cuenta q somos una mierda???? https://t.co/zlnhgFlfve", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/historiaenfotos/status/1007284895113269248", "display": "twitter.com/historiaenfoto\u2026", "url": "https://t.co/zlnhgFlfve"}, "lang": "es", "quote_count": 3, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 2, "entities": {"urls": [{"display_url": "twitter.com/historiaenfoto\u2026", "indices": [104, 127], "expanded_url": "https://twitter.com/historiaenfotos/status/1007284895113269248", "url": "https://t.co/zlnhgFlfve"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 103], "quoted_status_id_str": "1007284895113269248", "contributors": null, "user": {"utc_offset": null, "friends_count": 360, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007412584415416320/j4P5cl0t_normal.jpg", "listed_count": 5, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 5979, "description": "ig: agussantolaya", "created_at": "Sat Jan 20 12:36:35 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "agussantolaya2", "id_str": "954694139970498560", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 954694139970498560, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "es", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1007412584415416320/j4P5cl0t_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/954694139970498560/1528854714", "statuses_count": 5702, "follow_request_sent": null, "followers_count": 1484, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "\ud835\udc00\ud835\udc20\ud835\udc2e\ud835\udc2c \ud835\udc12\ud835\udc1a\ud835\udc27\ud835\udc2d\ud835\udc28\ud835\udc25\ud835\udc1a\ud835\udc32\ud835\udc1a", "location": "Francia", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "quoted_status_id": 1007284895113269248, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007776373614825472", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007776373614825472, "text": "RT @agussantolaya2: ese oso tendr\u00eda q estar en su h\u00e1bitat y esta agarrando una pelota, se dan cuenta q somos una mierda???? https://t.co/zl\u2026", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/historiaenfotos/status/1007284895113269248", "display": "twitter.com/historiaenfoto\u2026", "url": "https://t.co/zlnhgFlfve"}, "lang": "es", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529107585706", "reply_count": 0, "entities": {"urls": [], "hashtags": [], "user_mentions": [{"indices": [3, 18], "screen_name": "agussantolaya2", "id_str": "954694139970498560", "name": "\ud835\udc00\ud835\udc20\ud835\udc2e\ud835\udc2c \ud835\udc12\ud835\udc1a\ud835\udc27\ud835\udc2d\ud835\udc28\ud835\udc25\ud835\udc1a\ud835\udc32\ud835\udc1a", "id": 954694139970498560}], "symbols": []}, "quoted_status_id_str": "1007284895113269248", "contributors": null, "user": {"utc_offset": null, "friends_count": 128, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007252689401475072/Bam9ETMe_normal.jpg", "listed_count": 1, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 9563, "description": "E\u0455\u0442\u03c5d\u03b9\u03b1\u0274\u0442e de L\u03b9c. e\u0274 P\u0455\u03b9coped\u03b1\u0262o\u0262\u03b9\u0301\u03b1 | \u0299\u1d0f\u0280\u0274 \u026a\u0274 '\ud835\udfeb\ud835\udfeb", "created_at": "Tue Mar 29 00:42:11 +0000 2016", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "mvictoriagzanon", "id_str": "714613588997115904", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 714613588997115904, "geo_enabled": true, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1007252689401475072/Bam9ETMe_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/714613588997115904/1495911746", "statuses_count": 3832, "follow_request_sent": null, "followers_count": 173, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "\ud835\ude85\ud835\ude92\ud835\ude8c\ud835\ude94\ud835\ude92\ud835\ude9d\ud835\ude8a \ud835\ude76\ud835\ude89 \u2655", "location": "IG: mvictoriagz", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 02:06:25",
+    "current_time": 1529107585953,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uqzWBeVet8",
+            "indices": [
+              86,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007284761251975168",
+            "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+            "id": 1007284761251975168,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+            "url": "https://t.co/uqzWBeVet8",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 26268,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/pl/wSgfQjrHtoVuIWbj.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/240x240/lsdTYw4DIMV2-YFI.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/480x480/0yeJUFQyKJnfa_--.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:33:28 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "retweet_count": 1976,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007284895113269248",
+      "in_reply_to_user_id": null,
+      "favorite_count": 5845,
+      "id": 1007284895113269248,
+      "text": "Un partido normal en la tercera división de fútbol en Rusia. \n\n#Rusia2018 \n\n#WorldCup https://t.co/uqzWBeVet8",
+      "place": null,
+      "lang": "es",
+      "quote_count": 529,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 204,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              63,
+              73
+            ],
+            "text": "Rusia2018"
+          },
+          {
+            "indices": [
+              76,
+              85
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/uqzWBeVet8",
+            "indices": [
+              86,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007284761251975168",
+            "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+            "id": 1007284761251975168,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+            "url": "https://t.co/uqzWBeVet8"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        85
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg",
+        "listed_count": 2538,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1904,
+        "description": "«Fotografías e imágenes que marcaron la historia de la humanidad. Momentos únicos e irrepetibles.» Publicidad: contactohistorico@gmail.com",
+        "created_at": "Wed Jan 09 08:13:28 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "protected": false,
+        "screen_name": "HistoriaEnFotos",
+        "id_str": "1073159618",
+        "profile_link_color": "FF3300",
+        "translator_type": "regular",
+        "id": 1073159618,
+        "geo_enabled": true,
+        "profile_background_color": "709397",
+        "lang": "es",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073159618/1408765634",
+        "statuses_count": 13130,
+        "follow_request_sent": null,
+        "followers_count": 849508,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Imágenes Históricas",
+        "location": "«Primera cuenta en Español»",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 00:06:25 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/uqzWBeVet8",
+              "indices": [
+                86,
+                109
+              ],
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 480,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 480,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007284761251975168",
+              "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+              "id": 1007284761251975168,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+              "url": "https://t.co/uqzWBeVet8",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 26268,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/pl/wSgfQjrHtoVuIWbj.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/240x240/lsdTYw4DIMV2-YFI.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007284761251975168/pu/vid/480x480/0yeJUFQyKJnfa_--.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Thu Jun 14 15:33:28 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "retweet_count": 1976,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1007284895113269248",
+        "in_reply_to_user_id": null,
+        "favorite_count": 5845,
+        "id": 1007284895113269248,
+        "text": "Un partido normal en la tercera división de fútbol en Rusia. \n\n#Rusia2018 \n\n#WorldCup https://t.co/uqzWBeVet8",
+        "place": null,
+        "lang": "es",
+        "quote_count": 529,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": false,
+        "reply_count": 204,
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                63,
+                73
+              ],
+              "text": "Rusia2018"
+            },
+            {
+              "indices": [
+                76,
+                85
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/uqzWBeVet8",
+              "indices": [
+                86,
+                109
+              ],
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 480,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 480,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007284761251975168",
+              "expanded_url": "https://twitter.com/HistoriaEnFotos/status/1007284895113269248/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+              "id": 1007284761251975168,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007284761251975168/pu/img/CNeozpj-mi32PylD.jpg",
+              "url": "https://t.co/uqzWBeVet8"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "display_text_range": [
+          0,
+          85
+        ],
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 1,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg",
+          "listed_count": 2538,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+          "default_profile_image": false,
+          "favourites_count": 1904,
+          "description": "«Fotografías e imágenes que marcaron la historia de la humanidad. Momentos únicos e irrepetibles.» Publicidad: contactohistorico@gmail.com",
+          "created_at": "Wed Jan 09 08:13:28 +0000 2013",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+          "protected": false,
+          "screen_name": "HistoriaEnFotos",
+          "id_str": "1073159618",
+          "profile_link_color": "FF3300",
+          "translator_type": "regular",
+          "id": 1073159618,
+          "geo_enabled": true,
+          "profile_background_color": "709397",
+          "lang": "es",
+          "profile_sidebar_border_color": "86A4A6",
+          "profile_text_color": "333333",
+          "verified": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3777882002/deb22319eedad83bbdeb9bd140762c20_normal.jpeg",
+          "time_zone": null,
+          "url": null,
+          "contributors_enabled": false,
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073159618/1408765634",
+          "statuses_count": 13130,
+          "follow_request_sent": null,
+          "followers_count": 849508,
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "following": null,
+          "name": "Imágenes Históricas",
+          "location": "«Primera cuenta en Español»",
+          "profile_sidebar_fill_color": "A0C5C7",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 23:57:30 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id": 1007284895113269248,
+      "retweet_count": 202,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1007411739569410050",
+      "in_reply_to_user_id": null,
+      "favorite_count": 211,
+      "id": 1007411739569410050,
+      "text": "ese oso tendría q estar en su hábitat y esta agarrando una pelota, se dan cuenta q somos una mierda???? https://t.co/zlnhgFlfve",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/historiaenfotos/status/1007284895113269248",
+        "display": "twitter.com/historiaenfoto…",
+        "url": "https://t.co/zlnhgFlfve"
+      },
+      "lang": "es",
+      "quote_count": 3,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 2,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/historiaenfoto…",
+            "indices": [
+              104,
+              127
+            ],
+            "expanded_url": "https://twitter.com/historiaenfotos/status/1007284895113269248",
+            "url": "https://t.co/zlnhgFlfve"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        103
+      ],
+      "quoted_status_id_str": "1007284895113269248",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 360,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007412584415416320/j4P5cl0t_normal.jpg",
+        "listed_count": 5,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 5979,
+        "description": "ig: agussantolaya",
+        "created_at": "Sat Jan 20 12:36:35 +0000 2018",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "agussantolaya2",
+        "id_str": "954694139970498560",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 954694139970498560,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "es",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007412584415416320/j4P5cl0t_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954694139970498560/1528854714",
+        "statuses_count": 5702,
+        "follow_request_sent": null,
+        "followers_count": 1484,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "𝐀𝐠𝐮𝐬 𝐒𝐚𝐧𝐭𝐨𝐥𝐚𝐲𝐚",
+        "location": "Francia",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1007284895113269248,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007776373614825472",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007776373614825472,
+    "text": "RT @agussantolaya2: ese oso tendría q estar en su hábitat y esta agarrando una pelota, se dan cuenta q somos una mierda???? https://t.co/zl…",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/historiaenfotos/status/1007284895113269248",
+      "display": "twitter.com/historiaenfoto…",
+      "url": "https://t.co/zlnhgFlfve"
+    },
+    "lang": "es",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529107585706",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "agussantolaya2",
+          "id_str": "954694139970498560",
+          "name": "𝐀𝐠𝐮𝐬 𝐒𝐚𝐧𝐭𝐨𝐥𝐚𝐲𝐚",
+          "id": 954694139970498560
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1007284895113269248",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 128,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007252689401475072/Bam9ETMe_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 9563,
+      "description": "Eѕтυdιαɴтe de Lιc. eɴ Pѕιcopedαɢoɢία | ʙᴏʀɴ ɪɴ '𝟫𝟫",
+      "created_at": "Tue Mar 29 00:42:11 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "mvictoriagzanon",
+      "id_str": "714613588997115904",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 714613588997115904,
+      "geo_enabled": true,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1007252689401475072/Bam9ETMe_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/714613588997115904/1495911746",
+      "statuses_count": 3832,
+      "follow_request_sent": null,
+      "followers_count": 173,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "𝚅𝚒𝚌𝚔𝚒𝚝𝚊 𝙶𝚉 ♕",
+      "location": "IG: mvictoriagz",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

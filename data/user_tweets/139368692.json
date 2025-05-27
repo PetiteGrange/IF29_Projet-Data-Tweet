@@ -1,0 +1,132 @@
+[
+  {
+    "created_date": "2018-06-15 20:44:40",
+    "current_time": 1529088280572,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:44:40 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695401082851328",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695401082851328,
+    "text": "De Gea 🙈 #WorldCup #CR7 #bbcworldcup",
+    "place": {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "full_name": "Ash, South East",
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -0.738512,
+              51.235468
+            ],
+            [
+              -0.738512,
+              51.285032
+            ],
+            [
+              -0.695907,
+              51.285032
+            ],
+            [
+              -0.695907,
+              51.235468
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "place_type": "city",
+      "name": "Ash",
+      "attributes": {},
+      "id": "5d52ead6bb8a21a5",
+      "url": "https://api.twitter.com/1.1/geo/id/5d52ead6bb8a21a5.json"
+    },
+    "lang": "eu",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088280350",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            9,
+            18
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            19,
+            23
+          ],
+          "text": "CR7"
+        },
+        {
+          "indices": [
+            24,
+            36
+          ],
+          "text": "bbcworldcup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 719,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988138144972398593/2bW3h-Qa_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 181,
+      "description": "Random thoughts, mainly about MotoGP... \n\nPositional Coach for Farnham Knights American Football Team. \n\n#ActualBLT #TheThirdHeat! #BingPot!",
+      "created_at": "Sun May 02 11:34:14 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false,
+      "screen_name": "ActualBLT",
+      "id_str": "139368692",
+      "profile_link_color": "FF043D",
+      "translator_type": "none",
+      "id": 139368692,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988138144972398593/2bW3h-Qa_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.facebook.com/LouisTerry32",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/139368692/1497434513",
+      "statuses_count": 2340,
+      "follow_request_sent": null,
+      "followers_count": 135,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Louis Terry",
+      "location": "Guildford, England",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

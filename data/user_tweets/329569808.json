@@ -1,1 +1,199 @@
-{"created_date": "2018-06-16 21:57:04", "current_time": 1529179024458, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 19:57:04 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 17:43:09 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 13455, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008042308237975553", "in_reply_to_user_id": null, "favorite_count": 16527, "id": 1008042308237975553, "text": "Good luck to the @NGSuperEagles today in the #WorldCup \ud83c\uddf3\ud83c\uddec\ud83c\uddf3\ud83c\uddec\ud83c\uddf3\ud83c\uddec", "place": null, "lang": "en", "quote_count": 1603, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 720, "entities": {"urls": [], "hashtags": [{"indices": [45, 54], "text": "WorldCup"}], "user_mentions": [{"indices": [17, 31], "screen_name": "NGSuperEagles", "id_str": "2281496462", "name": "\ud83c\uddf3\ud83c\uddec Super Eagles", "id": 2281496462}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1834, "profile_image_url_https": "https://pbs.twimg.com/profile_images/913142041437188097/auleqJYx_normal.jpg", "listed_count": 34250, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 4133, "description": "#TheFour Thursday\u2019s 8/7c on FOX!", "created_at": "Thu Dec 18 17:52:09 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Diddy", "id_str": "18220175", "profile_link_color": "646666", "translator_type": "none", "id": 18220175, "geo_enabled": true, "profile_background_color": "030303", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "348A8A", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/913142041437188097/auleqJYx_normal.jpg", "time_zone": null, "url": "https://youtu.be/ey0alNH23QM", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/18220175/1527280602", "statuses_count": 40780, "follow_request_sent": null, "followers_count": 15437284, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Diddy", "location": "NYC", "profile_sidebar_fill_color": "181F1F", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008076008115691521", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008076008115691521, "text": "RT @Diddy: Good luck to the @NGSuperEagles today in the #WorldCup \ud83c\uddf3\ud83c\uddec\ud83c\uddf3\ud83c\uddec\ud83c\uddf3\ud83c\uddec", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529179024138", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [56, 65], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 9], "screen_name": "Diddy", "id_str": "18220175", "name": "Diddy", "id": 18220175}, {"indices": [28, 42], "screen_name": "NGSuperEagles", "id_str": "2281496462", "name": "\ud83c\uddf3\ud83c\uddec Super Eagles", "id": 2281496462}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1017, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006247495410769920/9sWqqXr2_normal.jpg", "listed_count": 11, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 26779, "description": "\ud83c\uddf3\ud83c\uddec\ud83c\uddfa\ud83c\uddf8  IG/ SC: kizzlegotjuice", "created_at": "Tue Jul 05 09:01:16 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "KIZZLEGOTJUICE", "id_str": "329569808", "profile_link_color": "19CF86", "translator_type": "none", "id": 329569808, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006247495410769920/9sWqqXr2_normal.jpg", "time_zone": null, "url": "https://youtu.be/KJrHMsoeH1o", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/329569808/1528743074", "statuses_count": 34211, "follow_request_sent": null, "followers_count": 2575, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "TK Edogi", "location": "NYC", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 21:57:04",
+    "current_time": 1529179024458,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 19:57:04 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 17:43:09 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 13455,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008042308237975553",
+      "in_reply_to_user_id": null,
+      "favorite_count": 16527,
+      "id": 1008042308237975553,
+      "text": "Good luck to the @NGSuperEagles today in the #WorldCup 🇳🇬🇳🇬🇳🇬",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1603,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 720,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              45,
+              54
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              17,
+              31
+            ],
+            "screen_name": "NGSuperEagles",
+            "id_str": "2281496462",
+            "name": "🇳🇬 Super Eagles",
+            "id": 2281496462
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1834,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/913142041437188097/auleqJYx_normal.jpg",
+        "listed_count": 34250,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 4133,
+        "description": "#TheFour Thursday’s 8/7c on FOX!",
+        "created_at": "Thu Dec 18 17:52:09 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Diddy",
+        "id_str": "18220175",
+        "profile_link_color": "646666",
+        "translator_type": "none",
+        "id": 18220175,
+        "geo_enabled": true,
+        "profile_background_color": "030303",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "348A8A",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/913142041437188097/auleqJYx_normal.jpg",
+        "time_zone": null,
+        "url": "https://youtu.be/ey0alNH23QM",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18220175/1527280602",
+        "statuses_count": 40780,
+        "follow_request_sent": null,
+        "followers_count": 15437284,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Diddy",
+        "location": "NYC",
+        "profile_sidebar_fill_color": "181F1F",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008076008115691521",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008076008115691521,
+    "text": "RT @Diddy: Good luck to the @NGSuperEagles today in the #WorldCup 🇳🇬🇳🇬🇳🇬",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529179024138",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            56,
+            65
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            9
+          ],
+          "screen_name": "Diddy",
+          "id_str": "18220175",
+          "name": "Diddy",
+          "id": 18220175
+        },
+        {
+          "indices": [
+            28,
+            42
+          ],
+          "screen_name": "NGSuperEagles",
+          "id_str": "2281496462",
+          "name": "🇳🇬 Super Eagles",
+          "id": 2281496462
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1017,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006247495410769920/9sWqqXr2_normal.jpg",
+      "listed_count": 11,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 26779,
+      "description": "🇳🇬🇺🇸  IG/ SC: kizzlegotjuice",
+      "created_at": "Tue Jul 05 09:01:16 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "KIZZLEGOTJUICE",
+      "id_str": "329569808",
+      "profile_link_color": "19CF86",
+      "translator_type": "none",
+      "id": 329569808,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006247495410769920/9sWqqXr2_normal.jpg",
+      "time_zone": null,
+      "url": "https://youtu.be/KJrHMsoeH1o",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/329569808/1528743074",
+      "statuses_count": 34211,
+      "follow_request_sent": null,
+      "followers_count": 2575,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "TK Edogi",
+      "location": "NYC",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

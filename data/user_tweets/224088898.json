@@ -1,0 +1,657 @@
+[
+  {
+    "created_date": "2018-06-15 20:38:46",
+    "current_time": 1529087926972,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/byEuwyp6QR",
+          "source_user_id": 119593082,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+          "source_status_id": 1007668202774466560,
+          "url": "https://t.co/byEuwyp6QR",
+          "indices": [
+            93,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007668109203787777",
+          "expanded_url": "https://twitter.com/FOXSoccer/status/1007668202774466560/video/1",
+          "source_status_id_str": "1007668202774466560",
+          "media_url_https": "https://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+          "id": 1007668109203787777,
+          "source_user_id_str": "119593082",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Morocco own goal",
+            "embeddable": false,
+            "monetizable": true
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:38:46 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/byEuwyp6QR",
+            "source_user_id": 119593082,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+            "source_status_id": 1007668202774466560,
+            "url": "https://t.co/byEuwyp6QR",
+            "indices": [
+              72,
+              95
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007668109203787777",
+            "expanded_url": "https://twitter.com/FOXSoccer/status/1007668202774466560/video/1",
+            "source_status_id_str": "1007668202774466560",
+            "media_url_https": "https://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+            "id": 1007668109203787777,
+            "source_user_id_str": "119593082",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Morocco own goal",
+              "embeddable": false,
+              "monetizable": true
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 17:04:20 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 145,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007670150148100096",
+      "in_reply_to_user_id": null,
+      "favorite_count": 557,
+      "id": 1007670150148100096,
+      "text": "Morocco scored a 95th minute goal to win the game...for Iran #WorldCup  https://t.co/byEuwyp6QR",
+      "place": null,
+      "lang": "en",
+      "quote_count": 26,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 10,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              61,
+              70
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/byEuwyp6QR",
+            "source_user_id": 119593082,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+            "source_status_id": 1007668202774466560,
+            "url": "https://t.co/byEuwyp6QR",
+            "indices": [
+              72,
+              95
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007668109203787777",
+            "expanded_url": "https://twitter.com/FOXSoccer/status/1007668202774466560/video/1",
+            "source_status_id_str": "1007668202774466560",
+            "media_url_https": "https://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+            "id": 1007668109203787777,
+            "source_user_id_str": "119593082",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Morocco own goal",
+              "embeddable": false,
+              "monetizable": true
+            }
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 113,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002397744617713664/L-cU40Mz_normal.jpg",
+        "listed_count": 571,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 13,
+        "description": "Funny mistakes/idiocy, usually from sports. FYI: Some are jokes, some just look wrong. Mention/DM this or @NOTSCWill to submit. Created by: @NOTSportsCenter",
+        "created_at": "Sat Apr 27 00:03:40 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SomeonesAnIdiot",
+        "id_str": "1383157789",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 1383157789,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002397744617713664/L-cU40Mz_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.twitter.com/notsportscenter",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383157789/1527827460",
+        "statuses_count": 3327,
+        "follow_request_sent": null,
+        "followers_count": 155102,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Someone's An Idiot",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007693917922488320",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007693917922488320,
+    "text": "RT @SomeonesAnIdiot: Morocco scored a 95th minute goal to win the game...for Iran #WorldCup  https://t.co/byEuwyp6QR",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529087926737",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            82,
+            91
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/byEuwyp6QR",
+          "source_user_id": 119593082,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+          "source_status_id": 1007668202774466560,
+          "url": "https://t.co/byEuwyp6QR",
+          "indices": [
+            93,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007668109203787777",
+          "expanded_url": "https://twitter.com/FOXSoccer/status/1007668202774466560/video/1",
+          "source_status_id_str": "1007668202774466560",
+          "media_url_https": "https://pbs.twimg.com/media/Dfv04rKUEAEsMy0.jpg",
+          "id": 1007668109203787777,
+          "source_user_id_str": "119593082",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Morocco own goal",
+            "embeddable": false,
+            "monetizable": true
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "SomeonesAnIdiot",
+          "id_str": "1383157789",
+          "name": "Someone's An Idiot",
+          "id": 1383157789
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1317,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971518253813174274/Fo1yG8aZ_normal.jpg",
+      "listed_count": 55,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 29190,
+      "description": "FAMU Alumnus | Techie",
+      "created_at": "Wed Dec 08 03:28:14 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "aDopamineFiend",
+      "id_str": "224088898",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 224088898,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/971518253813174274/Fo1yG8aZ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/224088898/1509057751",
+      "statuses_count": 101972,
+      "follow_request_sent": null,
+      "followers_count": 1152,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Diddy, flummoxed by a dollar in his possession",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:39:19",
+    "current_time": 1529087959508,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:39:19 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/LKKFkIRLLC",
+              "indices": [
+                252,
+                275
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 570,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1234,
+                  "h": 1034,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1006,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007669840621039616",
+              "expanded_url": "https://twitter.com/ESPNStatsInfo/status/1007669965196013569/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Dfv2YZUXcAAvZ6D.jpg",
+              "id": 1007669840621039616,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Dfv2YZUXcAAvZ6D.jpg",
+              "url": "https://t.co/LKKFkIRLLC"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                197,
+                206
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                208,
+                212
+              ],
+              "text": "IRN"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/LKKFkIRLLC",
+              "indices": [
+                252,
+                275
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 570,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1234,
+                  "h": 1034,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1006,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007669840621039616",
+              "expanded_url": "https://twitter.com/ESPNStatsInfo/status/1007669965196013569/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Dfv2YZUXcAAvZ6D.jpg",
+              "id": 1007669840621039616,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Dfv2YZUXcAAvZ6D.jpg",
+              "url": "https://t.co/LKKFkIRLLC"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Iran defeats Morocco 1-0 on an own goal in stoppage time.\n\nIt is the latest regulation own goal in in World Cup history (2nd-latest overall), and the latest own goal to give a team the lead at the #WorldCup\n\n#IRN gets its 2nd ever win at the World Cup https://t.co/LKKFkIRLLC",
+        "display_text_range": [
+          0,
+          251
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 17:03:35 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 158,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007669965196013569",
+      "in_reply_to_user_id": null,
+      "favorite_count": 329,
+      "id": 1007669965196013569,
+      "text": "Iran defeats Morocco 1-0 on an own goal in stoppage time.\n\nIt is the latest regulation own goal in in World Cup his… https://t.co/N0pgBDqM3u",
+      "place": null,
+      "lang": "en",
+      "quote_count": 40,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 7,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007669965196013569",
+            "url": "https://t.co/N0pgBDqM3u"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 51,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747495844157472769/Np_LXZ_x_normal.jpg",
+        "listed_count": 14821,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1061,
+        "description": "Our mission is to serve fans across every ESPN platform with the fastest, most accurate and insightful statistics, scores, news and analysis.",
+        "created_at": "Thu Jul 02 17:03:54 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "ESPNStatsInfo",
+        "id_str": "53120768",
+        "profile_link_color": "009999",
+        "translator_type": "none",
+        "id": 53120768,
+        "geo_enabled": false,
+        "profile_background_color": "131516",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747495844157472769/Np_LXZ_x_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53120768/1522163783",
+        "statuses_count": 136610,
+        "follow_request_sent": null,
+        "followers_count": 1724495,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "ESPN Stats & Info",
+        "location": "Bristol, CT",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694054447026176",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694054447026176,
+    "text": "RT @ESPNStatsInfo: Iran defeats Morocco 1-0 on an own goal in stoppage time.\n\nIt is the latest regulation own goal in in World Cup history…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529087959287",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "ESPNStatsInfo",
+          "id_str": "53120768",
+          "name": "ESPN Stats & Info",
+          "id": 53120768
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1317,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971518253813174274/Fo1yG8aZ_normal.jpg",
+      "listed_count": 55,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 29192,
+      "description": "FAMU Alumnus | Techie",
+      "created_at": "Wed Dec 08 03:28:14 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "aDopamineFiend",
+      "id_str": "224088898",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 224088898,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/971518253813174274/Fo1yG8aZ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/224088898/1509057751",
+      "statuses_count": 101974,
+      "follow_request_sent": null,
+      "followers_count": 1152,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Diddy, flummoxed by a dollar in his possession",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

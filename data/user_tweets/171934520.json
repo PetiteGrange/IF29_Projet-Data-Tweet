@@ -1,1 +1,245 @@
-{"created_date": "2018-06-14 17:26:45", "current_time": 1528990005147, "extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/xJU13opcHG", "indices": [274, 297], "sizes": {"small": {"w": 680, "h": 340, "resize": "fit"}, "large": {"w": 2048, "h": 1024, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 600, "resize": "fit"}}, "id_str": "1007283199343497217", "expanded_url": "https://twitter.com/ShotofPrev/status/1007283201545515009/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg", "id": 1007283199343497217, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg", "url": "https://t.co/xJU13opcHG"}]}, "entities": {"urls": [{"display_url": "fxn.ws/2sUL2AC", "indices": [250, 273], "expanded_url": "https://fxn.ws/2sUL2AC", "url": "https://t.co/5yqiRC54mS"}], "hashtags": [{"indices": [24, 33], "text": "worldcup"}, {"indices": [87, 95], "text": "vaccine"}, {"indices": [107, 115], "text": "measles"}, {"indices": [236, 249], "text": "vaccineswork"}], "media": [{"display_url": "pic.twitter.com/xJU13opcHG", "indices": [274, 297], "sizes": {"small": {"w": 680, "h": 340, "resize": "fit"}, "large": {"w": 2048, "h": 1024, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 600, "resize": "fit"}}, "id_str": "1007283199343497217", "expanded_url": "https://twitter.com/ShotofPrev/status/1007283201545515009/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg", "id": 1007283199343497217, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg", "url": "https://t.co/xJU13opcHG"}], "user_mentions": [], "symbols": []}, "full_text": "If you're headed to the #worldcup you'll want to make sure your up-to-date on your MMR #vaccine because of #measles outbreaks across the continent. If you're not immune there's a 90% chance you will be infected if exposed. Why risk it? #vaccineswork https://t.co/5yqiRC54mS https://t.co/xJU13opcHG", "display_text_range": [0, 273]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:26:44 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007283201545515009", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007283201545515009, "text": "If you're headed to the #worldcup you'll want to make sure your up-to-date on your MMR #vaccine because of #measles\u2026 https://t.co/ajpGX4Z4ah", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "timestamp_ms": "1528990004322", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1007283201545515009", "url": "https://t.co/ajpGX4Z4ah"}], "hashtags": [{"indices": [24, 33], "text": "worldcup"}, {"indices": [87, 95], "text": "vaccine"}, {"indices": [107, 115], "text": "measles"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 2029, "profile_image_url_https": "https://pbs.twimg.com/profile_images/890611958675681280/mAhKkHG2_normal.jpg", "listed_count": 137, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 965, "description": "I'm Christine Vara, lead contributor at the Shot of Prevention blog, where the discussion is centered on #vaccines and immunization news.", "created_at": "Wed Jul 28 14:38:39 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ShotofPrev", "id_str": "171934520", "profile_link_color": "0062FF", "translator_type": "none", "id": 171934520, "geo_enabled": false, "profile_background_color": "2A9788", "lang": "en", "profile_sidebar_border_color": "EEEEEE", "profile_text_color": "033333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/890611958675681280/mAhKkHG2_normal.jpg", "time_zone": null, "url": "http://shotofprevention.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/171934520/1501172937", "statuses_count": 5618, "follow_request_sent": null, "followers_count": 7866, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Shot of Prevention", "location": "United States", "profile_sidebar_fill_color": "EEEEEE", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 17:26:45",
+    "current_time": 1528990005147,
+    "extended_tweet": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xJU13opcHG",
+            "indices": [
+              274,
+              297
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007283199343497217",
+            "expanded_url": "https://twitter.com/ShotofPrev/status/1007283201545515009/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg",
+            "id": 1007283199343497217,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg",
+            "url": "https://t.co/xJU13opcHG"
+          }
+        ]
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "fxn.ws/2sUL2AC",
+            "indices": [
+              250,
+              273
+            ],
+            "expanded_url": "https://fxn.ws/2sUL2AC",
+            "url": "https://t.co/5yqiRC54mS"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              24,
+              33
+            ],
+            "text": "worldcup"
+          },
+          {
+            "indices": [
+              87,
+              95
+            ],
+            "text": "vaccine"
+          },
+          {
+            "indices": [
+              107,
+              115
+            ],
+            "text": "measles"
+          },
+          {
+            "indices": [
+              236,
+              249
+            ],
+            "text": "vaccineswork"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xJU13opcHG",
+            "indices": [
+              274,
+              297
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 600,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007283199343497217",
+            "expanded_url": "https://twitter.com/ShotofPrev/status/1007283201545515009/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg",
+            "id": 1007283199343497217,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqWu6UWkAEEBZu.jpg",
+            "url": "https://t.co/xJU13opcHG"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "full_text": "If you're headed to the #worldcup you'll want to make sure your up-to-date on your MMR #vaccine because of #measles outbreaks across the continent. If you're not immune there's a 90% chance you will be infected if exposed. Why risk it? #vaccineswork https://t.co/5yqiRC54mS https://t.co/xJU13opcHG",
+      "display_text_range": [
+        0,
+        273
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:26:44 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007283201545515009",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007283201545515009,
+    "text": "If you're headed to the #worldcup you'll want to make sure your up-to-date on your MMR #vaccine because of #measles… https://t.co/ajpGX4Z4ah",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": true,
+    "timestamp_ms": "1528990004322",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/1007283201545515009",
+          "url": "https://t.co/ajpGX4Z4ah"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            33
+          ],
+          "text": "worldcup"
+        },
+        {
+          "indices": [
+            87,
+            95
+          ],
+          "text": "vaccine"
+        },
+        {
+          "indices": [
+            107,
+            115
+          ],
+          "text": "measles"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 2029,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/890611958675681280/mAhKkHG2_normal.jpg",
+      "listed_count": 137,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 965,
+      "description": "I'm Christine Vara, lead contributor at the Shot of Prevention blog, where the discussion is centered on #vaccines and immunization news.",
+      "created_at": "Wed Jul 28 14:38:39 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ShotofPrev",
+      "id_str": "171934520",
+      "profile_link_color": "0062FF",
+      "translator_type": "none",
+      "id": 171934520,
+      "geo_enabled": false,
+      "profile_background_color": "2A9788",
+      "lang": "en",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "033333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890611958675681280/mAhKkHG2_normal.jpg",
+      "time_zone": null,
+      "url": "http://shotofprevention.com",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/171934520/1501172937",
+      "statuses_count": 5618,
+      "follow_request_sent": null,
+      "followers_count": 7866,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Shot of Prevention",
+      "location": "United States",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "notifications": null
+    }
+  }
+]

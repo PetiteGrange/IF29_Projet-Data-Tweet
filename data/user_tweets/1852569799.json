@@ -1,1 +1,198 @@
-{"created_date": "2018-06-16 22:57:51", "current_time": 1529182671712, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 20:57:51 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"entities": {"urls": [], "hashtags": [{"indices": [219, 228], "text": "WorldCup"}, {"indices": [229, 239], "text": "Rusia2018"}], "user_mentions": [], "symbols": []}, "full_text": "Siamo tutti d'accordo che Cristiano caghi in testa a Luis Nazario de Lima sotto tutti i punti di vista?\nNo, perch\u00e9 c'\u00e8 ancora gente coi cromosomi dispari che si rivolge al brasiliano con l'appellativo di \"quello vero\".\n#WorldCup #Rusia2018", "display_text_range": [0, 239]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 08:47:59 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 86, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007907627312013313", "in_reply_to_user_id": null, "favorite_count": 270, "id": 1007907627312013313, "text": "Siamo tutti d'accordo che Cristiano caghi in testa a Luis Nazario de Lima sotto tutti i punti di vista?\nNo, perch\u00e9\u2026 https://t.co/3pBGP8AHMy", "place": null, "lang": "it", "quote_count": 4, "favorited": false, "coordinates": null, "truncated": true, "reply_count": 37, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007907627312013313", "url": "https://t.co/3pBGP8AHMy"}], "hashtags": [], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 44, "profile_image_url_https": "https://pbs.twimg.com/profile_images/845551259977428993/gmXKPOrf_normal.jpg", "listed_count": 22, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 1824, "description": "Se la mia vita fosse una serie TV, sarebbe una produzione HBO. 83% di pronostici presi. Pochi tweet, ma di classe, dicono.", "created_at": "Tue Jun 28 10:15:24 +0000 2016", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "_ThousandN", "id_str": "747735140047130624", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 747735140047130624, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "it", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/845551259977428993/gmXKPOrf_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 12023, "follow_request_sent": null, "followers_count": 2709, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Thousand Names", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008091306097303559", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008091306097303559, "text": "RT @_ThousandN: Siamo tutti d'accordo che Cristiano caghi in testa a Luis Nazario de Lima sotto tutti i punti di vista?\nNo, perch\u00e9 c'\u00e8 anco\u2026", "place": null, "lang": "it", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529182671461", "reply_count": 0, "entities": {"urls": [], "hashtags": [], "user_mentions": [{"indices": [3, 14], "screen_name": "_ThousandN", "id_str": "747735140047130624", "name": "Thousand Names", "id": 747735140047130624}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 65, "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000499526255/2a42e1de1c320f9e27373cb952976662_normal.jpeg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1246, "description": null, "created_at": "Tue Sep 10 21:26:18 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "zebrarampante", "id_str": "1852569799", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 1852569799, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "it", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/378800000499526255/2a42e1de1c320f9e27373cb952976662_normal.jpeg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 855, "follow_request_sent": null, "followers_count": 19, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "ZebraRampante", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 22:57:51",
+    "current_time": 1529182671712,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 20:57:51 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                219,
+                228
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                229,
+                239
+              ],
+              "text": "Rusia2018"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Siamo tutti d'accordo che Cristiano caghi in testa a Luis Nazario de Lima sotto tutti i punti di vista?\nNo, perché c'è ancora gente coi cromosomi dispari che si rivolge al brasiliano con l'appellativo di \"quello vero\".\n#WorldCup #Rusia2018",
+        "display_text_range": [
+          0,
+          239
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 08:47:59 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 86,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007907627312013313",
+      "in_reply_to_user_id": null,
+      "favorite_count": 270,
+      "id": 1007907627312013313,
+      "text": "Siamo tutti d'accordo che Cristiano caghi in testa a Luis Nazario de Lima sotto tutti i punti di vista?\nNo, perché… https://t.co/3pBGP8AHMy",
+      "place": null,
+      "lang": "it",
+      "quote_count": 4,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 37,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007907627312013313",
+            "url": "https://t.co/3pBGP8AHMy"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 44,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/845551259977428993/gmXKPOrf_normal.jpg",
+        "listed_count": 22,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 1824,
+        "description": "Se la mia vita fosse una serie TV, sarebbe una produzione HBO. 83% di pronostici presi. Pochi tweet, ma di classe, dicono.",
+        "created_at": "Tue Jun 28 10:15:24 +0000 2016",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "_ThousandN",
+        "id_str": "747735140047130624",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 747735140047130624,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "it",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/845551259977428993/gmXKPOrf_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 12023,
+        "follow_request_sent": null,
+        "followers_count": 2709,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Thousand Names",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008091306097303559",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008091306097303559,
+    "text": "RT @_ThousandN: Siamo tutti d'accordo che Cristiano caghi in testa a Luis Nazario de Lima sotto tutti i punti di vista?\nNo, perché c'è anco…",
+    "place": null,
+    "lang": "it",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529182671461",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "_ThousandN",
+          "id_str": "747735140047130624",
+          "name": "Thousand Names",
+          "id": 747735140047130624
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 65,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000499526255/2a42e1de1c320f9e27373cb952976662_normal.jpeg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1246,
+      "description": null,
+      "created_at": "Tue Sep 10 21:26:18 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "zebrarampante",
+      "id_str": "1852569799",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1852569799,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "it",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000499526255/2a42e1de1c320f9e27373cb952976662_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 855,
+      "follow_request_sent": null,
+      "followers_count": 19,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "ZebraRampante",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

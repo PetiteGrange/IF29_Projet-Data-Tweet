@@ -1,0 +1,93 @@
+[
+  {
+    "created_date": "2018-06-15 20:43:00",
+    "current_time": 1529088180336,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:43:00 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694980704595968",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694980704595968,
+    "text": "Honestly don't think I've ever seen Pepe make a challenge that wasn't a foul #WorldCup #PORESP",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088180124",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            77,
+            86
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            87,
+            94
+          ],
+          "text": "PORESP"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 4996,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003268878682685442/cpqRTYy2_normal.jpg",
+      "listed_count": 24,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 10122,
+      "description": "#music #wrestling #beer #gaming #gamer #celtic",
+      "created_at": "Sat Mar 09 13:24:18 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "mccusker86",
+      "id_str": "1254371858",
+      "profile_link_color": "009999",
+      "translator_type": "none",
+      "id": 1254371858,
+      "geo_enabled": true,
+      "profile_background_color": "131516",
+      "lang": "en",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003268878682685442/cpqRTYy2_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254371858/1528038311",
+      "statuses_count": 22829,
+      "follow_request_sent": null,
+      "followers_count": 2942,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "A MAN HAS NO NAME",
+      "location": "Paisley, Scotland ",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "notifications": null
+    }
+  }
+]

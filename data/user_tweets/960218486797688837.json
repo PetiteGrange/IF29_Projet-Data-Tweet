@@ -1,1 +1,405 @@
-{"created_date": "2018-06-17 00:27:00", "current_time": 1529188020344, "extended_entities": {"media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "source_user_id": 410811457, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "source_status_id": 1007994498776010752, "url": "https://t.co/DOvuBeb8c6", "indices": [37, 60], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "source_status_id_str": "1007994498776010752", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "source_user_id_str": "410811457", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [30, 53], "duration_millis": 17185, "variants": [{"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 22:27:00 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "indices": [21, 44], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "url": "https://t.co/DOvuBeb8c6", "video_info": {"aspect_ratio": [30, 53], "duration_millis": 17185, "variants": [{"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:33:10 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 7901, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007994498776010752", "in_reply_to_user_id": null, "favorite_count": 22713, "id": 1007994498776010752, "text": "Messi \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 #Worldcup https://t.co/DOvuBeb8c6", "place": null, "lang": "fr", "quote_count": 802, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 437, "entities": {"urls": [], "hashtags": [{"indices": [11, 20], "text": "Worldcup"}], "media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "indices": [21, 44], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "url": "https://t.co/DOvuBeb8c6"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 20], "contributors": null, "user": {"utc_offset": null, "friends_count": 1444, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg", "listed_count": 3510, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 500, "description": "Twitter where strangers can become friends. @Arsenal, @BBCMOTD, @FOXSports, @CallawayGolf, @GalvinGreen, @Belstaff and @OfficialTriumph", "created_at": "Sat Nov 12 16:09:46 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "IanWright0", "id_str": "410811457", "profile_link_color": "942D98", "translator_type": "none", "id": 410811457, "geo_enabled": true, "profile_background_color": "010101", "lang": "en", "profile_sidebar_border_color": "333333", "profile_text_color": "CCCCCC", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg", "time_zone": null, "url": "http://Instagram.com/wrightyofficial", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/410811457/1504249193", "statuses_count": 20149, "follow_request_sent": null, "followers_count": 1447491, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Ian Wright", "location": "London, England", "profile_sidebar_fill_color": "333333", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008113739915243520", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008113739915243520, "text": "RT @IanWright0: Messi \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 #Worldcup https://t.co/DOvuBeb8c6", "place": null, "lang": "fr", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529188020100", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [27, 36], "text": "Worldcup"}], "media": [{"display_url": "pic.twitter.com/DOvuBeb8c6", "source_user_id": 410811457, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "source_status_id": 1007994498776010752, "url": "https://t.co/DOvuBeb8c6", "indices": [37, 60], "sizes": {"small": {"w": 385, "h": 680, "resize": "fit"}, "large": {"w": 480, "h": 848, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 848, "resize": "fit"}}, "id_str": "1007994461744517120", "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1", "source_status_id_str": "1007994498776010752", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg", "id": 1007994461744517120, "source_user_id_str": "410811457", "additional_media_info": {"monetizable": false}}], "user_mentions": [{"indices": [3, 14], "screen_name": "IanWright0", "id_str": "410811457", "name": "Ian Wright", "id": 410811457}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 77, "profile_image_url_https": "https://pbs.twimg.com/profile_images/960219736842874880/5eVv16Ax_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 144, "description": "New Twitter", "created_at": "Sun Feb 04 18:28:22 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "AdamMartinnx", "id_str": "960218486797688837", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 960218486797688837, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/960219736842874880/5eVv16Ax_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 91, "follow_request_sent": null, "followers_count": 51, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Adam Martin", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-17 00:27:00",
+    "current_time": 1529188020344,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DOvuBeb8c6",
+          "source_user_id": 410811457,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "source_status_id": 1007994498776010752,
+          "url": "https://t.co/DOvuBeb8c6",
+          "indices": [
+            37,
+            60
+          ],
+          "sizes": {
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007994461744517120",
+          "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+          "source_status_id_str": "1007994498776010752",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "id": 1007994461744517120,
+          "source_user_id_str": "410811457",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              30,
+              53
+            ],
+            "duration_millis": 17185,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 256000,
+                "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 22:27:00 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DOvuBeb8c6",
+            "indices": [
+              21,
+              44
+            ],
+            "sizes": {
+              "small": {
+                "w": 385,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007994461744517120",
+            "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "id": 1007994461744517120,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "url": "https://t.co/DOvuBeb8c6",
+            "video_info": {
+              "aspect_ratio": [
+                30,
+                53
+              ],
+              "duration_millis": 17185,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/180x320/s76Z27CD-Ncphniy.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/vid/362x640/FDcG6vYkerJMmCek.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007994461744517120/pu/pl/pxdGJroD_2t8Q-TU.m3u8?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 14:33:10 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 7901,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007994498776010752",
+      "in_reply_to_user_id": null,
+      "favorite_count": 22713,
+      "id": 1007994498776010752,
+      "text": "Messi 😱😱😱😱 #Worldcup https://t.co/DOvuBeb8c6",
+      "place": null,
+      "lang": "fr",
+      "quote_count": 802,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 437,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              11,
+              20
+            ],
+            "text": "Worldcup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DOvuBeb8c6",
+            "indices": [
+              21,
+              44
+            ],
+            "sizes": {
+              "small": {
+                "w": 385,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 848,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007994461744517120",
+            "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "id": 1007994461744517120,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+            "url": "https://t.co/DOvuBeb8c6"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        20
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1444,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg",
+        "listed_count": 3510,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 500,
+        "description": "Twitter where strangers can become friends. @Arsenal, @BBCMOTD, @FOXSports, @CallawayGolf, @GalvinGreen, @Belstaff and @OfficialTriumph",
+        "created_at": "Sat Nov 12 16:09:46 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "IanWright0",
+        "id_str": "410811457",
+        "profile_link_color": "942D98",
+        "translator_type": "none",
+        "id": 410811457,
+        "geo_enabled": true,
+        "profile_background_color": "010101",
+        "lang": "en",
+        "profile_sidebar_border_color": "333333",
+        "profile_text_color": "CCCCCC",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1005849411891683330/CyqAVHJt_normal.jpg",
+        "time_zone": null,
+        "url": "http://Instagram.com/wrightyofficial",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410811457/1504249193",
+        "statuses_count": 20149,
+        "follow_request_sent": null,
+        "followers_count": 1447491,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Ian Wright",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "333333",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008113739915243520",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008113739915243520,
+    "text": "RT @IanWright0: Messi 😱😱😱😱 #Worldcup https://t.co/DOvuBeb8c6",
+    "place": null,
+    "lang": "fr",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529188020100",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            27,
+            36
+          ],
+          "text": "Worldcup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DOvuBeb8c6",
+          "source_user_id": 410811457,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "source_status_id": 1007994498776010752,
+          "url": "https://t.co/DOvuBeb8c6",
+          "indices": [
+            37,
+            60
+          ],
+          "sizes": {
+            "small": {
+              "w": 385,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007994461744517120",
+          "expanded_url": "https://twitter.com/IanWright0/status/1007994498776010752/video/1",
+          "source_status_id_str": "1007994498776010752",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007994461744517120/pu/img/S8DOnynxQ4M9Yfum.jpg",
+          "id": 1007994461744517120,
+          "source_user_id_str": "410811457",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "IanWright0",
+          "id_str": "410811457",
+          "name": "Ian Wright",
+          "id": 410811457
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 77,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/960219736842874880/5eVv16Ax_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 144,
+      "description": "New Twitter",
+      "created_at": "Sun Feb 04 18:28:22 +0000 2018",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "AdamMartinnx",
+      "id_str": "960218486797688837",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 960218486797688837,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/960219736842874880/5eVv16Ax_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 91,
+      "follow_request_sent": null,
+      "followers_count": 51,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Adam Martin",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

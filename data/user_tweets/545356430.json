@@ -1,0 +1,116 @@
+[
+  {
+    "created_date": "2018-06-15 20:39:17",
+    "current_time": 1529087957787,
+    "extended_tweet": {
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              247,
+              262
+            ],
+            "text": "RandomThoughts"
+          },
+          {
+            "indices": [
+              263,
+              272
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "full_text": "Spain plays soccer the way I wish I could live my life 100% of the time. They're always under control, they take advantage of every opportunity, they work seamlessly together, and they are always one pass away from glory. It's beautiful to watch. #RandomThoughts #WorldCup",
+      "display_text_range": [
+        0,
+        272
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:39:17 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694046985252864",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694046985252864,
+    "text": "Spain plays soccer the way I wish I could live my life 100% of the time. They're always under control, they take ad… https://t.co/BybHRcDh8f",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": true,
+    "timestamp_ms": "1529087957508",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/1007694046985252864",
+          "url": "https://t.co/BybHRcDh8f"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1590,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/459847595389489152/GdZ1RTgb_normal.jpeg",
+      "listed_count": 35,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5684,
+      "description": "Covering Traffic in PHX for @KTAR923. \nValley Resident since '86.\n  Arizona Wildcat  🐻⬇️ & Horizon Husky🐾. \nAKA Ryan Lavigne",
+      "created_at": "Wed Apr 04 18:52:53 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "LarryLewisKTAR",
+      "id_str": "545356430",
+      "profile_link_color": "0033B3",
+      "translator_type": "none",
+      "id": 545356430,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/459847595389489152/GdZ1RTgb_normal.jpeg",
+      "time_zone": null,
+      "url": "http://www.ttwnetwork.com/",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/545356430/1398471016",
+      "statuses_count": 20121,
+      "follow_request_sent": null,
+      "followers_count": 831,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Larry Lewis",
+      "location": "At The Traffic Center",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

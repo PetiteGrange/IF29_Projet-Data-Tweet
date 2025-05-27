@@ -1,1 +1,397 @@
-{"created_date": "2018-06-16 16:34:21", "current_time": 1529159661386, "extended_entities": {"media": [{"display_url": "pic.twitter.com/dO8FrRkhEa", "source_user_id": 119593082, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "source_status_id": 1007992379679203328, "url": "https://t.co/dO8FrRkhEa", "indices": [55, 78], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007992325417521160", "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1", "source_status_id_str": "1007992379679203328", "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "id": 1007992325417521160, "source_user_id_str": "119593082", "additional_media_info": {"description": "Powered by SnappyTV", "title": "Messi's penalty is saved", "embeddable": false, "monetizable": true}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:34:21 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/dO8FrRkhEa", "source_user_id": 119593082, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "source_status_id": 1007992379679203328, "url": "https://t.co/dO8FrRkhEa", "indices": [35, 58], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007992325417521160", "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1", "source_status_id_str": "1007992379679203328", "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "id": 1007992325417521160, "source_user_id_str": "119593082", "additional_media_info": {"description": "Powered by SnappyTV", "title": "Messi's penalty is saved", "embeddable": false, "monetizable": true}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:28:00 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 258, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007993197509906435", "in_reply_to_user_id": null, "favorite_count": 529, "id": 1007993197509906435, "text": "Yikes \ud83d\ude2c #WorldCup (via @FOXSports) https://t.co/dO8FrRkhEa", "place": null, "lang": "en", "quote_count": 82, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 41, "entities": {"urls": [], "hashtags": [{"indices": [8, 17], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/dO8FrRkhEa", "source_user_id": 119593082, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "source_status_id": 1007992379679203328, "url": "https://t.co/dO8FrRkhEa", "indices": [35, 58], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007992325417521160", "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1", "source_status_id_str": "1007992379679203328", "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "id": 1007992325417521160, "source_user_id_str": "119593082", "additional_media_info": {"description": "Powered by SnappyTV", "title": "Messi's penalty is saved", "embeddable": false, "monetizable": true}}], "user_mentions": [{"indices": [23, 33], "screen_name": "FOXSports", "id_str": "16877611", "name": "FOX Sports", "id": 16877611}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 620, "profile_image_url_https": "https://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg", "listed_count": 16178, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 163, "description": "Get the Free B/R App", "created_at": "Sat Mar 10 23:52:36 +0000 2007", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "BleacherReport", "id_str": "890891", "profile_link_color": "000000", "translator_type": "none", "id": 890891, "geo_enabled": false, "profile_background_color": "444444", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg", "time_zone": null, "url": "https://br.app.link/get-the-BR-app", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/890891/1523712004", "statuses_count": 93910, "follow_request_sent": null, "followers_count": 6670510, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Bleacher Report", "location": null, "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007994793790763009", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007994793790763009, "text": "RT @BleacherReport: Yikes \ud83d\ude2c #WorldCup (via @FOXSports) https://t.co/dO8FrRkhEa", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529159661134", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [28, 37], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/dO8FrRkhEa", "source_user_id": 119593082, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "source_status_id": 1007992379679203328, "url": "https://t.co/dO8FrRkhEa", "indices": [55, 78], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007992325417521160", "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1", "source_status_id_str": "1007992379679203328", "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg", "id": 1007992325417521160, "source_user_id_str": "119593082", "additional_media_info": {"description": "Powered by SnappyTV", "title": "Messi's penalty is saved", "embeddable": false, "monetizable": true}}], "user_mentions": [{"indices": [3, 18], "screen_name": "BleacherReport", "id_str": "890891", "name": "Bleacher Report", "id": 890891}, {"indices": [43, 53], "screen_name": "FOXSports", "id_str": "16877611", "name": "FOX Sports", "id": 16877611}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 378, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003853151068442624/6k0hfhWP_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1194, "description": "Amelia \u2763\ufe0f", "created_at": "Mon Jan 13 23:34:07 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "toofreshchris_", "id_str": "2290336920", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 2290336920, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1003853151068442624/6k0hfhWP_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2290336920/1529131657", "statuses_count": 3362, "follow_request_sent": null, "followers_count": 349, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "cwissy boo", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 16:34:21",
+    "current_time": 1529159661386,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dO8FrRkhEa",
+          "source_user_id": 119593082,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+          "source_status_id": 1007992379679203328,
+          "url": "https://t.co/dO8FrRkhEa",
+          "indices": [
+            55,
+            78
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007992325417521160",
+          "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1",
+          "source_status_id_str": "1007992379679203328",
+          "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+          "id": 1007992325417521160,
+          "source_user_id_str": "119593082",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Messi's penalty is saved",
+            "embeddable": false,
+            "monetizable": true
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 14:34:21 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dO8FrRkhEa",
+            "source_user_id": 119593082,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+            "source_status_id": 1007992379679203328,
+            "url": "https://t.co/dO8FrRkhEa",
+            "indices": [
+              35,
+              58
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007992325417521160",
+            "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1",
+            "source_status_id_str": "1007992379679203328",
+            "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+            "id": 1007992325417521160,
+            "source_user_id_str": "119593082",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Messi's penalty is saved",
+              "embeddable": false,
+              "monetizable": true
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 14:28:00 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 258,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007993197509906435",
+      "in_reply_to_user_id": null,
+      "favorite_count": 529,
+      "id": 1007993197509906435,
+      "text": "Yikes 😬 #WorldCup (via @FOXSports) https://t.co/dO8FrRkhEa",
+      "place": null,
+      "lang": "en",
+      "quote_count": 82,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 41,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              8,
+              17
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dO8FrRkhEa",
+            "source_user_id": 119593082,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+            "source_status_id": 1007992379679203328,
+            "url": "https://t.co/dO8FrRkhEa",
+            "indices": [
+              35,
+              58
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007992325417521160",
+            "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1",
+            "source_status_id_str": "1007992379679203328",
+            "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+            "id": 1007992325417521160,
+            "source_user_id_str": "119593082",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Messi's penalty is saved",
+              "embeddable": false,
+              "monetizable": true
+            }
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              23,
+              33
+            ],
+            "screen_name": "FOXSports",
+            "id_str": "16877611",
+            "name": "FOX Sports",
+            "id": 16877611
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 620,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg",
+        "listed_count": 16178,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 163,
+        "description": "Get the Free B/R App",
+        "created_at": "Sat Mar 10 23:52:36 +0000 2007",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "BleacherReport",
+        "id_str": "890891",
+        "profile_link_color": "000000",
+        "translator_type": "none",
+        "id": 890891,
+        "geo_enabled": false,
+        "profile_background_color": "444444",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/854430488777379840/zFdLhwbT_normal.jpg",
+        "time_zone": null,
+        "url": "https://br.app.link/get-the-BR-app",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/890891/1523712004",
+        "statuses_count": 93910,
+        "follow_request_sent": null,
+        "followers_count": 6670510,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Bleacher Report",
+        "location": null,
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007994793790763009",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007994793790763009,
+    "text": "RT @BleacherReport: Yikes 😬 #WorldCup (via @FOXSports) https://t.co/dO8FrRkhEa",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529159661134",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            28,
+            37
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dO8FrRkhEa",
+          "source_user_id": 119593082,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+          "source_status_id": 1007992379679203328,
+          "url": "https://t.co/dO8FrRkhEa",
+          "indices": [
+            55,
+            78
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007992325417521160",
+          "expanded_url": "https://twitter.com/FOXSoccer/status/1007992379679203328/video/1",
+          "source_status_id_str": "1007992379679203328",
+          "media_url_https": "https://pbs.twimg.com/media/Df0buPfVAAMz1pG.jpg",
+          "id": 1007992325417521160,
+          "source_user_id_str": "119593082",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Messi's penalty is saved",
+            "embeddable": false,
+            "monetizable": true
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "BleacherReport",
+          "id_str": "890891",
+          "name": "Bleacher Report",
+          "id": 890891
+        },
+        {
+          "indices": [
+            43,
+            53
+          ],
+          "screen_name": "FOXSports",
+          "id_str": "16877611",
+          "name": "FOX Sports",
+          "id": 16877611
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 378,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003853151068442624/6k0hfhWP_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1194,
+      "description": "Amelia ❣️",
+      "created_at": "Mon Jan 13 23:34:07 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "toofreshchris_",
+      "id_str": "2290336920",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2290336920,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003853151068442624/6k0hfhWP_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2290336920/1529131657",
+      "statuses_count": 3362,
+      "follow_request_sent": null,
+      "followers_count": 349,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "cwissy boo",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

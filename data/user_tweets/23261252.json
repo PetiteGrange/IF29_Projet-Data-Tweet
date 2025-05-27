@@ -1,0 +1,424 @@
+[
+  {
+    "created_date": "2018-06-15 20:45:21",
+    "current_time": 1529088321028,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cE6YUuO0BO",
+          "source_user_id": 166860265,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+          "source_status_id": 1007686407635251201,
+          "url": "https://t.co/cE6YUuO0BO",
+          "indices": [
+            88,
+            111
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007686400257298432",
+          "expanded_url": "https://twitter.com/RPMSports18/status/1007686407635251201/photo/1",
+          "source_status_id_str": "1007686407635251201",
+          "media_url_https": "https://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+          "id": 1007686400257298432,
+          "source_user_id_str": "166860265"
+        },
+        {
+          "display_url": "pic.twitter.com/cE6YUuO0BO",
+          "source_user_id": 166860265,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwFcSxV4AACvyn.jpg",
+          "source_status_id": 1007686407635251201,
+          "url": "https://t.co/cE6YUuO0BO",
+          "indices": [
+            88,
+            111
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007686400257417216",
+          "expanded_url": "https://twitter.com/RPMSports18/status/1007686407635251201/photo/1",
+          "source_status_id_str": "1007686407635251201",
+          "media_url_https": "https://pbs.twimg.com/media/DfwFcSxV4AACvyn.jpg",
+          "id": 1007686400257417216,
+          "source_user_id_str": "166860265"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:45:20 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cE6YUuO0BO",
+            "indices": [
+              71,
+              94
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1334,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007686400257298432",
+            "expanded_url": "https://twitter.com/RPMSports18/status/1007686407635251201/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+            "id": 1007686400257298432,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+            "url": "https://t.co/cE6YUuO0BO"
+          },
+          {
+            "display_url": "pic.twitter.com/cE6YUuO0BO",
+            "indices": [
+              71,
+              94
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1334,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007686400257417216",
+            "expanded_url": "https://twitter.com/RPMSports18/status/1007686407635251201/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwFcSxV4AACvyn.jpg",
+            "id": 1007686400257417216,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwFcSxV4AACvyn.jpg",
+            "url": "https://t.co/cE6YUuO0BO"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:08:56 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007686407635251201",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007686407635251201,
+      "text": "RONALDO SMILING AT NACHO I AM HERE FOR THE REAL MADRID PETTY #WorldCup https://t.co/cE6YUuO0BO",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              61,
+              70
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cE6YUuO0BO",
+            "indices": [
+              71,
+              94
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1334,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007686400257298432",
+            "expanded_url": "https://twitter.com/RPMSports18/status/1007686407635251201/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+            "id": 1007686400257298432,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+            "url": "https://t.co/cE6YUuO0BO"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        70
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 2605,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997285340737097729/FubjSMo__normal.jpg",
+        "listed_count": 117,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 136323,
+        "description": "Tweeter of many things. University of South Alabama alum. Am I too complex for ComplexCon?",
+        "created_at": "Thu Jul 15 04:51:20 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "RPMSports18",
+        "id_str": "166860265",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 166860265,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997285340737097729/FubjSMo__normal.jpg",
+        "time_zone": null,
+        "url": "https://www.instagram.com/renato_mazariegos/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166860265/1525246967",
+        "statuses_count": 587279,
+        "follow_request_sent": null,
+        "followers_count": 3131,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Renato Mazariegos",
+        "location": "New Orleans",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695570645942272",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695570645942272,
+    "text": "RT @RPMSports18: RONALDO SMILING AT NACHO I AM HERE FOR THE REAL MADRID PETTY #WorldCup https://t.co/cE6YUuO0BO",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088320777",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            78,
+            87
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cE6YUuO0BO",
+          "source_user_id": 166860265,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+          "source_status_id": 1007686407635251201,
+          "url": "https://t.co/cE6YUuO0BO",
+          "indices": [
+            88,
+            111
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1334,
+              "h": 750,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007686400257298432",
+          "expanded_url": "https://twitter.com/RPMSports18/status/1007686407635251201/photo/1",
+          "source_status_id_str": "1007686407635251201",
+          "media_url_https": "https://pbs.twimg.com/media/DfwFcSxUEAACRGM.jpg",
+          "id": 1007686400257298432,
+          "source_user_id_str": "166860265"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "RPMSports18",
+          "id_str": "166860265",
+          "name": "Renato Mazariegos",
+          "id": 166860265
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1918,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/732905690759598080/NFglmvof_normal.jpg",
+      "listed_count": 38,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 801,
+      "description": "Effortless aka 👑lame aka Cyril ⌚️#NoOneCares",
+      "created_at": "Sun Mar 08 01:36:23 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "caffiene450",
+      "id_str": "23261252",
+      "profile_link_color": "009999",
+      "translator_type": "none",
+      "id": 23261252,
+      "geo_enabled": true,
+      "profile_background_color": "131516",
+      "lang": "en",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/732905690759598080/NFglmvof_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23261252/1495570815",
+      "statuses_count": 37690,
+      "follow_request_sent": null,
+      "followers_count": 528,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Cyril #SoUgly 🚮🔥🐐💀(bluecheck)",
+      "location": "Miami",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "notifications": null
+    }
+  }
+]

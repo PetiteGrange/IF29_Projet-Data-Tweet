@@ -1,0 +1,299 @@
+[
+  {
+    "created_date": "2018-06-15 20:39:07",
+    "current_time": 1529087947542,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:39:07 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/BE7t6NZLiB",
+              "indices": [
+                272,
+                295
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 512,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 512,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1003562106078318592",
+              "expanded_url": "https://twitter.com/GripItFixings/status/1003562108401979392/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/De1eaxrXUAAPRfp.jpg",
+              "id": 1003562106078318592,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/De1eaxrXUAAPRfp.jpg",
+              "url": "https://t.co/BE7t6NZLiB"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ow.ly/jXFZ30ki4XL",
+              "indices": [
+                248,
+                271
+              ],
+              "expanded_url": "http://ow.ly/jXFZ30ki4XL",
+              "url": "https://t.co/1VfGpplBsR"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                147,
+                156
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                193,
+                206
+              ],
+              "text": "DrillTapTurn"
+            },
+            {
+              "indices": [
+                226,
+                230
+              ],
+              "text": "win"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/BE7t6NZLiB",
+              "indices": [
+                272,
+                295
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 512,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 512,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1003562106078318592",
+              "expanded_url": "https://twitter.com/GripItFixings/status/1003562108401979392/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/De1eaxrXUAAPRfp.jpg",
+              "id": 1003562106078318592,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/De1eaxrXUAAPRfp.jpg",
+              "url": "https://t.co/BE7t6NZLiB"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Competition time! We're giving away a 55\" 4K smart TV and 10 Gripit TV kits - perfect for fixing your new telly on plasterboard - in time for the  #WorldCup final.\n\nFollow, RT and comment with #DrillTapTurn for your chance to #win. T&amp;Cs apply: https://t.co/1VfGpplBsR https://t.co/BE7t6NZLiB",
+        "display_text_range": [
+          0,
+          271
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Mon Jun 04 09:00:26 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "retweet_count": 1115,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1003562108401979392",
+      "in_reply_to_user_id": null,
+      "favorite_count": 564,
+      "id": 1003562108401979392,
+      "text": "Competition time! We're giving away a 55\" 4K smart TV and 10 Gripit TV kits - perfect for fixing your new telly on… https://t.co/zVg6TGHT92",
+      "place": null,
+      "lang": "en",
+      "quote_count": 194,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 1036,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1003562108401979392",
+            "url": "https://t.co/zVg6TGHT92"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 922,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002531679079227393/eNP5kMkX_normal.jpg",
+        "listed_count": 58,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 3163,
+        "description": "Fixing Heavy Stuff to Plasterboard - from curtain rails & shelves to radiators & TV's (up to 113kg safe loads).  Available from 5,000+ stores in the UK.",
+        "created_at": "Thu Oct 25 10:39:26 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "GripItFixings",
+        "id_str": "903639774",
+        "profile_link_color": "EFEFE8",
+        "translator_type": "none",
+        "id": 903639774,
+        "geo_enabled": false,
+        "profile_background_color": "131516",
+        "lang": "en",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002531679079227393/eNP5kMkX_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.gripitfixings.co.uk",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/903639774/1527855673",
+        "statuses_count": 3887,
+        "follow_request_sent": null,
+        "followers_count": 5489,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Gripit Fixings",
+        "location": "United Kingdom",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694004262178823",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694004262178823,
+    "text": "RT @GripItFixings: Competition time! We're giving away a 55\" 4K smart TV and 10 Gripit TV kits - perfect for fixing your new telly on plast…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529087947322",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "GripItFixings",
+          "id_str": "903639774",
+          "name": "Gripit Fixings",
+          "id": 903639774
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 2487,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/683703590989488129/vSflmSGY_normal.jpg",
+      "listed_count": 17,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 186,
+      "description": "I love pilates yoga and plenty of walking with the dog!",
+      "created_at": "Sun Jan 03 16:36:25 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "beeley52",
+      "id_str": "4703831443",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 4703831443,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/683703590989488129/vSflmSGY_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 7755,
+      "follow_request_sent": null,
+      "followers_count": 131,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Yvonne",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

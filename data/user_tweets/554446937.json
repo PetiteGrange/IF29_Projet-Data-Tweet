@@ -1,1 +1,530 @@
-{"created_date": "2018-06-14 23:02:46", "current_time": 1529010166067, "quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:18:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", "retweet_count": 147, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007281202238193664", "in_reply_to_user_id": null, "favorite_count": 356, "id": 1007281202238193664, "text": "Caption this\u2026 #WorldCup https://t.co/ys0Q212M83", "place": null, "lang": "en", "quote_count": 149, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 45, "entities": {"urls": [], "hashtags": [{"indices": [14, 23], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 23], "contributors": null, "user": {"utc_offset": null, "friends_count": 554, "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "listed_count": 103, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3019, "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd", "created_at": "Mon Nov 18 12:29:31 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Krowd9", "id_str": "2201228281", "profile_link_color": "1B95E0", "translator_type": "none", "id": 2201228281, "geo_enabled": true, "profile_background_color": "D9D9D9", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "time_zone": null, "url": "http://www.krowd9.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410", "statuses_count": 9286, "follow_request_sent": null, "followers_count": 14200, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Krowd9 | 2018 World Cup \ud83c\udfc6", "location": "London, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 21:02:45 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:18:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", "retweet_count": 147, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007281202238193664", "in_reply_to_user_id": null, "favorite_count": 356, "id": 1007281202238193664, "text": "Caption this\u2026 #WorldCup https://t.co/ys0Q212M83", "place": null, "lang": "en", "quote_count": 149, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 45, "entities": {"urls": [], "hashtags": [{"indices": [14, 23], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 23], "contributors": null, "user": {"utc_offset": null, "friends_count": 554, "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "listed_count": 103, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3019, "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd", "created_at": "Mon Nov 18 12:29:31 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Krowd9", "id_str": "2201228281", "profile_link_color": "1B95E0", "translator_type": "none", "id": 2201228281, "geo_enabled": true, "profile_background_color": "D9D9D9", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "time_zone": null, "url": "http://www.krowd9.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410", "statuses_count": 9286, "follow_request_sent": null, "followers_count": 14200, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Krowd9 | 2018 World Cup \ud83c\udfc6", "location": "London, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:21:39 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1007281202238193664, "retweet_count": 3272, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007281922459004928", "in_reply_to_user_id": null, "favorite_count": 8560, "id": 1007281922459004928, "text": "\u201cAt least a homosexual didn\u2019t score right?!\u201d https://t.co/9t6hNSps4G", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/krowd9/status/1007281202238193664", "display": "twitter.com/krowd9/status/\u2026", "url": "https://t.co/9t6hNSps4G"}, "lang": "en", "quote_count": 80, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 31, "entities": {"urls": [{"display_url": "twitter.com/krowd9/status/\u2026", "indices": [45, 68], "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664", "url": "https://t.co/9t6hNSps4G"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 44], "quoted_status_id_str": "1007281202238193664", "contributors": null, "user": {"utc_offset": null, "friends_count": 373, "profile_image_url_https": "https://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg", "listed_count": 56, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 789, "description": "Don\u2019t chase woes, the woes chase me. Add a bit of sauce when my name gets mentioned", "created_at": "Tue Oct 31 18:58:14 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "AliquamScripto", "id_str": "925436770866655232", "profile_link_color": "981CEB", "translator_type": "none", "id": 925436770866655232, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg", "time_zone": null, "url": "http://aliquamscripto.wordpress.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/925436770866655232/1528535405", "statuses_count": 6955, "follow_request_sent": null, "followers_count": 2080, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Scripto", "location": "London, England", "profile_sidebar_fill_color": "000000", "notifications": null}}, "quoted_status_id": 1007281202238193664, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007367764862959616", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007367764862959616, "text": "RT @AliquamScripto: \u201cAt least a homosexual didn\u2019t score right?!\u201d https://t.co/9t6hNSps4G", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/krowd9/status/1007281202238193664", "display": "twitter.com/krowd9/status/\u2026", "url": "https://t.co/9t6hNSps4G"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529010165788", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/krowd9/status/\u2026", "indices": [65, 88], "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664", "url": "https://t.co/9t6hNSps4G"}], "hashtags": [], "user_mentions": [{"indices": [3, 18], "screen_name": "AliquamScripto", "id_str": "925436770866655232", "name": "Scripto", "id": 925436770866655232}], "symbols": []}, "quoted_status_id_str": "1007281202238193664", "contributors": null, "user": {"utc_offset": null, "friends_count": 674, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003260907236089856/PrOYyiAV_normal.jpg", "listed_count": 6, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5523, "description": "if you went back and fixed all the mistakes you\u2019ve made, you\u2019d erase yourself", "created_at": "Sun Apr 15 16:02:01 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "garryhood1872", "id_str": "554446937", "profile_link_color": "1B95E0", "translator_type": "none", "id": 554446937, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1003260907236089856/PrOYyiAV_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/554446937/1492621727", "statuses_count": 8271, "follow_request_sent": null, "followers_count": 397, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "G", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 23:02:46",
+    "current_time": 1529010166067,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ys0Q212M83",
+            "indices": [
+              24,
+              47
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 386,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1163,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 681,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007281191056265218",
+            "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "id": 1007281191056265218,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "url": "https://t.co/ys0Q212M83"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:18:47 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "retweet_count": 147,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007281202238193664",
+      "in_reply_to_user_id": null,
+      "favorite_count": 356,
+      "id": 1007281202238193664,
+      "text": "Caption this… #WorldCup https://t.co/ys0Q212M83",
+      "place": null,
+      "lang": "en",
+      "quote_count": 149,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 45,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              23
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ys0Q212M83",
+            "indices": [
+              24,
+              47
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 386,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1163,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 681,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007281191056265218",
+            "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "id": 1007281191056265218,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "url": "https://t.co/ys0Q212M83"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        23
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 554,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+        "listed_count": 103,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3019,
+        "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd",
+        "created_at": "Mon Nov 18 12:29:31 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Krowd9",
+        "id_str": "2201228281",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 2201228281,
+        "geo_enabled": true,
+        "profile_background_color": "D9D9D9",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.krowd9.com",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410",
+        "statuses_count": 9286,
+        "follow_request_sent": null,
+        "followers_count": 14200,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Krowd9 | 2018 World Cup 🏆",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 21:02:45 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ys0Q212M83",
+              "indices": [
+                24,
+                47
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 386,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1163,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 681,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007281191056265218",
+              "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "id": 1007281191056265218,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "url": "https://t.co/ys0Q212M83"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Thu Jun 14 15:18:47 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "retweet_count": 147,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1007281202238193664",
+        "in_reply_to_user_id": null,
+        "favorite_count": 356,
+        "id": 1007281202238193664,
+        "text": "Caption this… #WorldCup https://t.co/ys0Q212M83",
+        "place": null,
+        "lang": "en",
+        "quote_count": 149,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": false,
+        "reply_count": 45,
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                14,
+                23
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ys0Q212M83",
+              "indices": [
+                24,
+                47
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 386,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1163,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 681,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007281191056265218",
+              "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "id": 1007281191056265218,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "url": "https://t.co/ys0Q212M83"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "display_text_range": [
+          0,
+          23
+        ],
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 554,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+          "listed_count": 103,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "default_profile_image": false,
+          "favourites_count": 3019,
+          "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd",
+          "created_at": "Mon Nov 18 12:29:31 +0000 2013",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "protected": false,
+          "screen_name": "Krowd9",
+          "id_str": "2201228281",
+          "profile_link_color": "1B95E0",
+          "translator_type": "none",
+          "id": 2201228281,
+          "geo_enabled": true,
+          "profile_background_color": "D9D9D9",
+          "lang": "en",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_text_color": "333333",
+          "verified": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+          "time_zone": null,
+          "url": "http://www.krowd9.com",
+          "contributors_enabled": false,
+          "profile_background_tile": true,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410",
+          "statuses_count": 9286,
+          "follow_request_sent": null,
+          "followers_count": 14200,
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "following": null,
+          "name": "Krowd9 | 2018 World Cup 🏆",
+          "location": "London, England",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:21:39 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id": 1007281202238193664,
+      "retweet_count": 3272,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1007281922459004928",
+      "in_reply_to_user_id": null,
+      "favorite_count": 8560,
+      "id": 1007281922459004928,
+      "text": "“At least a homosexual didn’t score right?!” https://t.co/9t6hNSps4G",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/krowd9/status/1007281202238193664",
+        "display": "twitter.com/krowd9/status/…",
+        "url": "https://t.co/9t6hNSps4G"
+      },
+      "lang": "en",
+      "quote_count": 80,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 31,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/krowd9/status/…",
+            "indices": [
+              45,
+              68
+            ],
+            "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664",
+            "url": "https://t.co/9t6hNSps4G"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        44
+      ],
+      "quoted_status_id_str": "1007281202238193664",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 373,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg",
+        "listed_count": 56,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 789,
+        "description": "Don’t chase woes, the woes chase me. Add a bit of sauce when my name gets mentioned",
+        "created_at": "Tue Oct 31 18:58:14 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "AliquamScripto",
+        "id_str": "925436770866655232",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 925436770866655232,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg",
+        "time_zone": null,
+        "url": "http://aliquamscripto.wordpress.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/925436770866655232/1528535405",
+        "statuses_count": 6955,
+        "follow_request_sent": null,
+        "followers_count": 2080,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Scripto",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1007281202238193664,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007367764862959616",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007367764862959616,
+    "text": "RT @AliquamScripto: “At least a homosexual didn’t score right?!” https://t.co/9t6hNSps4G",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/krowd9/status/1007281202238193664",
+      "display": "twitter.com/krowd9/status/…",
+      "url": "https://t.co/9t6hNSps4G"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529010165788",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/krowd9/status/…",
+          "indices": [
+            65,
+            88
+          ],
+          "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664",
+          "url": "https://t.co/9t6hNSps4G"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "AliquamScripto",
+          "id_str": "925436770866655232",
+          "name": "Scripto",
+          "id": 925436770866655232
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1007281202238193664",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 674,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003260907236089856/PrOYyiAV_normal.jpg",
+      "listed_count": 6,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5523,
+      "description": "if you went back and fixed all the mistakes you’ve made, you’d erase yourself",
+      "created_at": "Sun Apr 15 16:02:01 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "garryhood1872",
+      "id_str": "554446937",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 554446937,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003260907236089856/PrOYyiAV_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/554446937/1492621727",
+      "statuses_count": 8271,
+      "follow_request_sent": null,
+      "followers_count": 397,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "G",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

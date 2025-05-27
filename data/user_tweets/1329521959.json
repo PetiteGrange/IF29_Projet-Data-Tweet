@@ -1,0 +1,2325 @@
+[
+  {
+    "created_date": "2018-06-15 20:40:08",
+    "current_time": 1529088008429,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:08 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Mly2ITpxCI",
+              "indices": [
+                180,
+                203
+              ],
+              "sizes": {
+                "small": {
+                  "w": 516,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 602,
+                  "h": 793,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 602,
+                  "h": 793,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007692791940599808",
+              "expanded_url": "https://twitter.com/yeankhar/status/1007692806553505792/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwLQVpXUAAF0JA.jpg",
+              "id": 1007692791940599808,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwLQVpXUAAF0JA.jpg",
+              "url": "https://t.co/Mly2ITpxCI"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                129,
+                136
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                148,
+                161
+              ],
+              "text": "WcKweseIFlix"
+            },
+            {
+              "indices": [
+                162,
+                171
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                172,
+                179
+              ],
+              "text": "PORESP"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Mly2ITpxCI",
+              "indices": [
+                180,
+                203
+              ],
+              "sizes": {
+                "small": {
+                  "w": 516,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 602,
+                  "h": 793,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 602,
+                  "h": 793,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007692791940599808",
+              "expanded_url": "https://twitter.com/yeankhar/status/1007692806553505792/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwLQVpXUAAF0JA.jpg",
+              "id": 1007692791940599808,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwLQVpXUAAF0JA.jpg",
+              "url": "https://t.co/Mly2ITpxCI"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Are you in traffic or you don't have light? You have phone battery abi? Download iflix app from your mobile store and stream the #PORESP game live. #WcKweseIFlix #WorldCup #PORESP https://t.co/Mly2ITpxCI",
+        "display_text_range": [
+          0,
+          179
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:34:21 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 2,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007692806553505792",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007692806553505792,
+      "text": "Are you in traffic or you don't have light? You have phone battery abi? Download iflix app from your mobile store a… https://t.co/TbnFiMzVGP",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": true,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007692806553505792",
+            "url": "https://t.co/TbnFiMzVGP"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 3100,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006908604908175362/Vma1EVVz_normal.jpg",
+        "listed_count": 75,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 2557,
+        "description": "Son of a praying Mother || Non-Conformist.",
+        "created_at": "Thu Aug 19 09:43:23 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "protected": false,
+        "screen_name": "yeankhar",
+        "id_str": "180313672",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 180313672,
+        "geo_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "lang": "en",
+        "profile_sidebar_border_color": "333333",
+        "profile_text_color": "999999",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006908604908175362/Vma1EVVz_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180313672/1526647297",
+        "statuses_count": 349211,
+        "follow_request_sent": null,
+        "followers_count": 10114,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Pope Piano",
+        "location": "Lekki, Nigeria",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694259661819904",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694259661819904,
+    "text": "RT @yeankhar: Are you in traffic or you don't have light? You have phone battery abi? Download iflix app from your mobile store and stream…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088008214",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "yeankhar",
+          "id_str": "180313672",
+          "name": "Pope Piano",
+          "id": 180313672
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58060,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303434,
+      "follow_request_sent": null,
+      "followers_count": 86919,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:40:18",
+    "current_time": 1529088018996,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:18 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/UwXI4G0mVE",
+              "source_user_id": 844851511951683584,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "source_status_id": 1007687335805423616,
+              "url": "https://t.co/UwXI4G0mVE",
+              "indices": [
+                178,
+                201
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687296785768448",
+              "expanded_url": "https://twitter.com/theDamorela/status/1007687335805423616/photo/1",
+              "source_status_id_str": "1007687335805423616",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "id": 1007687296785768448,
+              "source_user_id_str": "844851511951683584"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "iflix.onelink.me/QRBE/8be97ddf",
+              "indices": [
+                130,
+                153
+              ],
+              "expanded_url": "https://iflix.onelink.me/QRBE/8be97ddf",
+              "url": "https://t.co/qLvUHg8KCN"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                76,
+                83
+              ],
+              "text": "PORSPA"
+            },
+            {
+              "indices": [
+                97,
+                106
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                155,
+                168
+              ],
+              "text": "WcKweseIFlix"
+            },
+            {
+              "indices": [
+                169,
+                176
+              ],
+              "text": "PORESP"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/UwXI4G0mVE",
+              "source_user_id": 844851511951683584,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "source_status_id": 1007687335805423616,
+              "url": "https://t.co/UwXI4G0mVE",
+              "indices": [
+                178,
+                201
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687296785768448",
+              "expanded_url": "https://twitter.com/theDamorela/status/1007687335805423616/photo/1",
+              "source_status_id_str": "1007687335805423616",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "id": 1007687296785768448,
+              "source_user_id_str": "844851511951683584"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "I am Watching This Portugal  Vs Spain Match On My Device\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nhttps://t.co/qLvUHg8KCN \n#WcKweseIFlix #PORESP  https://t.co/UwXI4G0mVE",
+        "display_text_range": [
+          0,
+          201
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:23:23 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007690046449778693",
+      "in_reply_to_user_id": null,
+      "favorite_count": 0,
+      "id": 1007690046449778693,
+      "text": "I am Watching This Portugal  Vs Spain Match On My Device\nYou too can stream #PORSPA match in the #WorldCup in Russi… https://t.co/qAKHqgYQq9",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007690046449778693",
+            "url": "https://t.co/qAKHqgYQq9"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              76,
+              83
+            ],
+            "text": "PORSPA"
+          },
+          {
+            "indices": [
+              97,
+              106
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 2990,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/527801066402750464/XTFZjQHN_normal.jpeg",
+        "listed_count": 10,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 347,
+        "description": null,
+        "created_at": "Thu Oct 30 12:28:07 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "itoo_FRESH",
+        "id_str": "2851275256",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 2851275256,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/527801066402750464/XTFZjQHN_normal.jpeg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 48758,
+        "follow_request_sent": null,
+        "followers_count": 5336,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "princess",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694303768875008",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694303768875008,
+    "text": "RT @itoo_FRESH: I am Watching This Portugal  Vs Spain Match On My Device\nYou too can stream #PORSPA match in the #WorldCup in Russia right…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088018730",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            92,
+            99
+          ],
+          "text": "PORSPA"
+        },
+        {
+          "indices": [
+            113,
+            122
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "itoo_FRESH",
+          "id_str": "2851275256",
+          "name": "princess",
+          "id": 2851275256
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58056,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303436,
+      "follow_request_sent": null,
+      "followers_count": 86920,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:40:27",
+    "current_time": 1529088027192,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:26 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/5gXWEtl6Lv",
+              "indices": [
+                204,
+                227
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687296785768448",
+              "expanded_url": "https://twitter.com/theDamorela/status/1007687335805423616/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "id": 1007687296785768448,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "url": "https://t.co/5gXWEtl6Lv"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "iflix.onelink.me/QRBE/8be97ddf",
+              "indices": [
+                166,
+                189
+              ],
+              "expanded_url": "https://iflix.onelink.me/QRBE/8be97ddf",
+              "url": "https://t.co/7YQpAs5kGs"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                66,
+                73
+              ],
+              "text": "PORSPA"
+            },
+            {
+              "indices": [
+                87,
+                96
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                190,
+                203
+              ],
+              "text": "WcKweseIFlix"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/5gXWEtl6Lv",
+              "indices": [
+                204,
+                227
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687296785768448",
+              "expanded_url": "https://twitter.com/theDamorela/status/1007687335805423616/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "id": 1007687296785768448,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGQemW4AAIErN.jpg",
+              "url": "https://t.co/5gXWEtl6Lv"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Ongoing, \nPortugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nClick on this link here to always stream live https://t.co/7YQpAs5kGs\n#WcKweseIFlix https://t.co/5gXWEtl6Lv",
+        "display_text_range": [
+          0,
+          203
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:12:37 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 2,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007687335805423616",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007687335805423616,
+      "text": "Ongoing, \nPortugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right no… https://t.co/DuDTj1H74r",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007687335805423616",
+            "url": "https://t.co/DuDTj1H74r"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              66,
+              73
+            ],
+            "text": "PORSPA"
+          },
+          {
+            "indices": [
+              87,
+              96
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 78686,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004700538838102016/jLiAnGZq_normal.jpg",
+        "listed_count": 72,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 76,
+        "description": "I'm immortal...\n|founding member #DMPN| | Pioneer #DisturbingIbadan |\nlet's grow your brand! 🙏\nwhatsapp/📲/☎/📞+2347039042942 or 💌thedamorelamedia@gmail.com",
+        "created_at": "Thu Mar 23 10:01:11 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "theDamorela",
+        "id_str": "844851511951683584",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 844851511951683584,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004700538838102016/jLiAnGZq_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.linkedin.com/in/damola-olasunkanmi-10660710a",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/844851511951683584/1528374244",
+        "statuses_count": 2411,
+        "follow_request_sent": null,
+        "followers_count": 75430,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Lord Disturbing",
+        "location": "we-war-wide ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694338304958467",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694338304958467,
+    "text": "RT @theDamorela: Ongoing, \nPortugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nCl…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088026964",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            83,
+            90
+          ],
+          "text": "PORSPA"
+        },
+        {
+          "indices": [
+            104,
+            113
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "theDamorela",
+          "id_str": "844851511951683584",
+          "name": "Lord Disturbing",
+          "id": 844851511951683584
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58060,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303438,
+      "follow_request_sent": null,
+      "followers_count": 86919,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:40:32",
+    "current_time": 1529088032373,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:32 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/bi7B1Xspck",
+              "indices": [
+                226,
+                249
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007681500874268673",
+              "expanded_url": "https://twitter.com/yeankhar/status/1007681532968960002/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwA_HJX4AE6qNR.jpg",
+              "id": 1007681500874268673,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwA_HJX4AE6qNR.jpg",
+              "url": "https://t.co/bi7B1Xspck"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                21,
+                25
+              ],
+              "text": "Por"
+            },
+            {
+              "indices": [
+                29,
+                33
+              ],
+              "text": "Esp"
+            },
+            {
+              "indices": [
+                34,
+                43
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                44,
+                51
+              ],
+              "text": "ESPPOR"
+            },
+            {
+              "indices": [
+                212,
+                225
+              ],
+              "text": "WcKweseIFlix"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/bi7B1Xspck",
+              "indices": [
+                226,
+                249
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007681500874268673",
+              "expanded_url": "https://twitter.com/yeankhar/status/1007681532968960002/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwA_HJX4AE6qNR.jpg",
+              "id": 1007681500874268673,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwA_HJX4AE6qNR.jpg",
+              "url": "https://t.co/bi7B1Xspck"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                111,
+                124
+              ],
+              "screen_name": "kweseiflixng",
+              "id_str": "762843326160646144",
+              "name": "kwese iflix Nigeria",
+              "id": 762843326160646144
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "It's almost time for #Por vs #Esp #WorldCup #ESPPOR game.. See you don't have to stress yourself, download the @kweseiflixng app and stream live.....I'm thinking of staying back home to watch it on my phone sef. #WcKweseIFlix https://t.co/bi7B1Xspck",
+        "display_text_range": [
+          0,
+          225
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 17:49:33 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 4,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007681532968960002",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2,
+      "id": 1007681532968960002,
+      "text": "It's almost time for #Por vs #Esp #WorldCup #ESPPOR game.. See you don't have to stress yourself, download the… https://t.co/vNHe8BXzwy",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": true,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007681532968960002",
+            "url": "https://t.co/vNHe8BXzwy"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              21,
+              25
+            ],
+            "text": "Por"
+          },
+          {
+            "indices": [
+              29,
+              33
+            ],
+            "text": "Esp"
+          },
+          {
+            "indices": [
+              34,
+              43
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              44,
+              51
+            ],
+            "text": "ESPPOR"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 3100,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006908604908175362/Vma1EVVz_normal.jpg",
+        "listed_count": 75,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 2557,
+        "description": "Son of a praying Mother || Non-Conformist.",
+        "created_at": "Thu Aug 19 09:43:23 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "protected": false,
+        "screen_name": "yeankhar",
+        "id_str": "180313672",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 180313672,
+        "geo_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "lang": "en",
+        "profile_sidebar_border_color": "333333",
+        "profile_text_color": "999999",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006908604908175362/Vma1EVVz_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180313672/1526647297",
+        "statuses_count": 349211,
+        "follow_request_sent": null,
+        "followers_count": 10114,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Pope Piano",
+        "location": "Lekki, Nigeria",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694359838552066",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694359838552066,
+    "text": "RT @yeankhar: It's almost time for #Por vs #Esp #WorldCup #ESPPOR game.. See you don't have to stress yourself, download the @kweseiflixng…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088032098",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            39
+          ],
+          "text": "Por"
+        },
+        {
+          "indices": [
+            43,
+            47
+          ],
+          "text": "Esp"
+        },
+        {
+          "indices": [
+            48,
+            57
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            58,
+            65
+          ],
+          "text": "ESPPOR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "yeankhar",
+          "id_str": "180313672",
+          "name": "Pope Piano",
+          "id": 180313672
+        },
+        {
+          "indices": [
+            125,
+            138
+          ],
+          "screen_name": "kweseiflixng",
+          "id_str": "762843326160646144",
+          "name": "kwese iflix Nigeria",
+          "id": 762843326160646144
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58060,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303440,
+      "follow_request_sent": null,
+      "followers_count": 86919,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:40:58",
+    "current_time": 1529088058294,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:58 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/vQVhuDRuJC",
+              "source_user_id": 297623424,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "source_status_id": 1007687893580746753,
+              "url": "https://t.co/vQVhuDRuJC",
+              "indices": [
+                228,
+                251
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687881270362113",
+              "expanded_url": "https://twitter.com/SisiLizzzy/status/1007687893580746753/photo/1",
+              "source_status_id_str": "1007687893580746753",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "id": 1007687881270362113,
+              "source_user_id_str": "297623424"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "iflix.onelink.me/QRBE/8be97ddf",
+              "indices": [
+                190,
+                213
+              ],
+              "expanded_url": "https://iflix.onelink.me/QRBE/8be97ddf",
+              "url": "https://t.co/fErAGqzbmJ"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                90,
+                97
+              ],
+              "text": "PORSPA"
+            },
+            {
+              "indices": [
+                111,
+                120
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                214,
+                227
+              ],
+              "text": "WcKweseIFlix"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/vQVhuDRuJC",
+              "source_user_id": 297623424,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "source_status_id": 1007687893580746753,
+              "url": "https://t.co/vQVhuDRuJC",
+              "indices": [
+                228,
+                251
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687881270362113",
+              "expanded_url": "https://twitter.com/SisiLizzzy/status/1007687893580746753/photo/1",
+              "source_status_id_str": "1007687893580746753",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "id": 1007687881270362113,
+              "source_user_id_str": "297623424"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Wow!!! Ronaldo is the GOAT!!!! 🙌\n\nPortugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nClick on this link here to always stream live https://t.co/fErAGqzbmJ\n#WcKweseIFlix https://t.co/vQVhuDRuJC",
+        "display_text_range": [
+          0,
+          251
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:33:41 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007692638366175232",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007692638366175232,
+      "text": "Wow!!! Ronaldo is the GOAT!!!! 🙌\n\nPortugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the… https://t.co/pqboW1T3iP",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 2,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007692638366175232",
+            "url": "https://t.co/pqboW1T3iP"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              90,
+              97
+            ],
+            "text": "PORSPA"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 49436,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980316349523222528/fXiajNgg_normal.jpg",
+        "listed_count": 210,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 428,
+        "description": "To know me, CHECK MY LIKES, If u Like my Likes, then its Likely we're Alike.\n| Media Publicist | DM ME FOR BUSINESS/ADS AT GOOD COST.           ☎📲 08106916991.",
+        "created_at": "Sun Mar 27 20:34:15 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "GreatGracious",
+        "id_str": "273095789",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 273095789,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980316349523222528/fXiajNgg_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.instagram.com/greatgracious",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273095789/1487964683",
+        "statuses_count": 10044,
+        "follow_request_sent": null,
+        "followers_count": 71679,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "GREAT GRACIOUS 🇺🇸",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694468722708480",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694468722708480,
+    "text": "RT @GreatGracious: Wow!!! Ronaldo is the GOAT!!!! 🙌\n\nPortugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088058058",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            109,
+            116
+          ],
+          "text": "PORSPA"
+        },
+        {
+          "indices": [
+            130,
+            139
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "GreatGracious",
+          "id_str": "273095789",
+          "name": "GREAT GRACIOUS 🇺🇸",
+          "id": 273095789
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58060,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303441,
+      "follow_request_sent": null,
+      "followers_count": 86919,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:41:17",
+    "current_time": 1529088077924,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:41:17 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/6zkDpQdL5T",
+              "indices": [
+                194,
+                217
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687881270362113",
+              "expanded_url": "https://twitter.com/SisiLizzzy/status/1007687893580746753/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "id": 1007687881270362113,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "url": "https://t.co/6zkDpQdL5T"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "iflix.onelink.me/QRBE/8be97ddf",
+              "indices": [
+                156,
+                179
+              ],
+              "expanded_url": "https://iflix.onelink.me/QRBE/8be97ddf",
+              "url": "https://t.co/GQz1aTYaiN"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                56,
+                63
+              ],
+              "text": "PORSPA"
+            },
+            {
+              "indices": [
+                77,
+                86
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                180,
+                193
+              ],
+              "text": "WcKweseIFlix"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/6zkDpQdL5T",
+              "indices": [
+                194,
+                217
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 902,
+                  "h": 508,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007687881270362113",
+              "expanded_url": "https://twitter.com/SisiLizzzy/status/1007687893580746753/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "id": 1007687881270362113,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwGyf-WAAEo4Iq.jpg",
+              "url": "https://t.co/6zkDpQdL5T"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Portugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nClick on this link here to always stream live https://t.co/GQz1aTYaiN\n#WcKweseIFlix https://t.co/6zkDpQdL5T",
+        "display_text_range": [
+          0,
+          193
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:14:50 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 2,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007687893580746753",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2,
+      "id": 1007687893580746753,
+      "text": "Portugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nClick… https://t.co/UVlZtmz0l4",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007687893580746753",
+            "url": "https://t.co/UVlZtmz0l4"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              56,
+              63
+            ],
+            "text": "PORSPA"
+          },
+          {
+            "indices": [
+              77,
+              86
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 9055,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007151330308378624/ZzudIK7d_normal.jpg",
+        "listed_count": 60,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 13362,
+        "description": "°  CEO SisiLizzyVlog, Digital Marketer, YouTuber ,TV Presenter, Video Editor,Graphic Designer,  YouTube:Sisilizzyvlogs Email: anuoluwapoogunseye@yahoo.com",
+        "created_at": "Thu May 12 20:33:44 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SisiLizzzy",
+        "id_str": "297623424",
+        "profile_link_color": "E81C4F",
+        "translator_type": "none",
+        "id": 297623424,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007151330308378624/ZzudIK7d_normal.jpg",
+        "time_zone": null,
+        "url": "https://youtu.be/V3o0MXVYnpg",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/297623424/1523378049",
+        "statuses_count": 29356,
+        "follow_request_sent": null,
+        "followers_count": 13949,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Anuoluwapo Oluwaseyi",
+        "location": "Lagos",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694550884847616",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694550884847616,
+    "text": "RT @SisiLizzzy: Portugal 1- 0 Spain ('5 Ronaldo)....\nYou too can stream #PORSPA match in the #WorldCup in Russia right now...\nClick on this…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088077647",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            72,
+            79
+          ],
+          "text": "PORSPA"
+        },
+        {
+          "indices": [
+            93,
+            102
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "SisiLizzzy",
+          "id_str": "297623424",
+          "name": "Anuoluwapo Oluwaseyi",
+          "id": 297623424
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58060,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303442,
+      "follow_request_sent": null,
+      "followers_count": 86919,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:41:48",
+    "current_time": 1529088108161,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:41:47 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ehlU3VXpzl",
+              "indices": [
+                154,
+                177
+              ],
+              "sizes": {
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1080,
+                  "h": 1440,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007647806604173312",
+              "expanded_url": "https://twitter.com/theDamorela/status/1007647824178241536/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfviV2NX4AApLP5.jpg",
+              "id": 1007647806604173312,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfviV2NX4AApLP5.jpg",
+              "url": "https://t.co/ehlU3VXpzl"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "iflix.onelink.me/QRBE/8be97ddf",
+              "indices": [
+                116,
+                139
+              ],
+              "expanded_url": "https://iflix.onelink.me/QRBE/8be97ddf",
+              "url": "https://t.co/7YQpAs5kGs"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                15,
+                22
+              ],
+              "text": "MARIRN"
+            },
+            {
+              "indices": [
+                37,
+                46
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                140,
+                153
+              ],
+              "text": "WcKweseIFlix"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ehlU3VXpzl",
+              "indices": [
+                154,
+                177
+              ],
+              "sizes": {
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1080,
+                  "h": 1440,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007647806604173312",
+              "expanded_url": "https://twitter.com/theDamorela/status/1007647824178241536/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfviV2NX4AApLP5.jpg",
+              "id": 1007647806604173312,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfviV2NX4AApLP5.jpg",
+              "url": "https://t.co/ehlU3VXpzl"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "You can stream #MARIRN match  in the #WorldCup in Russia right now...\nClick on this link here to always stream live https://t.co/7YQpAs5kGs\n#WcKweseIFlix https://t.co/ehlU3VXpzl",
+        "display_text_range": [
+          0,
+          153
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 15:35:37 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007647824178241536",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1007647824178241536,
+      "text": "You can stream #MARIRN match  in the #WorldCup in Russia right now...\nClick on this link here to always stream live… https://t.co/zMTKAK10i7",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007647824178241536",
+            "url": "https://t.co/zMTKAK10i7"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              15,
+              22
+            ],
+            "text": "MARIRN"
+          },
+          {
+            "indices": [
+              37,
+              46
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 78682,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004700538838102016/jLiAnGZq_normal.jpg",
+        "listed_count": 74,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 76,
+        "description": "I'm immortal...\n|founding member #DMPN| | Pioneer #DisturbingIbadan |\nlet's grow your brand! 🙏\nwhatsapp/📲/☎/📞+2347039042942 or 💌thedamorelamedia@gmail.com",
+        "created_at": "Thu Mar 23 10:01:11 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "theDamorela",
+        "id_str": "844851511951683584",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 844851511951683584,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004700538838102016/jLiAnGZq_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.linkedin.com/in/damola-olasunkanmi-10660710a",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/844851511951683584/1528374244",
+        "statuses_count": 2411,
+        "follow_request_sent": null,
+        "followers_count": 75425,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Lord Disturbing",
+        "location": "we-war-wide ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007694677871595522",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694677871595522,
+    "text": "RT @theDamorela: You can stream #MARIRN match  in the #WorldCup in Russia right now...\nClick on this link here to always stream live https:…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088107923",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            32,
+            39
+          ],
+          "text": "MARIRN"
+        },
+        {
+          "indices": [
+            54,
+            63
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "theDamorela",
+          "id_str": "844851511951683584",
+          "name": "Lord Disturbing",
+          "id": 844851511951683584
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 58060,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "listed_count": 133,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 429,
+      "description": "SOCIAL MEDIA GURU. I Trend & Hype Music,Event,Brand etc CONTACT via Whatsapp: 08186032586 BBM: 58EF42B9 EMAIL: Masterkonani@gmail.com | #Soulwinner #TheRichLife",
+      "created_at": "Fri Apr 05 15:55:02 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Itz_Konani",
+      "id_str": "1329521959",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1329521959,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963880315801522181/h8TH3imN_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.konani.net",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329521959/1496956952",
+      "statuses_count": 303446,
+      "follow_request_sent": null,
+      "followers_count": 86919,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "TREND KING!!!🔥",
+      "location": "Holy Ghost Gang ",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

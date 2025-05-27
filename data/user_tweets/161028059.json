@@ -1,3 +1,1494 @@
-{"created_date": "2018-06-14 18:26:32", "current_time": 1528993592239, "quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:18:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", "retweet_count": 96, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007281202238193664", "in_reply_to_user_id": null, "favorite_count": 209, "id": 1007281202238193664, "text": "Caption this\u2026 #WorldCup https://t.co/ys0Q212M83", "place": null, "lang": "en", "quote_count": 57, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 26, "entities": {"urls": [], "hashtags": [{"indices": [14, 23], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 23], "contributors": null, "user": {"utc_offset": null, "friends_count": 554, "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "listed_count": 101, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3016, "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd", "created_at": "Mon Nov 18 12:29:31 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Krowd9", "id_str": "2201228281", "profile_link_color": "1B95E0", "translator_type": "none", "id": 2201228281, "geo_enabled": true, "profile_background_color": "D9D9D9", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "time_zone": null, "url": "http://www.krowd9.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410", "statuses_count": 9271, "follow_request_sent": null, "followers_count": 14073, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Krowd9 | 2018 World Cup \ud83c\udfc6", "location": "London, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:26:31 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:18:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", "retweet_count": 96, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007281202238193664", "in_reply_to_user_id": null, "favorite_count": 209, "id": 1007281202238193664, "text": "Caption this\u2026 #WorldCup https://t.co/ys0Q212M83", "place": null, "lang": "en", "quote_count": 57, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 26, "entities": {"urls": [], "hashtags": [{"indices": [14, 23], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/ys0Q212M83", "indices": [24, 47], "sizes": {"small": {"w": 680, "h": 386, "resize": "fit"}, "large": {"w": 2048, "h": 1163, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 681, "resize": "fit"}}, "id_str": "1007281191056265218", "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "id": 1007281191056265218, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg", "url": "https://t.co/ys0Q212M83"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 23], "contributors": null, "user": {"utc_offset": null, "friends_count": 554, "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "listed_count": 101, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3016, "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd", "created_at": "Mon Nov 18 12:29:31 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Krowd9", "id_str": "2201228281", "profile_link_color": "1B95E0", "translator_type": "none", "id": 2201228281, "geo_enabled": true, "profile_background_color": "D9D9D9", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg", "time_zone": null, "url": "http://www.krowd9.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410", "statuses_count": 9271, "follow_request_sent": null, "followers_count": 14073, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Krowd9 | 2018 World Cup \ud83c\udfc6", "location": "London, England", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:21:39 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1007281202238193664, "retweet_count": 711, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007281922459004928", "in_reply_to_user_id": null, "favorite_count": 1186, "id": 1007281922459004928, "text": "\u201cAt least a homosexual didn\u2019t score right?!\u201d https://t.co/9t6hNSps4G", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/krowd9/status/1007281202238193664", "display": "twitter.com/krowd9/status/\u2026", "url": "https://t.co/9t6hNSps4G"}, "lang": "en", "quote_count": 16, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 7, "entities": {"urls": [{"display_url": "twitter.com/krowd9/status/\u2026", "indices": [45, 68], "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664", "url": "https://t.co/9t6hNSps4G"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 44], "quoted_status_id_str": "1007281202238193664", "contributors": null, "user": {"utc_offset": null, "friends_count": 373, "profile_image_url_https": "https://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg", "listed_count": 52, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 788, "description": "Don\u2019t chase woes, the woes chase me. Add a bit of sauce when my name gets mentioned", "created_at": "Tue Oct 31 18:58:14 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "AliquamScripto", "id_str": "925436770866655232", "profile_link_color": "981CEB", "translator_type": "none", "id": 925436770866655232, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg", "time_zone": null, "url": "http://aliquamscripto.wordpress.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/925436770866655232/1528535405", "statuses_count": 6941, "follow_request_sent": null, "followers_count": 2074, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Scripto", "location": "London, England", "profile_sidebar_fill_color": "000000", "notifications": null}}, "quoted_status_id": 1007281202238193664, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007298249185792000", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007298249185792000, "text": "RT @AliquamScripto: \u201cAt least a homosexual didn\u2019t score right?!\u201d https://t.co/9t6hNSps4G", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/krowd9/status/1007281202238193664", "display": "twitter.com/krowd9/status/\u2026", "url": "https://t.co/9t6hNSps4G"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528993591959", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/krowd9/status/\u2026", "indices": [65, 88], "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664", "url": "https://t.co/9t6hNSps4G"}], "hashtags": [], "user_mentions": [{"indices": [3, 18], "screen_name": "AliquamScripto", "id_str": "925436770866655232", "name": "Scripto", "id": 925436770866655232}], "symbols": []}, "quoted_status_id_str": "1007281202238193664", "contributors": null, "user": {"utc_offset": null, "friends_count": 534, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg", "listed_count": 77, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 27180, "description": "@Ihatekareem", "created_at": "Tue Jun 29 20:02:54 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "OldHondaCivic", "id_str": "161028059", "profile_link_color": "009999", "translator_type": "none", "id": 161028059, "geo_enabled": true, "profile_background_color": "131516", "lang": "en", "profile_sidebar_border_color": "EEEEEE", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/161028059/1528912221", "statuses_count": 54225, "follow_request_sent": null, "followers_count": 1286, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kareem", "location": "Dubai, United Arab Emirates", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}
-{"created_date": "2018-06-15 15:24:52", "current_time": 1529069092589, "extended_entities": {"media": [{"display_url": "pic.twitter.com/19SW3nqSJ0", "source_user_id": 1003051873, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "source_status_id": 1007604245707698177, "url": "https://t.co/19SW3nqSJ0", "indices": [107, 130], "sizes": {"small": {"w": 680, "h": 508, "resize": "fit"}, "large": {"w": 1001, "h": 748, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1001, "h": 748, "resize": "fit"}}, "id_str": "1007604241416876032", "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1", "source_status_id_str": "1007604245707698177", "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "id": 1007604241416876032, "source_user_id_str": "1003051873"}, {"display_url": "pic.twitter.com/19SW3nqSJ0", "source_user_id": 1003051873, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg", "source_status_id": 1007604245707698177, "url": "https://t.co/19SW3nqSJ0", "indices": [107, 130], "sizes": {"small": {"w": 480, "h": 360, "resize": "fit"}, "large": {"w": 480, "h": 360, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 360, "resize": "fit"}}, "id_str": "1007604241408483328", "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1", "source_status_id_str": "1007604245707698177", "media_url_https": "https://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg", "id": 1007604241408483328, "source_user_id_str": "1003051873"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:24:52 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/19SW3nqSJ0", "indices": [89, 112], "sizes": {"small": {"w": 680, "h": 508, "resize": "fit"}, "large": {"w": 1001, "h": 748, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1001, "h": 748, "resize": "fit"}}, "id_str": "1007604241416876032", "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "id": 1007604241416876032, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "url": "https://t.co/19SW3nqSJ0"}, {"display_url": "pic.twitter.com/19SW3nqSJ0", "indices": [89, 112], "sizes": {"small": {"w": 480, "h": 360, "resize": "fit"}, "large": {"w": 480, "h": 360, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 480, "h": 360, "resize": "fit"}}, "id_str": "1007604241408483328", "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg", "id": 1007604241408483328, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg", "url": "https://t.co/19SW3nqSJ0"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 12:42:27 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 429, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007604245707698177", "in_reply_to_user_id": null, "favorite_count": 560, "id": 1007604245707698177, "text": "The rest of Egypt holding off Uruguay til Mo Salah comes off the bench #WorldCup #EGYURU https://t.co/19SW3nqSJ0", "place": null, "lang": "en", "quote_count": 27, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 13, "entities": {"urls": [], "hashtags": [{"indices": [71, 80], "text": "WorldCup"}, {"indices": [81, 88], "text": "EGYURU"}], "media": [{"display_url": "pic.twitter.com/19SW3nqSJ0", "indices": [89, 112], "sizes": {"small": {"w": 680, "h": 508, "resize": "fit"}, "large": {"w": 1001, "h": 748, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1001, "h": 748, "resize": "fit"}}, "id_str": "1007604241416876032", "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "id": 1007604241416876032, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "url": "https://t.co/19SW3nqSJ0"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 88], "contributors": null, "user": {"utc_offset": null, "friends_count": 362, "profile_image_url_https": "https://pbs.twimg.com/profile_images/972996943709392897/hJvWIcbS_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", "default_profile_image": false, "favourites_count": 6395, "description": "Alpha Phi Alpha // Columbia University", "created_at": "Tue Dec 11 01:42:06 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", "protected": false, "screen_name": "ewomatherapy", "id_str": "1003051873", "profile_link_color": "990000", "translator_type": "none", "id": 1003051873, "geo_enabled": false, "profile_background_color": "EBEBEB", "lang": "en", "profile_sidebar_border_color": "DFDFDF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/972996943709392897/hJvWIcbS_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1003051873/1520815572", "statuses_count": 6735, "follow_request_sent": null, "followers_count": 631, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Great Value M'Baku \ud83c\uddf3\ud83c\uddec", "location": "Manhattan, NY", "profile_sidebar_fill_color": "F3F3F3", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007614920693813248", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007614920693813248, "text": "RT @ewomatherapy: The rest of Egypt holding off Uruguay til Mo Salah comes off the bench #WorldCup #EGYURU https://t.co/19SW3nqSJ0", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529069092330", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [89, 98], "text": "WorldCup"}, {"indices": [99, 106], "text": "EGYURU"}], "media": [{"display_url": "pic.twitter.com/19SW3nqSJ0", "source_user_id": 1003051873, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "source_status_id": 1007604245707698177, "url": "https://t.co/19SW3nqSJ0", "indices": [107, 130], "sizes": {"small": {"w": 680, "h": 508, "resize": "fit"}, "large": {"w": 1001, "h": 748, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1001, "h": 748, "resize": "fit"}}, "id_str": "1007604241416876032", "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1", "source_status_id_str": "1007604245707698177", "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg", "id": 1007604241416876032, "source_user_id_str": "1003051873"}], "user_mentions": [{"indices": [3, 16], "screen_name": "ewomatherapy", "id_str": "1003051873", "name": "Great Value M'Baku \ud83c\uddf3\ud83c\uddec", "id": 1003051873}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 537, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg", "listed_count": 77, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 27250, "description": "@Ihatekareem", "created_at": "Tue Jun 29 20:02:54 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "OldHondaCivic", "id_str": "161028059", "profile_link_color": "009999", "translator_type": "none", "id": 161028059, "geo_enabled": true, "profile_background_color": "131516", "lang": "en", "profile_sidebar_border_color": "EEEEEE", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/161028059/1528912221", "statuses_count": 54300, "follow_request_sent": null, "followers_count": 1289, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kareem", "location": "Dubai, United Arab Emirates", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}
-{"created_date": "2018-06-15 15:52:35", "current_time": 1529070755986, "quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/woaBiydVJM", "indices": [83, 106], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1200, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007394593065832449", "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "id": 1007394593065832449, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "url": "https://t.co/woaBiydVJM"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 22:49:23 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 3495, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007394598359130113", "in_reply_to_user_id": null, "favorite_count": 7216, "id": 1007394598359130113, "text": "Our top selling #WorldCup jerseys by \ud83c\uddfa\ud83c\uddf8 state. Which country is #1 where you live? https://t.co/woaBiydVJM", "place": null, "lang": "en", "quote_count": 1980, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 216, "entities": {"urls": [], "hashtags": [{"indices": [16, 25], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/woaBiydVJM", "indices": [83, 106], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1200, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007394593065832449", "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "id": 1007394593065832449, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "url": "https://t.co/woaBiydVJM"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 82], "contributors": null, "user": {"utc_offset": null, "friends_count": 593, "profile_image_url_https": "https://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg", "listed_count": 995, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 17897, "description": "Official account of http://SOCCER.COM \u26bd\ufe0f Use #soccerdotcom to share your game and gear with us.", "created_at": "Tue Jul 08 19:10:51 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "soccerdotcom", "id_str": "15356900", "profile_link_color": "002D62", "translator_type": "none", "id": 15356900, "geo_enabled": true, "profile_background_color": "ABB8C2", "lang": "en", "profile_sidebar_border_color": "EEEEEE", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg", "time_zone": null, "url": "http://SOCCER.COM", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/15356900/1527868937", "statuses_count": 48413, "follow_request_sent": null, "followers_count": 191639, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "SOCCER.COM", "location": "North Carolina, USA", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 13:52:35 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"quoted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/woaBiydVJM", "indices": [83, 106], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1200, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007394593065832449", "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "id": 1007394593065832449, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "url": "https://t.co/woaBiydVJM"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 22:49:23 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 3495, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007394598359130113", "in_reply_to_user_id": null, "favorite_count": 7216, "id": 1007394598359130113, "text": "Our top selling #WorldCup jerseys by \ud83c\uddfa\ud83c\uddf8 state. Which country is #1 where you live? https://t.co/woaBiydVJM", "place": null, "lang": "en", "quote_count": 1980, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 216, "entities": {"urls": [], "hashtags": [{"indices": [16, 25], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/woaBiydVJM", "indices": [83, 106], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 1200, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007394593065832449", "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "id": 1007394593065832449, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg", "url": "https://t.co/woaBiydVJM"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 82], "contributors": null, "user": {"utc_offset": null, "friends_count": 593, "profile_image_url_https": "https://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg", "listed_count": 995, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 17897, "description": "Official account of http://SOCCER.COM \u26bd\ufe0f Use #soccerdotcom to share your game and gear with us.", "created_at": "Tue Jul 08 19:10:51 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "soccerdotcom", "id_str": "15356900", "profile_link_color": "002D62", "translator_type": "none", "id": 15356900, "geo_enabled": true, "profile_background_color": "ABB8C2", "lang": "en", "profile_sidebar_border_color": "EEEEEE", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg", "time_zone": null, "url": "http://SOCCER.COM", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/15356900/1527868937", "statuses_count": 48413, "follow_request_sent": null, "followers_count": 191639, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "SOCCER.COM", "location": "North Carolina, USA", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 22:50:40 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1007394598359130113, "retweet_count": 49640, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007394921295241217", "in_reply_to_user_id": null, "favorite_count": 115366, "id": 1007394921295241217, "text": "a whole lotta Mexico Jerseys for a country who hates Mexico https://t.co/piXip0hs5R", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/soccerdotcom/status/1007394598359130113", "display": "twitter.com/soccerdotcom/s\u2026", "url": "https://t.co/piXip0hs5R"}, "lang": "en", "quote_count": 693, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 175, "entities": {"urls": [{"display_url": "twitter.com/soccerdotcom/s\u2026", "indices": [60, 83], "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113", "url": "https://t.co/piXip0hs5R"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 59], "quoted_status_id_str": "1007394598359130113", "contributors": null, "user": {"utc_offset": null, "friends_count": 942, "profile_image_url_https": "https://pbs.twimg.com/profile_images/968276368944283648/hZc8-QeN_normal.jpg", "listed_count": 3, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 7554, "description": "Real Madrid\ud83d\ude4f\ud83c\udffc", "created_at": "Wed Sep 21 02:37:19 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ChivaZ71", "id_str": "377137999", "profile_link_color": "0084B4", "translator_type": "none", "id": 377137999, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/968276368944283648/hZc8-QeN_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/377137999/1519690052", "statuses_count": 21832, "follow_request_sent": null, "followers_count": 734, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Chiva\ud83d\udc10", "location": "Madera, Ca", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "quoted_status_id": 1007394598359130113, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007621897553575937", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007621897553575937, "text": "RT @ChivaZ71: a whole lotta Mexico Jerseys for a country who hates Mexico https://t.co/piXip0hs5R", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/soccerdotcom/status/1007394598359130113", "display": "twitter.com/soccerdotcom/s\u2026", "url": "https://t.co/piXip0hs5R"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529070755743", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/soccerdotcom/s\u2026", "indices": [74, 97], "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113", "url": "https://t.co/piXip0hs5R"}], "hashtags": [], "user_mentions": [{"indices": [3, 12], "screen_name": "ChivaZ71", "id_str": "377137999", "name": "Chiva\ud83d\udc10", "id": 377137999}], "symbols": []}, "quoted_status_id_str": "1007394598359130113", "contributors": null, "user": {"utc_offset": null, "friends_count": 537, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg", "listed_count": 77, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "default_profile_image": false, "favourites_count": 27252, "description": "@Ihatekareem", "created_at": "Tue Jun 29 20:02:54 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "protected": false, "screen_name": "OldHondaCivic", "id_str": "161028059", "profile_link_color": "009999", "translator_type": "none", "id": 161028059, "geo_enabled": true, "profile_background_color": "131516", "lang": "en", "profile_sidebar_border_color": "EEEEEE", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/161028059/1528912221", "statuses_count": 54306, "follow_request_sent": null, "followers_count": 1289, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Kareem", "location": "Dubai, United Arab Emirates", "profile_sidebar_fill_color": "EFEFEF", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 18:26:32",
+    "current_time": 1528993592239,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ys0Q212M83",
+            "indices": [
+              24,
+              47
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 386,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1163,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 681,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007281191056265218",
+            "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "id": 1007281191056265218,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "url": "https://t.co/ys0Q212M83"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:18:47 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "retweet_count": 96,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007281202238193664",
+      "in_reply_to_user_id": null,
+      "favorite_count": 209,
+      "id": 1007281202238193664,
+      "text": "Caption this… #WorldCup https://t.co/ys0Q212M83",
+      "place": null,
+      "lang": "en",
+      "quote_count": 57,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 26,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              23
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ys0Q212M83",
+            "indices": [
+              24,
+              47
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 386,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1163,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 681,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007281191056265218",
+            "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "id": 1007281191056265218,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+            "url": "https://t.co/ys0Q212M83"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        23
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 554,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+        "listed_count": 101,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3016,
+        "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd",
+        "created_at": "Mon Nov 18 12:29:31 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Krowd9",
+        "id_str": "2201228281",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 2201228281,
+        "geo_enabled": true,
+        "profile_background_color": "D9D9D9",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.krowd9.com",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410",
+        "statuses_count": 9271,
+        "follow_request_sent": null,
+        "followers_count": 14073,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Krowd9 | 2018 World Cup 🏆",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 16:26:31 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ys0Q212M83",
+              "indices": [
+                24,
+                47
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 386,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1163,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 681,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007281191056265218",
+              "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "id": 1007281191056265218,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "url": "https://t.co/ys0Q212M83"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Thu Jun 14 15:18:47 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "retweet_count": 96,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1007281202238193664",
+        "in_reply_to_user_id": null,
+        "favorite_count": 209,
+        "id": 1007281202238193664,
+        "text": "Caption this… #WorldCup https://t.co/ys0Q212M83",
+        "place": null,
+        "lang": "en",
+        "quote_count": 57,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": false,
+        "reply_count": 26,
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                14,
+                23
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ys0Q212M83",
+              "indices": [
+                24,
+                47
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 386,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1163,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 681,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007281191056265218",
+              "expanded_url": "https://twitter.com/Krowd9/status/1007281202238193664/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "id": 1007281191056265218,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqU6A3XUAISBjv.jpg",
+              "url": "https://t.co/ys0Q212M83"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "display_text_range": [
+          0,
+          23
+        ],
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 554,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+          "listed_count": 101,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "default_profile_image": false,
+          "favourites_count": 3016,
+          "description": "Your Team. Your Scores. Your Rivals. Available now on App Store and Google Play: http://m.onelink.me/a45c29fd",
+          "created_at": "Mon Nov 18 12:29:31 +0000 2013",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "protected": false,
+          "screen_name": "Krowd9",
+          "id_str": "2201228281",
+          "profile_link_color": "1B95E0",
+          "translator_type": "none",
+          "id": 2201228281,
+          "geo_enabled": true,
+          "profile_background_color": "D9D9D9",
+          "lang": "en",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_text_color": "333333",
+          "verified": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/966635658763755520/TNTjLE-Z_normal.jpg",
+          "time_zone": null,
+          "url": "http://www.krowd9.com",
+          "contributors_enabled": false,
+          "profile_background_tile": true,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201228281/1519303410",
+          "statuses_count": 9271,
+          "follow_request_sent": null,
+          "followers_count": 14073,
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "following": null,
+          "name": "Krowd9 | 2018 World Cup 🏆",
+          "location": "London, England",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:21:39 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id": 1007281202238193664,
+      "retweet_count": 711,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1007281922459004928",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1186,
+      "id": 1007281922459004928,
+      "text": "“At least a homosexual didn’t score right?!” https://t.co/9t6hNSps4G",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/krowd9/status/1007281202238193664",
+        "display": "twitter.com/krowd9/status/…",
+        "url": "https://t.co/9t6hNSps4G"
+      },
+      "lang": "en",
+      "quote_count": 16,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 7,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/krowd9/status/…",
+            "indices": [
+              45,
+              68
+            ],
+            "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664",
+            "url": "https://t.co/9t6hNSps4G"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        44
+      ],
+      "quoted_status_id_str": "1007281202238193664",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 373,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg",
+        "listed_count": 52,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 788,
+        "description": "Don’t chase woes, the woes chase me. Add a bit of sauce when my name gets mentioned",
+        "created_at": "Tue Oct 31 18:58:14 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "AliquamScripto",
+        "id_str": "925436770866655232",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 925436770866655232,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976724524094943232/aIRBZ4NQ_normal.jpg",
+        "time_zone": null,
+        "url": "http://aliquamscripto.wordpress.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/925436770866655232/1528535405",
+        "statuses_count": 6941,
+        "follow_request_sent": null,
+        "followers_count": 2074,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Scripto",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1007281202238193664,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007298249185792000",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007298249185792000,
+    "text": "RT @AliquamScripto: “At least a homosexual didn’t score right?!” https://t.co/9t6hNSps4G",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/krowd9/status/1007281202238193664",
+      "display": "twitter.com/krowd9/status/…",
+      "url": "https://t.co/9t6hNSps4G"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528993591959",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/krowd9/status/…",
+          "indices": [
+            65,
+            88
+          ],
+          "expanded_url": "https://twitter.com/krowd9/status/1007281202238193664",
+          "url": "https://t.co/9t6hNSps4G"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "AliquamScripto",
+          "id_str": "925436770866655232",
+          "name": "Scripto",
+          "id": 925436770866655232
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1007281202238193664",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 534,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg",
+      "listed_count": 77,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 27180,
+      "description": "@Ihatekareem",
+      "created_at": "Tue Jun 29 20:02:54 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "OldHondaCivic",
+      "id_str": "161028059",
+      "profile_link_color": "009999",
+      "translator_type": "none",
+      "id": 161028059,
+      "geo_enabled": true,
+      "profile_background_color": "131516",
+      "lang": "en",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/161028059/1528912221",
+      "statuses_count": 54225,
+      "follow_request_sent": null,
+      "followers_count": 1286,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kareem",
+      "location": "Dubai, United Arab Emirates",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:24:52",
+    "current_time": 1529069092589,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/19SW3nqSJ0",
+          "source_user_id": 1003051873,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+          "source_status_id": 1007604245707698177,
+          "url": "https://t.co/19SW3nqSJ0",
+          "indices": [
+            107,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 508,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1001,
+              "h": 748,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1001,
+              "h": 748,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007604241416876032",
+          "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1",
+          "source_status_id_str": "1007604245707698177",
+          "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+          "id": 1007604241416876032,
+          "source_user_id_str": "1003051873"
+        },
+        {
+          "display_url": "pic.twitter.com/19SW3nqSJ0",
+          "source_user_id": 1003051873,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg",
+          "source_status_id": 1007604245707698177,
+          "url": "https://t.co/19SW3nqSJ0",
+          "indices": [
+            107,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007604241408483328",
+          "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1",
+          "source_status_id_str": "1007604245707698177",
+          "media_url_https": "https://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg",
+          "id": 1007604241408483328,
+          "source_user_id_str": "1003051873"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:24:52 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/19SW3nqSJ0",
+            "indices": [
+              89,
+              112
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1001,
+                "h": 748,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1001,
+                "h": 748,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007604241416876032",
+            "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+            "id": 1007604241416876032,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+            "url": "https://t.co/19SW3nqSJ0"
+          },
+          {
+            "display_url": "pic.twitter.com/19SW3nqSJ0",
+            "indices": [
+              89,
+              112
+            ],
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007604241408483328",
+            "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg",
+            "id": 1007604241408483328,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfu6uBNUYAAj0MZ.jpg",
+            "url": "https://t.co/19SW3nqSJ0"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 12:42:27 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 429,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007604245707698177",
+      "in_reply_to_user_id": null,
+      "favorite_count": 560,
+      "id": 1007604245707698177,
+      "text": "The rest of Egypt holding off Uruguay til Mo Salah comes off the bench #WorldCup #EGYURU https://t.co/19SW3nqSJ0",
+      "place": null,
+      "lang": "en",
+      "quote_count": 27,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 13,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              71,
+              80
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              81,
+              88
+            ],
+            "text": "EGYURU"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/19SW3nqSJ0",
+            "indices": [
+              89,
+              112
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1001,
+                "h": 748,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1001,
+                "h": 748,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007604241416876032",
+            "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+            "id": 1007604241416876032,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+            "url": "https://t.co/19SW3nqSJ0"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        88
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 362,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/972996943709392897/hJvWIcbS_normal.jpg",
+        "listed_count": 0,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 6395,
+        "description": "Alpha Phi Alpha // Columbia University",
+        "created_at": "Tue Dec 11 01:42:06 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "protected": false,
+        "screen_name": "ewomatherapy",
+        "id_str": "1003051873",
+        "profile_link_color": "990000",
+        "translator_type": "none",
+        "id": 1003051873,
+        "geo_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "lang": "en",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972996943709392897/hJvWIcbS_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1003051873/1520815572",
+        "statuses_count": 6735,
+        "follow_request_sent": null,
+        "followers_count": 631,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Great Value M'Baku 🇳🇬",
+        "location": "Manhattan, NY",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007614920693813248",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007614920693813248,
+    "text": "RT @ewomatherapy: The rest of Egypt holding off Uruguay til Mo Salah comes off the bench #WorldCup #EGYURU https://t.co/19SW3nqSJ0",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529069092330",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            89,
+            98
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            99,
+            106
+          ],
+          "text": "EGYURU"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/19SW3nqSJ0",
+          "source_user_id": 1003051873,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+          "source_status_id": 1007604245707698177,
+          "url": "https://t.co/19SW3nqSJ0",
+          "indices": [
+            107,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 508,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1001,
+              "h": 748,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1001,
+              "h": 748,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007604241416876032",
+          "expanded_url": "https://twitter.com/ewomatherapy/status/1007604245707698177/photo/1",
+          "source_status_id_str": "1007604245707698177",
+          "media_url_https": "https://pbs.twimg.com/media/Dfu6uBPUcAA5iAp.jpg",
+          "id": 1007604241416876032,
+          "source_user_id_str": "1003051873"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "ewomatherapy",
+          "id_str": "1003051873",
+          "name": "Great Value M'Baku 🇳🇬",
+          "id": 1003051873
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 537,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg",
+      "listed_count": 77,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 27250,
+      "description": "@Ihatekareem",
+      "created_at": "Tue Jun 29 20:02:54 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "OldHondaCivic",
+      "id_str": "161028059",
+      "profile_link_color": "009999",
+      "translator_type": "none",
+      "id": 161028059,
+      "geo_enabled": true,
+      "profile_background_color": "131516",
+      "lang": "en",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/161028059/1528912221",
+      "statuses_count": 54300,
+      "follow_request_sent": null,
+      "followers_count": 1289,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kareem",
+      "location": "Dubai, United Arab Emirates",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 15:52:35",
+    "current_time": 1529070755986,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/woaBiydVJM",
+            "indices": [
+              83,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007394593065832449",
+            "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+            "id": 1007394593065832449,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+            "url": "https://t.co/woaBiydVJM"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 22:49:23 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 3495,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007394598359130113",
+      "in_reply_to_user_id": null,
+      "favorite_count": 7216,
+      "id": 1007394598359130113,
+      "text": "Our top selling #WorldCup jerseys by 🇺🇸 state. Which country is #1 where you live? https://t.co/woaBiydVJM",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1980,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 216,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              25
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/woaBiydVJM",
+            "indices": [
+              83,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007394593065832449",
+            "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+            "id": 1007394593065832449,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+            "url": "https://t.co/woaBiydVJM"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        82
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 593,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg",
+        "listed_count": 995,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 17897,
+        "description": "Official account of http://SOCCER.COM ⚽️ Use #soccerdotcom to share your game and gear with us.",
+        "created_at": "Tue Jul 08 19:10:51 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "soccerdotcom",
+        "id_str": "15356900",
+        "profile_link_color": "002D62",
+        "translator_type": "none",
+        "id": 15356900,
+        "geo_enabled": true,
+        "profile_background_color": "ABB8C2",
+        "lang": "en",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg",
+        "time_zone": null,
+        "url": "http://SOCCER.COM",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15356900/1527868937",
+        "statuses_count": 48413,
+        "follow_request_sent": null,
+        "followers_count": 191639,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "SOCCER.COM",
+        "location": "North Carolina, USA",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 13:52:35 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/woaBiydVJM",
+              "indices": [
+                83,
+                106
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007394593065832449",
+              "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+              "id": 1007394593065832449,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+              "url": "https://t.co/woaBiydVJM"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Thu Jun 14 22:49:23 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "retweet_count": 3495,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1007394598359130113",
+        "in_reply_to_user_id": null,
+        "favorite_count": 7216,
+        "id": 1007394598359130113,
+        "text": "Our top selling #WorldCup jerseys by 🇺🇸 state. Which country is #1 where you live? https://t.co/woaBiydVJM",
+        "place": null,
+        "lang": "en",
+        "quote_count": 1980,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": false,
+        "reply_count": 216,
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                16,
+                25
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/woaBiydVJM",
+              "indices": [
+                83,
+                106
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007394593065832449",
+              "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+              "id": 1007394593065832449,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Dfr8C4RWkAEbeZ6.jpg",
+              "url": "https://t.co/woaBiydVJM"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "display_text_range": [
+          0,
+          82
+        ],
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 593,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg",
+          "listed_count": 995,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "default_profile_image": false,
+          "favourites_count": 17897,
+          "description": "Official account of http://SOCCER.COM ⚽️ Use #soccerdotcom to share your game and gear with us.",
+          "created_at": "Tue Jul 08 19:10:51 +0000 2008",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "protected": false,
+          "screen_name": "soccerdotcom",
+          "id_str": "15356900",
+          "profile_link_color": "002D62",
+          "translator_type": "none",
+          "id": 15356900,
+          "geo_enabled": true,
+          "profile_background_color": "ABB8C2",
+          "lang": "en",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_text_color": "333333",
+          "verified": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/884484967992102913/UrnkPEig_normal.jpg",
+          "time_zone": null,
+          "url": "http://SOCCER.COM",
+          "contributors_enabled": false,
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/15356900/1527868937",
+          "statuses_count": 48413,
+          "follow_request_sent": null,
+          "followers_count": 191639,
+          "profile_use_background_image": false,
+          "default_profile": false,
+          "following": null,
+          "name": "SOCCER.COM",
+          "location": "North Carolina, USA",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 22:50:40 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id": 1007394598359130113,
+      "retweet_count": 49640,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1007394921295241217",
+      "in_reply_to_user_id": null,
+      "favorite_count": 115366,
+      "id": 1007394921295241217,
+      "text": "a whole lotta Mexico Jerseys for a country who hates Mexico https://t.co/piXip0hs5R",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/soccerdotcom/status/1007394598359130113",
+        "display": "twitter.com/soccerdotcom/s…",
+        "url": "https://t.co/piXip0hs5R"
+      },
+      "lang": "en",
+      "quote_count": 693,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 175,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/soccerdotcom/s…",
+            "indices": [
+              60,
+              83
+            ],
+            "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113",
+            "url": "https://t.co/piXip0hs5R"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        59
+      ],
+      "quoted_status_id_str": "1007394598359130113",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 942,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/968276368944283648/hZc8-QeN_normal.jpg",
+        "listed_count": 3,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 7554,
+        "description": "Real Madrid🙏🏼",
+        "created_at": "Wed Sep 21 02:37:19 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "ChivaZ71",
+        "id_str": "377137999",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 377137999,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/968276368944283648/hZc8-QeN_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377137999/1519690052",
+        "statuses_count": 21832,
+        "follow_request_sent": null,
+        "followers_count": 734,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Chiva🐐",
+        "location": "Madera, Ca",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1007394598359130113,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007621897553575937",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007621897553575937,
+    "text": "RT @ChivaZ71: a whole lotta Mexico Jerseys for a country who hates Mexico https://t.co/piXip0hs5R",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/soccerdotcom/status/1007394598359130113",
+      "display": "twitter.com/soccerdotcom/s…",
+      "url": "https://t.co/piXip0hs5R"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529070755743",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/soccerdotcom/s…",
+          "indices": [
+            74,
+            97
+          ],
+          "expanded_url": "https://twitter.com/soccerdotcom/status/1007394598359130113",
+          "url": "https://t.co/piXip0hs5R"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "ChivaZ71",
+          "id_str": "377137999",
+          "name": "Chiva🐐",
+          "id": 377137999
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1007394598359130113",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 537,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg",
+      "listed_count": 77,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 27252,
+      "description": "@Ihatekareem",
+      "created_at": "Tue Jun 29 20:02:54 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "protected": false,
+      "screen_name": "OldHondaCivic",
+      "id_str": "161028059",
+      "profile_link_color": "009999",
+      "translator_type": "none",
+      "id": 161028059,
+      "geo_enabled": true,
+      "profile_background_color": "131516",
+      "lang": "en",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006980806546546693/cA70-WEQ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/161028059/1528912221",
+      "statuses_count": 54306,
+      "follow_request_sent": null,
+      "followers_count": 1289,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kareem",
+      "location": "Dubai, United Arab Emirates",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "notifications": null
+    }
+  }
+]

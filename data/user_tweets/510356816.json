@@ -1,0 +1,292 @@
+[
+  {
+    "created_date": "2018-06-14 05:44:16",
+    "current_time": 1528947856330,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 03:44:16 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/EdtxYzNpZm",
+              "indices": [
+                163,
+                186
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 371,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1117,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 655,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007033338014515200",
+              "expanded_url": "https://twitter.com/sportsdeskph/status/1007033358054912001/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfmzfEVUwAAdTg1.jpg",
+              "id": 1007033338014515200,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfmzfEVUwAAdTg1.jpg",
+              "url": "https://t.co/EdtxYzNpZm"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                27,
+                36
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/EdtxYzNpZm",
+              "indices": [
+                163,
+                186
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 371,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1117,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 655,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007033338014515200",
+              "expanded_url": "https://twitter.com/sportsdeskph/status/1007033358054912001/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfmzfEVUwAAdTg1.jpg",
+              "id": 1007033338014515200,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfmzfEVUwAAdTg1.jpg",
+              "url": "https://t.co/EdtxYzNpZm"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "After four years, the FIFA #WorldCup returns tonight!\n\n🇷🇺 🇸🇦 🇪🇬 🇺🇾 \n🇵🇹 🇪🇸 🇲🇦 🇮🇷 \n🇫🇷 🇦🇺 🇵🇪 🇩🇰 \n🇦🇷 🇮🇸 🇭🇷 🇳🇬 \n🇧🇷 🇨🇭 🇨🇷 🇷🇸 \n🇩🇪 🇲🇽 🇸🇪 🇰🇷 \n🇧🇪 🇵🇦 🇹🇳 🏴󠁧󠁢󠁥󠁮󠁧󠁿 \n🇵🇱 🇸🇳 🇨🇴 🇯🇵 https://t.co/EdtxYzNpZm",
+        "display_text_range": [
+          0,
+          162
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 22:53:56 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 120,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007033358054912001",
+      "in_reply_to_user_id": null,
+      "favorite_count": 237,
+      "id": 1007033358054912001,
+      "text": "After four years, the FIFA #WorldCup returns tonight!\n\n🇷🇺 🇸🇦 🇪🇬 🇺🇾 \n🇵🇹 🇪🇸 🇲🇦 🇮🇷 \n🇫🇷 🇦🇺 🇵🇪 🇩🇰 \n🇦🇷 🇮🇸 🇭🇷 🇳🇬 \n🇧🇷 🇨🇭 🇨🇷… https://t.co/L3hsOcO4gC",
+      "place": null,
+      "lang": "en",
+      "quote_count": 46,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 9,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007033358054912001",
+            "url": "https://t.co/L3hsOcO4gC"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              27,
+              36
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 271,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749856936695173120/aVVKRtKe_normal.jpg",
+        "listed_count": 118,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 925,
+        "description": "Your authority in all things sports. #CNNPHSportsDesk airs weekdays 11 a.m. and 10 p.m. on @cnnphilippines",
+        "created_at": "Fri Sep 28 05:37:36 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "sportsdeskph",
+        "id_str": "850515312",
+        "profile_link_color": "4366B5",
+        "translator_type": "none",
+        "id": 850515312,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749856936695173120/aVVKRtKe_normal.jpg",
+        "time_zone": null,
+        "url": "http://cnnphilippines.com/sports",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/850515312/1467628760",
+        "statuses_count": 50430,
+        "follow_request_sent": null,
+        "followers_count": 29114,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Sports Desk",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007106419127185410",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007106419127185410,
+    "text": "RT @sportsdeskph: After four years, the FIFA #WorldCup returns tonight!\n\n🇷🇺 🇸🇦 🇪🇬 🇺🇾 \n🇵🇹 🇪🇸 🇲🇦 🇮🇷 \n🇫🇷 🇦🇺 🇵🇪 🇩🇰 \n🇦🇷 🇮🇸 🇭🇷 🇳🇬 \n🇧🇷 🇨🇭 🇨🇷 🇷🇸…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528947856109",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "sportsdeskph",
+          "id_str": "850515312",
+          "name": "Sports Desk",
+          "id": 850515312
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 298,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981989250358022146/l5LeJjSA_normal.jpg",
+      "listed_count": 9,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1,
+      "description": "I'm just an extraordinary guy living lè life with my homies",
+      "created_at": "Thu Mar 01 14:54:38 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "tnmaunye",
+      "id_str": "510356816",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 510356816,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/981989250358022146/l5LeJjSA_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/510356816/1473709876",
+      "statuses_count": 12097,
+      "follow_request_sent": null,
+      "followers_count": 440,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Tshenollo_NM",
+      "location": "Hazyview, South Africa",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

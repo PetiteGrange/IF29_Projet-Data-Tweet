@@ -1,0 +1,382 @@
+[
+  {
+    "created_date": "2018-06-14 04:21:02",
+    "current_time": 1528942862383,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:21:01 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/LMwWNbcXXh",
+              "indices": [
+                161,
+                184
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007044901719216128",
+              "expanded_url": "https://twitter.com/jfa_samuraiblue/status/1007046865102262272/video/1",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007044901719216128/img/DfM_SYHzdsIl3TLI.jpg",
+              "id": 1007044901719216128,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007044901719216128/img/DfM_SYHzdsIl3TLI.jpg",
+              "url": "https://t.co/LMwWNbcXXh",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 151785,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 320000,
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/vid/320x180/94qOWdnq0dW2MOro.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/vid/640x360/8RJfKrtvBNS4fd5Z.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/vid/1280x720/MYEulwOm7g9STSLK.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/pl/5fUfeXdAJdG2WRqU.m3u8?tag=2"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                42,
+                54
+              ],
+              "text": "SAMURAIBLUE"
+            },
+            {
+              "indices": [
+                128,
+                137
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                138,
+                145
+              ],
+              "text": "daihyo"
+            },
+            {
+              "indices": [
+                146,
+                150
+              ],
+              "text": "JFA"
+            },
+            {
+              "indices": [
+                151,
+                160
+              ],
+              "text": "夢を力に2018"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/LMwWNbcXXh",
+              "indices": [
+                161,
+                184
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007044901719216128",
+              "expanded_url": "https://twitter.com/jfa_samuraiblue/status/1007046865102262272/video/1",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007044901719216128/img/DfM_SYHzdsIl3TLI.jpg",
+              "id": 1007044901719216128,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007044901719216128/img/DfM_SYHzdsIl3TLI.jpg",
+              "url": "https://t.co/LMwWNbcXXh",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 151785,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 320000,
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/vid/320x180/94qOWdnq0dW2MOro.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/vid/640x360/8RJfKrtvBNS4fd5Z.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/vid/1280x720/MYEulwOm7g9STSLK.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1007044901719216128/pl/5fUfeXdAJdG2WRqU.m3u8?tag=2"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "2018FIFAワールドカップロシアの開幕が翌日に迫った6月13日、日本代表チーム #SAMURAIBLUE は事前キャンプ地のオーストリアからロシアへ移動。ベースキャンプ地のカザンに入りました。日本のグループリーグ初戦は、19日、コロンビアと対戦します。#WorldCup #daihyo #JFA #夢を力に2018 https://t.co/LMwWNbcXXh",
+        "display_text_range": [
+          0,
+          160
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 23:47:37 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "retweet_count": 311,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007046865102262272",
+      "in_reply_to_user_id": null,
+      "favorite_count": 889,
+      "id": 1007046865102262272,
+      "text": "2018FIFAワールドカップロシアの開幕が翌日に迫った6月13日、日本代表チーム #SAMURAIBLUE は事前キャンプ地のオーストリアからロシアへ移動。ベースキャンプ地のカザンに入りました。日本のグループリーグ初戦は、19日… https://t.co/AiqiuuYhpR",
+      "place": null,
+      "lang": "ja",
+      "quote_count": 20,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 13,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007046865102262272",
+            "url": "https://t.co/AiqiuuYhpR"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              42,
+              54
+            ],
+            "text": "SAMURAIBLUE"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 20454,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925645188650770432/CZjNTzbM_normal.jpg",
+        "listed_count": 9099,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1,
+        "description": "SAMURAI BLUE|サッカー日本代表公式アカウント（公財）日本サッカー協会 #jfa #daihyo",
+        "created_at": "Mon Jan 25 10:55:53 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "jfa_samuraiblue",
+        "id_str": "108260481",
+        "profile_link_color": "0C1C4F",
+        "translator_type": "none",
+        "id": 108260481,
+        "geo_enabled": true,
+        "profile_background_color": "0C1C4F",
+        "lang": "ja",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925645188650770432/CZjNTzbM_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.jfa.jp/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108260481/1528449825",
+        "statuses_count": 40639,
+        "follow_request_sent": null,
+        "followers_count": 803395,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "サッカー日本代表",
+        "location": "日本",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007085472307240960",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007085472307240960,
+    "text": "RT @jfa_samuraiblue: 2018FIFAワールドカップロシアの開幕が翌日に迫った6月13日、日本代表チーム #SAMURAIBLUE は事前キャンプ地のオーストリアからロシアへ移動。ベースキャンプ地のカザンに入りました。日本のグループリーグ初戦は、19日、コロ…",
+    "place": null,
+    "lang": "ja",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528942861998",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            63,
+            75
+          ],
+          "text": "SAMURAIBLUE"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "jfa_samuraiblue",
+          "id_str": "108260481",
+          "name": "サッカー日本代表",
+          "id": 108260481
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 401,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/826060833578823680/Ev_BVBMt_normal.jpg",
+      "listed_count": 11,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1699,
+      "description": "◆東京都立川市/一級建築士・構造設計一級建築士・応急危険度判定士/上原ひろみ♪/12monkeys/高村薫 ◆建築のことを中心に時事気になることを呟いています。◇◇",
+      "created_at": "Sat Apr 14 04:12:35 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "kentaro_arch",
+      "id_str": "553233575",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 553233575,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "ja",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/826060833578823680/Ev_BVBMt_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/553233575/1376433703",
+      "statuses_count": 21991,
+      "follow_request_sent": null,
+      "followers_count": 377,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "KEN_ARCH",
+      "location": "東京都新宿区",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

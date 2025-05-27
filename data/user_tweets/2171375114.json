@@ -1,5 +1,2093 @@
-{"created_date": "2018-06-15 20:49:04", "current_time": 1529088544107, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 18:49:03 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/kxOhaK2ifG", "indices": [136, 159], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007686755666014210", "expanded_url": "https://twitter.com/BBCMOTD/status/1007686796824719360/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg", "id": 1007686755666014210, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg", "url": "https://t.co/kxOhaK2ifG"}]}, "entities": {"urls": [{"display_url": "bbc.in/2tacD08", "indices": [81, 104], "expanded_url": "http://bbc.in/2tacD08", "url": "https://t.co/Z8bB7HCC7t"}], "hashtags": [{"indices": [105, 114], "text": "WorldCup"}, {"indices": [115, 127], "text": "bbcworldcup"}, {"indices": [128, 135], "text": "PORESP"}], "media": [{"display_url": "pic.twitter.com/kxOhaK2ifG", "indices": [136, 159], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007686755666014210", "expanded_url": "https://twitter.com/BBCMOTD/status/1007686796824719360/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg", "id": 1007686755666014210, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg", "url": "https://t.co/kxOhaK2ifG"}], "user_mentions": [], "symbols": []}, "full_text": "Ronaldo's look at Nacho after winning a penalty off him...\n\nAbsolutely savage \ud83d\ude02\n\nhttps://t.co/Z8bB7HCC7t #WorldCup #bbcworldcup #PORESP https://t.co/kxOhaK2ifG", "display_text_range": [0, 135]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 18:10:28 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "retweet_count": 830, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007686796824719360", "in_reply_to_user_id": null, "favorite_count": 1933, "id": 1007686796824719360, "text": "Ronaldo's look at Nacho after winning a penalty off him...\n\nAbsolutely savage \ud83d\ude02\n\nhttps://t.co/Z8bB7HCC7t #WorldCup\u2026 https://t.co/iMij5gtKzi", "place": null, "lang": "en", "quote_count": 93, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 55, "entities": {"urls": [{"display_url": "bbc.in/2tacD08", "indices": [81, 104], "expanded_url": "http://bbc.in/2tacD08", "url": "https://t.co/Z8bB7HCC7t"}, {"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007686796824719360", "url": "https://t.co/iMij5gtKzi"}], "hashtags": [{"indices": [105, 114], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 105, "profile_image_url_https": "https://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg", "listed_count": 4927, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 155, "description": "@bbc football coverage on @BBCMOTD, @BBCSport and @bbc5live . Also follow @garylineker,@markchapman and @mrdanwalker.", "created_at": "Tue Oct 04 16:26:35 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "BBCMOTD", "id_str": "384951307", "profile_link_color": "0084B4", "translator_type": "none", "id": 384951307, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg", "time_zone": null, "url": "http://www.bbc.co.uk/football", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/384951307/1528721619", "statuses_count": 80238, "follow_request_sent": null, "followers_count": 2612384, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Match of the Day", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007696505946411008", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007696505946411008, "text": "RT @BBCMOTD: Ronaldo's look at Nacho after winning a penalty off him...\n\nAbsolutely savage \ud83d\ude02\n\nhttps://t.co/Z8bB7HCC7t #WorldCup #bbcworldcu\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529088543770", "reply_count": 0, "entities": {"urls": [{"display_url": "bbc.in/2tacD08", "indices": [94, 117], "expanded_url": "http://bbc.in/2tacD08", "url": "https://t.co/Z8bB7HCC7t"}], "hashtags": [{"indices": [118, 127], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 11], "screen_name": "BBCMOTD", "id_str": "384951307", "name": "Match of the Day", "id": 384951307}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 99, "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5025, "description": "Dallas,Texas\u270c\ud83c\udffc\ufe0f #UTD20", "created_at": "Sun Nov 03 03:05:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "madrid_jacky", "id_str": "2171375114", "profile_link_color": "9266CC", "translator_type": "none", "id": 2171375114, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194", "statuses_count": 11140, "follow_request_sent": null, "followers_count": 158, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Jacky Andrade", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-15 23:16:27", "current_time": 1529097387294, "quoted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/M8aEYVAibR", "indices": [131, 154], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007714898183360512", "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "id": 1007714898183360512, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "url": "https://t.co/M8aEYVAibR", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 110843, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [74, 84], "text": "Cristiano"}, {"indices": [108, 112], "text": "POR"}, {"indices": [113, 120], "text": "PORESP"}, {"indices": [121, 130], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/M8aEYVAibR", "indices": [131, 154], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007714898183360512", "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "id": 1007714898183360512, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "url": "https://t.co/M8aEYVAibR", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 110843, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"}]}}], "user_mentions": [], "symbols": []}, "full_text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR #PORESP #WorldCup https://t.co/M8aEYVAibR", "display_text_range": [0, 130]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 20:03:48 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 613, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007715316233920514", "in_reply_to_user_id": null, "favorite_count": 1245, "id": 1007715316233920514, "text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR\u2026 https://t.co/tXvsevhjVC", "place": null, "lang": "en", "quote_count": 116, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 23, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [114, 137], "expanded_url": "https://twitter.com/i/web/status/1007715316233920514", "url": "https://t.co/tXvsevhjVC"}], "hashtags": [{"indices": [74, 84], "text": "Cristiano"}, {"indices": [108, 112], "text": "POR"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 989, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg", "listed_count": 20, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 87, "description": "Indoor soccer player \u26bd\ufe0f || Career in Community & Economic Development || Soccer (f\u00fatbol) enthusiast", "created_at": "Sun May 20 05:40:50 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "GS7_89", "id_str": "585397450", "profile_link_color": "120707", "translator_type": "none", "id": 585397450, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "999999", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg", "time_zone": null, "url": "https://medium.com/@GS7_89", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/585397450/1528719996", "statuses_count": 25606, "follow_request_sent": null, "followers_count": 994, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "GS7", "location": "New York Area", "profile_sidebar_fill_color": "000000", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:16:27 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"quoted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/M8aEYVAibR", "indices": [131, 154], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007714898183360512", "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "id": 1007714898183360512, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "url": "https://t.co/M8aEYVAibR", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 110843, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [74, 84], "text": "Cristiano"}, {"indices": [108, 112], "text": "POR"}, {"indices": [113, 120], "text": "PORESP"}, {"indices": [121, 130], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/M8aEYVAibR", "indices": [131, 154], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007714898183360512", "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "id": 1007714898183360512, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg", "url": "https://t.co/M8aEYVAibR", "video_info": {"aspect_ratio": [16, 9], "duration_millis": 110843, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"}]}}], "user_mentions": [], "symbols": []}, "full_text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR #PORESP #WorldCup https://t.co/M8aEYVAibR", "display_text_range": [0, 130]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 20:03:48 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 613, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007715316233920514", "in_reply_to_user_id": null, "favorite_count": 1245, "id": 1007715316233920514, "text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR\u2026 https://t.co/tXvsevhjVC", "place": null, "lang": "en", "quote_count": 116, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 23, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [114, 137], "expanded_url": "https://twitter.com/i/web/status/1007715316233920514", "url": "https://t.co/tXvsevhjVC"}], "hashtags": [{"indices": [74, 84], "text": "Cristiano"}, {"indices": [108, 112], "text": "POR"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 989, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg", "listed_count": 20, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 87, "description": "Indoor soccer player \u26bd\ufe0f || Career in Community & Economic Development || Soccer (f\u00fatbol) enthusiast", "created_at": "Sun May 20 05:40:50 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "GS7_89", "id_str": "585397450", "profile_link_color": "120707", "translator_type": "none", "id": 585397450, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "999999", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg", "time_zone": null, "url": "https://medium.com/@GS7_89", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/585397450/1528719996", "statuses_count": 25606, "follow_request_sent": null, "followers_count": 994, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "GS7", "location": "New York Area", "profile_sidebar_fill_color": "000000", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:15:59 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1007715316233920514, "retweet_count": 1, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007733482729234432", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007733482729234432, "text": "Chills https://t.co/mKOyyyTkoU", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/gs7_89/status/1007715316233920514", "display": "twitter.com/gs7_89/status/\u2026", "url": "https://t.co/mKOyyyTkoU"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/gs7_89/status/\u2026", "indices": [7, 30], "expanded_url": "https://twitter.com/gs7_89/status/1007715316233920514", "url": "https://t.co/mKOyyyTkoU"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 6], "quoted_status_id_str": "1007715316233920514", "contributors": null, "user": {"utc_offset": null, "friends_count": 594, "profile_image_url_https": "https://pbs.twimg.com/profile_images/752636211102187521/Tap5rXHS_normal.jpg", "listed_count": 25, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 799, "description": "Learn More \ud83d\udcdd", "created_at": "Thu Oct 28 11:59:22 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Mr_goje", "id_str": "209038141", "profile_link_color": "0084B4", "translator_type": "none", "id": 209038141, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/752636211102187521/Tap5rXHS_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/209038141/1500811617", "statuses_count": 110288, "follow_request_sent": null, "followers_count": 4236, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Muhammad Goje\u2122", "location": "Theatre of Dreams", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "quoted_status_id": 1007715316233920514, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1007733597384708096", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007733597384708096, "text": "RT @Mr_goje: Chills https://t.co/mKOyyyTkoU", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/gs7_89/status/1007715316233920514", "display": "twitter.com/gs7_89/status/\u2026", "url": "https://t.co/mKOyyyTkoU"}, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529097387058", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/gs7_89/status/\u2026", "indices": [20, 43], "expanded_url": "https://twitter.com/gs7_89/status/1007715316233920514", "url": "https://t.co/mKOyyyTkoU"}], "hashtags": [], "user_mentions": [{"indices": [3, 11], "screen_name": "Mr_goje", "id_str": "209038141", "name": "Muhammad Goje\u2122", "id": 209038141}], "symbols": []}, "quoted_status_id_str": "1007715316233920514", "contributors": null, "user": {"utc_offset": null, "friends_count": 99, "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5026, "description": "Dallas,Texas\u270c\ud83c\udffc\ufe0f #UTD20", "created_at": "Sun Nov 03 03:05:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "madrid_jacky", "id_str": "2171375114", "profile_link_color": "9266CC", "translator_type": "none", "id": 2171375114, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194", "statuses_count": 11147, "follow_request_sent": null, "followers_count": 157, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Jacky Andrade", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-15 23:16:32", "current_time": 1529097392033, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:16:31 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:15:58 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 1, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007733479470194688", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007733479470194688, "text": "If Ronaldo keeps this up it'd be hard to argue that he's not the GOAT #WorldCup #POR", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [70, 79], "text": "WorldCup"}, {"indices": [80, 84], "text": "POR"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 98, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002318749079392256/E26Myqmj_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 4506, "description": "If you know you know.", "created_at": "Tue Mar 25 19:30:16 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "markweldon11", "id_str": "2436352643", "profile_link_color": "000088", "translator_type": "none", "id": 2436352643, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1002318749079392256/E26Myqmj_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2436352643/1527805771", "statuses_count": 2167, "follow_request_sent": null, "followers_count": 334, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\ud835\udde0\ud835\uddee\ud835\uddff\ud835\uddf8", "location": "Ireland", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007733617051750401", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007733617051750401, "text": "RT @markweldon11: If Ronaldo keeps this up it'd be hard to argue that he's not the GOAT #WorldCup #POR", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529097391747", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [88, 97], "text": "WorldCup"}, {"indices": [98, 102], "text": "POR"}], "user_mentions": [{"indices": [3, 16], "screen_name": "markweldon11", "id_str": "2436352643", "name": "\ud835\udde0\ud835\uddee\ud835\uddff\ud835\uddf8", "id": 2436352643}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 99, "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5026, "description": "Dallas,Texas\u270c\ud83c\udffc\ufe0f #UTD20", "created_at": "Sun Nov 03 03:05:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "madrid_jacky", "id_str": "2171375114", "profile_link_color": "9266CC", "translator_type": "none", "id": 2171375114, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194", "statuses_count": 11148, "follow_request_sent": null, "followers_count": 157, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Jacky Andrade", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-15 23:38:04", "current_time": 1529098684784, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:38:04 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/eNlAF5XuNx", "indices": [281, 304], "sizes": {"small": {"w": 320, "h": 180, "resize": "fit"}, "large": {"w": 320, "h": 180, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 320, "h": 180, "resize": "fit"}}, "id_str": "1007729772502265857", "expanded_url": "https://twitter.com/JagratiShukla29/status/1007729786427330561/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg", "id": 1007729772502265857, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg", "url": "https://t.co/eNlAF5XuNx", "video_info": {"aspect_ratio": [16, 9], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/Dfws44-VMAEWpuT.mp4"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [34, 43], "text": "Portugal"}, {"indices": [99, 109], "text": "Argentina"}, {"indices": [135, 142], "text": "PORESP"}, {"indices": [143, 152], "text": "worldcup"}, {"indices": [153, 172], "text": "WorldCupRussia2018"}, {"indices": [173, 186], "text": "WorldCup2018"}, {"indices": [187, 204], "text": "CristianoRonaldo"}, {"indices": [205, 221], "text": "PortugalVsSpain"}, {"indices": [222, 238], "text": "spainvsportugal"}, {"indices": [239, 247], "text": "ESPvPOR"}, {"indices": [248, 263], "text": "WorldCupRussia"}, {"indices": [264, 270], "text": "Spain"}, {"indices": [271, 275], "text": "ESP"}, {"indices": [276, 280], "text": "POR"}], "media": [{"display_url": "pic.twitter.com/eNlAF5XuNx", "indices": [281, 304], "sizes": {"small": {"w": 320, "h": 180, "resize": "fit"}, "large": {"w": 320, "h": 180, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 320, "h": 180, "resize": "fit"}}, "id_str": "1007729772502265857", "expanded_url": "https://twitter.com/JagratiShukla29/status/1007729786427330561/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg", "id": 1007729772502265857, "type": "animated_gif", "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg", "url": "https://t.co/eNlAF5XuNx", "video_info": {"aspect_ratio": [16, 9], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/Dfws44-VMAEWpuT.mp4"}]}}], "user_mentions": [], "symbols": []}, "full_text": "Fact: Cristiano Ronaldo does for \n#Portugal with average players what Lionel Messi fails to do for #Argentina with world class players\n#PORESP #worldcup #WorldCupRussia2018 #WorldCup2018\n#CristianoRonaldo #PortugalVsSpain #spainvsportugal #ESPvPOR #WorldCupRussia #Spain #ESP #POR https://t.co/eNlAF5XuNx", "display_text_range": [0, 280]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 21:01:18 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 129, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007729786427330561", "in_reply_to_user_id": null, "favorite_count": 352, "id": 1007729786427330561, "text": "Fact: Cristiano Ronaldo does for \n#Portugal with average players what Lionel Messi fails to do for #Argentina with\u2026 https://t.co/9i8ZnqLQm5", "place": null, "lang": "en", "quote_count": 10, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 37, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007729786427330561", "url": "https://t.co/9i8ZnqLQm5"}], "hashtags": [{"indices": [34, 43], "text": "Portugal"}, {"indices": [99, 109], "text": "Argentina"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 314, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002176191564935169/QJ6cLq45_normal.jpg", "listed_count": 220, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 9585, "description": "Nationalist|Journalist| #MUFC Fan|Atheist|Metalhead|Tweet=Personal Opinion|RT\u2260Endorsement|Insta/Snap/YouTube/Facebook:JagratiShukla29\nMail:shukla.jagi@gmail.com", "created_at": "Sat Jun 11 09:28:26 +0000 2016", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "JagratiShukla29", "id_str": "741562726288351232", "profile_link_color": "981CEB", "translator_type": "none", "id": 741562726288351232, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1002176191564935169/QJ6cLq45_normal.jpg", "time_zone": null, "url": "https://www.facebook.com/profile.php?id=100009702342160", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/741562726288351232/1521641649", "statuses_count": 15529, "follow_request_sent": null, "followers_count": 57245, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Jagrati Shukla", "location": "New Delhi, India", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007739039368302592", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007739039368302592, "text": "RT @JagratiShukla29: Fact: Cristiano Ronaldo does for \n#Portugal with average players what Lionel Messi fails to do for #Argentina with wor\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529098684528", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [55, 64], "text": "Portugal"}, {"indices": [120, 130], "text": "Argentina"}], "user_mentions": [{"indices": [3, 19], "screen_name": "JagratiShukla29", "id_str": "741562726288351232", "name": "Jagrati Shukla", "id": 741562726288351232}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 99, "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5026, "description": "Dallas,Texas\u270c\ud83c\udffc\ufe0f #UTD20", "created_at": "Sun Nov 03 03:05:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "madrid_jacky", "id_str": "2171375114", "profile_link_color": "9266CC", "translator_type": "none", "id": 2171375114, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194", "statuses_count": 11153, "follow_request_sent": null, "followers_count": 157, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Jacky Andrade", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-14 18:50:07", "current_time": 1528995007371, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:50:07 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/ygDDYZF8Yw", "indices": [153, 176], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007167003881345024", "expanded_url": "https://twitter.com/realmadriden/status/1007291585489448960/video/1", "media_url_https": "https://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg", "id": 1007167003881345024, "additional_media_info": {"description": "", "title": "", "embeddable": true, "monetizable": true}, "type": "video", "media_url": "http://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg", "url": "https://t.co/ygDDYZF8Yw", "video_info": {"aspect_ratio": [1, 1], "duration_millis": 185480, "variants": [{"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/720x720/yPYp872fIdegOP00.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 320000, "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/240x240/sSfkGpooLKcSsvjU.mp4?tag=2"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/amplify_video/1007167003881345024/pl/HYE73EO_Upv588NH.m3u8?tag=2"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/480x480/QryG23SkhhekBTDw.mp4?tag=2"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [19, 28], "text": "WorldCup"}, {"indices": [141, 152], "text": "HalaMadrid"}], "media": [{"display_url": "pic.twitter.com/ygDDYZF8Yw", "indices": [153, 176], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007167003881345024", "expanded_url": "https://twitter.com/realmadriden/status/1007291585489448960/video/1", "media_url_https": "https://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg", "id": 1007167003881345024, "additional_media_info": {"description": "", "title": "", "embeddable": true, "monetizable": true}, "type": "video", "media_url": "http://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg", "url": "https://t.co/ygDDYZF8Yw", "video_info": {"aspect_ratio": [1, 1], "duration_millis": 185480, "variants": [{"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/720x720/yPYp872fIdegOP00.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 320000, "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/240x240/sSfkGpooLKcSsvjU.mp4?tag=2"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/amplify_video/1007167003881345024/pl/HYE73EO_Upv588NH.m3u8?tag=2"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/480x480/QryG23SkhhekBTDw.mp4?tag=2"}]}}], "user_mentions": [{"indices": [114, 124], "screen_name": "Cristiano", "id_str": "155659213", "name": "Cristiano Ronaldo", "id": 155659213}], "symbols": []}, "full_text": "\ud83c\udf0d\ud83c\udfc6\u26bd\u00a0SIIIUUUUU! The #WorldCup kicks-off today! What better way to gear up for the tournament than enjoying some of @Cristiano's BEST moments! #HalaMadrid https://t.co/ygDDYZF8Yw", "display_text_range": [0, 152]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:00:03 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", "retweet_count": 592, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007291585489448960", "in_reply_to_user_id": null, "favorite_count": 2041, "id": 1007291585489448960, "text": "\ud83c\udf0d\ud83c\udfc6\u26bd\u00a0SIIIUUUUU! The #WorldCup kicks-off today! What better way to gear up for the tournament than enjoying some of\u2026 https://t.co/RvUzJvTkeA", "place": null, "lang": "en", "quote_count": 30, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 24, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [115, 138], "expanded_url": "https://twitter.com/i/web/status/1007291585489448960", "url": "https://t.co/RvUzJvTkeA"}], "hashtags": [{"indices": [19, 28], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 53, "profile_image_url_https": "https://pbs.twimg.com/profile_images/855074736082214913/Awtvx-ht_normal.jpg", "listed_count": 9331, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 113, "description": "\u26bd\ufe0f Official account of Real Madrid C.F. \ud83c\udfc6@realmadrid: \ud83c\uddea\ud83c\uddf8. @realmadridfra: \ud83c\uddeb\ud83c\uddf7. @realmadridarab: \u0627\u0644\u0639\u0631\u0628\u064a\u0647. @realmadridjapan: \ud83c\uddef\ud83c\uddf5.", "created_at": "Sun Jan 01 13:52:31 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "realmadriden", "id_str": "452155423", "profile_link_color": "0084B4", "translator_type": "regular", "id": 452155423, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en-gb", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/855074736082214913/Awtvx-ht_normal.jpg", "time_zone": null, "url": "http://realmadrid.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/452155423/1527372558", "statuses_count": 36575, "follow_request_sent": null, "followers_count": 9985308, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "#CHAMP13NS \ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7", "location": "Madrid, Spain", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007304184868335616", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007304184868335616, "text": "RT @realmadriden: \ud83c\udf0d\ud83c\udfc6\u26bd\u00a0SIIIUUUUU! The #WorldCup kicks-off today! What better way to gear up for the tournament than enjoying some of @Cristi\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528995007136", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [37, 46], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 16], "screen_name": "realmadriden", "id_str": "452155423", "name": "#CHAMP13NS \ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7", "id": 452155423}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 100, "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5023, "description": "Dallas,Texas\u270c\ud83c\udffc\ufe0f #UTD20", "created_at": "Sun Nov 03 03:05:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "madrid_jacky", "id_str": "2171375114", "profile_link_color": "9266CC", "translator_type": "none", "id": 2171375114, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194", "statuses_count": 11132, "follow_request_sent": null, "followers_count": 157, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Jacky Andrade", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-15 20:49:04",
+    "current_time": 1529088544107,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:49:03 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/kxOhaK2ifG",
+              "indices": [
+                136,
+                159
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007686755666014210",
+              "expanded_url": "https://twitter.com/BBCMOTD/status/1007686796824719360/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg",
+              "id": 1007686755666014210,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg",
+              "url": "https://t.co/kxOhaK2ifG"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bbc.in/2tacD08",
+              "indices": [
+                81,
+                104
+              ],
+              "expanded_url": "http://bbc.in/2tacD08",
+              "url": "https://t.co/Z8bB7HCC7t"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                105,
+                114
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                115,
+                127
+              ],
+              "text": "bbcworldcup"
+            },
+            {
+              "indices": [
+                128,
+                135
+              ],
+              "text": "PORESP"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/kxOhaK2ifG",
+              "indices": [
+                136,
+                159
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007686755666014210",
+              "expanded_url": "https://twitter.com/BBCMOTD/status/1007686796824719360/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg",
+              "id": 1007686755666014210,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfwFw-xWsAI6efV.jpg",
+              "url": "https://t.co/kxOhaK2ifG"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Ronaldo's look at Nacho after winning a penalty off him...\n\nAbsolutely savage 😂\n\nhttps://t.co/Z8bB7HCC7t #WorldCup #bbcworldcup #PORESP https://t.co/kxOhaK2ifG",
+        "display_text_range": [
+          0,
+          135
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:10:28 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 830,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007686796824719360",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1933,
+      "id": 1007686796824719360,
+      "text": "Ronaldo's look at Nacho after winning a penalty off him...\n\nAbsolutely savage 😂\n\nhttps://t.co/Z8bB7HCC7t #WorldCup… https://t.co/iMij5gtKzi",
+      "place": null,
+      "lang": "en",
+      "quote_count": 93,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 55,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "bbc.in/2tacD08",
+            "indices": [
+              81,
+              104
+            ],
+            "expanded_url": "http://bbc.in/2tacD08",
+            "url": "https://t.co/Z8bB7HCC7t"
+          },
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007686796824719360",
+            "url": "https://t.co/iMij5gtKzi"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              105,
+              114
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 105,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg",
+        "listed_count": 4927,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 155,
+        "description": "@bbc football coverage on @BBCMOTD, @BBCSport and @bbc5live . Also follow @garylineker,@markchapman and @mrdanwalker.",
+        "created_at": "Tue Oct 04 16:26:35 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "BBCMOTD",
+        "id_str": "384951307",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 384951307,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/906134526040133632/9_pG6iai_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.bbc.co.uk/football",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/384951307/1528721619",
+        "statuses_count": 80238,
+        "follow_request_sent": null,
+        "followers_count": 2612384,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Match of the Day",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007696505946411008",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007696505946411008,
+    "text": "RT @BBCMOTD: Ronaldo's look at Nacho after winning a penalty off him...\n\nAbsolutely savage 😂\n\nhttps://t.co/Z8bB7HCC7t #WorldCup #bbcworldcu…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088543770",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bbc.in/2tacD08",
+          "indices": [
+            94,
+            117
+          ],
+          "expanded_url": "http://bbc.in/2tacD08",
+          "url": "https://t.co/Z8bB7HCC7t"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            118,
+            127
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "BBCMOTD",
+          "id_str": "384951307",
+          "name": "Match of the Day",
+          "id": 384951307
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 99,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5025,
+      "description": "Dallas,Texas✌🏼️ #UTD20",
+      "created_at": "Sun Nov 03 03:05:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "madrid_jacky",
+      "id_str": "2171375114",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2171375114,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194",
+      "statuses_count": 11140,
+      "follow_request_sent": null,
+      "followers_count": 158,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Jacky Andrade",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 23:16:27",
+    "current_time": 1529097387294,
+    "quoted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/M8aEYVAibR",
+              "indices": [
+                131,
+                154
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007714898183360512",
+              "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+              "id": 1007714898183360512,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+              "url": "https://t.co/M8aEYVAibR",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 110843,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                74,
+                84
+              ],
+              "text": "Cristiano"
+            },
+            {
+              "indices": [
+                108,
+                112
+              ],
+              "text": "POR"
+            },
+            {
+              "indices": [
+                113,
+                120
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                121,
+                130
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/M8aEYVAibR",
+              "indices": [
+                131,
+                154
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007714898183360512",
+              "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+              "id": 1007714898183360512,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+              "url": "https://t.co/M8aEYVAibR",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 110843,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 2176000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR #PORESP #WorldCup https://t.co/M8aEYVAibR",
+        "display_text_range": [
+          0,
+          130
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 20:03:48 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 613,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007715316233920514",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1245,
+      "id": 1007715316233920514,
+      "text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR… https://t.co/tXvsevhjVC",
+      "place": null,
+      "lang": "en",
+      "quote_count": 116,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 23,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007715316233920514",
+            "url": "https://t.co/tXvsevhjVC"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              74,
+              84
+            ],
+            "text": "Cristiano"
+          },
+          {
+            "indices": [
+              108,
+              112
+            ],
+            "text": "POR"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 989,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg",
+        "listed_count": 20,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 87,
+        "description": "Indoor soccer player ⚽️ || Career in Community & Economic Development || Soccer (fútbol) enthusiast",
+        "created_at": "Sun May 20 05:40:50 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "GS7_89",
+        "id_str": "585397450",
+        "profile_link_color": "120707",
+        "translator_type": "none",
+        "id": 585397450,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "999999",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg",
+        "time_zone": null,
+        "url": "https://medium.com/@GS7_89",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585397450/1528719996",
+        "statuses_count": 25606,
+        "follow_request_sent": null,
+        "followers_count": 994,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "GS7",
+        "location": "New York Area",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 21:16:27 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "extended_tweet": {
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/M8aEYVAibR",
+                "indices": [
+                  131,
+                  154
+                ],
+                "sizes": {
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  }
+                },
+                "id_str": "1007714898183360512",
+                "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+                "id": 1007714898183360512,
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "type": "video",
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+                "url": "https://t.co/M8aEYVAibR",
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 110843,
+                  "variants": [
+                    {
+                      "content_type": "video/mp4",
+                      "bitrate": 832000,
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"
+                    },
+                    {
+                      "content_type": "video/mp4",
+                      "bitrate": 256000,
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"
+                    },
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"
+                    },
+                    {
+                      "content_type": "video/mp4",
+                      "bitrate": 2176000,
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "entities": {
+            "urls": [],
+            "hashtags": [
+              {
+                "indices": [
+                  74,
+                  84
+                ],
+                "text": "Cristiano"
+              },
+              {
+                "indices": [
+                  108,
+                  112
+                ],
+                "text": "POR"
+              },
+              {
+                "indices": [
+                  113,
+                  120
+                ],
+                "text": "PORESP"
+              },
+              {
+                "indices": [
+                  121,
+                  130
+                ],
+                "text": "WorldCup"
+              }
+            ],
+            "media": [
+              {
+                "display_url": "pic.twitter.com/M8aEYVAibR",
+                "indices": [
+                  131,
+                  154
+                ],
+                "sizes": {
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  }
+                },
+                "id_str": "1007714898183360512",
+                "expanded_url": "https://twitter.com/GS7_89/status/1007715316233920514/video/1",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+                "id": 1007714898183360512,
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "type": "video",
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007714898183360512/pu/img/T88vK96lTTXVYRlR.jpg",
+                "url": "https://t.co/M8aEYVAibR",
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 110843,
+                  "variants": [
+                    {
+                      "content_type": "video/mp4",
+                      "bitrate": 832000,
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/640x360/Kl-GSe_OM3OiVQIa.mp4?tag=3"
+                    },
+                    {
+                      "content_type": "video/mp4",
+                      "bitrate": 256000,
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/320x180/uJeKDtQLS-vXgCK3.mp4?tag=3"
+                    },
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/pl/BmWxUuhdlvtQdn4T.m3u8?tag=3"
+                    },
+                    {
+                      "content_type": "video/mp4",
+                      "bitrate": 2176000,
+                      "url": "https://video.twimg.com/ext_tw_video/1007714898183360512/pu/vid/1280x720/9SaoM2E-Z8Tdhxht.mp4?tag=3"
+                    }
+                  ]
+                }
+              }
+            ],
+            "user_mentions": [],
+            "symbols": []
+          },
+          "full_text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR #PORESP #WorldCup https://t.co/M8aEYVAibR",
+          "display_text_range": [
+            0,
+            130
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Fri Jun 15 20:03:48 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "retweet_count": 613,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1007715316233920514",
+        "in_reply_to_user_id": null,
+        "favorite_count": 1245,
+        "id": 1007715316233920514,
+        "text": "Seriously... From the face expression to preparation &amp; to the goal by #Cristiano, he is simply amazing! #POR… https://t.co/tXvsevhjVC",
+        "place": null,
+        "lang": "en",
+        "quote_count": 116,
+        "favorited": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "truncated": true,
+        "reply_count": 23,
+        "entities": {
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                114,
+                137
+              ],
+              "expanded_url": "https://twitter.com/i/web/status/1007715316233920514",
+              "url": "https://t.co/tXvsevhjVC"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                74,
+                84
+              ],
+              "text": "Cristiano"
+            },
+            {
+              "indices": [
+                108,
+                112
+              ],
+              "text": "POR"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "display_text_range": [
+          0,
+          140
+        ],
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 989,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg",
+          "listed_count": 20,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "default_profile_image": false,
+          "favourites_count": 87,
+          "description": "Indoor soccer player ⚽️ || Career in Community & Economic Development || Soccer (fútbol) enthusiast",
+          "created_at": "Sun May 20 05:40:50 +0000 2012",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "protected": false,
+          "screen_name": "GS7_89",
+          "id_str": "585397450",
+          "profile_link_color": "120707",
+          "translator_type": "none",
+          "id": 585397450,
+          "geo_enabled": true,
+          "profile_background_color": "000000",
+          "lang": "en",
+          "profile_sidebar_border_color": "000000",
+          "profile_text_color": "999999",
+          "verified": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1006152029872549888/pu59md10_normal.jpg",
+          "time_zone": null,
+          "url": "https://medium.com/@GS7_89",
+          "contributors_enabled": false,
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/585397450/1528719996",
+          "statuses_count": 25606,
+          "follow_request_sent": null,
+          "followers_count": 994,
+          "profile_use_background_image": false,
+          "default_profile": false,
+          "following": null,
+          "name": "GS7",
+          "location": "New York Area",
+          "profile_sidebar_fill_color": "000000",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 21:15:59 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id": 1007715316233920514,
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1007733482729234432",
+      "in_reply_to_user_id": null,
+      "favorite_count": 0,
+      "id": 1007733482729234432,
+      "text": "Chills https://t.co/mKOyyyTkoU",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/gs7_89/status/1007715316233920514",
+        "display": "twitter.com/gs7_89/status/…",
+        "url": "https://t.co/mKOyyyTkoU"
+      },
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/gs7_89/status/…",
+            "indices": [
+              7,
+              30
+            ],
+            "expanded_url": "https://twitter.com/gs7_89/status/1007715316233920514",
+            "url": "https://t.co/mKOyyyTkoU"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        6
+      ],
+      "quoted_status_id_str": "1007715316233920514",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 594,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/752636211102187521/Tap5rXHS_normal.jpg",
+        "listed_count": 25,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 799,
+        "description": "Learn More 📝",
+        "created_at": "Thu Oct 28 11:59:22 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Mr_goje",
+        "id_str": "209038141",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 209038141,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/752636211102187521/Tap5rXHS_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209038141/1500811617",
+        "statuses_count": 110288,
+        "follow_request_sent": null,
+        "followers_count": 4236,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Muhammad Goje™",
+        "location": "Theatre of Dreams",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1007715316233920514,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007733597384708096",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007733597384708096,
+    "text": "RT @Mr_goje: Chills https://t.co/mKOyyyTkoU",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/gs7_89/status/1007715316233920514",
+      "display": "twitter.com/gs7_89/status/…",
+      "url": "https://t.co/mKOyyyTkoU"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529097387058",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/gs7_89/status/…",
+          "indices": [
+            20,
+            43
+          ],
+          "expanded_url": "https://twitter.com/gs7_89/status/1007715316233920514",
+          "url": "https://t.co/mKOyyyTkoU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "Mr_goje",
+          "id_str": "209038141",
+          "name": "Muhammad Goje™",
+          "id": 209038141
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1007715316233920514",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 99,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5026,
+      "description": "Dallas,Texas✌🏼️ #UTD20",
+      "created_at": "Sun Nov 03 03:05:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "madrid_jacky",
+      "id_str": "2171375114",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2171375114,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194",
+      "statuses_count": 11147,
+      "follow_request_sent": null,
+      "followers_count": 157,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Jacky Andrade",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 23:16:32",
+    "current_time": 1529097392033,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 21:16:31 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 21:15:58 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007733479470194688",
+      "in_reply_to_user_id": null,
+      "favorite_count": 0,
+      "id": 1007733479470194688,
+      "text": "If Ronaldo keeps this up it'd be hard to argue that he's not the GOAT #WorldCup #POR",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              70,
+              79
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              80,
+              84
+            ],
+            "text": "POR"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 98,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002318749079392256/E26Myqmj_normal.jpg",
+        "listed_count": 1,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 4506,
+        "description": "If you know you know.",
+        "created_at": "Tue Mar 25 19:30:16 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "markweldon11",
+        "id_str": "2436352643",
+        "profile_link_color": "000088",
+        "translator_type": "none",
+        "id": 2436352643,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002318749079392256/E26Myqmj_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2436352643/1527805771",
+        "statuses_count": 2167,
+        "follow_request_sent": null,
+        "followers_count": 334,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "𝗠𝗮𝗿𝗸",
+        "location": "Ireland",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007733617051750401",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007733617051750401,
+    "text": "RT @markweldon11: If Ronaldo keeps this up it'd be hard to argue that he's not the GOAT #WorldCup #POR",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529097391747",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            88,
+            97
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            98,
+            102
+          ],
+          "text": "POR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "markweldon11",
+          "id_str": "2436352643",
+          "name": "𝗠𝗮𝗿𝗸",
+          "id": 2436352643
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 99,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5026,
+      "description": "Dallas,Texas✌🏼️ #UTD20",
+      "created_at": "Sun Nov 03 03:05:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "madrid_jacky",
+      "id_str": "2171375114",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2171375114,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194",
+      "statuses_count": 11148,
+      "follow_request_sent": null,
+      "followers_count": 157,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Jacky Andrade",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 23:38:04",
+    "current_time": 1529098684784,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 21:38:04 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/eNlAF5XuNx",
+              "indices": [
+                281,
+                304
+              ],
+              "sizes": {
+                "small": {
+                  "w": 320,
+                  "h": 180,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 320,
+                  "h": 180,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 320,
+                  "h": 180,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007729772502265857",
+              "expanded_url": "https://twitter.com/JagratiShukla29/status/1007729786427330561/photo/1",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg",
+              "id": 1007729772502265857,
+              "type": "animated_gif",
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg",
+              "url": "https://t.co/eNlAF5XuNx",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 0,
+                    "url": "https://video.twimg.com/tweet_video/Dfws44-VMAEWpuT.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                34,
+                43
+              ],
+              "text": "Portugal"
+            },
+            {
+              "indices": [
+                99,
+                109
+              ],
+              "text": "Argentina"
+            },
+            {
+              "indices": [
+                135,
+                142
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                143,
+                152
+              ],
+              "text": "worldcup"
+            },
+            {
+              "indices": [
+                153,
+                172
+              ],
+              "text": "WorldCupRussia2018"
+            },
+            {
+              "indices": [
+                173,
+                186
+              ],
+              "text": "WorldCup2018"
+            },
+            {
+              "indices": [
+                187,
+                204
+              ],
+              "text": "CristianoRonaldo"
+            },
+            {
+              "indices": [
+                205,
+                221
+              ],
+              "text": "PortugalVsSpain"
+            },
+            {
+              "indices": [
+                222,
+                238
+              ],
+              "text": "spainvsportugal"
+            },
+            {
+              "indices": [
+                239,
+                247
+              ],
+              "text": "ESPvPOR"
+            },
+            {
+              "indices": [
+                248,
+                263
+              ],
+              "text": "WorldCupRussia"
+            },
+            {
+              "indices": [
+                264,
+                270
+              ],
+              "text": "Spain"
+            },
+            {
+              "indices": [
+                271,
+                275
+              ],
+              "text": "ESP"
+            },
+            {
+              "indices": [
+                276,
+                280
+              ],
+              "text": "POR"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/eNlAF5XuNx",
+              "indices": [
+                281,
+                304
+              ],
+              "sizes": {
+                "small": {
+                  "w": 320,
+                  "h": 180,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 320,
+                  "h": 180,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 320,
+                  "h": 180,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007729772502265857",
+              "expanded_url": "https://twitter.com/JagratiShukla29/status/1007729786427330561/photo/1",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg",
+              "id": 1007729772502265857,
+              "type": "animated_gif",
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dfws44-VMAEWpuT.jpg",
+              "url": "https://t.co/eNlAF5XuNx",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 0,
+                    "url": "https://video.twimg.com/tweet_video/Dfws44-VMAEWpuT.mp4"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Fact: Cristiano Ronaldo does for \n#Portugal with average players what Lionel Messi fails to do for #Argentina with world class players\n#PORESP #worldcup #WorldCupRussia2018 #WorldCup2018\n#CristianoRonaldo #PortugalVsSpain #spainvsportugal #ESPvPOR #WorldCupRussia #Spain #ESP #POR https://t.co/eNlAF5XuNx",
+        "display_text_range": [
+          0,
+          280
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 21:01:18 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 129,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007729786427330561",
+      "in_reply_to_user_id": null,
+      "favorite_count": 352,
+      "id": 1007729786427330561,
+      "text": "Fact: Cristiano Ronaldo does for \n#Portugal with average players what Lionel Messi fails to do for #Argentina with… https://t.co/9i8ZnqLQm5",
+      "place": null,
+      "lang": "en",
+      "quote_count": 10,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 37,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007729786427330561",
+            "url": "https://t.co/9i8ZnqLQm5"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              34,
+              43
+            ],
+            "text": "Portugal"
+          },
+          {
+            "indices": [
+              99,
+              109
+            ],
+            "text": "Argentina"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 314,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002176191564935169/QJ6cLq45_normal.jpg",
+        "listed_count": 220,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 9585,
+        "description": "Nationalist|Journalist| #MUFC Fan|Atheist|Metalhead|Tweet=Personal Opinion|RT≠Endorsement|Insta/Snap/YouTube/Facebook:JagratiShukla29\nMail:shukla.jagi@gmail.com",
+        "created_at": "Sat Jun 11 09:28:26 +0000 2016",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "JagratiShukla29",
+        "id_str": "741562726288351232",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 741562726288351232,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002176191564935169/QJ6cLq45_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.facebook.com/profile.php?id=100009702342160",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/741562726288351232/1521641649",
+        "statuses_count": 15529,
+        "follow_request_sent": null,
+        "followers_count": 57245,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Jagrati Shukla",
+        "location": "New Delhi, India",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007739039368302592",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007739039368302592,
+    "text": "RT @JagratiShukla29: Fact: Cristiano Ronaldo does for \n#Portugal with average players what Lionel Messi fails to do for #Argentina with wor…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529098684528",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            55,
+            64
+          ],
+          "text": "Portugal"
+        },
+        {
+          "indices": [
+            120,
+            130
+          ],
+          "text": "Argentina"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "JagratiShukla29",
+          "id_str": "741562726288351232",
+          "name": "Jagrati Shukla",
+          "id": 741562726288351232
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 99,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5026,
+      "description": "Dallas,Texas✌🏼️ #UTD20",
+      "created_at": "Sun Nov 03 03:05:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "madrid_jacky",
+      "id_str": "2171375114",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2171375114,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194",
+      "statuses_count": 11153,
+      "follow_request_sent": null,
+      "followers_count": 157,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Jacky Andrade",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 18:50:07",
+    "current_time": 1528995007371,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 16:50:07 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ygDDYZF8Yw",
+              "indices": [
+                153,
+                176
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007167003881345024",
+              "expanded_url": "https://twitter.com/realmadriden/status/1007291585489448960/video/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg",
+              "id": 1007167003881345024,
+              "additional_media_info": {
+                "description": "",
+                "title": "",
+                "embeddable": true,
+                "monetizable": true
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg",
+              "url": "https://t.co/ygDDYZF8Yw",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 185480,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 1280000,
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/720x720/yPYp872fIdegOP00.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 320000,
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/240x240/sSfkGpooLKcSsvjU.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/pl/HYE73EO_Upv588NH.m3u8?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/480x480/QryG23SkhhekBTDw.mp4?tag=2"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                19,
+                28
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                141,
+                152
+              ],
+              "text": "HalaMadrid"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ygDDYZF8Yw",
+              "indices": [
+                153,
+                176
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007167003881345024",
+              "expanded_url": "https://twitter.com/realmadriden/status/1007291585489448960/video/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg",
+              "id": 1007167003881345024,
+              "additional_media_info": {
+                "description": "",
+                "title": "",
+                "embeddable": true,
+                "monetizable": true
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/media/DfpTHSoXkAIt36J.jpg",
+              "url": "https://t.co/ygDDYZF8Yw",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 185480,
+                "variants": [
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 1280000,
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/720x720/yPYp872fIdegOP00.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 320000,
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/240x240/sSfkGpooLKcSsvjU.mp4?tag=2"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/pl/HYE73EO_Upv588NH.m3u8?tag=2"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/amplify_video/1007167003881345024/vid/480x480/QryG23SkhhekBTDw.mp4?tag=2"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                114,
+                124
+              ],
+              "screen_name": "Cristiano",
+              "id_str": "155659213",
+              "name": "Cristiano Ronaldo",
+              "id": 155659213
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "🌍🏆⚽ SIIIUUUUU! The #WorldCup kicks-off today! What better way to gear up for the tournament than enjoying some of @Cristiano's BEST moments! #HalaMadrid https://t.co/ygDDYZF8Yw",
+        "display_text_range": [
+          0,
+          152
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 16:00:03 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "retweet_count": 592,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007291585489448960",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2041,
+      "id": 1007291585489448960,
+      "text": "🌍🏆⚽ SIIIUUUUU! The #WorldCup kicks-off today! What better way to gear up for the tournament than enjoying some of… https://t.co/RvUzJvTkeA",
+      "place": null,
+      "lang": "en",
+      "quote_count": 30,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 24,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007291585489448960",
+            "url": "https://t.co/RvUzJvTkeA"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              28
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 53,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/855074736082214913/Awtvx-ht_normal.jpg",
+        "listed_count": 9331,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 113,
+        "description": "⚽️ Official account of Real Madrid C.F. 🏆@realmadrid: 🇪🇸. @realmadridfra: 🇫🇷. @realmadridarab: العربيه. @realmadridjapan: 🇯🇵.",
+        "created_at": "Sun Jan 01 13:52:31 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "realmadriden",
+        "id_str": "452155423",
+        "profile_link_color": "0084B4",
+        "translator_type": "regular",
+        "id": 452155423,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en-gb",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/855074736082214913/Awtvx-ht_normal.jpg",
+        "time_zone": null,
+        "url": "http://realmadrid.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/452155423/1527372558",
+        "statuses_count": 36575,
+        "follow_request_sent": null,
+        "followers_count": 9985308,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "#CHAMP13NS 🇺🇸🇬🇧",
+        "location": "Madrid, Spain",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007304184868335616",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007304184868335616,
+    "text": "RT @realmadriden: 🌍🏆⚽ SIIIUUUUU! The #WorldCup kicks-off today! What better way to gear up for the tournament than enjoying some of @Cristi…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528995007136",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            37,
+            46
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "realmadriden",
+          "id_str": "452155423",
+          "name": "#CHAMP13NS 🇺🇸🇬🇧",
+          "id": 452155423
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 100,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5023,
+      "description": "Dallas,Texas✌🏼️ #UTD20",
+      "created_at": "Sun Nov 03 03:05:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "madrid_jacky",
+      "id_str": "2171375114",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2171375114,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/938463905617149952/LfTDGyrJ_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2171375114/1527388194",
+      "statuses_count": 11132,
+      "follow_request_sent": null,
+      "followers_count": 157,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Jacky Andrade",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

@@ -1,2 +1,660 @@
-{"created_date": "2018-06-17 06:38:48", "current_time": 1529210328528, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 04:38:48 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 03:30:02 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://www.webdesignfreetutorials.in/\" rel=\"nofollow\">APISearchTestforMe</a>", "retweet_count": 18, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008190002432393217", "in_reply_to_user_id": null, "favorite_count": 11, "id": 1008190002432393217, "text": "Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #CherprangBNK48", "place": null, "lang": "en", "quote_count": 1, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [37, 58], "text": "SanggyunKentaFMinBKK"}, {"indices": [62, 78], "text": "WorldSenbatsuTH"}, {"indices": [82, 91], "text": "WorldCup"}, {"indices": [95, 107], "text": "whatthefest"}, {"indices": [111, 126], "text": "CherprangBNK48"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 0, "profile_image_url_https": "https://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg", "listed_count": 16, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 0, "description": "Thai's Trends from Twitter Google and Youtube for Everyone", "created_at": "Thu Mar 02 02:24:13 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "TopTrendThai", "id_str": "837126367779008512", "profile_link_color": "FF0000", "translator_type": "none", "id": 837126367779008512, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/837126367779008512/1496291410", "statuses_count": 84452, "follow_request_sent": null, "followers_count": 18862, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "TopTrendThai", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008207307014991872", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008207307014991872, "text": "RT @TopTrendThai: Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #Cherprang\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529210328235", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [55, 76], "text": "SanggyunKentaFMinBKK"}, {"indices": [80, 96], "text": "WorldSenbatsuTH"}, {"indices": [100, 109], "text": "WorldCup"}, {"indices": [113, 125], "text": "whatthefest"}], "user_mentions": [{"indices": [3, 16], "screen_name": "TopTrendThai", "id_str": "837126367779008512", "name": "TopTrendThai", "id": 837126367779008512}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 276, "profile_image_url_https": "https://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif", "default_profile_image": false, "favourites_count": 45910, "description": null, "created_at": "Sat Mar 13 12:53:51 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif", "protected": false, "screen_name": "Yossy_Suksujit", "id_str": "122658363", "profile_link_color": "FF691F", "translator_type": "none", "id": 122658363, "geo_enabled": false, "profile_background_color": "000000", "lang": "th", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/122658363/1524644589", "statuses_count": 26922, "follow_request_sent": null, "followers_count": 25, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Yossy", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-17 06:38:51", "current_time": 1529210331828, "quoted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 03:30:02 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://www.webdesignfreetutorials.in/\" rel=\"nofollow\">APISearchTestforMe</a>", "retweet_count": 18, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008190002432393217", "in_reply_to_user_id": null, "favorite_count": 11, "id": 1008190002432393217, "text": "Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #CherprangBNK48", "place": null, "lang": "en", "quote_count": 1, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [37, 58], "text": "SanggyunKentaFMinBKK"}, {"indices": [62, 78], "text": "WorldSenbatsuTH"}, {"indices": [82, 91], "text": "WorldCup"}, {"indices": [95, 107], "text": "whatthefest"}, {"indices": [111, 126], "text": "CherprangBNK48"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 0, "profile_image_url_https": "https://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg", "listed_count": 16, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 0, "description": "Thai's Trends from Twitter Google and Youtube for Everyone", "created_at": "Thu Mar 02 02:24:13 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "TopTrendThai", "id_str": "837126367779008512", "profile_link_color": "FF0000", "translator_type": "none", "id": 837126367779008512, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/837126367779008512/1496291410", "statuses_count": 84452, "follow_request_sent": null, "followers_count": 18862, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "TopTrendThai", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 04:38:51 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweeted_status": {"quoted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 03:30:02 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://www.webdesignfreetutorials.in/\" rel=\"nofollow\">APISearchTestforMe</a>", "retweet_count": 18, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008190002432393217", "in_reply_to_user_id": null, "favorite_count": 11, "id": 1008190002432393217, "text": "Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #CherprangBNK48", "place": null, "lang": "en", "quote_count": 1, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [37, 58], "text": "SanggyunKentaFMinBKK"}, {"indices": [62, 78], "text": "WorldSenbatsuTH"}, {"indices": [82, 91], "text": "WorldCup"}, {"indices": [95, 107], "text": "whatthefest"}, {"indices": [111, 126], "text": "CherprangBNK48"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 0, "profile_image_url_https": "https://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg", "listed_count": 16, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 0, "description": "Thai's Trends from Twitter Google and Youtube for Everyone", "created_at": "Thu Mar 02 02:24:13 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "TopTrendThai", "id_str": "837126367779008512", "profile_link_color": "FF0000", "translator_type": "none", "id": 837126367779008512, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/837126367779008512/1496291410", "statuses_count": 84452, "follow_request_sent": null, "followers_count": 18862, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "TopTrendThai", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 03:33:09 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "quoted_status_id": 1008190002432393217, "retweet_count": 1, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1008190786410696704", "in_reply_to_user_id": null, "favorite_count": 1, "id": 1008190786410696704, "text": "\u0e42\u0e2d\u0e49\u0e22\u0e22\u0e22\u0e22\u0e22\u0e22 \u0e14\u0e35\u0e43\u0e08\u0e41\u0e17\u0e47\u0e01\u0e17\u0e35\u0e48\u0e16\u0e39\u0e01 \u0e19\u0e36\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e40\u0e2b\u0e47\u0e19\u0e44\u0e2d\u0e49\u0e41\u0e1b\u0e4b\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e41\u0e25\u0e49\u0e27 \ud83d\ude02 #CherprangBNK48 https://t.co/opP8yLJXun", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/toptrendthai/status/1008190002432393217", "display": "twitter.com/toptrendthai/s\u2026", "url": "https://t.co/opP8yLJXun"}, "lang": "th", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/toptrendthai/s\u2026", "indices": [71, 94], "expanded_url": "https://twitter.com/toptrendthai/status/1008190002432393217", "url": "https://t.co/opP8yLJXun"}], "hashtags": [{"indices": [55, 70], "text": "CherprangBNK48"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 70], "quoted_status_id_str": "1008190002432393217", "contributors": null, "user": {"utc_offset": null, "friends_count": 23, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005631877162532864/GQ49ZylQ_normal.jpg", "listed_count": 0, "profile_background_image_url": "", "default_profile_image": false, "favourites_count": 4281, "description": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e41\u0e21\u0e27\u0e19\u0e49\u0e2d\u0e22\u0e02\u0e2d\u0e07\u0e40\u0e0c\u0e2d", "created_at": "Sun Mar 18 04:20:28 +0000 2018", "is_translator": false, "profile_background_image_url_https": "", "protected": false, "screen_name": "Cherpratta", "id_str": "975225398182080513", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 975225398182080513, "geo_enabled": false, "profile_background_color": "F5F8FA", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1005631877162532864/GQ49ZylQ_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 5903, "follow_request_sent": null, "followers_count": 143, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "CherCher", "location": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "quoted_status_id": 1008190002432393217, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": true, "id_str": "1008207320944279559", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008207320944279559, "text": "RT @Cherpratta: \u0e42\u0e2d\u0e49\u0e22\u0e22\u0e22\u0e22\u0e22\u0e22 \u0e14\u0e35\u0e43\u0e08\u0e41\u0e17\u0e47\u0e01\u0e17\u0e35\u0e48\u0e16\u0e39\u0e01 \u0e19\u0e36\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e40\u0e2b\u0e47\u0e19\u0e44\u0e2d\u0e49\u0e41\u0e1b\u0e4b\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e41\u0e25\u0e49\u0e27 \ud83d\ude02 #CherprangBNK48 https://t.co/opP8yLJXun", "place": null, "quoted_status_permalink": {"expanded": "https://twitter.com/toptrendthai/status/1008190002432393217", "display": "twitter.com/toptrendthai/s\u2026", "url": "https://t.co/opP8yLJXun"}, "lang": "th", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529210331556", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/toptrendthai/s\u2026", "indices": [87, 110], "expanded_url": "https://twitter.com/toptrendthai/status/1008190002432393217", "url": "https://t.co/opP8yLJXun"}], "hashtags": [{"indices": [71, 86], "text": "CherprangBNK48"}], "user_mentions": [{"indices": [3, 14], "screen_name": "Cherpratta", "id_str": "975225398182080513", "name": "CherCher", "id": 975225398182080513}], "symbols": []}, "quoted_status_id_str": "1008190002432393217", "contributors": null, "user": {"utc_offset": null, "friends_count": 276, "profile_image_url_https": "https://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif", "default_profile_image": false, "favourites_count": 45911, "description": null, "created_at": "Sat Mar 13 12:53:51 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif", "protected": false, "screen_name": "Yossy_Suksujit", "id_str": "122658363", "profile_link_color": "FF691F", "translator_type": "none", "id": 122658363, "geo_enabled": false, "profile_background_color": "000000", "lang": "th", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/122658363/1524644589", "statuses_count": 26923, "follow_request_sent": null, "followers_count": 25, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Yossy", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-17 06:38:48",
+    "current_time": 1529210328528,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 04:38:48 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sun Jun 17 03:30:02 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://www.webdesignfreetutorials.in/\" rel=\"nofollow\">APISearchTestforMe</a>",
+      "retweet_count": 18,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008190002432393217",
+      "in_reply_to_user_id": null,
+      "favorite_count": 11,
+      "id": 1008190002432393217,
+      "text": "Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #CherprangBNK48",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              37,
+              58
+            ],
+            "text": "SanggyunKentaFMinBKK"
+          },
+          {
+            "indices": [
+              62,
+              78
+            ],
+            "text": "WorldSenbatsuTH"
+          },
+          {
+            "indices": [
+              82,
+              91
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              95,
+              107
+            ],
+            "text": "whatthefest"
+          },
+          {
+            "indices": [
+              111,
+              126
+            ],
+            "text": "CherprangBNK48"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 0,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg",
+        "listed_count": 16,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 0,
+        "description": "Thai's Trends from Twitter Google and Youtube for Everyone",
+        "created_at": "Thu Mar 02 02:24:13 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "TopTrendThai",
+        "id_str": "837126367779008512",
+        "profile_link_color": "FF0000",
+        "translator_type": "none",
+        "id": 837126367779008512,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837126367779008512/1496291410",
+        "statuses_count": 84452,
+        "follow_request_sent": null,
+        "followers_count": 18862,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "TopTrendThai",
+        "location": null,
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008207307014991872",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008207307014991872,
+    "text": "RT @TopTrendThai: Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #Cherprang…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529210328235",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            55,
+            76
+          ],
+          "text": "SanggyunKentaFMinBKK"
+        },
+        {
+          "indices": [
+            80,
+            96
+          ],
+          "text": "WorldSenbatsuTH"
+        },
+        {
+          "indices": [
+            100,
+            109
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            113,
+            125
+          ],
+          "text": "whatthefest"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "TopTrendThai",
+          "id_str": "837126367779008512",
+          "name": "TopTrendThai",
+          "id": 837126367779008512
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 276,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 45910,
+      "description": null,
+      "created_at": "Sat Mar 13 12:53:51 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "protected": false,
+      "screen_name": "Yossy_Suksujit",
+      "id_str": "122658363",
+      "profile_link_color": "FF691F",
+      "translator_type": "none",
+      "id": 122658363,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "th",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122658363/1524644589",
+      "statuses_count": 26922,
+      "follow_request_sent": null,
+      "followers_count": 25,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Yossy",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-17 06:38:51",
+    "current_time": 1529210331828,
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sun Jun 17 03:30:02 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://www.webdesignfreetutorials.in/\" rel=\"nofollow\">APISearchTestforMe</a>",
+      "retweet_count": 18,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008190002432393217",
+      "in_reply_to_user_id": null,
+      "favorite_count": 11,
+      "id": 1008190002432393217,
+      "text": "Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #CherprangBNK48",
+      "place": null,
+      "lang": "en",
+      "quote_count": 1,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              37,
+              58
+            ],
+            "text": "SanggyunKentaFMinBKK"
+          },
+          {
+            "indices": [
+              62,
+              78
+            ],
+            "text": "WorldSenbatsuTH"
+          },
+          {
+            "indices": [
+              82,
+              91
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              95,
+              107
+            ],
+            "text": "whatthefest"
+          },
+          {
+            "indices": [
+              111,
+              126
+            ],
+            "text": "CherprangBNK48"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 0,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg",
+        "listed_count": 16,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 0,
+        "description": "Thai's Trends from Twitter Google and Youtube for Everyone",
+        "created_at": "Thu Mar 02 02:24:13 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "TopTrendThai",
+        "id_str": "837126367779008512",
+        "profile_link_color": "FF0000",
+        "translator_type": "none",
+        "id": 837126367779008512,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837126367779008512/1496291410",
+        "statuses_count": 84452,
+        "follow_request_sent": null,
+        "followers_count": 18862,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "TopTrendThai",
+        "location": null,
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 04:38:51 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": null,
+        "created_at": "Sun Jun 17 03:30:02 +0000 2018",
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://www.webdesignfreetutorials.in/\" rel=\"nofollow\">APISearchTestforMe</a>",
+        "retweet_count": 18,
+        "retweeted": false,
+        "geo": null,
+        "filter_level": "low",
+        "in_reply_to_screen_name": null,
+        "is_quote_status": false,
+        "id_str": "1008190002432393217",
+        "in_reply_to_user_id": null,
+        "favorite_count": 11,
+        "id": 1008190002432393217,
+        "text": "Twitter Trend\n2018-06-17 10:30:02\n1. #SanggyunKentaFMinBKK\n2. #WorldSenbatsuTH\n3. #WorldCup\n4. #whatthefest\n5. #CherprangBNK48",
+        "place": null,
+        "lang": "en",
+        "quote_count": 1,
+        "favorited": false,
+        "coordinates": null,
+        "truncated": false,
+        "reply_count": 0,
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                37,
+                58
+              ],
+              "text": "SanggyunKentaFMinBKK"
+            },
+            {
+              "indices": [
+                62,
+                78
+              ],
+              "text": "WorldSenbatsuTH"
+            },
+            {
+              "indices": [
+                82,
+                91
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                95,
+                107
+              ],
+              "text": "whatthefest"
+            },
+            {
+              "indices": [
+                111,
+                126
+              ],
+              "text": "CherprangBNK48"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "contributors": null,
+        "user": {
+          "utc_offset": null,
+          "friends_count": 0,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg",
+          "listed_count": 16,
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "default_profile_image": false,
+          "favourites_count": 0,
+          "description": "Thai's Trends from Twitter Google and Youtube for Everyone",
+          "created_at": "Thu Mar 02 02:24:13 +0000 2017",
+          "is_translator": false,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "protected": false,
+          "screen_name": "TopTrendThai",
+          "id_str": "837126367779008512",
+          "profile_link_color": "FF0000",
+          "translator_type": "none",
+          "id": 837126367779008512,
+          "geo_enabled": false,
+          "profile_background_color": "000000",
+          "lang": "en",
+          "profile_sidebar_border_color": "000000",
+          "profile_text_color": "000000",
+          "verified": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878104731113054208/EFoxM73c_normal.jpg",
+          "time_zone": null,
+          "url": null,
+          "contributors_enabled": false,
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/837126367779008512/1496291410",
+          "statuses_count": 84452,
+          "follow_request_sent": null,
+          "followers_count": 18862,
+          "profile_use_background_image": false,
+          "default_profile": false,
+          "following": null,
+          "name": "TopTrendThai",
+          "location": null,
+          "profile_sidebar_fill_color": "000000",
+          "notifications": null
+        }
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sun Jun 17 03:33:09 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "quoted_status_id": 1008190002432393217,
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": true,
+      "id_str": "1008190786410696704",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1,
+      "id": 1008190786410696704,
+      "text": "โอ้ยยยยยย ดีใจแท็กที่ถูก นึกว่าจะเห็นไอ้แป๋งเสียแล้ว 😂 #CherprangBNK48 https://t.co/opP8yLJXun",
+      "place": null,
+      "quoted_status_permalink": {
+        "expanded": "https://twitter.com/toptrendthai/status/1008190002432393217",
+        "display": "twitter.com/toptrendthai/s…",
+        "url": "https://t.co/opP8yLJXun"
+      },
+      "lang": "th",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/toptrendthai/s…",
+            "indices": [
+              71,
+              94
+            ],
+            "expanded_url": "https://twitter.com/toptrendthai/status/1008190002432393217",
+            "url": "https://t.co/opP8yLJXun"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              55,
+              70
+            ],
+            "text": "CherprangBNK48"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        70
+      ],
+      "quoted_status_id_str": "1008190002432393217",
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 23,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005631877162532864/GQ49ZylQ_normal.jpg",
+        "listed_count": 0,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 4281,
+        "description": "สวัสดีเหล่าแมวน้อยของเฌอ",
+        "created_at": "Sun Mar 18 04:20:28 +0000 2018",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "Cherpratta",
+        "id_str": "975225398182080513",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 975225398182080513,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1005631877162532864/GQ49ZylQ_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 5903,
+        "follow_request_sent": null,
+        "followers_count": 143,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "CherCher",
+        "location": "กรุงเทพมหานคร, ประเทศไทย",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "quoted_status_id": 1008190002432393217,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1008207320944279559",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008207320944279559,
+    "text": "RT @Cherpratta: โอ้ยยยยยย ดีใจแท็กที่ถูก นึกว่าจะเห็นไอ้แป๋งเสียแล้ว 😂 #CherprangBNK48 https://t.co/opP8yLJXun",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/toptrendthai/status/1008190002432393217",
+      "display": "twitter.com/toptrendthai/s…",
+      "url": "https://t.co/opP8yLJXun"
+    },
+    "lang": "th",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529210331556",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/toptrendthai/s…",
+          "indices": [
+            87,
+            110
+          ],
+          "expanded_url": "https://twitter.com/toptrendthai/status/1008190002432393217",
+          "url": "https://t.co/opP8yLJXun"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            71,
+            86
+          ],
+          "text": "CherprangBNK48"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "Cherpratta",
+          "id_str": "975225398182080513",
+          "name": "CherCher",
+          "id": 975225398182080513
+        }
+      ],
+      "symbols": []
+    },
+    "quoted_status_id_str": "1008190002432393217",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 276,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 45911,
+      "description": null,
+      "created_at": "Sat Mar 13 12:53:51 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "protected": false,
+      "screen_name": "Yossy_Suksujit",
+      "id_str": "122658363",
+      "profile_link_color": "FF691F",
+      "translator_type": "none",
+      "id": 122658363,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "th",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978460298750263296/hbn1PTUB_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122658363/1524644589",
+      "statuses_count": 26923,
+      "follow_request_sent": null,
+      "followers_count": 25,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Yossy",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

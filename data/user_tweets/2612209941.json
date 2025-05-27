@@ -1,1 +1,206 @@
-{"created_date": "2018-06-16 20:04:02", "current_time": 1529172242816, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 18:04:02 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 17:55:22 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 20, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008045383057108992", "in_reply_to_user_id": null, "favorite_count": 36, "id": 1008045383057108992, "text": "FIM DE JOGO! #DEN venceu o #PER por 1-0. Guerrero ficou s\u00f3 no cheirinho na estreia no Mundial. #WorldCup", "place": null, "lang": "pt", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 1, "entities": {"urls": [], "hashtags": [{"indices": [13, 17], "text": "DEN"}, {"indices": [27, 31], "text": "PER"}, {"indices": [95, 104], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 118, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007991463643267072/q8G6gxcR_normal.jpg", "listed_count": 139, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3782, "description": "O Vasco a um clique de dist\u00e2ncia! \u2013 Entre em contato conosco atrav\u00e9s do e-mail: newscolina@gmail.com \ud83d\udce9", "created_at": "Thu Aug 06 22:29:39 +0000 2015", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "newscolina", "id_str": "3406306762", "profile_link_color": "000000", "translator_type": "regular", "id": 3406306762, "geo_enabled": true, "profile_background_color": "000000", "lang": "pt", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1007991463643267072/q8G6gxcR_normal.jpg", "time_zone": null, "url": "http://instagram.com/newscolina", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/3406306762/1528983298", "statuses_count": 22887, "follow_request_sent": null, "followers_count": 33176, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "NewsColina!", "location": "Rio de Janeiro, Brasil", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008047563487023105", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008047563487023105, "text": "RT @newscolina: FIM DE JOGO! #DEN venceu o #PER por 1-0. Guerrero ficou s\u00f3 no cheirinho na estreia no Mundial. #WorldCup", "place": null, "lang": "pt", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529172242410", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [29, 33], "text": "DEN"}, {"indices": [43, 47], "text": "PER"}, {"indices": [111, 120], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 14], "screen_name": "newscolina", "id_str": "3406306762", "name": "NewsColina!", "id": 3406306762}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 192, "profile_image_url_https": "https://pbs.twimg.com/profile_images/997984052081655813/MvIMOP-h_normal.jpg", "listed_count": 3, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2215, "description": "our happiness is our own responsibility\n@Camila_Cabello", "created_at": "Sun Jun 15 19:53:40 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "estellasouzac", "id_str": "2612209941", "profile_link_color": "ABB8C2", "translator_type": "none", "id": 2612209941, "geo_enabled": true, "profile_background_color": "ACB3B3", "lang": "pt", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/997984052081655813/MvIMOP-h_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2612209941/1526772914", "statuses_count": 13202, "follow_request_sent": null, "followers_count": 269, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Estella", "location": "Rio de Janeiro", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 20:04:02",
+    "current_time": 1529172242816,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 18:04:02 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 17:55:22 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 20,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008045383057108992",
+      "in_reply_to_user_id": null,
+      "favorite_count": 36,
+      "id": 1008045383057108992,
+      "text": "FIM DE JOGO! #DEN venceu o #PER por 1-0. Guerrero ficou só no cheirinho na estreia no Mundial. #WorldCup",
+      "place": null,
+      "lang": "pt",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 1,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              13,
+              17
+            ],
+            "text": "DEN"
+          },
+          {
+            "indices": [
+              27,
+              31
+            ],
+            "text": "PER"
+          },
+          {
+            "indices": [
+              95,
+              104
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 118,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007991463643267072/q8G6gxcR_normal.jpg",
+        "listed_count": 139,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3782,
+        "description": "O Vasco a um clique de distância! – Entre em contato conosco através do e-mail: newscolina@gmail.com 📩",
+        "created_at": "Thu Aug 06 22:29:39 +0000 2015",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "newscolina",
+        "id_str": "3406306762",
+        "profile_link_color": "000000",
+        "translator_type": "regular",
+        "id": 3406306762,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "pt",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007991463643267072/q8G6gxcR_normal.jpg",
+        "time_zone": null,
+        "url": "http://instagram.com/newscolina",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3406306762/1528983298",
+        "statuses_count": 22887,
+        "follow_request_sent": null,
+        "followers_count": 33176,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "NewsColina!",
+        "location": "Rio de Janeiro, Brasil",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008047563487023105",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008047563487023105,
+    "text": "RT @newscolina: FIM DE JOGO! #DEN venceu o #PER por 1-0. Guerrero ficou só no cheirinho na estreia no Mundial. #WorldCup",
+    "place": null,
+    "lang": "pt",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529172242410",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            29,
+            33
+          ],
+          "text": "DEN"
+        },
+        {
+          "indices": [
+            43,
+            47
+          ],
+          "text": "PER"
+        },
+        {
+          "indices": [
+            111,
+            120
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "newscolina",
+          "id_str": "3406306762",
+          "name": "NewsColina!",
+          "id": 3406306762
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 192,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/997984052081655813/MvIMOP-h_normal.jpg",
+      "listed_count": 3,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2215,
+      "description": "our happiness is our own responsibility\n@Camila_Cabello",
+      "created_at": "Sun Jun 15 19:53:40 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "estellasouzac",
+      "id_str": "2612209941",
+      "profile_link_color": "ABB8C2",
+      "translator_type": "none",
+      "id": 2612209941,
+      "geo_enabled": true,
+      "profile_background_color": "ACB3B3",
+      "lang": "pt",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/997984052081655813/MvIMOP-h_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2612209941/1526772914",
+      "statuses_count": 13202,
+      "follow_request_sent": null,
+      "followers_count": 269,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Estella",
+      "location": "Rio de Janeiro",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "created_date": "2018-06-14 04:25:32",
+    "current_time": 1528943132885,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SCS8WxCzj8",
+          "source_user_id": 2423106251,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+          "source_status_id": 1005851512373940225,
+          "url": "https://t.co/SCS8WxCzj8",
+          "indices": [
+            46,
+            69
+          ],
+          "sizes": {
+            "small": {
+              "w": 469,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 965,
+              "h": 1400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 827,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1005851497215746050",
+          "expanded_url": "https://twitter.com/coach_tahar/status/1005851512373940225/photo/1",
+          "source_status_id_str": "1005851512373940225",
+          "media_url_https": "https://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+          "id": 1005851497215746050,
+          "source_user_id_str": "2423106251"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:25:32 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SCS8WxCzj8",
+            "indices": [
+              29,
+              52
+            ],
+            "sizes": {
+              "small": {
+                "w": 469,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 965,
+                "h": 1400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 827,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1005851497215746050",
+            "expanded_url": "https://twitter.com/coach_tahar/status/1005851512373940225/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+            "id": 1005851497215746050,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+            "url": "https://t.co/SCS8WxCzj8"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sun Jun 10 16:37:43 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1005851512373940225",
+      "in_reply_to_user_id": null,
+      "favorite_count": 0,
+      "id": 1005851512373940225,
+      "text": "Sons of Africa 💪🏼#Russia2018 https://t.co/SCS8WxCzj8",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              17,
+              28
+            ],
+            "text": "Russia2018"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SCS8WxCzj8",
+            "indices": [
+              29,
+              52
+            ],
+            "sizes": {
+              "small": {
+                "w": 469,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 965,
+                "h": 1400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 827,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1005851497215746050",
+            "expanded_url": "https://twitter.com/coach_tahar/status/1005851512373940225/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+            "id": 1005851497215746050,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+            "url": "https://t.co/SCS8WxCzj8"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        28
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 268,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000397623000518656/-5J7HfwG_normal.jpg",
+        "listed_count": 5,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1465,
+        "description": "Que la paix soit sur vous ✌🏻️. IG : coach_tahar",
+        "created_at": "Wed Mar 19 18:16:37 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "coach_tahar",
+        "id_str": "2423106251",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 2423106251,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000397623000518656/-5J7HfwG_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2423106251/1521247623",
+        "statuses_count": 1594,
+        "follow_request_sent": null,
+        "followers_count": 156,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Indisponible",
+        "location": "🇫🇷➡️🇬🇧➡️🇦🇪➡️🇸🇦",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007086607294443520",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007086607294443520,
+    "text": "RT @coach_tahar: Sons of Africa 💪🏼#Russia2018 https://t.co/SCS8WxCzj8",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528943132600",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            45
+          ],
+          "text": "Russia2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SCS8WxCzj8",
+          "source_user_id": 2423106251,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+          "source_status_id": 1005851512373940225,
+          "url": "https://t.co/SCS8WxCzj8",
+          "indices": [
+            46,
+            69
+          ],
+          "sizes": {
+            "small": {
+              "w": 469,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 965,
+              "h": 1400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 827,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1005851497215746050",
+          "expanded_url": "https://twitter.com/coach_tahar/status/1005851512373940225/photo/1",
+          "source_status_id_str": "1005851512373940225",
+          "media_url_https": "https://pbs.twimg.com/media/DfWAm4RW4AIUKPV.jpg",
+          "id": 1005851497215746050,
+          "source_user_id_str": "2423106251"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "coach_tahar",
+          "id_str": "2423106251",
+          "name": "Indisponible",
+          "id": 2423106251
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 696,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006931047592980480/jbPRqcsL_normal.jpg",
+      "listed_count": 129,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 4255,
+      "description": "💉 🇲🇦",
+      "created_at": "Tue Apr 22 23:23:34 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "devdas667",
+      "id_str": "2458825104",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2458825104,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006931047592980480/jbPRqcsL_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 29103,
+      "follow_request_sent": null,
+      "followers_count": 2148,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "🙅",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

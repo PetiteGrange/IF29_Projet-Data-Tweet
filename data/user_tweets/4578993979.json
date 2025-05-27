@@ -1,0 +1,323 @@
+[
+  {
+    "created_date": "2018-06-14 12:53:08",
+    "current_time": 1528973588662,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 10:53:07 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/VwOtSFHygJ",
+              "indices": [
+                203,
+                226
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 450,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007213260490149888",
+              "expanded_url": "https://twitter.com/jfa_samuraiblue/status/1007213350105669633/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpXH7yUEAA5x6S.jpg",
+              "id": 1007213260490149888,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpXH7yUEAA5x6S.jpg",
+              "url": "https://t.co/VwOtSFHygJ"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "jfa.jp/samuraiblue/wo…",
+              "indices": [
+                147,
+                170
+              ],
+              "expanded_url": "http://www.jfa.jp/samuraiblue/worldcup_2018/",
+              "url": "https://t.co/dERDMjWqZk"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                1,
+                10
+              ],
+              "text": "Worldcup"
+            },
+            {
+              "indices": [
+                172,
+                179
+              ],
+              "text": "daihyo"
+            },
+            {
+              "indices": [
+                180,
+                192
+              ],
+              "text": "SAMURAIBLUE"
+            },
+            {
+              "indices": [
+                193,
+                202
+              ],
+              "text": "夢を力に2018"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/VwOtSFHygJ",
+              "indices": [
+                203,
+                226
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 450,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007213260490149888",
+              "expanded_url": "https://twitter.com/jfa_samuraiblue/status/1007213350105669633/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpXH7yUEAA5x6S.jpg",
+              "id": 1007213260490149888,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpXH7yUEAA5x6S.jpg",
+              "url": "https://t.co/VwOtSFHygJ"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "＼#Worldcup 本日開幕／\n日本代表戦テレビ放送情報\n\n①6/19(火)21:00　\nコロンビア🇨🇴vs🇯🇵日本\nNHK\n\n②6/24(日)24:00\n日本🇯🇵vs🇸🇳セネガル\n日本テレビ、NHK-BS\n\n③6/28(木)23:00\n日本🇯🇵vs🇵🇱ポーランド\nフジテレビ\n\n👇大会情報\nhttps://t.co/dERDMjWqZk\n\n#daihyo #SAMURAIBLUE #夢を力に2018 https://t.co/VwOtSFHygJ",
+        "display_text_range": [
+          0,
+          202
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 10:49:10 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 169,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007213350105669633",
+      "in_reply_to_user_id": null,
+      "favorite_count": 292,
+      "id": 1007213350105669633,
+      "text": "＼#Worldcup 本日開幕／\n日本代表戦テレビ放送情報\n\n①6/19(火)21:00　\nコロンビア🇨🇴vs🇯🇵日本\nNHK\n\n②6/24(日)24:00\n日本🇯🇵vs🇸🇳セネガル\n日本テレビ、NHK-BS\n\n③6/28(木)2… https://t.co/fq2FTOwmj4",
+      "place": null,
+      "lang": "ja",
+      "quote_count": 2,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 1,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007213350105669633",
+            "url": "https://t.co/fq2FTOwmj4"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              1,
+              10
+            ],
+            "text": "Worldcup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 20454,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925645188650770432/CZjNTzbM_normal.jpg",
+        "listed_count": 9108,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1,
+        "description": "SAMURAI BLUE|サッカー日本代表公式アカウント（公財）日本サッカー協会 #jfa #daihyo",
+        "created_at": "Mon Jan 25 10:55:53 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "jfa_samuraiblue",
+        "id_str": "108260481",
+        "profile_link_color": "0C1C4F",
+        "translator_type": "none",
+        "id": 108260481,
+        "geo_enabled": true,
+        "profile_background_color": "0C1C4F",
+        "lang": "ja",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925645188650770432/CZjNTzbM_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.jfa.jp/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108260481/1528449825",
+        "statuses_count": 40652,
+        "follow_request_sent": null,
+        "followers_count": 803809,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "サッカー日本代表",
+        "location": "日本",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007214345242071040",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007214345242071040,
+    "text": "RT @jfa_samuraiblue: ＼#Worldcup 本日開幕／\n日本代表戦テレビ放送情報\n\n①6/19(火)21:00　\nコロンビア🇨🇴vs🇯🇵日本\nNHK\n\n②6/24(日)24:00\n日本🇯🇵vs🇸🇳セネガル\n日本テレビ、NHK-BS\n\n③6/28(木)23:0…",
+    "place": null,
+    "lang": "ja",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528973587700",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            22,
+            31
+          ],
+          "text": "Worldcup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "jfa_samuraiblue",
+          "id_str": "108260481",
+          "name": "サッカー日本代表",
+          "id": 108260481
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1464,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/761184829891162112/SsnpQ-_P_normal.jpg",
+      "listed_count": 20,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 23101,
+      "description": "♡♡♡ShinjiKagawa♡♡♡love♡♡♡fashion♡music♡animal♡movie♡",
+      "created_at": "Wed Dec 16 22:31:34 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "yh23_10",
+      "id_str": "4578993979",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 4578993979,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "ja",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/761184829891162112/SsnpQ-_P_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4578993979/1477333574",
+      "statuses_count": 26229,
+      "follow_request_sent": null,
+      "followers_count": 254,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "yuki23_10",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

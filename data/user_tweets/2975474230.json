@@ -1,0 +1,224 @@
+[
+  {
+    "created_date": "2018-06-15 20:45:32",
+    "current_time": 1529088332148,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:45:31 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:44:53 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 7,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007695456560918529",
+      "in_reply_to_user_id": null,
+      "favorite_count": 5,
+      "id": 1007695456560918529,
+      "text": "GOLOOOOOO, SIIIIIIIM #WorldCup #POR",
+      "place": {
+        "country_code": "PT",
+        "country": "Portugal",
+        "full_name": "Leiria, Portugal",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -8.967849,
+                39.636874
+              ],
+              [
+                -8.967849,
+                39.965041
+              ],
+              [
+                -8.623336,
+                39.965041
+              ],
+              [
+                -8.623336,
+                39.636874
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "place_type": "city",
+        "name": "Leiria",
+        "attributes": {},
+        "id": "bf3e56c865d88599",
+        "url": "https://api.twitter.com/1.1/geo/id/bf3e56c865d88599.json"
+      },
+      "lang": "pt",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              21,
+              30
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              31,
+              35
+            ],
+            "text": "POR"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 246,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971445041565782016/6g9X_mAu_normal.jpg",
+        "listed_count": 46,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 48656,
+        "description": "Multimedia & Design Gráfico, Jornalismo | Contacto: ✉ iandrelucas@icloud.com",
+        "created_at": "Thu Apr 25 09:04:04 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "iAndreLucas",
+        "id_str": "1379028296",
+        "profile_link_color": "3D9430",
+        "translator_type": "regular",
+        "id": 1379028296,
+        "geo_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "lang": "pt",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971445041565782016/6g9X_mAu_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.iandrelucas.tumblr.com",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379028296/1504560689",
+        "statuses_count": 76134,
+        "follow_request_sent": null,
+        "followers_count": 4713,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "André Lucas",
+        "location": "Marinha Grande, Portugal",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695617290919938",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695617290919938,
+    "text": "RT @iAndreLucas: GOLOOOOOO, SIIIIIIIM #WorldCup #POR",
+    "place": null,
+    "lang": "pt",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088331898",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            38,
+            47
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            48,
+            52
+          ],
+          "text": "POR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "iAndreLucas",
+          "id_str": "1379028296",
+          "name": "André Lucas",
+          "id": 1379028296
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 360,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/853632911177809921/280ZqE_5_normal.jpg",
+      "listed_count": 5,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 8362,
+      "description": "Sporting Clube de Portugal 💚 Escola Superior de Educação do Porto📚",
+      "created_at": "Mon Jan 12 22:18:43 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "FilipeM1997",
+      "id_str": "2975474230",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2975474230,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "pt",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/853632911177809921/280ZqE_5_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975474230/1515798495",
+      "statuses_count": 9123,
+      "follow_request_sent": null,
+      "followers_count": 162,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Filipe 🇵🇹",
+      "location": "Águeda, Portugal",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

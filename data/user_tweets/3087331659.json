@@ -1,1 +1,170 @@
-{"created_date": "2018-06-16 16:06:37", "current_time": 1529157997441, "extended_tweet": {"entities": {"urls": [{"display_url": "walesonline.co.uk/sport/football\u2026", "indices": [253, 276], "expanded_url": "https://www.walesonline.co.uk/sport/football/football-news/aron-gunnnarssons-famous-euro-2016-13253091.amp?__twitter_impression=true", "url": "https://t.co/WPJSx4YFVH"}], "hashtags": [{"indices": [10, 19], "text": "ecologia"}, {"indices": [23, 40], "text": "ArgentinaIslanda"}, {"indices": [75, 79], "text": "ISL"}, {"indices": [225, 242], "text": "plasticpollution"}, {"indices": [243, 252], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "full_text": "Un po' di #ecologia in #ArgentinaIslanda \u26bd\ufe0f\nAron Gunnarsson, capitano dell'#ISL l'ultima volta che s'\u00e8 tagliato la barba \ud83e\uddd4 l'ha regalata al fratello che ne ha fatto esche per pesci \ud83d\udc1f ben pi\u00f9 sostenibili di quelle sintetiche.\n#plasticpollution #WorldCup\nhttps://t.co/WPJSx4YFVH", "display_text_range": [0, 276]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:06:37 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007987814464737286", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007987814464737286, "text": "Un po' di #ecologia in #ArgentinaIslanda \u26bd\ufe0f\nAron Gunnarsson, capitano dell'#ISL l'ultima volta che s'\u00e8 tagliato la\u2026 https://t.co/fBrtuTqfyg", "place": null, "lang": "it", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "timestamp_ms": "1529157997133", "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007987814464737286", "url": "https://t.co/fBrtuTqfyg"}], "hashtags": [{"indices": [10, 19], "text": "ecologia"}, {"indices": [23, 40], "text": "ArgentinaIslanda"}, {"indices": [75, 79], "text": "ISL"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 117, "profile_image_url_https": "https://pbs.twimg.com/profile_images/899584473167220736/xbiAGQ_W_normal.jpg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1962, "description": "\ud83c\udf43  Storie, emozioni, opinioni di un Naturalista.    Vite, petali, bestie, ironie, melanzane e poesie  \ud83c\udf3b\ud83c\udf46\ud83d\udc05", "created_at": "Wed Mar 11 18:00:07 +0000 2015", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Nicola_Bressi", "id_str": "3087331659", "profile_link_color": "19CF86", "translator_type": "none", "id": 3087331659, "geo_enabled": true, "profile_background_color": "000000", "lang": "it", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/899584473167220736/xbiAGQ_W_normal.jpg", "time_zone": null, "url": "http://www.instagram.com/nicolabressi", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/3087331659/1483966892", "statuses_count": 3894, "follow_request_sent": null, "followers_count": 246, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Nicola Bressi", "location": "Trieste, Sicilia, planet Earth", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 16:06:37",
+    "current_time": 1529157997441,
+    "extended_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "walesonline.co.uk/sport/football…",
+            "indices": [
+              253,
+              276
+            ],
+            "expanded_url": "https://www.walesonline.co.uk/sport/football/football-news/aron-gunnnarssons-famous-euro-2016-13253091.amp?__twitter_impression=true",
+            "url": "https://t.co/WPJSx4YFVH"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              10,
+              19
+            ],
+            "text": "ecologia"
+          },
+          {
+            "indices": [
+              23,
+              40
+            ],
+            "text": "ArgentinaIslanda"
+          },
+          {
+            "indices": [
+              75,
+              79
+            ],
+            "text": "ISL"
+          },
+          {
+            "indices": [
+              225,
+              242
+            ],
+            "text": "plasticpollution"
+          },
+          {
+            "indices": [
+              243,
+              252
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "full_text": "Un po' di #ecologia in #ArgentinaIslanda ⚽️\nAron Gunnarsson, capitano dell'#ISL l'ultima volta che s'è tagliato la barba 🧔 l'ha regalata al fratello che ne ha fatto esche per pesci 🐟 ben più sostenibili di quelle sintetiche.\n#plasticpollution #WorldCup\nhttps://t.co/WPJSx4YFVH",
+      "display_text_range": [
+        0,
+        276
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 14:06:37 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007987814464737286",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007987814464737286,
+    "text": "Un po' di #ecologia in #ArgentinaIslanda ⚽️\nAron Gunnarsson, capitano dell'#ISL l'ultima volta che s'è tagliato la… https://t.co/fBrtuTqfyg",
+    "place": null,
+    "lang": "it",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": true,
+    "timestamp_ms": "1529157997133",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/1007987814464737286",
+          "url": "https://t.co/fBrtuTqfyg"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            19
+          ],
+          "text": "ecologia"
+        },
+        {
+          "indices": [
+            23,
+            40
+          ],
+          "text": "ArgentinaIslanda"
+        },
+        {
+          "indices": [
+            75,
+            79
+          ],
+          "text": "ISL"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 117,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/899584473167220736/xbiAGQ_W_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1962,
+      "description": "🍃  Storie, emozioni, opinioni di un Naturalista.    Vite, petali, bestie, ironie, melanzane e poesie  🌻🍆🐅",
+      "created_at": "Wed Mar 11 18:00:07 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Nicola_Bressi",
+      "id_str": "3087331659",
+      "profile_link_color": "19CF86",
+      "translator_type": "none",
+      "id": 3087331659,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "it",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/899584473167220736/xbiAGQ_W_normal.jpg",
+      "time_zone": null,
+      "url": "http://www.instagram.com/nicolabressi",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3087331659/1483966892",
+      "statuses_count": 3894,
+      "follow_request_sent": null,
+      "followers_count": 246,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Nicola Bressi",
+      "location": "Trieste, Sicilia, planet Earth",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

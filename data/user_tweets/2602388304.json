@@ -1,3 +1,1115 @@
-{"created_date": "2018-06-17 04:57:58", "current_time": 1529204278363, "extended_entities": {"media": [{"display_url": "pic.twitter.com/lTR9ufxNXa", "source_user_id": 16548023, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "source_status_id": 1008029088294948864, "url": "https://t.co/lTR9ufxNXa", "indices": [101, 124], "sizes": {"small": {"w": 680, "h": 561, "resize": "fit"}, "large": {"w": 960, "h": 792, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 960, "h": 792, "resize": "fit"}}, "id_str": "1008028962113531906", "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1", "source_status_id_str": "1008029088294948864", "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "id": 1008028962113531906, "source_user_id_str": "16548023"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 02:57:58 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/lTR9ufxNXa", "indices": [91, 114], "sizes": {"small": {"w": 680, "h": 561, "resize": "fit"}, "large": {"w": 960, "h": 792, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 960, "h": 792, "resize": "fit"}}, "id_str": "1008028962113531906", "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "id": 1008028962113531906, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "url": "https://t.co/lTR9ufxNXa"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 16:50:37 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 1368, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008029088294948864", "in_reply_to_user_id": null, "favorite_count": 3702, "id": 1008029088294948864, "text": "Not even Wi-Fi passes through them! #icelandvsargentina #WorldCup \nhttps://t.co/n05sMTXVow https://t.co/lTR9ufxNXa", "place": null, "lang": "en", "quote_count": 121, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 39, "entities": {"urls": [{"display_url": "9gag.com/gag/azXYZGz?re\u2026", "indices": [67, 90], "expanded_url": "https://9gag.com/gag/azXYZGz?ref=tp", "url": "https://t.co/n05sMTXVow"}], "hashtags": [{"indices": [36, 55], "text": "icelandvsargentina"}, {"indices": [56, 65], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/lTR9ufxNXa", "indices": [91, 114], "sizes": {"small": {"w": 680, "h": 561, "resize": "fit"}, "large": {"w": 960, "h": 792, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 960, "h": 792, "resize": "fit"}}, "id_str": "1008028962113531906", "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "id": 1008028962113531906, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "url": "https://t.co/lTR9ufxNXa"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 90], "contributors": null, "user": {"utc_offset": null, "friends_count": 10, "profile_image_url_https": "https://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg", "listed_count": 11071, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", "default_profile_image": false, "favourites_count": 1181, "description": "Submit your funny video and get a chance to win in Fun Off season 2 now http://funoff.9gag.com", "created_at": "Wed Oct 01 18:46:32 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", "protected": false, "screen_name": "9GAG", "id_str": "16548023", "profile_link_color": "0099FF", "translator_type": "regular", "id": 16548023, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "666666", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg", "time_zone": null, "url": "http://9gag.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/16548023/1496478934", "statuses_count": 41053, "follow_request_sent": null, "followers_count": 15198717, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "9GAG", "location": "Universe", "profile_sidebar_fill_color": "111111", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008181930976673792", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008181930976673792, "text": "RT @9GAG: Not even Wi-Fi passes through them! #icelandvsargentina #WorldCup \nhttps://t.co/n05sMTXVow https://t.co/lTR9ufxNXa", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529204278116", "reply_count": 0, "entities": {"urls": [{"display_url": "9gag.com/gag/azXYZGz?re\u2026", "indices": [77, 100], "expanded_url": "https://9gag.com/gag/azXYZGz?ref=tp", "url": "https://t.co/n05sMTXVow"}], "hashtags": [{"indices": [46, 65], "text": "icelandvsargentina"}, {"indices": [66, 75], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/lTR9ufxNXa", "source_user_id": 16548023, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "source_status_id": 1008029088294948864, "url": "https://t.co/lTR9ufxNXa", "indices": [101, 124], "sizes": {"small": {"w": 680, "h": 561, "resize": "fit"}, "large": {"w": 960, "h": 792, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 960, "h": 792, "resize": "fit"}}, "id_str": "1008028962113531906", "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1", "source_status_id_str": "1008029088294948864", "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg", "id": 1008028962113531906, "source_user_id_str": "16548023"}], "user_mentions": [{"indices": [3, 8], "screen_name": "9GAG", "id_str": "16548023", "name": "9GAG", "id": 16548023}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 204, "profile_image_url_https": "https://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5705, "description": "22 || Food Hunter \ud83d\udc3c                                                    \nBEng. (Hons) Mechanical Engineering \ud83d\udd27\n\n         UiTM Shah Alam \ud83c\udf93", "created_at": "Thu Jul 03 23:19:26 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "siti_sitilaaa", "id_str": "2602388304", "profile_link_color": "9266CC", "translator_type": "none", "id": 2602388304, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg", "time_zone": null, "url": "http://instagram.com/sitisolehah__", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602388304/1527511649", "statuses_count": 54001, "follow_request_sent": null, "followers_count": 334, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\ud83d\udc3c", "location": "Berlin, Germany", "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-14 18:46:34", "current_time": 1528994794057, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:46:33 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/MC3jdNO4fz", "indices": [130, 153], "sizes": {"small": {"w": 680, "h": 510, "resize": "fit"}, "large": {"w": 1024, "h": 768, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1024, "h": 768, "resize": "fit"}}, "id_str": "1007265240902336512", "expanded_url": "https://twitter.com/BernamaNewsCH/status/1007265248296857600/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg", "id": 1007265240902336512, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg", "url": "https://t.co/MC3jdNO4fz"}]}, "entities": {"urls": [], "hashtags": [{"indices": [55, 68], "text": "WorldCup2018"}], "media": [{"display_url": "pic.twitter.com/MC3jdNO4fz", "indices": [130, 153], "sizes": {"small": {"w": 680, "h": 510, "resize": "fit"}, "large": {"w": 1024, "h": 768, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1024, "h": 768, "resize": "fit"}}, "id_str": "1007265240902336512", "expanded_url": "https://twitter.com/BernamaNewsCH/status/1007265248296857600/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg", "id": 1007265240902336512, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg", "url": "https://t.co/MC3jdNO4fz"}], "user_mentions": [{"indices": [104, 119], "screen_name": "chedetofficial", "id_str": "2974181588", "name": "Dr Mahathir Mohamad", "id": 2974181588}], "symbols": []}, "full_text": "Rakyat Malaysia yang berada di Rusia untuk menyaksikan #WorldCup2018 memaparkan kain rentang Hidup Tun .@chedetofficial di Moscow https://t.co/MC3jdNO4fz", "display_text_range": [0, 129]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 14:15:23 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 98, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007265248296857600", "in_reply_to_user_id": null, "favorite_count": 238, "id": 1007265248296857600, "text": "Rakyat Malaysia yang berada di Rusia untuk menyaksikan #WorldCup2018 memaparkan kain rentang Hidup Tun .\u2026 https://t.co/7lMCG6Nssh", "place": null, "lang": "in", "quote_count": 1, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 5, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [106, 129], "expanded_url": "https://twitter.com/i/web/status/1007265248296857600", "url": "https://t.co/7lMCG6Nssh"}], "hashtags": [{"indices": [55, 68], "text": "WorldCup2018"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 274, "profile_image_url_https": "https://pbs.twimg.com/profile_images/746246266032578561/HEzrHK3u_normal.jpg", "listed_count": 82, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 909, "description": "Watch BNC on Astro 502, unifi tv 631, MYTV 121 or https://bernamanews.live/\nRebranded on 25 May 2016", "created_at": "Wed Sep 29 04:24:04 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "BernamaNewsCH", "id_str": "196460981", "profile_link_color": "981CEB", "translator_type": "none", "id": 196460981, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/746246266032578561/HEzrHK3u_normal.jpg", "time_zone": null, "url": "https://bernamanews.live/", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/196460981/1523521372", "statuses_count": 33620, "follow_request_sent": null, "followers_count": 20603, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Bernama News Channel", "location": "Kuala Lumpur City", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007303289694662657", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007303289694662657, "text": "RT @BernamaNewsCH: Rakyat Malaysia yang berada di Rusia untuk menyaksikan #WorldCup2018 memaparkan kain rentang Hidup Tun .@chedetofficial\u2026", "place": null, "lang": "in", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528994793710", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [74, 87], "text": "WorldCup2018"}], "user_mentions": [{"indices": [3, 17], "screen_name": "BernamaNewsCH", "id_str": "196460981", "name": "Bernama News Channel", "id": 196460981}, {"indices": [123, 138], "screen_name": "chedetofficial", "id_str": "2974181588", "name": "Dr Mahathir Mohamad", "id": 2974181588}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 203, "profile_image_url_https": "https://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5702, "description": "22 || Food Hunter \ud83d\udc3c                                                    \nBEng. (Hons) Mechanical Engineering \ud83d\udd27\n\n         UiTM Shah Alam \ud83c\udf93", "created_at": "Thu Jul 03 23:19:26 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "siti_sitilaaa", "id_str": "2602388304", "profile_link_color": "9266CC", "translator_type": "none", "id": 2602388304, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg", "time_zone": null, "url": "http://instagram.com/sitisolehah__", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602388304/1527511649", "statuses_count": 53913, "follow_request_sent": null, "followers_count": 331, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\ud83d\udc3c", "location": "Berlin, Germany", "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-15 12:20:25", "current_time": 1529058025926, "extended_entities": {"media": [{"display_url": "pic.twitter.com/WFAlnzSwKf", "source_user_id": 16548023, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "source_status_id": 1007518580559286272, "url": "https://t.co/WFAlnzSwKf", "indices": [89, 112], "sizes": {"small": {"w": 638, "h": 410, "resize": "fit"}, "large": {"w": 638, "h": 410, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 638, "h": 410, "resize": "fit"}}, "id_str": "1007518576838758400", "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1", "source_status_id_str": "1007518580559286272", "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "id": 1007518576838758400, "source_user_id_str": "16548023"}, {"display_url": "pic.twitter.com/WFAlnzSwKf", "source_user_id": 16548023, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg", "source_status_id": 1007518580559286272, "url": "https://t.co/WFAlnzSwKf", "indices": [89, 112], "sizes": {"small": {"w": 513, "h": 680, "resize": "fit"}, "large": {"w": 638, "h": 846, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 638, "h": 846, "resize": "fit"}}, "id_str": "1007518577669230592", "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1", "source_status_id_str": "1007518580559286272", "media_url_https": "https://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg", "id": 1007518577669230592, "source_user_id_str": "16548023"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 10:20:25 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/WFAlnzSwKf", "indices": [79, 102], "sizes": {"small": {"w": 638, "h": 410, "resize": "fit"}, "large": {"w": 638, "h": 410, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 638, "h": 410, "resize": "fit"}}, "id_str": "1007518576838758400", "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "id": 1007518576838758400, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "url": "https://t.co/WFAlnzSwKf"}, {"display_url": "pic.twitter.com/WFAlnzSwKf", "indices": [79, 102], "sizes": {"small": {"w": 513, "h": 680, "resize": "fit"}, "large": {"w": 638, "h": 846, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 638, "h": 846, "resize": "fit"}}, "id_str": "1007518577669230592", "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg", "id": 1007518577669230592, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg", "url": "https://t.co/WFAlnzSwKf"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 07:02:03 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", "retweet_count": 1587, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007518580559286272", "in_reply_to_user_id": null, "favorite_count": 3929, "id": 1007518580559286272, "text": "Sons of #WorldCup icon Clovis Acosta Fernandes takes up their father's legacy. https://t.co/WFAlnzSwKf", "place": null, "lang": "en", "quote_count": 82, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 21, "entities": {"urls": [], "hashtags": [{"indices": [8, 17], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/WFAlnzSwKf", "indices": [79, 102], "sizes": {"small": {"w": 638, "h": 410, "resize": "fit"}, "large": {"w": 638, "h": 410, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 638, "h": 410, "resize": "fit"}}, "id_str": "1007518576838758400", "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "id": 1007518576838758400, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "url": "https://t.co/WFAlnzSwKf"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 78], "contributors": null, "user": {"utc_offset": null, "friends_count": 10, "profile_image_url_https": "https://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg", "listed_count": 11081, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", "default_profile_image": false, "favourites_count": 1180, "description": "Submit your funny video and get a chance to win in Fun Off season 2 now http://funoff.9gag.com", "created_at": "Wed Oct 01 18:46:32 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", "protected": false, "screen_name": "9GAG", "id_str": "16548023", "profile_link_color": "0099FF", "translator_type": "regular", "id": 16548023, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "666666", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg", "time_zone": null, "url": "http://9gag.com", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/16548023/1496478934", "statuses_count": 41038, "follow_request_sent": null, "followers_count": 15197272, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "9GAG", "location": "Universe", "profile_sidebar_fill_color": "111111", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007568502901751808", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007568502901751808, "text": "RT @9GAG: Sons of #WorldCup icon Clovis Acosta Fernandes takes up their father's legacy. https://t.co/WFAlnzSwKf", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529058025466", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [18, 27], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/WFAlnzSwKf", "source_user_id": 16548023, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "source_status_id": 1007518580559286272, "url": "https://t.co/WFAlnzSwKf", "indices": [89, 112], "sizes": {"small": {"w": 638, "h": 410, "resize": "fit"}, "large": {"w": 638, "h": 410, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 638, "h": 410, "resize": "fit"}}, "id_str": "1007518576838758400", "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1", "source_status_id_str": "1007518580559286272", "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg", "id": 1007518576838758400, "source_user_id_str": "16548023"}], "user_mentions": [{"indices": [3, 8], "screen_name": "9GAG", "id_str": "16548023", "name": "9GAG", "id": 16548023}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 203, "profile_image_url_https": "https://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 5704, "description": "22 || Food Hunter \ud83d\udc3c                                                    \nBEng. (Hons) Mechanical Engineering \ud83d\udd27\n\n         UiTM Shah Alam \ud83c\udf93", "created_at": "Thu Jul 03 23:19:26 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "siti_sitilaaa", "id_str": "2602388304", "profile_link_color": "9266CC", "translator_type": "none", "id": 2602388304, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg", "time_zone": null, "url": "http://instagram.com/sitisolehah__", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602388304/1527511649", "statuses_count": 53960, "follow_request_sent": null, "followers_count": 331, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\ud83d\udc3c", "location": "Berlin, Germany", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-17 04:57:58",
+    "current_time": 1529204278363,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lTR9ufxNXa",
+          "source_user_id": 16548023,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+          "source_status_id": 1008029088294948864,
+          "url": "https://t.co/lTR9ufxNXa",
+          "indices": [
+            101,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 561,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 792,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 792,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008028962113531906",
+          "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1",
+          "source_status_id_str": "1008029088294948864",
+          "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+          "id": 1008028962113531906,
+          "source_user_id_str": "16548023"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 02:57:58 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lTR9ufxNXa",
+            "indices": [
+              91,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 561,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 792,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 792,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008028962113531906",
+            "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+            "id": 1008028962113531906,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+            "url": "https://t.co/lTR9ufxNXa"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 16:50:37 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 1368,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008029088294948864",
+      "in_reply_to_user_id": null,
+      "favorite_count": 3702,
+      "id": 1008029088294948864,
+      "text": "Not even Wi-Fi passes through them! #icelandvsargentina #WorldCup \nhttps://t.co/n05sMTXVow https://t.co/lTR9ufxNXa",
+      "place": null,
+      "lang": "en",
+      "quote_count": 121,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 39,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "9gag.com/gag/azXYZGz?re…",
+            "indices": [
+              67,
+              90
+            ],
+            "expanded_url": "https://9gag.com/gag/azXYZGz?ref=tp",
+            "url": "https://t.co/n05sMTXVow"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              36,
+              55
+            ],
+            "text": "icelandvsargentina"
+          },
+          {
+            "indices": [
+              56,
+              65
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lTR9ufxNXa",
+            "indices": [
+              91,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 561,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 792,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 792,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1008028962113531906",
+            "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+            "id": 1008028962113531906,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+            "url": "https://t.co/lTR9ufxNXa"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        90
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 10,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg",
+        "listed_count": 11071,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1181,
+        "description": "Submit your funny video and get a chance to win in Fun Off season 2 now http://funoff.9gag.com",
+        "created_at": "Wed Oct 01 18:46:32 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "protected": false,
+        "screen_name": "9GAG",
+        "id_str": "16548023",
+        "profile_link_color": "0099FF",
+        "translator_type": "regular",
+        "id": 16548023,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "666666",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg",
+        "time_zone": null,
+        "url": "http://9gag.com",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16548023/1496478934",
+        "statuses_count": 41053,
+        "follow_request_sent": null,
+        "followers_count": 15198717,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "9GAG",
+        "location": "Universe",
+        "profile_sidebar_fill_color": "111111",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008181930976673792",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008181930976673792,
+    "text": "RT @9GAG: Not even Wi-Fi passes through them! #icelandvsargentina #WorldCup \nhttps://t.co/n05sMTXVow https://t.co/lTR9ufxNXa",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529204278116",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "9gag.com/gag/azXYZGz?re…",
+          "indices": [
+            77,
+            100
+          ],
+          "expanded_url": "https://9gag.com/gag/azXYZGz?ref=tp",
+          "url": "https://t.co/n05sMTXVow"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            46,
+            65
+          ],
+          "text": "icelandvsargentina"
+        },
+        {
+          "indices": [
+            66,
+            75
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lTR9ufxNXa",
+          "source_user_id": 16548023,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+          "source_status_id": 1008029088294948864,
+          "url": "https://t.co/lTR9ufxNXa",
+          "indices": [
+            101,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 561,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 792,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 792,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1008028962113531906",
+          "expanded_url": "https://twitter.com/9GAG/status/1008029088294948864/photo/1",
+          "source_status_id_str": "1008029088294948864",
+          "media_url_https": "https://pbs.twimg.com/media/Df09ABIVMAIk0lH.jpg",
+          "id": 1008028962113531906,
+          "source_user_id_str": "16548023"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            8
+          ],
+          "screen_name": "9GAG",
+          "id_str": "16548023",
+          "name": "9GAG",
+          "id": 16548023
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 204,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5705,
+      "description": "22 || Food Hunter 🐼                                                    \nBEng. (Hons) Mechanical Engineering 🔧\n\n         UiTM Shah Alam 🎓",
+      "created_at": "Thu Jul 03 23:19:26 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "siti_sitilaaa",
+      "id_str": "2602388304",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2602388304,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg",
+      "time_zone": null,
+      "url": "http://instagram.com/sitisolehah__",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602388304/1527511649",
+      "statuses_count": 54001,
+      "follow_request_sent": null,
+      "followers_count": 334,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "🐼",
+      "location": "Berlin, Germany",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 18:46:34",
+    "current_time": 1528994794057,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 16:46:33 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/MC3jdNO4fz",
+              "indices": [
+                130,
+                153
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007265240902336512",
+              "expanded_url": "https://twitter.com/BernamaNewsCH/status/1007265248296857600/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg",
+              "id": 1007265240902336512,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg",
+              "url": "https://t.co/MC3jdNO4fz"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                55,
+                68
+              ],
+              "text": "WorldCup2018"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/MC3jdNO4fz",
+              "indices": [
+                130,
+                153
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007265240902336512",
+              "expanded_url": "https://twitter.com/BernamaNewsCH/status/1007265248296857600/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg",
+              "id": 1007265240902336512,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfqGZl6VAAALEmH.jpg",
+              "url": "https://t.co/MC3jdNO4fz"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                104,
+                119
+              ],
+              "screen_name": "chedetofficial",
+              "id_str": "2974181588",
+              "name": "Dr Mahathir Mohamad",
+              "id": 2974181588
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "Rakyat Malaysia yang berada di Rusia untuk menyaksikan #WorldCup2018 memaparkan kain rentang Hidup Tun .@chedetofficial di Moscow https://t.co/MC3jdNO4fz",
+        "display_text_range": [
+          0,
+          129
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 14:15:23 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 98,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007265248296857600",
+      "in_reply_to_user_id": null,
+      "favorite_count": 238,
+      "id": 1007265248296857600,
+      "text": "Rakyat Malaysia yang berada di Rusia untuk menyaksikan #WorldCup2018 memaparkan kain rentang Hidup Tun .… https://t.co/7lMCG6Nssh",
+      "place": null,
+      "lang": "in",
+      "quote_count": 1,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 5,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              106,
+              129
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007265248296857600",
+            "url": "https://t.co/7lMCG6Nssh"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              55,
+              68
+            ],
+            "text": "WorldCup2018"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 274,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746246266032578561/HEzrHK3u_normal.jpg",
+        "listed_count": 82,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 909,
+        "description": "Watch BNC on Astro 502, unifi tv 631, MYTV 121 or https://bernamanews.live/\nRebranded on 25 May 2016",
+        "created_at": "Wed Sep 29 04:24:04 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "BernamaNewsCH",
+        "id_str": "196460981",
+        "profile_link_color": "981CEB",
+        "translator_type": "none",
+        "id": 196460981,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746246266032578561/HEzrHK3u_normal.jpg",
+        "time_zone": null,
+        "url": "https://bernamanews.live/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196460981/1523521372",
+        "statuses_count": 33620,
+        "follow_request_sent": null,
+        "followers_count": 20603,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Bernama News Channel",
+        "location": "Kuala Lumpur City",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007303289694662657",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007303289694662657,
+    "text": "RT @BernamaNewsCH: Rakyat Malaysia yang berada di Rusia untuk menyaksikan #WorldCup2018 memaparkan kain rentang Hidup Tun .@chedetofficial…",
+    "place": null,
+    "lang": "in",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528994793710",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            74,
+            87
+          ],
+          "text": "WorldCup2018"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "BernamaNewsCH",
+          "id_str": "196460981",
+          "name": "Bernama News Channel",
+          "id": 196460981
+        },
+        {
+          "indices": [
+            123,
+            138
+          ],
+          "screen_name": "chedetofficial",
+          "id_str": "2974181588",
+          "name": "Dr Mahathir Mohamad",
+          "id": 2974181588
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 203,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5702,
+      "description": "22 || Food Hunter 🐼                                                    \nBEng. (Hons) Mechanical Engineering 🔧\n\n         UiTM Shah Alam 🎓",
+      "created_at": "Thu Jul 03 23:19:26 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "siti_sitilaaa",
+      "id_str": "2602388304",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2602388304,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg",
+      "time_zone": null,
+      "url": "http://instagram.com/sitisolehah__",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602388304/1527511649",
+      "statuses_count": 53913,
+      "follow_request_sent": null,
+      "followers_count": 331,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "🐼",
+      "location": "Berlin, Germany",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 12:20:25",
+    "current_time": 1529058025926,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WFAlnzSwKf",
+          "source_user_id": 16548023,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+          "source_status_id": 1007518580559286272,
+          "url": "https://t.co/WFAlnzSwKf",
+          "indices": [
+            89,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 638,
+              "h": 410,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 638,
+              "h": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 638,
+              "h": 410,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007518576838758400",
+          "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1",
+          "source_status_id_str": "1007518580559286272",
+          "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+          "id": 1007518576838758400,
+          "source_user_id_str": "16548023"
+        },
+        {
+          "display_url": "pic.twitter.com/WFAlnzSwKf",
+          "source_user_id": 16548023,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg",
+          "source_status_id": 1007518580559286272,
+          "url": "https://t.co/WFAlnzSwKf",
+          "indices": [
+            89,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 513,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 638,
+              "h": 846,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 638,
+              "h": 846,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007518577669230592",
+          "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1",
+          "source_status_id_str": "1007518580559286272",
+          "media_url_https": "https://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg",
+          "id": 1007518577669230592,
+          "source_user_id_str": "16548023"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 10:20:25 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WFAlnzSwKf",
+            "indices": [
+              79,
+              102
+            ],
+            "sizes": {
+              "small": {
+                "w": 638,
+                "h": 410,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 638,
+                "h": 410,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 638,
+                "h": 410,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007518576838758400",
+            "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+            "id": 1007518576838758400,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+            "url": "https://t.co/WFAlnzSwKf"
+          },
+          {
+            "display_url": "pic.twitter.com/WFAlnzSwKf",
+            "indices": [
+              79,
+              102
+            ],
+            "sizes": {
+              "small": {
+                "w": 513,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 638,
+                "h": 846,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 638,
+                "h": 846,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007518577669230592",
+            "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg",
+            "id": 1007518577669230592,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dftszu6U0AApbPJ.jpg",
+            "url": "https://t.co/WFAlnzSwKf"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 07:02:03 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "retweet_count": 1587,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007518580559286272",
+      "in_reply_to_user_id": null,
+      "favorite_count": 3929,
+      "id": 1007518580559286272,
+      "text": "Sons of #WorldCup icon Clovis Acosta Fernandes takes up their father's legacy. https://t.co/WFAlnzSwKf",
+      "place": null,
+      "lang": "en",
+      "quote_count": 82,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 21,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              8,
+              17
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WFAlnzSwKf",
+            "indices": [
+              79,
+              102
+            ],
+            "sizes": {
+              "small": {
+                "w": 638,
+                "h": 410,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 638,
+                "h": 410,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 638,
+                "h": 410,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007518576838758400",
+            "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+            "id": 1007518576838758400,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+            "url": "https://t.co/WFAlnzSwKf"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        78
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 10,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg",
+        "listed_count": 11081,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1180,
+        "description": "Submit your funny video and get a chance to win in Fun Off season 2 now http://funoff.9gag.com",
+        "created_at": "Wed Oct 01 18:46:32 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "protected": false,
+        "screen_name": "9GAG",
+        "id_str": "16548023",
+        "profile_link_color": "0099FF",
+        "translator_type": "regular",
+        "id": 16548023,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "666666",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/852355177260621824/UsIvWpWX_normal.jpg",
+        "time_zone": null,
+        "url": "http://9gag.com",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16548023/1496478934",
+        "statuses_count": 41038,
+        "follow_request_sent": null,
+        "followers_count": 15197272,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "9GAG",
+        "location": "Universe",
+        "profile_sidebar_fill_color": "111111",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007568502901751808",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007568502901751808,
+    "text": "RT @9GAG: Sons of #WorldCup icon Clovis Acosta Fernandes takes up their father's legacy. https://t.co/WFAlnzSwKf",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529058025466",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            18,
+            27
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WFAlnzSwKf",
+          "source_user_id": 16548023,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+          "source_status_id": 1007518580559286272,
+          "url": "https://t.co/WFAlnzSwKf",
+          "indices": [
+            89,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 638,
+              "h": 410,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 638,
+              "h": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 638,
+              "h": 410,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007518576838758400",
+          "expanded_url": "https://twitter.com/9GAG/status/1007518580559286272/photo/1",
+          "source_status_id_str": "1007518580559286272",
+          "media_url_https": "https://pbs.twimg.com/media/Dftszr0U0AAK1ek.jpg",
+          "id": 1007518576838758400,
+          "source_user_id_str": "16548023"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            8
+          ],
+          "screen_name": "9GAG",
+          "id_str": "16548023",
+          "name": "9GAG",
+          "id": 16548023
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 203,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5704,
+      "description": "22 || Food Hunter 🐼                                                    \nBEng. (Hons) Mechanical Engineering 🔧\n\n         UiTM Shah Alam 🎓",
+      "created_at": "Thu Jul 03 23:19:26 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "siti_sitilaaa",
+      "id_str": "2602388304",
+      "profile_link_color": "9266CC",
+      "translator_type": "none",
+      "id": 2602388304,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/986287068908216320/kP6uT9lU_normal.jpg",
+      "time_zone": null,
+      "url": "http://instagram.com/sitisolehah__",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2602388304/1527511649",
+      "statuses_count": 53960,
+      "follow_request_sent": null,
+      "followers_count": 331,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "🐼",
+      "location": "Berlin, Germany",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

@@ -1,1 +1,424 @@
-{"created_date": "2018-06-14 19:08:52", "current_time": 1528996132734, "extended_entities": {"media": [{"display_url": "pic.twitter.com/Qk8gykYK4v", "source_user_id": 761072954624966656, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "source_status_id": 1007276698457591813, "url": "https://t.co/Qk8gykYK4v", "indices": [95, 118], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 940, "h": 529, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 940, "h": 529, "resize": "fit"}}, "id_str": "1007276667210027009", "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1", "source_status_id_str": "1007276698457591813", "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "id": 1007276667210027009, "source_user_id_str": "761072954624966656"}, {"display_url": "pic.twitter.com/Qk8gykYK4v", "source_user_id": 761072954624966656, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg", "source_status_id": 1007276698457591813, "url": "https://t.co/Qk8gykYK4v", "indices": [95, 118], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007276667750973440", "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1", "source_status_id_str": "1007276698457591813", "media_url_https": "https://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg", "id": 1007276667750973440, "source_user_id_str": "761072954624966656"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 17:08:52 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/Qk8gykYK4v", "indices": [76, 99], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 940, "h": 529, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 940, "h": 529, "resize": "fit"}}, "id_str": "1007276667210027009", "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "id": 1007276667210027009, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "url": "https://t.co/Qk8gykYK4v"}, {"display_url": "pic.twitter.com/Qk8gykYK4v", "indices": [76, 99], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 1200, "h": 800, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007276667750973440", "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg", "id": 1007276667750973440, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg", "url": "https://t.co/Qk8gykYK4v"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:00:53 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 1659, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007276698457591813", "in_reply_to_user_id": null, "favorite_count": 380, "id": 1007276698457591813, "text": "Who had a better #WorldCup performance? \ud83e\udd14\n\n\ud83d\udd04 - RT Shakira \n\u2764\ufe0f - Like Robbie https://t.co/Qk8gykYK4v", "place": null, "lang": "en", "quote_count": 46, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 34, "entities": {"urls": [], "hashtags": [{"indices": [17, 26], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/Qk8gykYK4v", "indices": [76, 99], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 940, "h": 529, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 940, "h": 529, "resize": "fit"}}, "id_str": "1007276667210027009", "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "id": 1007276667210027009, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "url": "https://t.co/Qk8gykYK4v"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 75], "contributors": null, "user": {"utc_offset": null, "friends_count": 432, "profile_image_url_https": "https://pbs.twimg.com/profile_images/889468872063057920/gu-ooNsO_normal.jpg", "listed_count": 134, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 483, "description": "2 Balls, 1 Cup. Nothing better than footy betting and banter 18+", "created_at": "Thu Aug 04 05:35:07 +0000 2016", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "shotongoal247", "id_str": "761072954624966656", "profile_link_color": "FF691F", "translator_type": "none", "id": 761072954624966656, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/889468872063057920/gu-ooNsO_normal.jpg", "time_zone": null, "url": "http://www.freebets.co.uk", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/761072954624966656/1527403013", "statuses_count": 21909, "follow_request_sent": null, "followers_count": 13664, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "ShotOnGoal", "location": "London, England", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007308904735301633", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007308904735301633, "text": "RT @shotongoal247: Who had a better #WorldCup performance? \ud83e\udd14\n\n\ud83d\udd04 - RT Shakira \n\u2764\ufe0f - Like Robbie https://t.co/Qk8gykYK4v", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528996132440", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [36, 45], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/Qk8gykYK4v", "source_user_id": 761072954624966656, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "source_status_id": 1007276698457591813, "url": "https://t.co/Qk8gykYK4v", "indices": [95, 118], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 940, "h": 529, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 940, "h": 529, "resize": "fit"}}, "id_str": "1007276667210027009", "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1", "source_status_id_str": "1007276698457591813", "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg", "id": 1007276667210027009, "source_user_id_str": "761072954624966656"}], "user_mentions": [{"indices": [3, 17], "screen_name": "shotongoal247", "id_str": "761072954624966656", "name": "ShotOnGoal", "id": 761072954624966656}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 660, "profile_image_url_https": "https://pbs.twimg.com/profile_images/567218186022449152/gn4nRNln_normal.jpeg", "listed_count": 2, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 94, "description": null, "created_at": "Tue Nov 19 07:05:07 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "EryHilmy", "id_str": "2202638660", "profile_link_color": "F00808", "translator_type": "none", "id": 2202638660, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/567218186022449152/gn4nRNln_normal.jpeg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2202638660/1413467450", "statuses_count": 21277, "follow_request_sent": null, "followers_count": 2703, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "Ery", "location": null, "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-14 19:08:52",
+    "current_time": 1528996132734,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Qk8gykYK4v",
+          "source_user_id": 761072954624966656,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+          "source_status_id": 1007276698457591813,
+          "url": "https://t.co/Qk8gykYK4v",
+          "indices": [
+            95,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 940,
+              "h": 529,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 940,
+              "h": 529,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007276667210027009",
+          "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1",
+          "source_status_id_str": "1007276698457591813",
+          "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+          "id": 1007276667210027009,
+          "source_user_id_str": "761072954624966656"
+        },
+        {
+          "display_url": "pic.twitter.com/Qk8gykYK4v",
+          "source_user_id": 761072954624966656,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg",
+          "source_status_id": 1007276698457591813,
+          "url": "https://t.co/Qk8gykYK4v",
+          "indices": [
+            95,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007276667750973440",
+          "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1",
+          "source_status_id_str": "1007276698457591813",
+          "media_url_https": "https://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg",
+          "id": 1007276667750973440,
+          "source_user_id_str": "761072954624966656"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 17:08:52 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Qk8gykYK4v",
+            "indices": [
+              76,
+              99
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 940,
+                "h": 529,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 940,
+                "h": 529,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007276667210027009",
+            "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+            "id": 1007276667210027009,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+            "url": "https://t.co/Qk8gykYK4v"
+          },
+          {
+            "display_url": "pic.twitter.com/Qk8gykYK4v",
+            "indices": [
+              76,
+              99
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007276667750973440",
+            "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg",
+            "id": 1007276667750973440,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqQyuPWAAA8LmX.jpg",
+            "url": "https://t.co/Qk8gykYK4v"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 15:00:53 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 1659,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007276698457591813",
+      "in_reply_to_user_id": null,
+      "favorite_count": 380,
+      "id": 1007276698457591813,
+      "text": "Who had a better #WorldCup performance? 🤔\n\n🔄 - RT Shakira \n❤️ - Like Robbie https://t.co/Qk8gykYK4v",
+      "place": null,
+      "lang": "en",
+      "quote_count": 46,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 34,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              17,
+              26
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Qk8gykYK4v",
+            "indices": [
+              76,
+              99
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 940,
+                "h": 529,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 940,
+                "h": 529,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007276667210027009",
+            "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+            "id": 1007276667210027009,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+            "url": "https://t.co/Qk8gykYK4v"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        75
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 432,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/889468872063057920/gu-ooNsO_normal.jpg",
+        "listed_count": 134,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 483,
+        "description": "2 Balls, 1 Cup. Nothing better than footy betting and banter 18+",
+        "created_at": "Thu Aug 04 05:35:07 +0000 2016",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "shotongoal247",
+        "id_str": "761072954624966656",
+        "profile_link_color": "FF691F",
+        "translator_type": "none",
+        "id": 761072954624966656,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/889468872063057920/gu-ooNsO_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.freebets.co.uk",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/761072954624966656/1527403013",
+        "statuses_count": 21909,
+        "follow_request_sent": null,
+        "followers_count": 13664,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "ShotOnGoal",
+        "location": "London, England",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007308904735301633",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007308904735301633,
+    "text": "RT @shotongoal247: Who had a better #WorldCup performance? 🤔\n\n🔄 - RT Shakira \n❤️ - Like Robbie https://t.co/Qk8gykYK4v",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528996132440",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            36,
+            45
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Qk8gykYK4v",
+          "source_user_id": 761072954624966656,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+          "source_status_id": 1007276698457591813,
+          "url": "https://t.co/Qk8gykYK4v",
+          "indices": [
+            95,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 940,
+              "h": 529,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 940,
+              "h": 529,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007276667210027009",
+          "expanded_url": "https://twitter.com/shotongoal247/status/1007276698457591813/photo/1",
+          "source_status_id_str": "1007276698457591813",
+          "media_url_https": "https://pbs.twimg.com/media/DfqQysOX0AE6xAC.jpg",
+          "id": 1007276667210027009,
+          "source_user_id_str": "761072954624966656"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "shotongoal247",
+          "id_str": "761072954624966656",
+          "name": "ShotOnGoal",
+          "id": 761072954624966656
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 660,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/567218186022449152/gn4nRNln_normal.jpeg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 94,
+      "description": null,
+      "created_at": "Tue Nov 19 07:05:07 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "EryHilmy",
+      "id_str": "2202638660",
+      "profile_link_color": "F00808",
+      "translator_type": "none",
+      "id": 2202638660,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/567218186022449152/gn4nRNln_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2202638660/1413467450",
+      "statuses_count": 21277,
+      "follow_request_sent": null,
+      "followers_count": 2703,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Ery",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

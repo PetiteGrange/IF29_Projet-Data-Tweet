@@ -1,9 +1,3289 @@
-{"created_date": "2018-06-16 15:05:08", "current_time": 1529154308655, "extended_entities": {"media": [{"display_url": "pic.twitter.com/RalMQ5VGYO", "source_user_id": 105297123, "type": "video", "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "source_status_id": 1007967354410553345, "url": "https://t.co/RalMQ5VGYO", "indices": [58, 81], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007967285925965824", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1", "source_status_id_str": "1007967354410553345", "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "id": 1007967285925965824, "source_user_id_str": "105297123", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [1, 1], "duration_millis": 10010, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/480x480/1MSrOW7mTMQxmiiN.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/720x720/lCG7XqM0bqsUUh9y.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 320000, "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/240x240/rxeRMR99Z-MDpw1l.mp4?tag=2"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/amplify_video/1007967285925965824/pl/TnanqApyMeXTZThG.m3u8?tag=2"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 13:05:08 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/RalMQ5VGYO", "indices": [40, 63], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007967285925965824", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1", "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "id": 1007967285925965824, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "url": "https://t.co/RalMQ5VGYO", "video_info": {"aspect_ratio": [1, 1], "duration_millis": 10010, "variants": [{"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/480x480/1MSrOW7mTMQxmiiN.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/720x720/lCG7XqM0bqsUUh9y.mp4?tag=2"}, {"content_type": "video/mp4", "bitrate": 320000, "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/240x240/rxeRMR99Z-MDpw1l.mp4?tag=2"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/amplify_video/1007967285925965824/pl/TnanqApyMeXTZThG.m3u8?tag=2"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 12:45:19 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>", "retweet_count": 192, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007967354410553345", "in_reply_to_user_id": null, "favorite_count": 1166, "id": 1007967354410553345, "text": "Your turn, Leo Messi! #WorldCup #ARGISL https://t.co/RalMQ5VGYO", "place": null, "lang": "en", "quote_count": 7, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 67, "entities": {"urls": [], "hashtags": [{"indices": [22, 31], "text": "WorldCup"}, {"indices": [32, 39], "text": "ARGISL"}], "media": [{"display_url": "pic.twitter.com/RalMQ5VGYO", "indices": [40, 63], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007967285925965824", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1", "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "id": 1007967285925965824, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "url": "https://t.co/RalMQ5VGYO"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 39], "contributors": null, "user": {"utc_offset": null, "friends_count": 328, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg", "listed_count": 6384, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3294, "description": "Rated (E) for Everyone. Official EA SPORTS account for the FIFA franchise. By tweeting to us you're consenting its use in any media, including TV.", "created_at": "Fri Jan 15 23:38:36 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "EASPORTSFIFA", "id_str": "105297123", "profile_link_color": "8A005F", "translator_type": "none", "id": 105297123, "geo_enabled": false, "profile_background_color": "F0F0F0", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "3E3E3E", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg", "time_zone": null, "url": "http://www.easports.com/fifa", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/105297123/1528567862", "statuses_count": 266101, "follow_request_sent": null, "followers_count": 6441514, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "EA SPORTS FIFA", "location": "Global", "profile_sidebar_fill_color": "EEEEEE", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007972342943944704", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007972342943944704, "text": "RT @EASPORTSFIFA: Your turn, Leo Messi! #WorldCup #ARGISL https://t.co/RalMQ5VGYO", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529154308435", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [40, 49], "text": "WorldCup"}, {"indices": [50, 57], "text": "ARGISL"}], "media": [{"display_url": "pic.twitter.com/RalMQ5VGYO", "source_user_id": 105297123, "type": "photo", "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "source_status_id": 1007967354410553345, "url": "https://t.co/RalMQ5VGYO", "indices": [58, 81], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007967285925965824", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1", "source_status_id_str": "1007967354410553345", "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg", "id": 1007967285925965824, "source_user_id_str": "105297123", "additional_media_info": {"monetizable": false}}], "user_mentions": [{"indices": [3, 16], "screen_name": "EASPORTSFIFA", "id_str": "105297123", "name": "EA SPORTS FIFA", "id": 105297123}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1988, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11339, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67328, "follow_request_sent": null, "followers_count": 539, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-16 15:05:16", "current_time": 1529154316173, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 13:05:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/IueAm12070", "indices": [106, 129], "sizes": {"small": {"w": 680, "h": 357, "resize": "fit"}, "large": {"w": 700, "h": 367, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 700, "h": 367, "resize": "fit"}}, "id_str": "1007951802594099200", "expanded_url": "https://twitter.com/Pogbaology/status/1007951804947156992/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg", "id": 1007951802594099200, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg", "url": "https://t.co/IueAm12070"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 11:43:31 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 129, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007951804947156992", "in_reply_to_user_id": null, "favorite_count": 447, "id": 1007951804947156992, "text": "Paul Pogba is the first french player since Michel Platini to score in consecutive #WorldCup tournaments. https://t.co/IueAm12070", "place": null, "lang": "en", "quote_count": 2, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 7, "entities": {"urls": [], "hashtags": [{"indices": [83, 92], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/IueAm12070", "indices": [106, 129], "sizes": {"small": {"w": 680, "h": 357, "resize": "fit"}, "large": {"w": 700, "h": 367, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 700, "h": 367, "resize": "fit"}}, "id_str": "1007951802594099200", "expanded_url": "https://twitter.com/Pogbaology/status/1007951804947156992/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg", "id": 1007951802594099200, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg", "url": "https://t.co/IueAm12070"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 105], "contributors": null, "user": {"utc_offset": null, "friends_count": 277, "profile_image_url_https": "https://pbs.twimg.com/profile_images/778333871167381504/5FGOEE3o_normal.jpg", "listed_count": 61, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 682, "description": "Paul Pogba FC.\nVideos.\nParody.\nManchester United.", "created_at": "Fri Nov 14 22:59:29 +0000 2014", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Pogbaology", "id_str": "2877166283", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 2877166283, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/778333871167381504/5FGOEE3o_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2877166283/1474404316", "statuses_count": 1131, "follow_request_sent": null, "followers_count": 22261, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Paul Pogba", "location": "@Mourinhomindset", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007972374422212608", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007972374422212608, "text": "RT @Pogbaology: Paul Pogba is the first french player since Michel Platini to score in consecutive #WorldCup tournaments. https://t.co/IueA\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529154315940", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [99, 108], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 14], "screen_name": "Pogbaology", "id_str": "2877166283", "name": "Paul Pogba", "id": 2877166283}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1988, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11339, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67329, "follow_request_sent": null, "followers_count": 539, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-16 15:05:20", "current_time": 1529154320877, "extended_entities": {"media": [{"display_url": "pic.twitter.com/r0uoJBskrK", "source_user_id": 105297123, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "source_status_id": 1007955158637187073, "url": "https://t.co/r0uoJBskrK", "indices": [76, 99], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1600, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007954762061565952", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1", "source_status_id_str": "1007955158637187073", "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "id": 1007954762061565952, "source_user_id_str": "105297123"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 13:05:20 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/r0uoJBskrK", "indices": [58, 81], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1600, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007954762061565952", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "id": 1007954762061565952, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "url": "https://t.co/r0uoJBskrK"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 11:56:51 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 239, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007955158637187073", "in_reply_to_user_id": null, "favorite_count": 1829, "id": 1007955158637187073, "text": ".@paulpogba and #FRA take the 3 points. #WorldCup #FIFA18 https://t.co/r0uoJBskrK", "place": null, "lang": "en", "quote_count": 13, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 76, "entities": {"urls": [], "hashtags": [{"indices": [16, 20], "text": "FRA"}, {"indices": [40, 49], "text": "WorldCup"}, {"indices": [50, 57], "text": "FIFA18"}], "media": [{"display_url": "pic.twitter.com/r0uoJBskrK", "indices": [58, 81], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1600, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007954762061565952", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "id": 1007954762061565952, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "url": "https://t.co/r0uoJBskrK"}], "user_mentions": [{"indices": [1, 11], "screen_name": "paulpogba", "id_str": "2491702663", "name": "Paul Pogba", "id": 2491702663}], "symbols": []}, "display_text_range": [0, 57], "contributors": null, "user": {"utc_offset": null, "friends_count": 328, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg", "listed_count": 6385, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3294, "description": "Rated (E) for Everyone. Official EA SPORTS account for the FIFA franchise. By tweeting to us you're consenting its use in any media, including TV.", "created_at": "Fri Jan 15 23:38:36 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "EASPORTSFIFA", "id_str": "105297123", "profile_link_color": "8A005F", "translator_type": "none", "id": 105297123, "geo_enabled": false, "profile_background_color": "F0F0F0", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "3E3E3E", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg", "time_zone": null, "url": "http://www.easports.com/fifa", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/105297123/1528567862", "statuses_count": 266101, "follow_request_sent": null, "followers_count": 6441514, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "EA SPORTS FIFA", "location": "Global", "profile_sidebar_fill_color": "EEEEEE", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007972393720172544", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007972393720172544, "text": "RT @EASPORTSFIFA: .@paulpogba and #FRA take the 3 points. #WorldCup #FIFA18 https://t.co/r0uoJBskrK", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529154320541", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [34, 38], "text": "FRA"}, {"indices": [58, 67], "text": "WorldCup"}, {"indices": [68, 75], "text": "FIFA18"}], "media": [{"display_url": "pic.twitter.com/r0uoJBskrK", "source_user_id": 105297123, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "source_status_id": 1007955158637187073, "url": "https://t.co/r0uoJBskrK", "indices": [76, 99], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1600, "h": 900, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1007954762061565952", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1", "source_status_id_str": "1007955158637187073", "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg", "id": 1007954762061565952, "source_user_id_str": "105297123"}], "user_mentions": [{"indices": [3, 16], "screen_name": "EASPORTSFIFA", "id_str": "105297123", "name": "EA SPORTS FIFA", "id": 105297123}, {"indices": [19, 29], "screen_name": "paulpogba", "id_str": "2491702663", "name": "Paul Pogba", "id": 2491702663}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1988, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11339, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67330, "follow_request_sent": null, "followers_count": 539, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-16 15:07:10", "current_time": 1529154430644, "extended_entities": {"media": [{"display_url": "pic.twitter.com/SeVVx2bn2v", "source_user_id": 1674241980, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "source_status_id": 1007956279753674752, "url": "https://t.co/SeVVx2bn2v", "indices": [30, 53], "sizes": {"small": {"w": 453, "h": 680, "resize": "fit"}, "large": {"w": 1365, "h": 2048, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 800, "h": 1200, "resize": "fit"}}, "id_str": "1007956271738351616", "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1", "source_status_id_str": "1007956279753674752", "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "id": 1007956271738351616, "source_user_id_str": "1674241980"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 13:07:10 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/SeVVx2bn2v", "indices": [12, 35], "sizes": {"small": {"w": 453, "h": 680, "resize": "fit"}, "large": {"w": 1365, "h": 2048, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 800, "h": 1200, "resize": "fit"}}, "id_str": "1007956271738351616", "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "id": 1007956271738351616, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "url": "https://t.co/SeVVx2bn2v"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 12:01:18 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 53, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007956279753674752", "in_reply_to_user_id": null, "favorite_count": 578, "id": 1007956279753674752, "text": "\ud83d\udc10 #WorldCup https://t.co/SeVVx2bn2v", "place": null, "lang": "und", "quote_count": 3, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 22, "entities": {"urls": [], "hashtags": [{"indices": [2, 11], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/SeVVx2bn2v", "indices": [12, 35], "sizes": {"small": {"w": 453, "h": 680, "resize": "fit"}, "large": {"w": 1365, "h": 2048, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 800, "h": 1200, "resize": "fit"}}, "id_str": "1007956271738351616", "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "id": 1007956271738351616, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "url": "https://t.co/SeVVx2bn2v"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 11], "contributors": null, "user": {"utc_offset": null, "friends_count": 450, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007412069795336193/6HHFgCgr_normal.jpg", "listed_count": 360, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3, "description": "Professional Footballer for Reading FC and Republic of Ireland International", "created_at": "Thu Aug 15 23:20:03 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "DavidMeyler7", "id_str": "1674241980", "profile_link_color": "1B95E0", "translator_type": "none", "id": 1674241980, "geo_enabled": true, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1007412069795336193/6HHFgCgr_normal.jpg", "time_zone": null, "url": "http://youtube.com/c/DavidMeyler7", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674241980/1512691276", "statuses_count": 13971, "follow_request_sent": null, "followers_count": 183152, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "David Meyler", "location": "United Kingdom", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007972854695153664", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007972854695153664, "text": "RT @DavidMeyler7: \ud83d\udc10 #WorldCup https://t.co/SeVVx2bn2v", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529154430446", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [20, 29], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/SeVVx2bn2v", "source_user_id": 1674241980, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "source_status_id": 1007956279753674752, "url": "https://t.co/SeVVx2bn2v", "indices": [30, 53], "sizes": {"small": {"w": 453, "h": 680, "resize": "fit"}, "large": {"w": 1365, "h": 2048, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 800, "h": 1200, "resize": "fit"}}, "id_str": "1007956271738351616", "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1", "source_status_id_str": "1007956279753674752", "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg", "id": 1007956271738351616, "source_user_id_str": "1674241980"}], "user_mentions": [{"indices": [3, 16], "screen_name": "DavidMeyler7", "id_str": "1674241980", "name": "David Meyler", "id": 1674241980}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1988, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11340, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67333, "follow_request_sent": null, "followers_count": 539, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-16 21:53:13", "current_time": 1529178793648, "extended_entities": {"media": [{"display_url": "pic.twitter.com/EQCMT0VBVe", "source_user_id": 14978043, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "source_status_id": 1007715272642449408, "url": "https://t.co/EQCMT0VBVe", "indices": [37, 60], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007715215591473152", "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1", "source_status_id_str": "1007715272642449408", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "id": 1007715215591473152, "source_user_id_str": "14978043", "additional_media_info": {"monetizable": false}, "video_info": {"aspect_ratio": [1, 1], "duration_millis": 51853, "variants": [{"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/720x720/uW8XSaNdgPjoI1gY.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/480x480/3iFaX5WYIaBl5Sjb.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/pl/LqxuehGONg1mwGy5.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/240x240/bLGpEkHiB0A8PVb6.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 19:53:13 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/EQCMT0VBVe", "indices": [25, 48], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007715215591473152", "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "id": 1007715215591473152, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "url": "https://t.co/EQCMT0VBVe", "video_info": {"aspect_ratio": [1, 1], "duration_millis": 51853, "variants": [{"content_type": "video/mp4", "bitrate": 1280000, "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/720x720/uW8XSaNdgPjoI1gY.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/480x480/3iFaX5WYIaBl5Sjb.mp4?tag=3"}, {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/pl/LqxuehGONg1mwGy5.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/240x240/bLGpEkHiB0A8PVb6.mp4?tag=3"}]}}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 20:03:38 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 107, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007715272642449408", "in_reply_to_user_id": null, "favorite_count": 498, "id": 1007715272642449408, "text": "\ud83d\ude24\ud83d\ude24\ud83d\ude24 @Cristiano #WorldCup https://t.co/EQCMT0VBVe", "place": null, "lang": "und", "quote_count": 7, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 45, "entities": {"urls": [], "hashtags": [{"indices": [15, 24], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/EQCMT0VBVe", "indices": [25, 48], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007715215591473152", "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "id": 1007715215591473152, "additional_media_info": {"monetizable": false}, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "url": "https://t.co/EQCMT0VBVe"}], "user_mentions": [{"indices": [4, 14], "screen_name": "Cristiano", "id_str": "155659213", "name": "Cristiano Ronaldo", "id": 155659213}], "symbols": []}, "display_text_range": [0, 24], "contributors": null, "user": {"utc_offset": null, "friends_count": 904, "profile_image_url_https": "https://pbs.twimg.com/profile_images/835593976916803584/IVYCdU9n_normal.jpg", "listed_count": 412, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", "default_profile_image": false, "favourites_count": 10210, "description": "FIFA esports analyst/commentator. Twitch streamer w/ 117K Fllwrs. Ex-FIFA Comm Mgr. \u25b6\ufe0f http://bit.ly/chuboiYTsub \u2709\ufe0f chuboi@digitalsportsmgmt.com #MUFC \ud83c\uddf3\ud83c\uddec\ud83c\udde8\ud83c\udde6", "created_at": "Mon Jun 02 06:30:20 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", "protected": false, "screen_name": "ChuBoi", "id_str": "14978043", "profile_link_color": "800000", "translator_type": "none", "id": 14978043, "geo_enabled": true, "profile_background_color": "800000", "lang": "en", "profile_sidebar_border_color": "829D5E", "profile_text_color": "3E4415", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/835593976916803584/IVYCdU9n_normal.jpg", "time_zone": null, "url": "http://twitch.tv/chuboi7", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/14978043/1512027112", "statuses_count": 37897, "follow_request_sent": null, "followers_count": 212530, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "The Boi", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "FFFFFF", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008075040347258880", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008075040347258880, "text": "RT @ChuBoi: \ud83d\ude24\ud83d\ude24\ud83d\ude24 @Cristiano #WorldCup https://t.co/EQCMT0VBVe", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529178793404", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [27, 36], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/EQCMT0VBVe", "source_user_id": 14978043, "type": "photo", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "source_status_id": 1007715272642449408, "url": "https://t.co/EQCMT0VBVe", "indices": [37, 60], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 720, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 720, "h": 720, "resize": "fit"}}, "id_str": "1007715215591473152", "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1", "source_status_id_str": "1007715272642449408", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg", "id": 1007715215591473152, "source_user_id_str": "14978043", "additional_media_info": {"monetizable": false}}], "user_mentions": [{"indices": [3, 10], "screen_name": "ChuBoi", "id_str": "14978043", "name": "The Boi", "id": 14978043}, {"indices": [16, 26], "screen_name": "Cristiano", "id_str": "155659213", "name": "Cristiano Ronaldo", "id": 155659213}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1988, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11342, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67343, "follow_request_sent": null, "followers_count": 538, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 17:14:58", "current_time": 1528989298076, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:14:57 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/Kh9rsRdf4M", "indices": [100, 123], "sizes": {"small": {"w": 661, "h": 384, "resize": "fit"}, "large": {"w": 661, "h": 384, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 661, "h": 384, "resize": "fit"}}, "id_str": "1007222334845906945", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007222336913735681/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg", "id": 1007222334845906945, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg", "url": "https://t.co/Kh9rsRdf4M"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 11:24:53 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>", "retweet_count": 514, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007222336913735681", "in_reply_to_user_id": null, "favorite_count": 4648, "id": 1007222336913735681, "text": "New players have been added to FIFA World Cup Ultimate Team! https://t.co/iinVUtFtvh #FUT #WorldCup https://t.co/Kh9rsRdf4M", "place": null, "lang": "en", "quote_count": 75, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 358, "entities": {"urls": [{"display_url": "x.ea.com/47700", "indices": [61, 84], "expanded_url": "http://x.ea.com/47700", "url": "https://t.co/iinVUtFtvh"}], "hashtags": [{"indices": [85, 89], "text": "FUT"}, {"indices": [90, 99], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/Kh9rsRdf4M", "indices": [100, 123], "sizes": {"small": {"w": 661, "h": 384, "resize": "fit"}, "large": {"w": 661, "h": 384, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 661, "h": 384, "resize": "fit"}}, "id_str": "1007222334845906945", "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007222336913735681/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg", "id": 1007222334845906945, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg", "url": "https://t.co/Kh9rsRdf4M"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 99], "contributors": null, "user": {"utc_offset": null, "friends_count": 328, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg", "listed_count": 6372, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 3287, "description": "Rated (E) for Everyone. Official EA SPORTS account for the FIFA franchise. By tweeting to us you're consenting its use in any media, including TV.", "created_at": "Fri Jan 15 23:38:36 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "EASPORTSFIFA", "id_str": "105297123", "profile_link_color": "8A005F", "translator_type": "none", "id": 105297123, "geo_enabled": false, "profile_background_color": "F0F0F0", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "3E3E3E", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg", "time_zone": null, "url": "http://www.easports.com/fifa", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/105297123/1528567862", "statuses_count": 266072, "follow_request_sent": null, "followers_count": 6439798, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "EA SPORTS FIFA", "location": "Global", "profile_sidebar_fill_color": "EEEEEE", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007280238131400704", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007280238131400704, "text": "RT @EASPORTSFIFA: New players have been added to FIFA World Cup Ultimate Team! https://t.co/iinVUtFtvh #FUT #WorldCup https://t.co/Kh9rsRdf\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528989297789", "reply_count": 0, "entities": {"urls": [{"display_url": "x.ea.com/47700", "indices": [79, 102], "expanded_url": "http://x.ea.com/47700", "url": "https://t.co/iinVUtFtvh"}], "hashtags": [{"indices": [103, 107], "text": "FUT"}, {"indices": [108, 117], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 16], "screen_name": "EASPORTSFIFA", "id_str": "105297123", "name": "EA SPORTS FIFA", "id": 105297123}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1987, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11311, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67186, "follow_request_sent": null, "followers_count": 540, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 17:18:57", "current_time": 1528989537227, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:18:56 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007236361575981056", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg", "id": 1007236361575981056, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg", "url": "https://t.co/0YJfD0PLSh"}, {"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 410, "resize": "fit"}, "large": {"w": 2048, "h": 1236, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 724, "resize": "fit"}}, "id_str": "1007236374297227264", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg", "id": 1007236374297227264, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg", "url": "https://t.co/0YJfD0PLSh"}, {"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 430, "resize": "fit"}, "large": {"w": 2048, "h": 1294, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 758, "resize": "fit"}}, "id_str": "1007236386607566848", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg", "id": 1007236386607566848, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg", "url": "https://t.co/0YJfD0PLSh"}, {"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 446, "resize": "fit"}, "large": {"w": 2048, "h": 1342, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 786, "resize": "fit"}}, "id_str": "1007236500579381248", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg", "id": 1007236500579381248, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg", "url": "https://t.co/0YJfD0PLSh"}]}, "entities": {"urls": [], "hashtags": [{"indices": [119, 123], "text": "UCL"}, {"indices": [124, 133], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}, "id_str": "1007236361575981056", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg", "id": 1007236361575981056, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg", "url": "https://t.co/0YJfD0PLSh"}, {"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 410, "resize": "fit"}, "large": {"w": 2048, "h": 1236, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 724, "resize": "fit"}}, "id_str": "1007236374297227264", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg", "id": 1007236374297227264, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg", "url": "https://t.co/0YJfD0PLSh"}, {"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 430, "resize": "fit"}, "large": {"w": 2048, "h": 1294, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 758, "resize": "fit"}}, "id_str": "1007236386607566848", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg", "id": 1007236386607566848, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg", "url": "https://t.co/0YJfD0PLSh"}, {"display_url": "pic.twitter.com/0YJfD0PLSh", "indices": [134, 157], "sizes": {"small": {"w": 680, "h": 446, "resize": "fit"}, "large": {"w": 2048, "h": 1342, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 786, "resize": "fit"}}, "id_str": "1007236500579381248", "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg", "id": 1007236500579381248, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg", "url": "https://t.co/0YJfD0PLSh"}], "user_mentions": [], "symbols": []}, "full_text": "GOLDEN BOOT \ud83d\udc5e\u26bd\ufe0f\n\n2002 \ud83c\udde7\ud83c\uddf7 Ronaldo (8)\n2006 \ud83c\udde9\ud83c\uddea Klose (5)\n2010 \ud83c\udde9\ud83c\uddea M\u00fcller (5)\n2014 \ud83c\udde8\ud83c\uddf4 James (6)\n2018 _______________ (  )\n\n#UCL #WorldCup https://t.co/0YJfD0PLSh", "display_text_range": [0, 133]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 12:24:34 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 1196, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007237359103086592", "in_reply_to_user_id": null, "favorite_count": 5584, "id": 1007237359103086592, "text": "GOLDEN BOOT \ud83d\udc5e\u26bd\ufe0f\n\n2002 \ud83c\udde7\ud83c\uddf7 Ronaldo (8)\n2006 \ud83c\udde9\ud83c\uddea Klose (5)\n2010 \ud83c\udde9\ud83c\uddea M\u00fcller (5)\n2014 \ud83c\udde8\ud83c\uddf4 James (6)\n2018 _______________ (\u2026 https://t.co/otCOl1RQmm", "place": null, "lang": "de", "quote_count": 329, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 722, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007237359103086592", "url": "https://t.co/otCOl1RQmm"}], "hashtags": [], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 478, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006159252963110912/cGjCZY7N_normal.jpg", "listed_count": 18507, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1227, "description": "#UCL \nSpanish: @LigadeCampeones U19: @UEFAYouthLeague YouTube: http://uefa.tv", "created_at": "Thu Jul 05 19:43:40 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ChampionsLeague", "id_str": "627673190", "profile_link_color": "1B95E0", "translator_type": "none", "id": 627673190, "geo_enabled": false, "profile_background_color": "022330", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1006159252963110912/cGjCZY7N_normal.jpg", "time_zone": null, "url": "http://uefa.com/uefachampionsleague", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/627673190/1528721979", "statuses_count": 55778, "follow_request_sent": null, "followers_count": 21605135, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "UEFA Champions League", "location": "Nyon, Vaud", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007281240624586752", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007281240624586752, "text": "RT @ChampionsLeague: GOLDEN BOOT \ud83d\udc5e\u26bd\ufe0f\n\n2002 \ud83c\udde7\ud83c\uddf7 Ronaldo (8)\n2006 \ud83c\udde9\ud83c\uddea Klose (5)\n2010 \ud83c\udde9\ud83c\uddea M\u00fcller (5)\n2014 \ud83c\udde8\ud83c\uddf4 James (6)\n2018 _______________ (  )\u2026", "place": null, "lang": "de", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528989536802", "reply_count": 0, "entities": {"urls": [], "hashtags": [], "user_mentions": [{"indices": [3, 19], "screen_name": "ChampionsLeague", "id_str": "627673190", "name": "UEFA Champions League", "id": 627673190}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1987, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11311, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67188, "follow_request_sent": null, "followers_count": 540, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-14 19:04:30", "current_time": 1528995870740, "extended_entities": {"media": [{"display_url": "pic.twitter.com/dj63szCTTY", "source_user_id": 15256225, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "source_status_id": 1007305864850657285, "url": "https://t.co/dj63szCTTY", "indices": [78, 101], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 2000, "h": 2000, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007305726622986240", "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1", "source_status_id_str": "1007305864850657285", "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "id": 1007305726622986240, "source_user_id_str": "15256225"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 17:04:30 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/dj63szCTTY", "indices": [64, 87], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 2000, "h": 2000, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007305726622986240", "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "id": 1007305726622986240, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "url": "https://t.co/dj63szCTTY"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 16:56:47 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", "retweet_count": 35, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007305864850657285", "in_reply_to_user_id": null, "favorite_count": 61, "id": 1007305864850657285, "text": "#RUS dominates #KSA in the opening match of the 2018 #WorldCup. https://t.co/dj63szCTTY", "place": null, "lang": "en", "quote_count": 6, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 2, "entities": {"urls": [], "hashtags": [{"indices": [0, 4], "text": "RUS"}, {"indices": [15, 19], "text": "KSA"}, {"indices": [53, 62], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/dj63szCTTY", "indices": [64, 87], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 2000, "h": 2000, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007305726622986240", "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1", "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "id": 1007305726622986240, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "url": "https://t.co/dj63szCTTY"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 63], "contributors": null, "user": {"utc_offset": null, "friends_count": 794, "profile_image_url_https": "https://pbs.twimg.com/profile_images/855444794260074496/Rcl1IU8r_normal.jpg", "listed_count": 3471, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 2917, "description": "theScore is the ultimate, personalized mobile sports experience. Download here: http://thesco.re/theScoreApp. For support, tweet @theScoreHelp.", "created_at": "Fri Jun 27 18:03:32 +0000 2008", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "theScore", "id_str": "15256225", "profile_link_color": "3299D1", "translator_type": "none", "id": 15256225, "geo_enabled": false, "profile_background_color": "08182D", "lang": "en", "profile_sidebar_border_color": "FFFFFF", "profile_text_color": "DEDEDE", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/855444794260074496/Rcl1IU8r_normal.jpg", "time_zone": null, "url": "http://www.theScore.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/15256225/1515702560", "statuses_count": 200638, "follow_request_sent": null, "followers_count": 555644, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "theScore", "location": null, "profile_sidebar_fill_color": "02224B", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007307806133964800", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007307806133964800, "text": "RT @theScore: #RUS dominates #KSA in the opening match of the 2018 #WorldCup. https://t.co/dj63szCTTY", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528995870513", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [14, 18], "text": "RUS"}, {"indices": [29, 33], "text": "KSA"}, {"indices": [67, 76], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/dj63szCTTY", "source_user_id": 15256225, "type": "photo", "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "source_status_id": 1007305864850657285, "url": "https://t.co/dj63szCTTY", "indices": [78, 101], "sizes": {"small": {"w": 680, "h": 680, "resize": "fit"}, "large": {"w": 2000, "h": 2000, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 1200, "resize": "fit"}}, "id_str": "1007305726622986240", "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1", "source_status_id_str": "1007305864850657285", "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg", "id": 1007305726622986240, "source_user_id_str": "15256225"}], "user_mentions": [{"indices": [3, 12], "screen_name": "theScore", "id_str": "15256225", "name": "theScore", "id": 15256225}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1987, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11314, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67204, "follow_request_sent": null, "followers_count": 540, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
-{"created_date": "2018-06-15 18:27:16", "current_time": 1529080036462, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 16:27:16 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/2C6JNdrgMG", "indices": [111, 134], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 748, "h": 498, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 748, "h": 498, "resize": "fit"}}, "id_str": "1007581295218741250", "expanded_url": "https://twitter.com/matchplug/status/1007581298846851072/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg", "id": 1007581295218741250, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg", "url": "https://t.co/2C6JNdrgMG"}]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 11:11:16 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 68, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007581298846851072", "in_reply_to_user_id": null, "favorite_count": 313, "id": 1007581298846851072, "text": "Cristiano Ronaldo has scored more goals for Portugal (81) than the rest of the squad combined (59) \ud83d\udc4f #WorldCup https://t.co/2C6JNdrgMG", "place": null, "lang": "en", "quote_count": 3, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": false, "reply_count": 3, "entities": {"urls": [], "hashtags": [{"indices": [101, 110], "text": "WorldCup"}], "media": [{"display_url": "pic.twitter.com/2C6JNdrgMG", "indices": [111, 134], "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 748, "h": 498, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 748, "h": 498, "resize": "fit"}}, "id_str": "1007581295218741250", "expanded_url": "https://twitter.com/matchplug/status/1007581298846851072/photo/1", "media_url_https": "https://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg", "id": 1007581295218741250, "type": "photo", "media_url": "http://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg", "url": "https://t.co/2C6JNdrgMG"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 110], "contributors": null, "user": {"utc_offset": null, "friends_count": 1566, "profile_image_url_https": "https://pbs.twimg.com/profile_images/889419338289172480/9u4j2-jg_normal.jpg", "listed_count": 4, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 38, "description": "Soccer Prediction Site | Get Accurate Soccer Predictions Today", "created_at": "Sat Jun 24 15:02:14 +0000 2017", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "matchplug", "id_str": "878629342011695104", "profile_link_color": "455DBD", "translator_type": "none", "id": 878629342011695104, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/889419338289172480/9u4j2-jg_normal.jpg", "time_zone": null, "url": "http://www.matchplug.com", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/878629342011695104/1503448633", "statuses_count": 446, "follow_request_sent": null, "followers_count": 1873, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "Matchplug", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007660822590521344", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007660822590521344, "text": "RT @matchplug: Cristiano Ronaldo has scored more goals for Portugal (81) than the rest of the squad combined (59) \ud83d\udc4f #WorldCup https://t.co/\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529080036195", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [116, 125], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 13], "screen_name": "matchplug", "id_str": "878629342011695104", "name": "Matchplug", "id": 878629342011695104}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1988, "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "listed_count": 33, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 11335, "description": "Phil 4:13. \ud83c\uddec\ud83c\uddf7 \ud83c\uddee\ud83c\uddf9. \ud83c\udf54\ud83c\udf5f.", "created_at": "Mon Oct 17 00:28:43 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Boomboy53", "id_str": "392411896", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 392411896, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452", "statuses_count": 67286, "follow_request_sent": null, "followers_count": 540, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Michael \ud83c\udf10", "location": "Toronto, Ontario", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 15:05:08",
+    "current_time": 1529154308655,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RalMQ5VGYO",
+          "source_user_id": 105297123,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+          "source_status_id": 1007967354410553345,
+          "url": "https://t.co/RalMQ5VGYO",
+          "indices": [
+            58,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007967285925965824",
+          "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1",
+          "source_status_id_str": "1007967354410553345",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+          "id": 1007967285925965824,
+          "source_user_id_str": "105297123",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 10010,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/480x480/1MSrOW7mTMQxmiiN.mp4?tag=2"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 1280000,
+                "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/720x720/lCG7XqM0bqsUUh9y.mp4?tag=2"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/240x240/rxeRMR99Z-MDpw1l.mp4?tag=2"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1007967285925965824/pl/TnanqApyMeXTZThG.m3u8?tag=2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 13:05:08 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RalMQ5VGYO",
+            "indices": [
+              40,
+              63
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007967285925965824",
+            "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+            "id": 1007967285925965824,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+            "url": "https://t.co/RalMQ5VGYO",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 10010,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/480x480/1MSrOW7mTMQxmiiN.mp4?tag=2"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 1280000,
+                  "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/720x720/lCG7XqM0bqsUUh9y.mp4?tag=2"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 320000,
+                  "url": "https://video.twimg.com/amplify_video/1007967285925965824/vid/240x240/rxeRMR99Z-MDpw1l.mp4?tag=2"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1007967285925965824/pl/TnanqApyMeXTZThG.m3u8?tag=2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 12:45:19 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+      "retweet_count": 192,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007967354410553345",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1166,
+      "id": 1007967354410553345,
+      "text": "Your turn, Leo Messi! #WorldCup #ARGISL https://t.co/RalMQ5VGYO",
+      "place": null,
+      "lang": "en",
+      "quote_count": 7,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 67,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              22,
+              31
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              32,
+              39
+            ],
+            "text": "ARGISL"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RalMQ5VGYO",
+            "indices": [
+              40,
+              63
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007967285925965824",
+            "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+            "id": 1007967285925965824,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+            "url": "https://t.co/RalMQ5VGYO"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        39
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 328,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg",
+        "listed_count": 6384,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3294,
+        "description": "Rated (E) for Everyone. Official EA SPORTS account for the FIFA franchise. By tweeting to us you're consenting its use in any media, including TV.",
+        "created_at": "Fri Jan 15 23:38:36 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "EASPORTSFIFA",
+        "id_str": "105297123",
+        "profile_link_color": "8A005F",
+        "translator_type": "none",
+        "id": 105297123,
+        "geo_enabled": false,
+        "profile_background_color": "F0F0F0",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "3E3E3E",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.easports.com/fifa",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105297123/1528567862",
+        "statuses_count": 266101,
+        "follow_request_sent": null,
+        "followers_count": 6441514,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "EA SPORTS FIFA",
+        "location": "Global",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007972342943944704",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007972342943944704,
+    "text": "RT @EASPORTSFIFA: Your turn, Leo Messi! #WorldCup #ARGISL https://t.co/RalMQ5VGYO",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529154308435",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            49
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            50,
+            57
+          ],
+          "text": "ARGISL"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RalMQ5VGYO",
+          "source_user_id": 105297123,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+          "source_status_id": 1007967354410553345,
+          "url": "https://t.co/RalMQ5VGYO",
+          "indices": [
+            58,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007967285925965824",
+          "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007967354410553345/video/1",
+          "source_status_id_str": "1007967354410553345",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1007967285925965824/img/WsBuepLPpexxY2A9.jpg",
+          "id": 1007967285925965824,
+          "source_user_id_str": "105297123",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "EASPORTSFIFA",
+          "id_str": "105297123",
+          "name": "EA SPORTS FIFA",
+          "id": 105297123
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1988,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11339,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67328,
+      "follow_request_sent": null,
+      "followers_count": 539,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 15:05:16",
+    "current_time": 1529154316173,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 13:05:15 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IueAm12070",
+            "indices": [
+              106,
+              129
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 367,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 367,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007951802594099200",
+            "expanded_url": "https://twitter.com/Pogbaology/status/1007951804947156992/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg",
+            "id": 1007951802594099200,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg",
+            "url": "https://t.co/IueAm12070"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 11:43:31 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 129,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007951804947156992",
+      "in_reply_to_user_id": null,
+      "favorite_count": 447,
+      "id": 1007951804947156992,
+      "text": "Paul Pogba is the first french player since Michel Platini to score in consecutive #WorldCup tournaments. https://t.co/IueAm12070",
+      "place": null,
+      "lang": "en",
+      "quote_count": 2,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 7,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              83,
+              92
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IueAm12070",
+            "indices": [
+              106,
+              129
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 367,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 367,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007951802594099200",
+            "expanded_url": "https://twitter.com/Pogbaology/status/1007951804947156992/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg",
+            "id": 1007951802594099200,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfz20vhWAAA8DKY.jpg",
+            "url": "https://t.co/IueAm12070"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        105
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 277,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/778333871167381504/5FGOEE3o_normal.jpg",
+        "listed_count": 61,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 682,
+        "description": "Paul Pogba FC.\nVideos.\nParody.\nManchester United.",
+        "created_at": "Fri Nov 14 22:59:29 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Pogbaology",
+        "id_str": "2877166283",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 2877166283,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/778333871167381504/5FGOEE3o_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2877166283/1474404316",
+        "statuses_count": 1131,
+        "follow_request_sent": null,
+        "followers_count": 22261,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Paul Pogba",
+        "location": "@Mourinhomindset",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007972374422212608",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007972374422212608,
+    "text": "RT @Pogbaology: Paul Pogba is the first french player since Michel Platini to score in consecutive #WorldCup tournaments. https://t.co/IueA…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529154315940",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            108
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "Pogbaology",
+          "id_str": "2877166283",
+          "name": "Paul Pogba",
+          "id": 2877166283
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1988,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11339,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67329,
+      "follow_request_sent": null,
+      "followers_count": 539,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 15:05:20",
+    "current_time": 1529154320877,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r0uoJBskrK",
+          "source_user_id": 105297123,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+          "source_status_id": 1007955158637187073,
+          "url": "https://t.co/r0uoJBskrK",
+          "indices": [
+            76,
+            99
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007954762061565952",
+          "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1",
+          "source_status_id_str": "1007955158637187073",
+          "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+          "id": 1007954762061565952,
+          "source_user_id_str": "105297123"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 13:05:20 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/r0uoJBskrK",
+            "indices": [
+              58,
+              81
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1600,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007954762061565952",
+            "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+            "id": 1007954762061565952,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+            "url": "https://t.co/r0uoJBskrK"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 11:56:51 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 239,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007955158637187073",
+      "in_reply_to_user_id": null,
+      "favorite_count": 1829,
+      "id": 1007955158637187073,
+      "text": ".@paulpogba and #FRA take the 3 points. #WorldCup #FIFA18 https://t.co/r0uoJBskrK",
+      "place": null,
+      "lang": "en",
+      "quote_count": 13,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 76,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              20
+            ],
+            "text": "FRA"
+          },
+          {
+            "indices": [
+              40,
+              49
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              50,
+              57
+            ],
+            "text": "FIFA18"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/r0uoJBskrK",
+            "indices": [
+              58,
+              81
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1600,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007954762061565952",
+            "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+            "id": 1007954762061565952,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+            "url": "https://t.co/r0uoJBskrK"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              1,
+              11
+            ],
+            "screen_name": "paulpogba",
+            "id_str": "2491702663",
+            "name": "Paul Pogba",
+            "id": 2491702663
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        57
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 328,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg",
+        "listed_count": 6385,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3294,
+        "description": "Rated (E) for Everyone. Official EA SPORTS account for the FIFA franchise. By tweeting to us you're consenting its use in any media, including TV.",
+        "created_at": "Fri Jan 15 23:38:36 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "EASPORTSFIFA",
+        "id_str": "105297123",
+        "profile_link_color": "8A005F",
+        "translator_type": "none",
+        "id": 105297123,
+        "geo_enabled": false,
+        "profile_background_color": "F0F0F0",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "3E3E3E",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.easports.com/fifa",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105297123/1528567862",
+        "statuses_count": 266101,
+        "follow_request_sent": null,
+        "followers_count": 6441514,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "EA SPORTS FIFA",
+        "location": "Global",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007972393720172544",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007972393720172544,
+    "text": "RT @EASPORTSFIFA: .@paulpogba and #FRA take the 3 points. #WorldCup #FIFA18 https://t.co/r0uoJBskrK",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529154320541",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            38
+          ],
+          "text": "FRA"
+        },
+        {
+          "indices": [
+            58,
+            67
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            68,
+            75
+          ],
+          "text": "FIFA18"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r0uoJBskrK",
+          "source_user_id": 105297123,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+          "source_status_id": 1007955158637187073,
+          "url": "https://t.co/r0uoJBskrK",
+          "indices": [
+            76,
+            99
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007954762061565952",
+          "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007955158637187073/photo/1",
+          "source_status_id_str": "1007955158637187073",
+          "media_url_https": "https://pbs.twimg.com/media/Dfz5hAZX0AA0B_z.jpg",
+          "id": 1007954762061565952,
+          "source_user_id_str": "105297123"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "EASPORTSFIFA",
+          "id_str": "105297123",
+          "name": "EA SPORTS FIFA",
+          "id": 105297123
+        },
+        {
+          "indices": [
+            19,
+            29
+          ],
+          "screen_name": "paulpogba",
+          "id_str": "2491702663",
+          "name": "Paul Pogba",
+          "id": 2491702663
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1988,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11339,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67330,
+      "follow_request_sent": null,
+      "followers_count": 539,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 15:07:10",
+    "current_time": 1529154430644,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SeVVx2bn2v",
+          "source_user_id": 1674241980,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+          "source_status_id": 1007956279753674752,
+          "url": "https://t.co/SeVVx2bn2v",
+          "indices": [
+            30,
+            53
+          ],
+          "sizes": {
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1365,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007956271738351616",
+          "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1",
+          "source_status_id_str": "1007956279753674752",
+          "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+          "id": 1007956271738351616,
+          "source_user_id_str": "1674241980"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 13:07:10 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SeVVx2bn2v",
+            "indices": [
+              12,
+              35
+            ],
+            "sizes": {
+              "small": {
+                "w": 453,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1365,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007956271738351616",
+            "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+            "id": 1007956271738351616,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+            "url": "https://t.co/SeVVx2bn2v"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 12:01:18 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 53,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007956279753674752",
+      "in_reply_to_user_id": null,
+      "favorite_count": 578,
+      "id": 1007956279753674752,
+      "text": "🐐 #WorldCup https://t.co/SeVVx2bn2v",
+      "place": null,
+      "lang": "und",
+      "quote_count": 3,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 22,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              2,
+              11
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SeVVx2bn2v",
+            "indices": [
+              12,
+              35
+            ],
+            "sizes": {
+              "small": {
+                "w": 453,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1365,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007956271738351616",
+            "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+            "id": 1007956271738351616,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+            "url": "https://t.co/SeVVx2bn2v"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        11
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 450,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007412069795336193/6HHFgCgr_normal.jpg",
+        "listed_count": 360,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3,
+        "description": "Professional Footballer for Reading FC and Republic of Ireland International",
+        "created_at": "Thu Aug 15 23:20:03 +0000 2013",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "DavidMeyler7",
+        "id_str": "1674241980",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 1674241980,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007412069795336193/6HHFgCgr_normal.jpg",
+        "time_zone": null,
+        "url": "http://youtube.com/c/DavidMeyler7",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674241980/1512691276",
+        "statuses_count": 13971,
+        "follow_request_sent": null,
+        "followers_count": 183152,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "David Meyler",
+        "location": "United Kingdom",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007972854695153664",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007972854695153664,
+    "text": "RT @DavidMeyler7: 🐐 #WorldCup https://t.co/SeVVx2bn2v",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529154430446",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            20,
+            29
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SeVVx2bn2v",
+          "source_user_id": 1674241980,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+          "source_status_id": 1007956279753674752,
+          "url": "https://t.co/SeVVx2bn2v",
+          "indices": [
+            30,
+            53
+          ],
+          "sizes": {
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1365,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007956271738351616",
+          "expanded_url": "https://twitter.com/DavidMeyler7/status/1007956279753674752/photo/1",
+          "source_status_id_str": "1007956279753674752",
+          "media_url_https": "https://pbs.twimg.com/media/Dfz644YXcAALHPQ.jpg",
+          "id": 1007956271738351616,
+          "source_user_id_str": "1674241980"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "DavidMeyler7",
+          "id_str": "1674241980",
+          "name": "David Meyler",
+          "id": 1674241980
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1988,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11340,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67333,
+      "follow_request_sent": null,
+      "followers_count": 539,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 21:53:13",
+    "current_time": 1529178793648,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EQCMT0VBVe",
+          "source_user_id": 14978043,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+          "source_status_id": 1007715272642449408,
+          "url": "https://t.co/EQCMT0VBVe",
+          "indices": [
+            37,
+            60
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007715215591473152",
+          "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1",
+          "source_status_id_str": "1007715272642449408",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+          "id": 1007715215591473152,
+          "source_user_id_str": "14978043",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 51853,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 1280000,
+                "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/720x720/uW8XSaNdgPjoI1gY.mp4?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/480x480/3iFaX5WYIaBl5Sjb.mp4?tag=3"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/pl/LqxuehGONg1mwGy5.m3u8?tag=3"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 256000,
+                "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/240x240/bLGpEkHiB0A8PVb6.mp4?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 19:53:13 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EQCMT0VBVe",
+            "indices": [
+              25,
+              48
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007715215591473152",
+            "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+            "id": 1007715215591473152,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+            "url": "https://t.co/EQCMT0VBVe",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 51853,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 1280000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/720x720/uW8XSaNdgPjoI1gY.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/480x480/3iFaX5WYIaBl5Sjb.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/pl/LqxuehGONg1mwGy5.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007715215591473152/pu/vid/240x240/bLGpEkHiB0A8PVb6.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 20:03:38 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 107,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007715272642449408",
+      "in_reply_to_user_id": null,
+      "favorite_count": 498,
+      "id": 1007715272642449408,
+      "text": "😤😤😤 @Cristiano #WorldCup https://t.co/EQCMT0VBVe",
+      "place": null,
+      "lang": "und",
+      "quote_count": 7,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 45,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              15,
+              24
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EQCMT0VBVe",
+            "indices": [
+              25,
+              48
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007715215591473152",
+            "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+            "id": 1007715215591473152,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+            "url": "https://t.co/EQCMT0VBVe"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              4,
+              14
+            ],
+            "screen_name": "Cristiano",
+            "id_str": "155659213",
+            "name": "Cristiano Ronaldo",
+            "id": 155659213
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        24
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 904,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/835593976916803584/IVYCdU9n_normal.jpg",
+        "listed_count": 412,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 10210,
+        "description": "FIFA esports analyst/commentator. Twitch streamer w/ 117K Fllwrs. Ex-FIFA Comm Mgr. ▶️ http://bit.ly/chuboiYTsub ✉️ chuboi@digitalsportsmgmt.com #MUFC 🇳🇬🇨🇦",
+        "created_at": "Mon Jun 02 06:30:20 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "protected": false,
+        "screen_name": "ChuBoi",
+        "id_str": "14978043",
+        "profile_link_color": "800000",
+        "translator_type": "none",
+        "id": 14978043,
+        "geo_enabled": true,
+        "profile_background_color": "800000",
+        "lang": "en",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_text_color": "3E4415",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/835593976916803584/IVYCdU9n_normal.jpg",
+        "time_zone": null,
+        "url": "http://twitch.tv/chuboi7",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14978043/1512027112",
+        "statuses_count": 37897,
+        "follow_request_sent": null,
+        "followers_count": 212530,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "The Boi",
+        "location": "Toronto, Ontario",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008075040347258880",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008075040347258880,
+    "text": "RT @ChuBoi: 😤😤😤 @Cristiano #WorldCup https://t.co/EQCMT0VBVe",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529178793404",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            27,
+            36
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EQCMT0VBVe",
+          "source_user_id": 14978043,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+          "source_status_id": 1007715272642449408,
+          "url": "https://t.co/EQCMT0VBVe",
+          "indices": [
+            37,
+            60
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007715215591473152",
+          "expanded_url": "https://twitter.com/ChuBoi/status/1007715272642449408/video/1",
+          "source_status_id_str": "1007715272642449408",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007715215591473152/pu/img/Zd8AjwMqzVJZPA1R.jpg",
+          "id": 1007715215591473152,
+          "source_user_id_str": "14978043",
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            10
+          ],
+          "screen_name": "ChuBoi",
+          "id_str": "14978043",
+          "name": "The Boi",
+          "id": 14978043
+        },
+        {
+          "indices": [
+            16,
+            26
+          ],
+          "screen_name": "Cristiano",
+          "id_str": "155659213",
+          "name": "Cristiano Ronaldo",
+          "id": 155659213
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1988,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11342,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67343,
+      "follow_request_sent": null,
+      "followers_count": 538,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 17:14:58",
+    "current_time": 1528989298076,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:14:57 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Kh9rsRdf4M",
+            "indices": [
+              100,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 661,
+                "h": 384,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 661,
+                "h": 384,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 661,
+                "h": 384,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007222334845906945",
+            "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007222336913735681/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg",
+            "id": 1007222334845906945,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg",
+            "url": "https://t.co/Kh9rsRdf4M"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 11:24:53 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+      "retweet_count": 514,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007222336913735681",
+      "in_reply_to_user_id": null,
+      "favorite_count": 4648,
+      "id": 1007222336913735681,
+      "text": "New players have been added to FIFA World Cup Ultimate Team! https://t.co/iinVUtFtvh #FUT #WorldCup https://t.co/Kh9rsRdf4M",
+      "place": null,
+      "lang": "en",
+      "quote_count": 75,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 358,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.ea.com/47700",
+            "indices": [
+              61,
+              84
+            ],
+            "expanded_url": "http://x.ea.com/47700",
+            "url": "https://t.co/iinVUtFtvh"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              85,
+              89
+            ],
+            "text": "FUT"
+          },
+          {
+            "indices": [
+              90,
+              99
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Kh9rsRdf4M",
+            "indices": [
+              100,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 661,
+                "h": 384,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 661,
+                "h": 384,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 661,
+                "h": 384,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007222334845906945",
+            "expanded_url": "https://twitter.com/EASPORTSFIFA/status/1007222336913735681/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg",
+            "id": 1007222334845906945,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfpfYIZUcAEvQgV.jpg",
+            "url": "https://t.co/Kh9rsRdf4M"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        99
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 328,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg",
+        "listed_count": 6372,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 3287,
+        "description": "Rated (E) for Everyone. Official EA SPORTS account for the FIFA franchise. By tweeting to us you're consenting its use in any media, including TV.",
+        "created_at": "Fri Jan 15 23:38:36 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "EASPORTSFIFA",
+        "id_str": "105297123",
+        "profile_link_color": "8A005F",
+        "translator_type": "none",
+        "id": 105297123,
+        "geo_enabled": false,
+        "profile_background_color": "F0F0F0",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "3E3E3E",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1004752782576975874/vrL21632_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.easports.com/fifa",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105297123/1528567862",
+        "statuses_count": 266072,
+        "follow_request_sent": null,
+        "followers_count": 6439798,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "EA SPORTS FIFA",
+        "location": "Global",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007280238131400704",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007280238131400704,
+    "text": "RT @EASPORTSFIFA: New players have been added to FIFA World Cup Ultimate Team! https://t.co/iinVUtFtvh #FUT #WorldCup https://t.co/Kh9rsRdf…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528989297789",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.ea.com/47700",
+          "indices": [
+            79,
+            102
+          ],
+          "expanded_url": "http://x.ea.com/47700",
+          "url": "https://t.co/iinVUtFtvh"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            103,
+            107
+          ],
+          "text": "FUT"
+        },
+        {
+          "indices": [
+            108,
+            117
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "EASPORTSFIFA",
+          "id_str": "105297123",
+          "name": "EA SPORTS FIFA",
+          "id": 105297123
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1987,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11311,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67186,
+      "follow_request_sent": null,
+      "followers_count": 540,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 17:18:57",
+    "current_time": 1528989537227,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:18:56 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1365,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236361575981056",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg",
+              "id": 1007236361575981056,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            },
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 410,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1236,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 724,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236374297227264",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg",
+              "id": 1007236374297227264,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            },
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 430,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1294,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 758,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236386607566848",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg",
+              "id": 1007236386607566848,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            },
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 446,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1342,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 786,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236500579381248",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg",
+              "id": 1007236500579381248,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                119,
+                123
+              ],
+              "text": "UCL"
+            },
+            {
+              "indices": [
+                124,
+                133
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1365,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236361575981056",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg",
+              "id": 1007236361575981056,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsImCX4AABYGA.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            },
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 410,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1236,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 724,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236374297227264",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg",
+              "id": 1007236374297227264,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsJVbWsAAXuU8.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            },
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 430,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1294,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 758,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236386607566848",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg",
+              "id": 1007236386607566848,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsKDSXkAAkEby.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            },
+            {
+              "display_url": "pic.twitter.com/0YJfD0PLSh",
+              "indices": [
+                134,
+                157
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 446,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1342,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 786,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007236500579381248",
+              "expanded_url": "https://twitter.com/ChampionsLeague/status/1007237359103086592/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg",
+              "id": 1007236500579381248,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/DfpsQr3XcAAc8cs.jpg",
+              "url": "https://t.co/0YJfD0PLSh"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "GOLDEN BOOT 👞⚽️\n\n2002 🇧🇷 Ronaldo (8)\n2006 🇩🇪 Klose (5)\n2010 🇩🇪 Müller (5)\n2014 🇨🇴 James (6)\n2018 _______________ (  )\n\n#UCL #WorldCup https://t.co/0YJfD0PLSh",
+        "display_text_range": [
+          0,
+          133
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 12:24:34 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 1196,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007237359103086592",
+      "in_reply_to_user_id": null,
+      "favorite_count": 5584,
+      "id": 1007237359103086592,
+      "text": "GOLDEN BOOT 👞⚽️\n\n2002 🇧🇷 Ronaldo (8)\n2006 🇩🇪 Klose (5)\n2010 🇩🇪 Müller (5)\n2014 🇨🇴 James (6)\n2018 _______________ (… https://t.co/otCOl1RQmm",
+      "place": null,
+      "lang": "de",
+      "quote_count": 329,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 722,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007237359103086592",
+            "url": "https://t.co/otCOl1RQmm"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 478,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006159252963110912/cGjCZY7N_normal.jpg",
+        "listed_count": 18507,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1227,
+        "description": "#UCL \nSpanish: @LigadeCampeones U19: @UEFAYouthLeague YouTube: http://uefa.tv",
+        "created_at": "Thu Jul 05 19:43:40 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "ChampionsLeague",
+        "id_str": "627673190",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 627673190,
+        "geo_enabled": false,
+        "profile_background_color": "022330",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006159252963110912/cGjCZY7N_normal.jpg",
+        "time_zone": null,
+        "url": "http://uefa.com/uefachampionsleague",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/627673190/1528721979",
+        "statuses_count": 55778,
+        "follow_request_sent": null,
+        "followers_count": 21605135,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "UEFA Champions League",
+        "location": "Nyon, Vaud",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007281240624586752",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007281240624586752,
+    "text": "RT @ChampionsLeague: GOLDEN BOOT 👞⚽️\n\n2002 🇧🇷 Ronaldo (8)\n2006 🇩🇪 Klose (5)\n2010 🇩🇪 Müller (5)\n2014 🇨🇴 James (6)\n2018 _______________ (  )…",
+    "place": null,
+    "lang": "de",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528989536802",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "ChampionsLeague",
+          "id_str": "627673190",
+          "name": "UEFA Champions League",
+          "id": 627673190
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1987,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11311,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67188,
+      "follow_request_sent": null,
+      "followers_count": 540,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 19:04:30",
+    "current_time": 1528995870740,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dj63szCTTY",
+          "source_user_id": 15256225,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+          "source_status_id": 1007305864850657285,
+          "url": "https://t.co/dj63szCTTY",
+          "indices": [
+            78,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007305726622986240",
+          "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1",
+          "source_status_id_str": "1007305864850657285",
+          "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+          "id": 1007305726622986240,
+          "source_user_id_str": "15256225"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 17:04:30 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dj63szCTTY",
+            "indices": [
+              64,
+              87
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2000,
+                "h": 2000,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007305726622986240",
+            "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+            "id": 1007305726622986240,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+            "url": "https://t.co/dj63szCTTY"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 16:56:47 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 35,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007305864850657285",
+      "in_reply_to_user_id": null,
+      "favorite_count": 61,
+      "id": 1007305864850657285,
+      "text": "#RUS dominates #KSA in the opening match of the 2018 #WorldCup. https://t.co/dj63szCTTY",
+      "place": null,
+      "lang": "en",
+      "quote_count": 6,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 2,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              4
+            ],
+            "text": "RUS"
+          },
+          {
+            "indices": [
+              15,
+              19
+            ],
+            "text": "KSA"
+          },
+          {
+            "indices": [
+              53,
+              62
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dj63szCTTY",
+            "indices": [
+              64,
+              87
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2000,
+                "h": 2000,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007305726622986240",
+            "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+            "id": 1007305726622986240,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+            "url": "https://t.co/dj63szCTTY"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        63
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 794,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/855444794260074496/Rcl1IU8r_normal.jpg",
+        "listed_count": 3471,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 2917,
+        "description": "theScore is the ultimate, personalized mobile sports experience. Download here: http://thesco.re/theScoreApp. For support, tweet @theScoreHelp.",
+        "created_at": "Fri Jun 27 18:03:32 +0000 2008",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "protected": false,
+        "screen_name": "theScore",
+        "id_str": "15256225",
+        "profile_link_color": "3299D1",
+        "translator_type": "none",
+        "id": 15256225,
+        "geo_enabled": false,
+        "profile_background_color": "08182D",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "DEDEDE",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/855444794260074496/Rcl1IU8r_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.theScore.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15256225/1515702560",
+        "statuses_count": 200638,
+        "follow_request_sent": null,
+        "followers_count": 555644,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "theScore",
+        "location": null,
+        "profile_sidebar_fill_color": "02224B",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007307806133964800",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007307806133964800,
+    "text": "RT @theScore: #RUS dominates #KSA in the opening match of the 2018 #WorldCup. https://t.co/dj63szCTTY",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528995870513",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            14,
+            18
+          ],
+          "text": "RUS"
+        },
+        {
+          "indices": [
+            29,
+            33
+          ],
+          "text": "KSA"
+        },
+        {
+          "indices": [
+            67,
+            76
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dj63szCTTY",
+          "source_user_id": 15256225,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+          "source_status_id": 1007305864850657285,
+          "url": "https://t.co/dj63szCTTY",
+          "indices": [
+            78,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 2000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007305726622986240",
+          "expanded_url": "https://twitter.com/theScore/status/1007305864850657285/photo/1",
+          "source_status_id_str": "1007305864850657285",
+          "media_url_https": "https://pbs.twimg.com/media/DfqrOK-UcAA2Wrq.jpg",
+          "id": 1007305726622986240,
+          "source_user_id_str": "15256225"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "theScore",
+          "id_str": "15256225",
+          "name": "theScore",
+          "id": 15256225
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1987,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11314,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67204,
+      "follow_request_sent": null,
+      "followers_count": 540,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 18:27:16",
+    "current_time": 1529080036462,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 16:27:16 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2C6JNdrgMG",
+            "indices": [
+              111,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 748,
+                "h": 498,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 748,
+                "h": 498,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007581295218741250",
+            "expanded_url": "https://twitter.com/matchplug/status/1007581298846851072/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg",
+            "id": 1007581295218741250,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg",
+            "url": "https://t.co/2C6JNdrgMG"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 11:11:16 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 68,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007581298846851072",
+      "in_reply_to_user_id": null,
+      "favorite_count": 313,
+      "id": 1007581298846851072,
+      "text": "Cristiano Ronaldo has scored more goals for Portugal (81) than the rest of the squad combined (59) 👏 #WorldCup https://t.co/2C6JNdrgMG",
+      "place": null,
+      "lang": "en",
+      "quote_count": 3,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 3,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              101,
+              110
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2C6JNdrgMG",
+            "indices": [
+              111,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 748,
+                "h": 498,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 748,
+                "h": 498,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007581295218741250",
+            "expanded_url": "https://twitter.com/matchplug/status/1007581298846851072/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg",
+            "id": 1007581295218741250,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/Dful2X_XUAIDZ_K.jpg",
+            "url": "https://t.co/2C6JNdrgMG"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        110
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 1566,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/889419338289172480/9u4j2-jg_normal.jpg",
+        "listed_count": 4,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 38,
+        "description": "Soccer Prediction Site | Get Accurate Soccer Predictions Today",
+        "created_at": "Sat Jun 24 15:02:14 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "matchplug",
+        "id_str": "878629342011695104",
+        "profile_link_color": "455DBD",
+        "translator_type": "none",
+        "id": 878629342011695104,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/889419338289172480/9u4j2-jg_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.matchplug.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878629342011695104/1503448633",
+        "statuses_count": 446,
+        "follow_request_sent": null,
+        "followers_count": 1873,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "Matchplug",
+        "location": null,
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007660822590521344",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007660822590521344,
+    "text": "RT @matchplug: Cristiano Ronaldo has scored more goals for Portugal (81) than the rest of the squad combined (59) 👏 #WorldCup https://t.co/…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529080036195",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            116,
+            125
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "matchplug",
+          "id_str": "878629342011695104",
+          "name": "Matchplug",
+          "id": 878629342011695104
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1988,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11335,
+      "description": "Phil 4:13. 🇬🇷 🇮🇹. 🍔🍟.",
+      "created_at": "Mon Oct 17 00:28:43 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Boomboy53",
+      "id_str": "392411896",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 392411896,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/919350907225157632/k1_ldrwX_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/392411896/1474498452",
+      "statuses_count": 67286,
+      "follow_request_sent": null,
+      "followers_count": 540,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Michael 🌐",
+      "location": "Toronto, Ontario",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "created_date": "2018-06-14 04:26:33",
+    "current_time": 1528943193692,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/thT0EliLrZ",
+            "indices": [
+              41,
+              64
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 451,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007058729617981442",
+            "expanded_url": "https://twitter.com/WCGoalz/status/1007058735653621765/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfnKlDbWAAIJ2FQ.jpg",
+            "id": 1007058729617981442,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfnKlDbWAAIJ2FQ.jpg",
+            "url": "https://t.co/thT0EliLrZ"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 00:34:47 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 284,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007058735653621765",
+      "in_reply_to_user_id": null,
+      "favorite_count": 523,
+      "id": 1007058735653621765,
+      "text": "The #WorldCup officially starts today... https://t.co/thT0EliLrZ",
+      "place": null,
+      "lang": "en",
+      "quote_count": 24,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 11,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              4,
+              13
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/thT0EliLrZ",
+            "indices": [
+              41,
+              64
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 451,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007058729617981442",
+            "expanded_url": "https://twitter.com/WCGoalz/status/1007058735653621765/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfnKlDbWAAIJ2FQ.jpg",
+            "id": 1007058729617981442,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfnKlDbWAAIJ2FQ.jpg",
+            "url": "https://t.co/thT0EliLrZ"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        40
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 20,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936616357898194945/QoHPsyLX_normal.jpg",
+        "listed_count": 181,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 0,
+        "description": "The number 1 unofficial World Cup 2018 page. Goals, Stats, Updates, Videos - all in one place. (We do not claim to own any content posted) 18+ 🏆",
+        "created_at": "Mon Aug 11 18:59:38 +0000 2014",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "WCGoalz",
+        "id_str": "2740117029",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 2740117029,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936616357898194945/QoHPsyLX_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2740117029/1512153554",
+        "statuses_count": 169,
+        "follow_request_sent": null,
+        "followers_count": 75712,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "World Cup 2018",
+        "location": "Russia",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:26:33 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "quoted_status_id": 1007058735653621765,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007086862333366282",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007086862333366282,
+    "text": "🤗 https://t.co/lUy5GN308R",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/WCGoalz/status/1007058735653621765",
+      "display": "twitter.com/WCGoalz/status…",
+      "url": "https://t.co/lUy5GN308R"
+    },
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528943193406",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/WCGoalz/status…",
+          "indices": [
+            2,
+            25
+          ],
+          "expanded_url": "https://twitter.com/WCGoalz/status/1007058735653621765",
+          "url": "https://t.co/lUy5GN308R"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      1
+    ],
+    "quoted_status_id_str": "1007058735653621765",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 169,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000362458664579073/h-NJVUGs_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 8598,
+      "description": "💭",
+      "created_at": "Sat Jan 23 21:15:18 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "micolinp",
+      "id_str": "4839882946",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 4839882946,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "pt",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1000362458664579073/h-NJVUGs_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4839882946/1453672229",
+      "statuses_count": 7848,
+      "follow_request_sent": null,
+      "followers_count": 255,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Micoli",
+      "location": "Coimbra",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "created_date": "2018-06-15 20:43:52",
+    "current_time": 1529088232866,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Po32md0DRX",
+          "source_user_id": 63818752,
+          "type": "video",
+          "media_url": "http://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+          "source_status_id": 1007692753646440448,
+          "url": "https://t.co/Po32md0DRX",
+          "indices": [
+            113,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007692574675517440",
+          "expanded_url": "https://twitter.com/TelemundoSports/status/1007692753646440448/video/1",
+          "source_status_id_str": "1007692753646440448",
+          "media_url_https": "https://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+          "id": 1007692574675517440,
+          "source_user_id_str": "63818752",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Golazo de Diego Costa tras una jugada polémica y empata el partido",
+            "embeddable": true,
+            "monetizable": true
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 81314,
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/amplify_video/1007692574675517440/vid/640x360/85U0M1ab7eS9r0sd.mp4?tag=2"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/amplify_video/1007692574675517440/vid/320x180/I6o1C1e7I1EvEpJr.mp4?tag=2"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1007692574675517440/pl/Q68k83RjjnIcZYth.m3u8?tag=2"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 2176000,
+                "url": "https://video.twimg.com/amplify_video/1007692574675517440/vid/1280x720/11omRio7c1pAznNk.mp4?tag=2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:43:52 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Po32md0DRX",
+            "source_user_id": 63818752,
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+            "source_status_id": 1007692753646440448,
+            "url": "https://t.co/Po32md0DRX",
+            "indices": [
+              94,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007692574675517440",
+            "expanded_url": "https://twitter.com/TelemundoSports/status/1007692753646440448/video/1",
+            "source_status_id_str": "1007692753646440448",
+            "media_url_https": "https://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+            "id": 1007692574675517440,
+            "source_user_id_str": "63818752",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Golazo de Diego Costa tras una jugada polémica y empata el partido",
+              "embeddable": true,
+              "monetizable": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 81314,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/amplify_video/1007692574675517440/vid/640x360/85U0M1ab7eS9r0sd.mp4?tag=2"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 320000,
+                  "url": "https://video.twimg.com/amplify_video/1007692574675517440/vid/320x180/I6o1C1e7I1EvEpJr.mp4?tag=2"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1007692574675517440/pl/Q68k83RjjnIcZYth.m3u8?tag=2"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 2176000,
+                  "url": "https://video.twimg.com/amplify_video/1007692574675517440/vid/1280x720/11omRio7c1pAznNk.mp4?tag=2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:42:56 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007694964258689024",
+      "in_reply_to_user_id": null,
+      "favorite_count": 3,
+      "id": 1007694964258689024,
+      "text": "Vintage Diego Costa as he scores for Spain v Portugal. A bad, bad man. \n\n#POR #ESP #WorldCup\n\nhttps://t.co/Po32md0DRX",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              73,
+              77
+            ],
+            "text": "POR"
+          },
+          {
+            "indices": [
+              78,
+              82
+            ],
+            "text": "ESP"
+          },
+          {
+            "indices": [
+              83,
+              92
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Po32md0DRX",
+            "source_user_id": 63818752,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+            "source_status_id": 1007692753646440448,
+            "url": "https://t.co/Po32md0DRX",
+            "indices": [
+              94,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007692574675517440",
+            "expanded_url": "https://twitter.com/TelemundoSports/status/1007692753646440448/video/1",
+            "source_status_id_str": "1007692753646440448",
+            "media_url_https": "https://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+            "id": 1007692574675517440,
+            "source_user_id_str": "63818752",
+            "additional_media_info": {
+              "description": "Powered by SnappyTV",
+              "title": "Golazo de Diego Costa tras una jugada polémica y empata el partido",
+              "embeddable": true,
+              "monetizable": true
+            }
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 490,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/946440270194896897/uLjnERjQ_normal.jpg",
+        "listed_count": 587,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 9886,
+        "description": "Lead Soccer Writer & Editor @NBCSports ProSoccerTalk. Premier League, USMNT, MLS & more. UEFA B. FWA member. #H2P. My views. 📧: joseph.prince-wright@nbcuni.com",
+        "created_at": "Thu Jun 17 16:48:55 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "JPW_NBCSports",
+        "id_str": "156692504",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 156692504,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/946440270194896897/uLjnERjQ_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.facebook.com/JPWNBCSports",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156692504/1502283828",
+        "statuses_count": 34739,
+        "follow_request_sent": null,
+        "followers_count": 19102,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Joe Prince-Wright",
+        "location": "United Kingdom",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695200859275264",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695200859275264,
+    "text": "RT @JPW_NBCSports: Vintage Diego Costa as he scores for Spain v Portugal. A bad, bad man. \n\n#POR #ESP #WorldCup\n\nhttps://t.co/Po32md0DRX",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088232613",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            92,
+            96
+          ],
+          "text": "POR"
+        },
+        {
+          "indices": [
+            97,
+            101
+          ],
+          "text": "ESP"
+        },
+        {
+          "indices": [
+            102,
+            111
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Po32md0DRX",
+          "source_user_id": 63818752,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+          "source_status_id": 1007692753646440448,
+          "url": "https://t.co/Po32md0DRX",
+          "indices": [
+            113,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007692574675517440",
+          "expanded_url": "https://twitter.com/TelemundoSports/status/1007692753646440448/video/1",
+          "source_status_id_str": "1007692753646440448",
+          "media_url_https": "https://pbs.twimg.com/media/DfwLNv9VQAEK5Sr.jpg",
+          "id": 1007692574675517440,
+          "source_user_id_str": "63818752",
+          "additional_media_info": {
+            "description": "Powered by SnappyTV",
+            "title": "Golazo de Diego Costa tras una jugada polémica y empata el partido",
+            "embeddable": true,
+            "monetizable": true
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "JPW_NBCSports",
+          "id_str": "156692504",
+          "name": "Joe Prince-Wright",
+          "id": 156692504
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1612,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007488080603828224/AYzsGDQn_normal.jpg",
+      "listed_count": 12,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 10673,
+      "description": "#GGMU #Nature #DefacedMind",
+      "created_at": "Tue Jan 11 11:34:01 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "UjangKhairullah",
+      "id_str": "236793467",
+      "profile_link_color": "F50E0E",
+      "translator_type": "none",
+      "id": 236793467,
+      "geo_enabled": true,
+      "profile_background_color": "FAF7FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "0C3E53",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1007488080603828224/AYzsGDQn_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/236793467/1515352766",
+      "statuses_count": 46570,
+      "follow_request_sent": null,
+      "followers_count": 1236,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "Kye",
+      "location": "Negri Sembilan, Malaysia",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "notifications": null
+    }
+  }
+]

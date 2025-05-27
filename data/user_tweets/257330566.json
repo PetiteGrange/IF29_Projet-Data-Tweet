@@ -1,2 +1,886 @@
-{"created_date": "2018-06-17 12:56:37", "current_time": 1529232997099, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 10:56:36 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/irOf0skpKY", "indices": [169, 192], "sizes": {"small": {"w": 680, "h": 430, "resize": "fit"}, "large": {"w": 1200, "h": 758, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 758, "resize": "fit"}}, "id_str": "1008301307994636288", "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df40somVAAANOet.jpg", "id": 1008301307994636288, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df40somVAAANOet.jpg", "url": "https://t.co/irOf0skpKY"}, {"display_url": "pic.twitter.com/irOf0skpKY", "indices": [169, 192], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1200, "h": 675, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1008301338155864064", "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df40uY9U0AApshU.jpg", "id": 1008301338155864064, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df40uY9U0AApshU.jpg", "url": "https://t.co/irOf0skpKY"}, {"display_url": "pic.twitter.com/irOf0skpKY", "indices": [169, 192], "sizes": {"small": {"w": 680, "h": 401, "resize": "fit"}, "large": {"w": 1200, "h": 707, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 707, "resize": "fit"}}, "id_str": "1008301354555564033", "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg", "id": 1008301354555564033, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg", "url": "https://t.co/irOf0skpKY"}]}, "entities": {"urls": [], "hashtags": [{"indices": [0, 8], "text": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7"}, {"indices": [22, 31], "text": "WorldCup"}, {"indices": [140, 156], "text": "FiersdetreBleus"}, {"indices": [160, 168], "text": "CDM2018"}], "media": [{"display_url": "pic.twitter.com/irOf0skpKY", "indices": [169, 192], "sizes": {"small": {"w": 680, "h": 430, "resize": "fit"}, "large": {"w": 1200, "h": 758, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 758, "resize": "fit"}}, "id_str": "1008301307994636288", "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df40somVAAANOet.jpg", "id": 1008301307994636288, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df40somVAAANOet.jpg", "url": "https://t.co/irOf0skpKY"}, {"display_url": "pic.twitter.com/irOf0skpKY", "indices": [169, 192], "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "large": {"w": 1200, "h": 675, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}}, "id_str": "1008301338155864064", "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df40uY9U0AApshU.jpg", "id": 1008301338155864064, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df40uY9U0AApshU.jpg", "url": "https://t.co/irOf0skpKY"}, {"display_url": "pic.twitter.com/irOf0skpKY", "indices": [169, 192], "sizes": {"small": {"w": 680, "h": 401, "resize": "fit"}, "large": {"w": 1200, "h": 707, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 707, "resize": "fit"}}, "id_str": "1008301354555564033", "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1", "media_url_https": "https://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg", "id": 1008301354555564033, "type": "photo", "media_url": "http://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg", "url": "https://t.co/irOf0skpKY"}], "user_mentions": [{"indices": [120, 135], "screen_name": "institut_tokyo", "id_str": "185044965", "name": "\u30a2\u30f3\u30b9\u30c6\u30a3\u30c1\u30e5\u30fb\u30d5\u30e9\u30f3\u30bb\u6771\u4eac", "id": 185044965}], "symbols": []}, "full_text": "#\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7 \u76db\u308a\u4e0a\u304c\u3063\u3066\u3044\u307e\u3059\u304b\uff1f  #WorldCup \u6628\u65e5\u30d5\u30e9\u30f3\u30b9\ud83c\udd9a\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6226\u304c\u884c\u308f\u308c\u3001\u5728\u65e5\u30d5\u30e9\u30f3\u30b9\u4eba\u3082\u5404\u5730\u3067\u5fdc\u63f4\u3057\u307e\u3057\u305f\u3002\u98ef\u7530\u6a4b\u306e\u30a2\u30f3\u30b9\u30c6\u30a3\u30c1\u30e5\u30fb\u30d5\u30e9\u30f3\u30bb\u6771\u4eac\u306e\u30d1\u30d6\u30ea\u30c3\u30af\u30d3\u30e5\u30fc\u30a4\u30f3\u30b0\u306b\u306f300\u4eba\u4ee5\u4e0a\u306e\u4eba\u304c\u96c6\u307e\u308a\u307e\u3057\u305f\uff01 \n@institut_tokyo \ud83c\udf89\u26bd\ufe0f\n#FiersdetreBleus\u2060 \u2060 #CDM2018 https://t.co/irOf0skpKY", "display_text_range": [0, 168]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 10:54:51 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweet_count": 3, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008301945201647617", "in_reply_to_user_id": null, "favorite_count": 7, "id": 1008301945201647617, "text": "#\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7 \u76db\u308a\u4e0a\u304c\u3063\u3066\u3044\u307e\u3059\u304b\uff1f  #WorldCup \u6628\u65e5\u30d5\u30e9\u30f3\u30b9\ud83c\udd9a\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6226\u304c\u884c\u308f\u308c\u3001\u5728\u65e5\u30d5\u30e9\u30f3\u30b9\u4eba\u3082\u5404\u5730\u3067\u5fdc\u63f4\u3057\u307e\u3057\u305f\u3002\u98ef\u7530\u6a4b\u306e\u30a2\u30f3\u30b9\u30c6\u30a3\u30c1\u30e5\u30fb\u30d5\u30e9\u30f3\u30bb\u6771\u4eac\u306e\u30d1\u30d6\u30ea\u30c3\u30af\u30d3\u30e5\u30fc\u30a4\u30f3\u30b0\u306b\u306f300\u4eba\u4ee5\u4e0a\u306e\u4eba\u304c\u96c6\u307e\u308a\u307e\u2026 https://t.co/4KyRlollD5", "place": null, "lang": "ja", "quote_count": 0, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 0, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1008301945201647617", "url": "https://t.co/4KyRlollD5"}], "hashtags": [{"indices": [0, 8], "text": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7"}, {"indices": [22, 31], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 426, "profile_image_url_https": "https://pbs.twimg.com/profile_images/979517812417933312/kTdGFWte_normal.jpg", "listed_count": 2028, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 2982, "description": "\u5728\u65e5\u30d5\u30e9\u30f3\u30b9\u5927\u4f7f\u9928\u306e\u30c4\u30a3\u30c3\u30bf\u30fc\u3067\u3059\u3002", "created_at": "Fri May 15 07:19:09 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ambafrancejp_jp", "id_str": "40195821", "profile_link_color": "1B1BD1", "translator_type": "none", "id": 40195821, "geo_enabled": false, "profile_background_color": "0C2BF0", "lang": "en", "profile_sidebar_border_color": "0C2BF0", "profile_text_color": "333333", "verified": true, "profile_image_url": "http://pbs.twimg.com/profile_images/979517812417933312/kTdGFWte_normal.jpg", "time_zone": null, "url": "http://www.ambafrance-jp.org/-Japonais-", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/40195821/1522123800", "statuses_count": 7348, "follow_request_sent": null, "followers_count": 90446, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "\u30d5\u30e9\u30f3\u30b9\u5927\u4f7f\u9928", "location": "Tokyo/Japon", "profile_sidebar_fill_color": "F74358", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008302385490362368", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008302385490362368, "text": "RT @ambafrancejp_jp: #\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7 \u76db\u308a\u4e0a\u304c\u3063\u3066\u3044\u307e\u3059\u304b\uff1f  #WorldCup \u6628\u65e5\u30d5\u30e9\u30f3\u30b9\ud83c\udd9a\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6226\u304c\u884c\u308f\u308c\u3001\u5728\u65e5\u30d5\u30e9\u30f3\u30b9\u4eba\u3082\u5404\u5730\u3067\u5fdc\u63f4\u3057\u307e\u3057\u305f\u3002\u98ef\u7530\u6a4b\u306e\u30a2\u30f3\u30b9\u30c6\u30a3\u30c1\u30e5\u30fb\u30d5\u30e9\u30f3\u30bb\u6771\u4eac\u306e\u30d1\u30d6\u30ea\u30c3\u30af\u30d3\u30e5\u30fc\u30a4\u30f3\u30b0\u306b\u306f300\u4eba\u4ee5\u4e0a\u306e\u4eba\u304c\u96c6\u307e\u308a\u307e\u3057\u305f\uff01\u2026", "place": null, "lang": "ja", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529232996710", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [21, 29], "text": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7"}, {"indices": [43, 52], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 19], "screen_name": "ambafrancejp_jp", "id_str": "40195821", "name": "\u30d5\u30e9\u30f3\u30b9\u5927\u4f7f\u9928", "id": 40195821}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 3202, "profile_image_url_https": "https://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg", "listed_count": 12, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 25401, "description": "\u6771\u4eac\u90fd\u7df4\u99ac\u533a\u51fa\u8eab\u306eFC\u6771\u4eacSOCIO\u4f1a\u54e1(\uff13\u5e74\u76ee)\uff06\u30d3\u30c3\u30b0\u30d5\u30ec\u30fc\u30e0\u30b9(1\u5e74\u76ee)\u3067\u73fe\u5728\u306f\u57fc\u7389\u770c\u6240\u6ca2\u5e02\u306b\u5728\u4f4f\u3002\u30d7\u30ed\u30ec\u30b9(\u6240\u8b02\u30a4\u30f3\u30c7\u30a3\u30fc\u7cfb)\u3068\u7af6\u99ac(\u5730\u65b9\u30fb\u4e2d\u592e\u30fb\u6d77\u5916\u554f\u308f\u305a)\u3082\u5927\u597d\u304d\ud83d\udc34\u4f55\u6642\u304b\u306f\u61a7\u308c\u306e\u5730\u3067\u3042\u308b\u30d5\u30e9\u30f3\u30b9\u30fb\u30ed\u30f3\u30b7\u30e3\u30f3\u7af6\u99ac\u5834\u306b\u7d76\u5bfe\u306b\u884c\u304f\u305e\uff01\u30b7\u30e3\u30fc\uff01\u30b7\u30e3\u30fc\uff01\u30b7\u30e3\u30fc\uff01\ud83d\ude4b", "created_at": "Fri Feb 25 05:34:12 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "cagenho", "id_str": "257330566", "profile_link_color": "1B95E0", "translator_type": "none", "id": 257330566, "geo_enabled": false, "profile_background_color": "000000", "lang": "ja", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/257330566/1498114968", "statuses_count": 33610, "follow_request_sent": null, "followers_count": 693, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\u75db\u98a8\u585a\u8a18\u5ff5(G\u2160\u30fb3\u6b73\u4e0a\u962a\u795e\u829d2200m)", "location": "Tokorozawa,Saitama,Japan", "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-15 06:41:28", "current_time": 1529037688749, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 04:41:28 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted_status": {"extended_tweet": {"extended_entities": {"media": [{"display_url": "pic.twitter.com/QsFwYrWLMP", "indices": [173, 196], "sizes": {"small": {"w": 383, "h": 680, "resize": "fit"}, "large": {"w": 540, "h": 960, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 540, "h": 960, "resize": "fit"}}, "id_str": "1007425970171666433", "expanded_url": "https://twitter.com/jspofficial1988/status/1007426000936767488/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg", "id": 1007425970171666433, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg", "url": "https://t.co/QsFwYrWLMP", "video_info": {"aspect_ratio": [9, 16], "duration_millis": 5917, "variants": [{"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/pl/xcimeBd05I7grSk3.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/360x640/2o8mSIwyyoPpqreH.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/180x320/r4LpVdMgckL9L03r.mp4?tag=3"}]}}]}, "entities": {"urls": [], "hashtags": [{"indices": [92, 100], "text": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7"}, {"indices": [101, 107], "text": "\u30ed\u30b7\u30a2W\u676f"}, {"indices": [109, 120], "text": "\u30b5\u30c3\u30ab\u30fc\u898b\u305f\u3044NHK"}, {"indices": [122, 131], "text": "WorldCup"}, {"indices": [133, 152], "text": "WorldCupRussia2018"}, {"indices": [154, 161], "text": "soccer"}, {"indices": [162, 167], "text": "\u77f3\u5ddd\u76f4\u5b8f"}, {"indices": [168, 172], "text": "jsp"}], "media": [{"display_url": "pic.twitter.com/QsFwYrWLMP", "indices": [173, 196], "sizes": {"small": {"w": 383, "h": 680, "resize": "fit"}, "large": {"w": 540, "h": 960, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 540, "h": 960, "resize": "fit"}}, "id_str": "1007425970171666433", "expanded_url": "https://twitter.com/jspofficial1988/status/1007426000936767488/video/1", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg", "id": 1007425970171666433, "additional_media_info": {"monetizable": false}, "type": "video", "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg", "url": "https://t.co/QsFwYrWLMP", "video_info": {"aspect_ratio": [9, 16], "duration_millis": 5917, "variants": [{"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/pl/xcimeBd05I7grSk3.m3u8?tag=3"}, {"content_type": "video/mp4", "bitrate": 832000, "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/360x640/2o8mSIwyyoPpqreH.mp4?tag=3"}, {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/180x320/r4LpVdMgckL9L03r.mp4?tag=3"}]}}], "user_mentions": [], "symbols": []}, "full_text": "\u77f3\u5ddd\u76f4\u5b8f\u304cNHK W\u676f\u4e2d\u7d99\u73fe\u5730\u89e3\u8aac\u306b\u5411\u3051\u3066\u30ed\u30b7\u30a2\u3078\u51fa\u767a\uff01\ud83c\uddf7\ud83c\uddfa\u51fa\u767a\u524d\u306b\u64ae\u5f71\u3057\u305f\u7686\u3055\u307e\u3078\u306e\u30b3\u30e1\u30f3\u30c8\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u2728\n\u51fa\u6f14\u60c5\u5831\u306b\u3064\u3044\u3066\u306f\u968f\u6642\u3001\u3053\u3061\u3089\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u304a\u77e5\u3089\u305b\u3055\u305b\u3066\u9802\u304d\u307e\u3059\uff01\n\n#\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7\n#\u30ed\u30b7\u30a2W\u676f \n#\u30b5\u30c3\u30ab\u30fc\u898b\u305f\u3044NHK \n#WorldCup \n#WorldCupRussia2018 \n#soccer\n#\u77f3\u5ddd\u76f4\u5b8f\n#jsp https://t.co/QsFwYrWLMP", "display_text_range": [0, 172]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Fri Jun 15 00:54:10 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 30, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007426000936767488", "in_reply_to_user_id": null, "favorite_count": 83, "id": 1007426000936767488, "text": "\u77f3\u5ddd\u76f4\u5b8f\u304cNHK W\u676f\u4e2d\u7d99\u73fe\u5730\u89e3\u8aac\u306b\u5411\u3051\u3066\u30ed\u30b7\u30a2\u3078\u51fa\u767a\uff01\ud83c\uddf7\ud83c\uddfa\u51fa\u767a\u524d\u306b\u64ae\u5f71\u3057\u305f\u7686\u3055\u307e\u3078\u306e\u30b3\u30e1\u30f3\u30c8\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u2728\n\u51fa\u6f14\u60c5\u5831\u306b\u3064\u3044\u3066\u306f\u968f\u6642\u3001\u3053\u3061\u3089\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u304a\u77e5\u3089\u305b\u3055\u305b\u3066\u9802\u304d\u307e\u3059\uff01\n\n#\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7\n#\u30ed\u30b7\u30a2W\u676f\u2026 https://t.co/SZ7R0jtcmm", "place": null, "lang": "ja", "quote_count": 4, "favorited": false, "possibly_sensitive": false, "coordinates": null, "truncated": true, "reply_count": 1, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [109, 132], "expanded_url": "https://twitter.com/i/web/status/1007426000936767488", "url": "https://t.co/SZ7R0jtcmm"}], "hashtags": [{"indices": [92, 100], "text": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7"}, {"indices": [101, 107], "text": "\u30ed\u30b7\u30a2W\u676f"}], "user_mentions": [], "symbols": []}, "display_text_range": [0, 140], "contributors": null, "user": {"utc_offset": null, "friends_count": 7, "profile_image_url_https": "https://pbs.twimg.com/profile_images/987130800180084736/dZY09HGw_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 33, "description": "\u682a\u5f0f\u4f1a\u793e\u30b8\u30e3\u30d1\u30f3\uff65\u30b9\u30dd\u30fc\u30c4\uff65\u30d7\u30ed\u30e2\u30fc\u30b7\u30e7\u30f3\u306e\u516c\u5f0fTwitter\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\uff01\u5927\u4f1a\u3084\u30a4\u30d9\u30f3\u30c8\u60c5\u5831\u304a\u3088\u3073\u30de\u30cd\u30fc\u30b8\u30e1\u30f3\u30c8\u5951\u7d04\u9078\u624b\u30fb\u30bf\u30ec\u30f3\u30c8\u306e\u51fa\u6f14\u60c5\u5831\u306a\u3069\u3092\u304a\u4f1d\u3048\u3057\u307e\u3059\u3002 \u203b\u5f53\u30a2\u30ab\u30a6\u30f3\u30c8\u306f\u500b\u5225\u306e\u30ea\u30d7\u30e9\u30a4\u3001\u30e1\u30c3\u30bb\u30fc\u30b8\u7b49\u306f\u884c\u3063\u3066\u304a\u308a\u307e\u305b\u3093\u306e\u3067\u4e88\u3081\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002", "created_at": "Thu Apr 19 09:40:10 +0000 2018", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "jspofficial1988", "id_str": "986902265502945280", "profile_link_color": "1B95E0", "translator_type": "none", "id": 986902265502945280, "geo_enabled": true, "profile_background_color": "000000", "lang": "ja", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/987130800180084736/dZY09HGw_normal.jpg", "time_zone": null, "url": "http://www.japansportspromotion.co.jp", "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 76, "follow_request_sent": null, "followers_count": 106, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\u682a\u5f0f\u4f1a\u793e\u30b8\u30e3\u30d1\u30f3\uff65\u30b9\u30dd\u30fc\u30c4\uff65\u30d7\u30ed\u30e2\u30fc\u30b7\u30e7\u30f3", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007483203156754432", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007483203156754432, "text": "RT @jspofficial1988: \u77f3\u5ddd\u76f4\u5b8f\u304cNHK W\u676f\u4e2d\u7d99\u73fe\u5730\u89e3\u8aac\u306b\u5411\u3051\u3066\u30ed\u30b7\u30a2\u3078\u51fa\u767a\uff01\ud83c\uddf7\ud83c\uddfa\u51fa\u767a\u524d\u306b\u64ae\u5f71\u3057\u305f\u7686\u3055\u307e\u3078\u306e\u30b3\u30e1\u30f3\u30c8\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u2728\n\u51fa\u6f14\u60c5\u5831\u306b\u3064\u3044\u3066\u306f\u968f\u6642\u3001\u3053\u3061\u3089\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u304a\u77e5\u3089\u305b\u3055\u305b\u3066\u9802\u304d\u307e\u3059\uff01\n\n#\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7\n#\u30ed\u30b7\u30a2W\u676f \n#\u30b5\u30c3\u30ab\u30fc\u898b\u305f\u3044N\u2026", "place": null, "lang": "ja", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529037688422", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [113, 121], "text": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7"}, {"indices": [122, 128], "text": "\u30ed\u30b7\u30a2W\u676f"}], "user_mentions": [{"indices": [3, 19], "screen_name": "jspofficial1988", "id_str": "986902265502945280", "name": "\u682a\u5f0f\u4f1a\u793e\u30b8\u30e3\u30d1\u30f3\uff65\u30b9\u30dd\u30fc\u30c4\uff65\u30d7\u30ed\u30e2\u30fc\u30b7\u30e7\u30f3", "id": 986902265502945280}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 3198, "profile_image_url_https": "https://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg", "listed_count": 12, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 25264, "description": "\u6771\u4eac\u90fd\u7df4\u99ac\u533a\u51fa\u8eab\u306eFC\u6771\u4eacSOCIO\u4f1a\u54e1(\uff13\u5e74\u76ee)\uff06\u30d3\u30c3\u30b0\u30d5\u30ec\u30fc\u30e0\u30b9(1\u5e74\u76ee)\u3067\u73fe\u5728\u306f\u57fc\u7389\u770c\u6240\u6ca2\u5e02\u306b\u5728\u4f4f\u3002\u30d7\u30ed\u30ec\u30b9(\u6240\u8b02\u30a4\u30f3\u30c7\u30a3\u30fc\u7cfb)\u3068\u7af6\u99ac(\u5730\u65b9\u30fb\u4e2d\u592e\u30fb\u6d77\u5916\u554f\u308f\u305a)\u3082\u5927\u597d\u304d\ud83d\udc34\u4f55\u6642\u304b\u306f\u61a7\u308c\u306e\u5730\u3067\u3042\u308b\u30d5\u30e9\u30f3\u30b9\u30fb\u30ed\u30f3\u30b7\u30e3\u30f3\u7af6\u99ac\u5834\u306b\u7d76\u5bfe\u306b\u884c\u304f\u305e\uff01\u30b7\u30e3\u30fc\uff01\u30b7\u30e3\u30fc\uff01\u30b7\u30e3\u30fc\uff01\ud83d\ude4b", "created_at": "Fri Feb 25 05:34:12 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "cagenho", "id_str": "257330566", "profile_link_color": "1B95E0", "translator_type": "none", "id": 257330566, "geo_enabled": false, "profile_background_color": "000000", "lang": "ja", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/257330566/1498114968", "statuses_count": 33488, "follow_request_sent": null, "followers_count": 692, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "\u75db\u98a8\u30b9\u30d7\u30ea\u30f3\u30c8S(G\u2162\u30fb3\u6b73\u4e0a\u51fd\u9928\u829d1200m)", "location": "Tokorozawa,Saitama,Japan", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-17 12:56:37",
+    "current_time": 1529232997099,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 10:56:36 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/irOf0skpKY",
+              "indices": [
+                169,
+                192
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 430,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 758,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 758,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1008301307994636288",
+              "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Df40somVAAANOet.jpg",
+              "id": 1008301307994636288,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Df40somVAAANOet.jpg",
+              "url": "https://t.co/irOf0skpKY"
+            },
+            {
+              "display_url": "pic.twitter.com/irOf0skpKY",
+              "indices": [
+                169,
+                192
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1008301338155864064",
+              "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Df40uY9U0AApshU.jpg",
+              "id": 1008301338155864064,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Df40uY9U0AApshU.jpg",
+              "url": "https://t.co/irOf0skpKY"
+            },
+            {
+              "display_url": "pic.twitter.com/irOf0skpKY",
+              "indices": [
+                169,
+                192
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 401,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 707,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 707,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1008301354555564033",
+              "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg",
+              "id": 1008301354555564033,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg",
+              "url": "https://t.co/irOf0skpKY"
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                8
+              ],
+              "text": "ワールドカップ"
+            },
+            {
+              "indices": [
+                22,
+                31
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                140,
+                156
+              ],
+              "text": "FiersdetreBleus"
+            },
+            {
+              "indices": [
+                160,
+                168
+              ],
+              "text": "CDM2018"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/irOf0skpKY",
+              "indices": [
+                169,
+                192
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 430,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 758,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 758,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1008301307994636288",
+              "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Df40somVAAANOet.jpg",
+              "id": 1008301307994636288,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Df40somVAAANOet.jpg",
+              "url": "https://t.co/irOf0skpKY"
+            },
+            {
+              "display_url": "pic.twitter.com/irOf0skpKY",
+              "indices": [
+                169,
+                192
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1008301338155864064",
+              "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Df40uY9U0AApshU.jpg",
+              "id": 1008301338155864064,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Df40uY9U0AApshU.jpg",
+              "url": "https://t.co/irOf0skpKY"
+            },
+            {
+              "display_url": "pic.twitter.com/irOf0skpKY",
+              "indices": [
+                169,
+                192
+              ],
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 401,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 707,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 707,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1008301354555564033",
+              "expanded_url": "https://twitter.com/ambafrancejp_jp/status/1008301945201647617/photo/1",
+              "media_url_https": "https://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg",
+              "id": 1008301354555564033,
+              "type": "photo",
+              "media_url": "http://pbs.twimg.com/media/Df40vWDUYAExKdq.jpg",
+              "url": "https://t.co/irOf0skpKY"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                120,
+                135
+              ],
+              "screen_name": "institut_tokyo",
+              "id_str": "185044965",
+              "name": "アンスティチュ・フランセ東京",
+              "id": 185044965
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "#ワールドカップ 盛り上がっていますか？  #WorldCup 昨日フランス🆚オーストラリア戦が行われ、在日フランス人も各地で応援しました。飯田橋のアンスティチュ・フランセ東京のパブリックビューイングには300人以上の人が集まりました！ \n@institut_tokyo 🎉⚽️\n#FiersdetreBleus⁠ ⁠ #CDM2018 https://t.co/irOf0skpKY",
+        "display_text_range": [
+          0,
+          168
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sun Jun 17 10:54:51 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 3,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1008301945201647617",
+      "in_reply_to_user_id": null,
+      "favorite_count": 7,
+      "id": 1008301945201647617,
+      "text": "#ワールドカップ 盛り上がっていますか？  #WorldCup 昨日フランス🆚オーストラリア戦が行われ、在日フランス人も各地で応援しました。飯田橋のアンスティチュ・フランセ東京のパブリックビューイングには300人以上の人が集まりま… https://t.co/4KyRlollD5",
+      "place": null,
+      "lang": "ja",
+      "quote_count": 0,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 0,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1008301945201647617",
+            "url": "https://t.co/4KyRlollD5"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              8
+            ],
+            "text": "ワールドカップ"
+          },
+          {
+            "indices": [
+              22,
+              31
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 426,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979517812417933312/kTdGFWte_normal.jpg",
+        "listed_count": 2028,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 2982,
+        "description": "在日フランス大使館のツィッターです。",
+        "created_at": "Fri May 15 07:19:09 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "ambafrancejp_jp",
+        "id_str": "40195821",
+        "profile_link_color": "1B1BD1",
+        "translator_type": "none",
+        "id": 40195821,
+        "geo_enabled": false,
+        "profile_background_color": "0C2BF0",
+        "lang": "en",
+        "profile_sidebar_border_color": "0C2BF0",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979517812417933312/kTdGFWte_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.ambafrance-jp.org/-Japonais-",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40195821/1522123800",
+        "statuses_count": 7348,
+        "follow_request_sent": null,
+        "followers_count": 90446,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "フランス大使館",
+        "location": "Tokyo/Japon",
+        "profile_sidebar_fill_color": "F74358",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008302385490362368",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008302385490362368,
+    "text": "RT @ambafrancejp_jp: #ワールドカップ 盛り上がっていますか？  #WorldCup 昨日フランス🆚オーストラリア戦が行われ、在日フランス人も各地で応援しました。飯田橋のアンスティチュ・フランセ東京のパブリックビューイングには300人以上の人が集まりました！…",
+    "place": null,
+    "lang": "ja",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529232996710",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            21,
+            29
+          ],
+          "text": "ワールドカップ"
+        },
+        {
+          "indices": [
+            43,
+            52
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "ambafrancejp_jp",
+          "id_str": "40195821",
+          "name": "フランス大使館",
+          "id": 40195821
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 3202,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg",
+      "listed_count": 12,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 25401,
+      "description": "東京都練馬区出身のFC東京SOCIO会員(３年目)＆ビッグフレームス(1年目)で現在は埼玉県所沢市に在住。プロレス(所謂インディー系)と競馬(地方・中央・海外問わず)も大好き🐴何時かは憧れの地であるフランス・ロンシャン競馬場に絶対に行くぞ！シャー！シャー！シャー！🙋",
+      "created_at": "Fri Feb 25 05:34:12 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "cagenho",
+      "id_str": "257330566",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 257330566,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "ja",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/257330566/1498114968",
+      "statuses_count": 33610,
+      "follow_request_sent": null,
+      "followers_count": 693,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "痛風塚記念(GⅠ・3歳上阪神芝2200m)",
+      "location": "Tokorozawa,Saitama,Japan",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 06:41:28",
+    "current_time": 1529037688749,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 04:41:28 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/QsFwYrWLMP",
+              "indices": [
+                173,
+                196
+              ],
+              "sizes": {
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 540,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 540,
+                  "h": 960,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007425970171666433",
+              "expanded_url": "https://twitter.com/jspofficial1988/status/1007426000936767488/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg",
+              "id": 1007425970171666433,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg",
+              "url": "https://t.co/QsFwYrWLMP",
+              "video_info": {
+                "aspect_ratio": [
+                  9,
+                  16
+                ],
+                "duration_millis": 5917,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/pl/xcimeBd05I7grSk3.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/360x640/2o8mSIwyyoPpqreH.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/180x320/r4LpVdMgckL9L03r.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                92,
+                100
+              ],
+              "text": "ワールドカップ"
+            },
+            {
+              "indices": [
+                101,
+                107
+              ],
+              "text": "ロシアW杯"
+            },
+            {
+              "indices": [
+                109,
+                120
+              ],
+              "text": "サッカー見たいNHK"
+            },
+            {
+              "indices": [
+                122,
+                131
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                133,
+                152
+              ],
+              "text": "WorldCupRussia2018"
+            },
+            {
+              "indices": [
+                154,
+                161
+              ],
+              "text": "soccer"
+            },
+            {
+              "indices": [
+                162,
+                167
+              ],
+              "text": "石川直宏"
+            },
+            {
+              "indices": [
+                168,
+                172
+              ],
+              "text": "jsp"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/QsFwYrWLMP",
+              "indices": [
+                173,
+                196
+              ],
+              "sizes": {
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 540,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 540,
+                  "h": 960,
+                  "resize": "fit"
+                }
+              },
+              "id_str": "1007425970171666433",
+              "expanded_url": "https://twitter.com/jspofficial1988/status/1007426000936767488/video/1",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg",
+              "id": 1007425970171666433,
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "type": "video",
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007425970171666433/pu/img/296bQZRV_MNpdULG.jpg",
+              "url": "https://t.co/QsFwYrWLMP",
+              "video_info": {
+                "aspect_ratio": [
+                  9,
+                  16
+                ],
+                "duration_millis": 5917,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/pl/xcimeBd05I7grSk3.m3u8?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 832000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/360x640/2o8mSIwyyoPpqreH.mp4?tag=3"
+                  },
+                  {
+                    "content_type": "video/mp4",
+                    "bitrate": 256000,
+                    "url": "https://video.twimg.com/ext_tw_video/1007425970171666433/pu/vid/180x320/r4LpVdMgckL9L03r.mp4?tag=3"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "石川直宏がNHK W杯中継現地解説に向けてロシアへ出発！🇷🇺出発前に撮影した皆さまへのコメントをお届けします✨\n出演情報については随時、こちらのアカウントでお知らせさせて頂きます！\n\n#ワールドカップ\n#ロシアW杯 \n#サッカー見たいNHK \n#WorldCup \n#WorldCupRussia2018 \n#soccer\n#石川直宏\n#jsp https://t.co/QsFwYrWLMP",
+        "display_text_range": [
+          0,
+          172
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 00:54:10 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 30,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007426000936767488",
+      "in_reply_to_user_id": null,
+      "favorite_count": 83,
+      "id": 1007426000936767488,
+      "text": "石川直宏がNHK W杯中継現地解説に向けてロシアへ出発！🇷🇺出発前に撮影した皆さまへのコメントをお届けします✨\n出演情報については随時、こちらのアカウントでお知らせさせて頂きます！\n\n#ワールドカップ\n#ロシアW杯… https://t.co/SZ7R0jtcmm",
+      "place": null,
+      "lang": "ja",
+      "quote_count": 4,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 1,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              109,
+              132
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007426000936767488",
+            "url": "https://t.co/SZ7R0jtcmm"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              92,
+              100
+            ],
+            "text": "ワールドカップ"
+          },
+          {
+            "indices": [
+              101,
+              107
+            ],
+            "text": "ロシアW杯"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 7,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987130800180084736/dZY09HGw_normal.jpg",
+        "listed_count": 1,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 33,
+        "description": "株式会社ジャパン･スポーツ･プロモーションの公式Twitterアカウントです！大会やイベント情報およびマネージメント契約選手・タレントの出演情報などをお伝えします。 ※当アカウントは個別のリプライ、メッセージ等は行っておりませんので予めご了承ください。",
+        "created_at": "Thu Apr 19 09:40:10 +0000 2018",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "jspofficial1988",
+        "id_str": "986902265502945280",
+        "profile_link_color": "1B95E0",
+        "translator_type": "none",
+        "id": 986902265502945280,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "ja",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987130800180084736/dZY09HGw_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.japansportspromotion.co.jp",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "statuses_count": 76,
+        "follow_request_sent": null,
+        "followers_count": 106,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "株式会社ジャパン･スポーツ･プロモーション",
+        "location": null,
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007483203156754432",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007483203156754432,
+    "text": "RT @jspofficial1988: 石川直宏がNHK W杯中継現地解説に向けてロシアへ出発！🇷🇺出発前に撮影した皆さまへのコメントをお届けします✨\n出演情報については随時、こちらのアカウントでお知らせさせて頂きます！\n\n#ワールドカップ\n#ロシアW杯 \n#サッカー見たいN…",
+    "place": null,
+    "lang": "ja",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529037688422",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            113,
+            121
+          ],
+          "text": "ワールドカップ"
+        },
+        {
+          "indices": [
+            122,
+            128
+          ],
+          "text": "ロシアW杯"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "jspofficial1988",
+          "id_str": "986902265502945280",
+          "name": "株式会社ジャパン･スポーツ･プロモーション",
+          "id": 986902265502945280
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 3198,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg",
+      "listed_count": 12,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 25264,
+      "description": "東京都練馬区出身のFC東京SOCIO会員(３年目)＆ビッグフレームス(1年目)で現在は埼玉県所沢市に在住。プロレス(所謂インディー系)と競馬(地方・中央・海外問わず)も大好き🐴何時かは憧れの地であるフランス・ロンシャン競馬場に絶対に行くぞ！シャー！シャー！シャー！🙋",
+      "created_at": "Fri Feb 25 05:34:12 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "cagenho",
+      "id_str": "257330566",
+      "profile_link_color": "1B95E0",
+      "translator_type": "none",
+      "id": 257330566,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "ja",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/973305577685184513/Q53RzAPd_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/257330566/1498114968",
+      "statuses_count": 33488,
+      "follow_request_sent": null,
+      "followers_count": 692,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "痛風スプリントS(GⅢ・3歳上函館芝1200m)",
+      "location": "Tokorozawa,Saitama,Japan",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

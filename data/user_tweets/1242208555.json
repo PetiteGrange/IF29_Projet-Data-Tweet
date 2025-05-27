@@ -1,0 +1,264 @@
+[
+  {
+    "created_date": "2018-06-14 04:16:28",
+    "current_time": 1528942588097,
+    "quoted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g0tOoohFpT",
+            "indices": [
+              55,
+              78
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 451,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007013179459764224",
+            "expanded_url": "https://twitter.com/worIdcupfan/status/1007013192822919168/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfmhJr3WAAArOAH.jpg",
+            "id": 1007013179459764224,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfmhJr3WAAArOAH.jpg",
+            "url": "https://t.co/g0tOoohFpT"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 21:33:49 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 218,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007013192822919168",
+      "in_reply_to_user_id": null,
+      "favorite_count": 155,
+      "id": 1007013192822919168,
+      "text": "RETWEET IF YOU’RE READY! The #Worldcup starts tomorrow https://t.co/g0tOoohFpT",
+      "place": null,
+      "lang": "en",
+      "quote_count": 7,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 4,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              29,
+              38
+            ],
+            "text": "Worldcup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g0tOoohFpT",
+            "indices": [
+              55,
+              78
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 451,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1199,
+                "h": 795,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007013179459764224",
+            "expanded_url": "https://twitter.com/worIdcupfan/status/1007013192822919168/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfmhJr3WAAArOAH.jpg",
+            "id": 1007013179459764224,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfmhJr3WAAArOAH.jpg",
+            "url": "https://t.co/g0tOoohFpT"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        54
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 0,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003095271490846720/K5MI85xz_normal.jpg",
+        "listed_count": 70,
+        "profile_background_image_url": "",
+        "default_profile_image": false,
+        "favourites_count": 5,
+        "description": "Welcome to the 2018 Russian world cup fan page. Providing results, updates, schedules, videos, goals, player stats, match stats and much more",
+        "created_at": "Mon Sep 11 17:57:49 +0000 2017",
+        "is_translator": false,
+        "profile_background_image_url_https": "",
+        "protected": false,
+        "screen_name": "worIdcupfan",
+        "id_str": "907302170961367046",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 907302170961367046,
+        "geo_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1003095271490846720/K5MI85xz_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907302170961367046/1527991933",
+        "statuses_count": 44,
+        "follow_request_sent": null,
+        "followers_count": 23586,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "FIFA World Cup",
+        "location": "Russia",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:16:27 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "quoted_status_id": 1007013192822919168,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007084322275450880",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007084322275450880,
+    "text": "OH IM FUCKING READY https://t.co/ibSyoROJ13",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/worIdcupfan/status/1007013192822919168",
+      "display": "twitter.com/worIdcupfan/st…",
+      "url": "https://t.co/ibSyoROJ13"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528942587809",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/worIdcupfan/st…",
+          "indices": [
+            20,
+            43
+          ],
+          "expanded_url": "https://twitter.com/worIdcupfan/status/1007013192822919168",
+          "url": "https://t.co/ibSyoROJ13"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      19
+    ],
+    "quoted_status_id_str": "1007013192822919168",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 218,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/990766584334635008/wpW7TCZN_normal.jpg",
+      "listed_count": 2,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 18433,
+      "description": "A little hippie and a little hood. Is the perfect combination of happy and good.",
+      "created_at": "Mon Mar 04 20:53:50 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Cali_Samantha",
+      "id_str": "1242208555",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 1242208555,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/990766584334635008/wpW7TCZN_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242208555/1527674472",
+      "statuses_count": 30551,
+      "follow_request_sent": null,
+      "followers_count": 240,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Sammy Sosa",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

@@ -1,2 +1,196 @@
-{"created_date": "2018-06-16 13:09:56", "current_time": 1529147396807, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 11:09:56 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007943352463941632", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007943352463941632, "text": "#freekickfrance #FRAAUS #WorldCup", "place": null, "lang": "und", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529147396566", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [0, 15], "text": "freekickfrance"}, {"indices": [16, 23], "text": "FRAAUS"}, {"indices": [24, 33], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 175, "profile_image_url_https": "https://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 269, "description": "Aussie/Italian. Into sport and staying home and watching sport.\nPAFC/M.S", "created_at": "Sat Sep 14 00:37:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "DavidRoth0895", "id_str": "1862175440", "profile_link_color": "0084B4", "translator_type": "none", "id": 1862175440, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 201, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "David Roth", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-16 13:20:56", "current_time": 1529148056906, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 11:20:56 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007946121069486080", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007946121069486080, "text": "Karma. And how is that not a red card?!?!?!? #WorldCup #AUS #AUSFRA", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529148056653", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [45, 54], "text": "WorldCup"}, {"indices": [55, 59], "text": "AUS"}, {"indices": [60, 67], "text": "AUSFRA"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 175, "profile_image_url_https": "https://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg", "listed_count": 1, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 272, "description": "Aussie/Italian. Into sport and staying home and watching sport.\nPAFC/M.S", "created_at": "Sat Sep 14 00:37:27 +0000 2013", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "DavidRoth0895", "id_str": "1862175440", "profile_link_color": "0084B4", "translator_type": "none", "id": 1862175440, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "statuses_count": 202, "follow_request_sent": null, "followers_count": 28, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "David Roth", "location": null, "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 13:09:56",
+    "current_time": 1529147396807,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 11:09:56 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007943352463941632",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007943352463941632,
+    "text": "#freekickfrance #FRAAUS #WorldCup",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529147396566",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "text": "freekickfrance"
+        },
+        {
+          "indices": [
+            16,
+            23
+          ],
+          "text": "FRAAUS"
+        },
+        {
+          "indices": [
+            24,
+            33
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 175,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 269,
+      "description": "Aussie/Italian. Into sport and staying home and watching sport.\nPAFC/M.S",
+      "created_at": "Sat Sep 14 00:37:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "DavidRoth0895",
+      "id_str": "1862175440",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 1862175440,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 201,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "David Roth",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-16 13:20:56",
+    "current_time": 1529148056906,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 11:20:56 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007946121069486080",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007946121069486080,
+    "text": "Karma. And how is that not a red card?!?!?!? #WorldCup #AUS #AUSFRA",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529148056653",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            55,
+            59
+          ],
+          "text": "AUS"
+        },
+        {
+          "indices": [
+            60,
+            67
+          ],
+          "text": "AUSFRA"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 175,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 272,
+      "description": "Aussie/Italian. Into sport and staying home and watching sport.\nPAFC/M.S",
+      "created_at": "Sat Sep 14 00:37:27 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "DavidRoth0895",
+      "id_str": "1862175440",
+      "profile_link_color": "0084B4",
+      "translator_type": "none",
+      "id": 1862175440,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/885792127879217154/YQ4fVlq6_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "statuses_count": 202,
+      "follow_request_sent": null,
+      "followers_count": 28,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "David Roth",
+      "location": null,
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

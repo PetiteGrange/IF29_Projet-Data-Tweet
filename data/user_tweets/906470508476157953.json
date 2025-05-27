@@ -1,0 +1,344 @@
+[
+  {
+    "created_date": "2018-06-14 04:33:24",
+    "current_time": 1528943604291,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 02:33:24 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OKp6ayb2rV",
+            "indices": [
+              112,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007006581198909441",
+            "expanded_url": "https://twitter.com/EPCSRsa/status/1007009999141433345/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007006581198909441/pu/img/45hmWYgrZH9Twkt7.jpg",
+            "id": 1007006581198909441,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "video",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007006581198909441/pu/img/45hmWYgrZH9Twkt7.jpg",
+            "url": "https://t.co/OKp6ayb2rV",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 113458,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 256000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007006581198909441/pu/vid/320x180/haayZbI4eRVdPGwN.mp4?tag=3"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1007006581198909441/pu/pl/1V-FKT8Q20DmmZVm.m3u8?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 2176000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007006581198909441/pu/vid/1280x720/mezyS3TQAYMEhSuQ.mp4?tag=3"
+                },
+                {
+                  "content_type": "video/mp4",
+                  "bitrate": 832000,
+                  "url": "https://video.twimg.com/ext_tw_video/1007006581198909441/pu/vid/640x360/rx8TZOIWjvzay_9p.mp4?tag=3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Wed Jun 13 21:21:07 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "retweet_count": 140,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007009999141433345",
+      "in_reply_to_user_id": null,
+      "favorite_count": 46,
+      "id": 1007009999141433345,
+      "text": "#هذا_هو_زمانك\nعالي عالي مكانك ..  \n.\n#معاك_يالأخضر 🇸🇦\n#WorldCup2018\n@SaudiNT \n.\nعالم واحد🌎\n🌎One World\n🌎один мир https://t.co/OKp6ayb2rV",
+      "place": null,
+      "lang": "und",
+      "quote_count": 2,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 1,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              13
+            ],
+            "text": "هذا_هو_زمانك"
+          },
+          {
+            "indices": [
+              37,
+              50
+            ],
+            "text": "معاك_يالأخضر"
+          },
+          {
+            "indices": [
+              54,
+              67
+            ],
+            "text": "WorldCup2018"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OKp6ayb2rV",
+            "indices": [
+              112,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007006581198909441",
+            "expanded_url": "https://twitter.com/EPCSRsa/status/1007009999141433345/video/1",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007006581198909441/pu/img/45hmWYgrZH9Twkt7.jpg",
+            "id": 1007006581198909441,
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007006581198909441/pu/img/45hmWYgrZH9Twkt7.jpg",
+            "url": "https://t.co/OKp6ayb2rV"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              68,
+              76
+            ],
+            "screen_name": "SaudiNT",
+            "id_str": "2750005566",
+            "name": "المنتخب السعودي",
+            "id": 2750005566
+          }
+        ],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        111
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 38,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660158502736953344/dGk9mYrh_normal.png",
+        "listed_count": 42,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 714,
+        "description": "الحساب الرسمي لمجلس المنطقة الشرقية للمسؤولية الاجتماعية @emara_sharqia للتواصل: info@epcsr.org",
+        "created_at": "Sun Feb 08 08:46:46 +0000 2015",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "EPCSRsa",
+        "id_str": "3013207010",
+        "profile_link_color": "3B94D9",
+        "translator_type": "none",
+        "id": 3013207010,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "ar",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660158502736953344/dGk9mYrh_normal.png",
+        "time_zone": null,
+        "url": "http://epcsr.org/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3013207010/1519541399",
+        "statuses_count": 5228,
+        "follow_request_sent": null,
+        "followers_count": 18373,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "مجلس المسؤولية",
+        "location": "المنطقة الشرقية، السعودية",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007088584799801345",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007088584799801345,
+    "text": "RT @EPCSRsa: #هذا_هو_زمانك\nعالي عالي مكانك ..  \n.\n#معاك_يالأخضر 🇸🇦\n#WorldCup2018\n@SaudiNT \n.\nعالم واحد🌎\n🌎One World\n🌎один мир https://t.co/O…",
+    "place": null,
+    "lang": "und",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528943604074",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            13,
+            26
+          ],
+          "text": "هذا_هو_زمانك"
+        },
+        {
+          "indices": [
+            50,
+            63
+          ],
+          "text": "معاك_يالأخضر"
+        },
+        {
+          "indices": [
+            67,
+            80
+          ],
+          "text": "WorldCup2018"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "EPCSRsa",
+          "id_str": "3013207010",
+          "name": "مجلس المسؤولية",
+          "id": 3013207010
+        },
+        {
+          "indices": [
+            81,
+            89
+          ],
+          "screen_name": "SaudiNT",
+          "id_str": "2750005566",
+          "name": "المنتخب السعودي",
+          "id": 2750005566
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 5862,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/972181753313013761/1obwcXjr_normal.jpg",
+      "listed_count": 273,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 5,
+      "description": "اذا مرتوت الي فوق رتوت من تحت",
+      "created_at": "Sat Sep 09 10:53:05 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "a1a20018",
+      "id_str": "906470508476157953",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 906470508476157953,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "ar",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/972181753313013761/1obwcXjr_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/906470508476157953/1519829536",
+      "statuses_count": 59036,
+      "follow_request_sent": null,
+      "followers_count": 5504,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "مزنه",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

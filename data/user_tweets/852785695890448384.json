@@ -1,0 +1,219 @@
+[
+  {
+    "created_date": "2018-06-15 20:40:46",
+    "current_time": 1529088046769,
+    "quoted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                19,
+                23
+              ],
+              "text": "POR"
+            },
+            {
+              "indices": [
+                219,
+                228
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "Cristiano Ronaldo (#POR) is the 4th player to score a goal in 4 different World Cups (2006, 2010, 2014, 2018)\n\nHe joins Miroslav Klose ('02, '06, '10, '14), Pelé ('58, '62, '66, '70) and Uwe Seeler ('58, '62, '66, '70) #WorldCup",
+        "display_text_range": [
+          0,
+          228
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:05:24 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "retweet_count": 338,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007685520292564993",
+      "in_reply_to_user_id": null,
+      "favorite_count": 484,
+      "id": 1007685520292564993,
+      "text": "Cristiano Ronaldo (#POR) is the 4th player to score a goal in 4 different World Cups (2006, 2010, 2014, 2018)\n\nHe j… https://t.co/f7PSVh88ES",
+      "place": null,
+      "lang": "en",
+      "quote_count": 32,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 9,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007685520292564993",
+            "url": "https://t.co/f7PSVh88ES"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              23
+            ],
+            "text": "POR"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 51,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747495844157472769/Np_LXZ_x_normal.jpg",
+        "listed_count": 14821,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 1061,
+        "description": "Our mission is to serve fans across every ESPN platform with the fastest, most accurate and insightful statistics, scores, news and analysis.",
+        "created_at": "Thu Jul 02 17:03:54 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "protected": false,
+        "screen_name": "ESPNStatsInfo",
+        "id_str": "53120768",
+        "profile_link_color": "009999",
+        "translator_type": "none",
+        "id": 53120768,
+        "geo_enabled": false,
+        "profile_background_color": "131516",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747495844157472769/Np_LXZ_x_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53120768/1522163783",
+        "statuses_count": 136610,
+        "follow_request_sent": null,
+        "followers_count": 1724495,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "ESPN Stats & Info",
+        "location": "Bristol, CT",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "notifications": null
+      }
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:40:46 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "quoted_status_id": 1007685520292564993,
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": true,
+    "id_str": "1007694420165132289",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007694420165132289,
+    "text": "But has yet to, and never will, win a cup 😹 https://t.co/DyvAXDCg5l",
+    "place": null,
+    "quoted_status_permalink": {
+      "expanded": "https://twitter.com/espnstatsinfo/status/1007685520292564993",
+      "display": "twitter.com/espnstatsinfo/…",
+      "url": "https://t.co/DyvAXDCg5l"
+    },
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088046481",
+    "reply_count": 0,
+    "entities": {
+      "urls": [
+        {
+          "display_url": "twitter.com/espnstatsinfo/…",
+          "indices": [
+            44,
+            67
+          ],
+          "expanded_url": "https://twitter.com/espnstatsinfo/status/1007685520292564993",
+          "url": "https://t.co/DyvAXDCg5l"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "display_text_range": [
+      0,
+      43
+    ],
+    "quoted_status_id_str": "1007685520292564993",
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 167,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991737882372116480/CBR-x4Rp_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "",
+      "default_profile_image": false,
+      "favourites_count": 10976,
+      "description": "roll cage on the gt3 - Esports enthusiast - Greenwall supporter - AMD 💚",
+      "created_at": "Fri Apr 14 07:28:48 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "",
+      "protected": false,
+      "screen_name": "devin_jus",
+      "id_str": "852785695890448384",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 852785695890448384,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991737882372116480/CBR-x4Rp_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/852785695890448384/1518308626",
+      "statuses_count": 3838,
+      "follow_request_sent": null,
+      "followers_count": 47,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "dev",
+      "location": null,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

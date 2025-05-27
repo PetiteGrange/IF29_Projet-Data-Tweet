@@ -1,0 +1,517 @@
+[
+  {
+    "created_date": "2018-06-15 20:44:19",
+    "current_time": 1529088259197,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:44:18 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                9
+              ],
+              "text": "WorldCup"
+            },
+            {
+              "indices": [
+                40,
+                47
+              ],
+              "text": "PORESP"
+            },
+            {
+              "indices": [
+                148,
+                163
+              ],
+              "text": "Croozefmsports"
+            }
+          ],
+          "user_mentions": [
+            {
+              "indices": [
+                10,
+                26
+              ],
+              "screen_name": "StarTimesUganda",
+              "id_str": "1264046911",
+              "name": "StarTimes Uganda",
+              "id": 1264046911
+            },
+            {
+              "indices": [
+                27,
+                39
+              ],
+              "screen_name": "abou_sports",
+              "id_str": "822734377616625664",
+              "name": "Abou Champion",
+              "id": 822734377616625664
+            }
+          ],
+          "symbols": []
+        },
+        "full_text": "#WorldCup\n@StarTimesUganda\n@abou_sports\n#PORESP\n41min' Portugal 1-1 Spain.\nDiego Costa is fouled by Pepe, free kick Spain, taken by Sergio Busquets\n#Croozefmsports",
+        "display_text_range": [
+          0,
+          163
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:42:27 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+      "retweet_count": 1,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007694843466772480",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2,
+      "id": 1007694843466772480,
+      "text": "#WorldCup\n@StarTimesUganda\n@abou_sports\n#PORESP\n41min' Portugal 1-1 Spain.\nDiego Costa is fouled by Pepe, free kick… https://t.co/q7CafM6EYY",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 1,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007694843466772480",
+            "url": "https://t.co/q7CafM6EYY"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              40,
+              47
+            ],
+            "text": "PORESP"
+          }
+        ],
+        "user_mentions": [
+          {
+            "indices": [
+              10,
+              26
+            ],
+            "screen_name": "StarTimesUganda",
+            "id_str": "1264046911",
+            "name": "StarTimes Uganda",
+            "id": 1264046911
+          },
+          {
+            "indices": [
+              27,
+              39
+            ],
+            "screen_name": "abou_sports",
+            "id_str": "822734377616625664",
+            "name": "Abou Champion",
+            "id": 822734377616625664
+          }
+        ],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 3665,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/805983496162439169/CfHQ2llO_normal.jpg",
+        "listed_count": 115,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 46424,
+        "description": "Western Uganda's Biggest Radio, We are a Power House of Great Music & Great Friends Big Supporters of Good African Music http://croozefm.com to streamLive",
+        "created_at": "Thu Dec 15 13:42:14 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "912CroozeFM",
+        "id_str": "437498084",
+        "profile_link_color": "0084B4",
+        "translator_type": "none",
+        "id": 437498084,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/805983496162439169/CfHQ2llO_normal.jpg",
+        "time_zone": null,
+        "url": "http://www.croozefm.com/",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437498084/1483947075",
+        "statuses_count": 183797,
+        "follow_request_sent": null,
+        "followers_count": 31362,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "91.2 Crooze Fm",
+        "location": "Ntare, Muti Lane  Mbarara",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695311299436544",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695311299436544,
+    "text": "RT @912CroozeFM: #WorldCup\n@StarTimesUganda\n@abou_sports\n#PORESP\n41min' Portugal 1-1 Spain.\nDiego Costa is fouled by Pepe, free kick Spain,…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088258944",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            26
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            57,
+            64
+          ],
+          "text": "PORESP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "912CroozeFM",
+          "id_str": "437498084",
+          "name": "91.2 Crooze Fm",
+          "id": 437498084
+        },
+        {
+          "indices": [
+            27,
+            43
+          ],
+          "screen_name": "StarTimesUganda",
+          "id_str": "1264046911",
+          "name": "StarTimes Uganda",
+          "id": 1264046911
+        },
+        {
+          "indices": [
+            44,
+            56
+          ],
+          "screen_name": "abou_sports",
+          "id_str": "822734377616625664",
+          "name": "Abou Champion",
+          "id": 822734377616625664
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 383,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/973640438019223552/jXUlY-O-_normal.jpg",
+      "listed_count": 24,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 26970,
+      "description": "Promotar | Marketeer @Bgg_Stores\r\nHUMBLE WITH A BIG HEART....!!! JUST TRUST IN ME...???",
+      "created_at": "Wed Sep 03 09:40:37 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ImmaProUG",
+      "id_str": "2760254494",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2760254494,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/973640438019223552/jXUlY-O-_normal.jpg",
+      "time_zone": null,
+      "url": "http://instagram.com/immapro_ug",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2760254494/1523101738",
+      "statuses_count": 8112,
+      "follow_request_sent": null,
+      "followers_count": 3486,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Imma NX UG",
+      "location": "UG, E.A, Africa, Worldwide..",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-15 20:44:53",
+    "current_time": 1529088293089,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:44:52 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:42:54 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 2,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007694957744934918",
+      "in_reply_to_user_id": null,
+      "favorite_count": 3,
+      "id": 1007694957744934918,
+      "text": "We can all agree that the first game of this year's #WorldCup is #POR  vs #ESP \n#PORESP",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              52,
+              61
+            ],
+            "text": "WorldCup"
+          },
+          {
+            "indices": [
+              65,
+              69
+            ],
+            "text": "POR"
+          },
+          {
+            "indices": [
+              74,
+              78
+            ],
+            "text": "ESP"
+          },
+          {
+            "indices": [
+              80,
+              87
+            ],
+            "text": "PORESP"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 118340,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993714641447550981/xCcplhLq_normal.jpg",
+        "listed_count": 169,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "default_profile_image": false,
+        "favourites_count": 33046,
+        "description": "|:| POLITICS HUMOR BREAKING NEWS |:|\n\n|:| Student engineer |:|\n\n|:|️ 0718375337 ☎ |:|",
+        "created_at": "Wed Dec 12 12:37:46 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "protected": false,
+        "screen_name": "PaulKiarie_",
+        "id_str": "1006254296",
+        "profile_link_color": "FF0000",
+        "translator_type": "none",
+        "id": 1006254296,
+        "geo_enabled": true,
+        "profile_background_color": "642D8B",
+        "lang": "en",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_text_color": "3D1957",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993714641447550981/xCcplhLq_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.facebook.com/paulkiarie001",
+        "contributors_enabled": false,
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006254296/1527689314",
+        "statuses_count": 61311,
+        "follow_request_sent": null,
+        "followers_count": 138429,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "kiarie  🇰🇪",
+        "location": "Nairobi, Kenya",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695453440258048",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695453440258048,
+    "text": "RT @PaulKiarie_: We can all agree that the first game of this year's #WorldCup is #POR  vs #ESP \n#PORESP",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088292833",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            69,
+            78
+          ],
+          "text": "WorldCup"
+        },
+        {
+          "indices": [
+            82,
+            86
+          ],
+          "text": "POR"
+        },
+        {
+          "indices": [
+            91,
+            95
+          ],
+          "text": "ESP"
+        },
+        {
+          "indices": [
+            97,
+            104
+          ],
+          "text": "PORESP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "PaulKiarie_",
+          "id_str": "1006254296",
+          "name": "kiarie  🇰🇪",
+          "id": 1006254296
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 383,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/973640438019223552/jXUlY-O-_normal.jpg",
+      "listed_count": 24,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 26970,
+      "description": "Promotar | Marketeer @Bgg_Stores\r\nHUMBLE WITH A BIG HEART....!!! JUST TRUST IN ME...???",
+      "created_at": "Wed Sep 03 09:40:37 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ImmaProUG",
+      "id_str": "2760254494",
+      "profile_link_color": "1DA1F2",
+      "translator_type": "none",
+      "id": 2760254494,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/973640438019223552/jXUlY-O-_normal.jpg",
+      "time_zone": null,
+      "url": "http://instagram.com/immapro_ug",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2760254494/1523101738",
+      "statuses_count": 8113,
+      "follow_request_sent": null,
+      "followers_count": 3486,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": null,
+      "name": "Imma NX UG",
+      "location": "UG, E.A, Africa, Worldwide..",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": null
+    }
+  }
+]

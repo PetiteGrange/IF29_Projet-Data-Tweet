@@ -1,0 +1,348 @@
+[
+  {
+    "created_date": "2018-06-15 20:43:55",
+    "current_time": 1529088235767,
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/o1iONm9Zdb",
+          "source_user_id": 385473825,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+          "source_status_id": 1007694798642442240,
+          "url": "https://t.co/o1iONm9Zdb",
+          "indices": [
+            108,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007694783161229312",
+          "expanded_url": "https://twitter.com/Squawka/status/1007694798642442240/photo/1",
+          "source_status_id_str": "1007694798642442240",
+          "media_url_https": "https://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+          "id": 1007694783161229312,
+          "source_user_id_str": "385473825"
+        }
+      ]
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Jun 15 18:43:55 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/o1iONm9Zdb",
+            "indices": [
+              95,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007694783161229312",
+            "expanded_url": "https://twitter.com/Squawka/status/1007694798642442240/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+            "id": 1007694783161229312,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+            "url": "https://t.co/o1iONm9Zdb"
+          }
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Fri Jun 15 18:42:16 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweet_count": 22,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007694798642442240",
+      "in_reply_to_user_id": null,
+      "favorite_count": 51,
+      "id": 1007694798642442240,
+      "text": "Diego Costa's all-time record at the #WorldCup :\n\n1 shot\n1 goal\n\nA typical Diego Costa goal. 💪 https://t.co/o1iONm9Zdb",
+      "place": null,
+      "lang": "en",
+      "quote_count": 5,
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 0,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              37,
+              46
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/o1iONm9Zdb",
+            "indices": [
+              95,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            },
+            "id_str": "1007694783161229312",
+            "expanded_url": "https://twitter.com/Squawka/status/1007694798642442240/photo/1",
+            "media_url_https": "https://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+            "id": 1007694783161229312,
+            "type": "photo",
+            "media_url": "http://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+            "url": "https://t.co/o1iONm9Zdb"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "display_text_range": [
+        0,
+        94
+      ],
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 504,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803035518078427136/laCadHI9_normal.jpg",
+        "listed_count": 6456,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 183,
+        "description": "Use #AskSquawka. Football stats, graphics and analysis on the world's major leagues using Opta data. Follow @SquawkaNews for all the football news.",
+        "created_at": "Wed Oct 05 15:25:19 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Squawka",
+        "id_str": "385473825",
+        "profile_link_color": "ED3F31",
+        "translator_type": "none",
+        "id": 385473825,
+        "geo_enabled": true,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "verified": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803035518078427136/laCadHI9_normal.jpg",
+        "time_zone": null,
+        "url": "http://squawka.com",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385473825/1502729502",
+        "statuses_count": 153268,
+        "follow_request_sent": null,
+        "followers_count": 880032,
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "following": null,
+        "name": "Squawka Football",
+        "location": null,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007695213089914881",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007695213089914881,
+    "text": "RT @Squawka: Diego Costa's all-time record at the #WorldCup :\n\n1 shot\n1 goal\n\nA typical Diego Costa goal. 💪 https://t.co/o1iONm9Zdb",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529088235529",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            50,
+            59
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/o1iONm9Zdb",
+          "source_user_id": 385473825,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+          "source_status_id": 1007694798642442240,
+          "url": "https://t.co/o1iONm9Zdb",
+          "indices": [
+            108,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          },
+          "id_str": "1007694783161229312",
+          "expanded_url": "https://twitter.com/Squawka/status/1007694798642442240/photo/1",
+          "source_status_id_str": "1007694798642442240",
+          "media_url_https": "https://pbs.twimg.com/media/DfwNEPhW4AARDaS.jpg",
+          "id": 1007694783161229312,
+          "source_user_id_str": "385473825"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "Squawka",
+          "id_str": "385473825",
+          "name": "Squawka Football",
+          "id": 385473825
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1771,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992092619953057793/bHfgEWmn_normal.jpg",
+      "listed_count": 88,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 50,
+      "description": "The greatest pleasure in life is doing what people say you cannot do!\n◾@acmilan ◾Reggae ◾@serieA_tim ◾ agriculturalist",
+      "created_at": "Wed Feb 29 07:09:44 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "protected": false,
+      "screen_name": "o_N_e_K",
+      "id_str": "508509767",
+      "profile_link_color": "DD2E44",
+      "translator_type": "none",
+      "id": 508509767,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992092619953057793/bHfgEWmn_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/508509767/1523469841",
+      "statuses_count": 124125,
+      "follow_request_sent": null,
+      "followers_count": 2192,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "Efo. E K M N",
+      "location": "Adenta",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

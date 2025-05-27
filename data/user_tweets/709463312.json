@@ -1,2 +1,184 @@
-{"created_date": "2018-06-17 16:54:18", "current_time": 1529247258158, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sun Jun 17 14:54:17 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1008362201424564224", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1008362201424564224, "text": "Herkes ortam\u0131 bo\u015falts\u0131n, s\u0131ra \u201c\u015fampiyonun\u201d #GER #WorldCup", "place": null, "lang": "tr", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529247257940", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [43, 47], "text": "GER"}, {"indices": [48, 57], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 547, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 10296, "description": "Bilkent ME \u2022 UNIBJK Ankara \u2022 \u00e7A", "created_at": "Sat Jul 21 19:35:35 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "f_tugra", "id_str": "709463312", "profile_link_color": "EDE275", "translator_type": "none", "id": 709463312, "geo_enabled": true, "profile_background_color": "000000", "lang": "tr", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg", "time_zone": null, "url": "http://bjk.com.tr", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/709463312/1528239277", "statuses_count": 1995, "follow_request_sent": null, "followers_count": 623, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "f.tu\u011fra \u00f6zy\u0131ld\u0131z", "location": "Ankara", "profile_sidebar_fill_color": "000000", "notifications": null}}
-{"created_date": "2018-06-14 17:11:05", "current_time": 1528989065164, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 15:11:04 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007279261504372736", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007279261504372736, "text": "Futbol sonunda Almanlar\u0131n kazand\u0131\u011f\u0131 basit bir oyundur.. #GER #WorldCup", "place": null, "lang": "tr", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528989064943", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [56, 60], "text": "GER"}, {"indices": [61, 70], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 544, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg", "listed_count": 0, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 10284, "description": "Bilkent ME \u2022 UNIBJK Ankara \u2022 \u00e7A", "created_at": "Sat Jul 21 19:35:35 +0000 2012", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "f_tugra", "id_str": "709463312", "profile_link_color": "EDE275", "translator_type": "none", "id": 709463312, "geo_enabled": true, "profile_background_color": "000000", "lang": "tr", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg", "time_zone": null, "url": "http://bjk.com.tr", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/709463312/1528239277", "statuses_count": 1987, "follow_request_sent": null, "followers_count": 623, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "f.tu\u011fra \u00f6zy\u0131ld\u0131z", "location": "Ankara", "profile_sidebar_fill_color": "000000", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-17 16:54:18",
+    "current_time": 1529247258158,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Jun 17 14:54:17 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1008362201424564224",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1008362201424564224,
+    "text": "Herkes ortamı boşaltsın, sıra “şampiyonun” #GER #WorldCup",
+    "place": null,
+    "lang": "tr",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529247257940",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            43,
+            47
+          ],
+          "text": "GER"
+        },
+        {
+          "indices": [
+            48,
+            57
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 547,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 10296,
+      "description": "Bilkent ME • UNIBJK Ankara • çA",
+      "created_at": "Sat Jul 21 19:35:35 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "f_tugra",
+      "id_str": "709463312",
+      "profile_link_color": "EDE275",
+      "translator_type": "none",
+      "id": 709463312,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "tr",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg",
+      "time_zone": null,
+      "url": "http://bjk.com.tr",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/709463312/1528239277",
+      "statuses_count": 1995,
+      "follow_request_sent": null,
+      "followers_count": 623,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "f.tuğra özyıldız",
+      "location": "Ankara",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 17:11:05",
+    "current_time": 1528989065164,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 15:11:04 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007279261504372736",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007279261504372736,
+    "text": "Futbol sonunda Almanların kazandığı basit bir oyundur.. #GER #WorldCup",
+    "place": null,
+    "lang": "tr",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528989064943",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            56,
+            60
+          ],
+          "text": "GER"
+        },
+        {
+          "indices": [
+            61,
+            70
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 544,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 10284,
+      "description": "Bilkent ME • UNIBJK Ankara • çA",
+      "created_at": "Sat Jul 21 19:35:35 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "f_tugra",
+      "id_str": "709463312",
+      "profile_link_color": "EDE275",
+      "translator_type": "none",
+      "id": 709463312,
+      "geo_enabled": true,
+      "profile_background_color": "000000",
+      "lang": "tr",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1004330999675850752/sdO5uuJv_normal.jpg",
+      "time_zone": null,
+      "url": "http://bjk.com.tr",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/709463312/1528239277",
+      "statuses_count": 1987,
+      "follow_request_sent": null,
+      "followers_count": 623,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": null,
+      "name": "f.tuğra özyıldız",
+      "location": "Ankara",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": null
+    }
+  }
+]

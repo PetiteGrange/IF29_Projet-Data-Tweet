@@ -1,4 +1,718 @@
-{"created_date": "2018-06-16 16:46:19", "current_time": 1529160379626, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 14:46:19 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", "retweeted_status": {"in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Sat Jun 16 08:55:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", "retweet_count": 21, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007909458100588544", "in_reply_to_user_id": null, "favorite_count": 9, "id": 1007909458100588544, "text": "Predict #Nigeria Vs #Croatia\nPlease retweet after voting.\n#CRONGA #WorldCup", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "reply_count": 4, "entities": {"urls": [], "hashtags": [{"indices": [8, 16], "text": "Nigeria"}, {"indices": [20, 28], "text": "Croatia"}, {"indices": [58, 65], "text": "CRONGA"}, {"indices": [66, 75], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 5686, "profile_image_url_https": "https://pbs.twimg.com/profile_images/976580737217515525/6h-wRO2k_normal.jpg", "listed_count": 109, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 10391, "description": "HISTORY. POLITICS. PHILOSOPHY. FOOTBALL. OAP. In an emotional & abusive relationship respectively with Liverpool FC & Nigeria. retweet \u2260 endorsement", "created_at": "Thu Jul 02 14:39:35 +0000 2009", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "Uruokpala", "id_str": "53079920", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 53079920, "geo_enabled": false, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/976580737217515525/6h-wRO2k_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/53079920/1437086353", "statuses_count": 75416, "follow_request_sent": null, "followers_count": 21653, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Olaudah Equiano\u00ae", "location": "Iguedo Omambala", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007997806123069440", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007997806123069440, "text": "RT @Uruokpala: Predict #Nigeria Vs #Croatia\nPlease retweet after voting.\n#CRONGA #WorldCup", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1529160379330", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [23, 31], "text": "Nigeria"}, {"indices": [35, 43], "text": "Croatia"}, {"indices": [73, 80], "text": "CRONGA"}, {"indices": [81, 90], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 13], "screen_name": "Uruokpala", "id_str": "53079920", "name": "Olaudah Equiano\u00ae", "id": 53079920}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1397, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "listed_count": 7, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 312, "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.", "created_at": "Thu Mar 03 21:07:00 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "KolaPryme_KP", "id_str": "260416387", "profile_link_color": "3B94D9", "translator_type": "none", "id": 260416387, "geo_enabled": true, "profile_background_color": "1A1B1F", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "666666", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "time_zone": null, "url": "http://soundcloud.com/prymeofficial", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757", "statuses_count": 23913, "follow_request_sent": null, "followers_count": 1515, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "K\u03a6L\u0394 PR\u00a5M\u00a3", "location": "Lagos, Nigeria.", "profile_sidebar_fill_color": "252429", "notifications": null}}
-{"created_date": "2018-06-14 19:51:15", "current_time": 1528998675785, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 17:51:15 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007319571311800321", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007319571311800321, "text": "Russia just comfortably spelt SAUDI with that goals loool. #WorldCup2018", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528998675550", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [59, 72], "text": "WorldCup2018"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1397, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "listed_count": 7, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 313, "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.", "created_at": "Thu Mar 03 21:07:00 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "KolaPryme_KP", "id_str": "260416387", "profile_link_color": "3B94D9", "translator_type": "none", "id": 260416387, "geo_enabled": true, "profile_background_color": "1A1B1F", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "666666", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "time_zone": null, "url": "http://soundcloud.com/prymeofficial", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757", "statuses_count": 23878, "follow_request_sent": null, "followers_count": 1518, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "K\u03a6L\u0394 PR\u00a5M\u00a3", "location": "Lagos, Nigeria.", "profile_sidebar_fill_color": "252429", "notifications": null}}
-{"created_date": "2018-06-14 10:17:13", "current_time": 1528964233424, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 08:17:13 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", "retweeted_status": {"extended_tweet": {"entities": {"urls": [], "hashtags": [{"indices": [44, 53], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "full_text": "DON'T RETWEET IF YOU DON'T SEE YOUR COUNTRY #WorldCup\n\nGroup A:\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddfe\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde6\n\nGroup B:\n\ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf2\ud83c\udde6 \n\nGroup C:\n\ud83c\uddeb\ud83c\uddf7\ud83c\uddf5\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\udde6\ud83c\uddfa \n\nGroup D:\n\ud83c\udde6\ud83c\uddf7\ud83c\udded\ud83c\uddf7\ud83c\uddee\ud83c\uddf8\ud83c\uddf3\ud83c\uddec\n\nGroup E:\n\ud83c\udde7\ud83c\uddf7\ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\uddf7\ud83c\uddf7\ud83c\uddf8 \n\nGroup F:\n\ud83c\udde9\ud83c\uddea\ud83c\uddf2\ud83c\uddfd\ud83c\uddf8\ud83c\uddea\ud83c\uddf0\ud83c\uddf7 \n\nGroup G:\n\ud83c\udde7\ud83c\uddea\ud83e\udd81\ud83c\uddf9\ud83c\uddf3\ud83c\uddf5\ud83c\udde6 \n\nGroup H: \n\ud83c\uddf5\ud83c\uddf1\ud83c\udde8\ud83c\uddf4\ud83c\uddf8\ud83c\uddf3\ud83c\uddef\ud83c\uddf5", "display_text_range": [0, 210]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 07:03:11 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 76, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007156478573236226", "in_reply_to_user_id": null, "favorite_count": 49, "id": 1007156478573236226, "text": "DON'T RETWEET IF YOU DON'T SEE YOUR COUNTRY #WorldCup\n\nGroup A:\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddfe\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde6\n\nGroup B:\n\ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf2\ud83c\udde6 \n\nGroup C:\n\ud83c\uddeb\ud83c\uddf7\ud83c\uddf5\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\udde6\ud83c\uddfa \n\nG\u2026 https://t.co/hOjbERbGs9", "place": null, "lang": "en", "quote_count": 5, "favorited": false, "coordinates": null, "truncated": true, "reply_count": 9, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/1007156478573236226", "url": "https://t.co/hOjbERbGs9"}], "hashtags": [{"indices": [44, 53], "text": "WorldCup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 14464, "profile_image_url_https": "https://pbs.twimg.com/profile_images/947437951637696512/lSyVHTxT_normal.jpg", "listed_count": 125, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 420, "description": "I\u2019m not an Influenza but highly contagious on the TL|| Master of Ceremonies and Proud Microbiologist", "created_at": "Fri Aug 20 23:34:17 +0000 2010", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "deoluajao", "id_str": "180967733", "profile_link_color": "1DA1F2", "translator_type": "none", "id": 180967733, "geo_enabled": true, "profile_background_color": "C0DEED", "lang": "en", "profile_sidebar_border_color": "C0DEED", "profile_text_color": "333333", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/947437951637696512/lSyVHTxT_normal.jpg", "time_zone": null, "url": null, "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/180967733/1498297369", "statuses_count": 133401, "follow_request_sent": null, "followers_count": 21185, "profile_use_background_image": true, "default_profile": true, "following": null, "name": "Slay King \ud83d\udc51", "location": "Shootin Skit Opposite Camp Nou", "profile_sidebar_fill_color": "DDEEF6", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007175109487022080", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007175109487022080, "text": "RT @deoluajao: DON'T RETWEET IF YOU DON'T SEE YOUR COUNTRY #WorldCup\n\nGroup A:\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddfe\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde6\n\nGroup B:\n\ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf2\ud83c\udde6 \n\nGroup C:\n\ud83c\uddeb\ud83c\uddf7\ud83c\uddf5\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\udde6\ud83c\uddfa \n\nGroup D:\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528964233167", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [59, 68], "text": "WorldCup"}], "user_mentions": [{"indices": [3, 13], "screen_name": "deoluajao", "id_str": "180967733", "name": "Slay King \ud83d\udc51", "id": 180967733}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1394, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "listed_count": 7, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 313, "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.", "created_at": "Thu Mar 03 21:07:00 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "KolaPryme_KP", "id_str": "260416387", "profile_link_color": "3B94D9", "translator_type": "none", "id": 260416387, "geo_enabled": true, "profile_background_color": "1A1B1F", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "666666", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "time_zone": null, "url": "http://soundcloud.com/prymeofficial", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757", "statuses_count": 23861, "follow_request_sent": null, "followers_count": 1515, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "K\u03a6L\u0394 PR\u00a5M\u00a3", "location": "Lagos, Nigeria.", "profile_sidebar_fill_color": "252429", "notifications": null}}
-{"created_date": "2018-06-14 10:19:58", "current_time": 1528964398460, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 08:19:58 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", "retweeted_status": {"extended_tweet": {"entities": {"urls": [], "hashtags": [{"indices": [29, 38], "text": "worldcup"}], "user_mentions": [], "symbols": []}, "full_text": "RT if you see your country:  #worldcup\n\nGroup A:\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddfe\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde6\n\nGroup B:\n\ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf2\ud83c\udde6 \n\nGroup C:\n\ud83c\uddeb\ud83c\uddf7\ud83c\uddf5\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\udde6\ud83c\uddfa \n\nGroup D:\n\ud83c\udde6\ud83c\uddf7\ud83c\udded\ud83c\uddf7\ud83c\uddee\ud83c\uddf8\ud83c\uddf3\ud83c\uddec\n\nGroup E:\n\ud83c\udde7\ud83c\uddf7\ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\uddf7\ud83c\uddf7\ud83c\uddf8 \n\nGroup F:\n\ud83c\udde9\ud83c\uddea\ud83c\uddf2\ud83c\uddfd\ud83c\uddf8\ud83c\uddea\ud83c\uddf0\ud83c\uddf7 \n\nGroup G:\n\ud83c\udde7\ud83c\uddea\ud83e\udd81\ud83c\uddf9\ud83c\uddf3\ud83c\uddf5\ud83c\udde6 \n\nGroup H: \n\ud83c\uddf5\ud83c\uddf1\ud83c\udde8\ud83c\uddf4\ud83c\uddf8\ud83c\uddf3\ud83c\uddef\ud83c\uddf5", "display_text_range": [0, 195]}, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "created_at": "Thu Jun 14 06:54:44 +0000 2018", "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweet_count": 63, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007154352832831489", "in_reply_to_user_id": null, "favorite_count": 37, "id": 1007154352832831489, "text": "RT if you see your country:  #worldcup\n\nGroup A:\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddfe\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde6\n\nGroup B:\n\ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf2\ud83c\udde6 \n\nGroup C:\n\ud83c\uddeb\ud83c\uddf7\ud83c\uddf5\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\udde6\ud83c\uddfa \n\nGroup D:\n\ud83c\udde6\ud83c\uddf7\ud83c\udded\ud83c\uddf7\ud83c\uddee\ud83c\uddf8\u2026 https://t.co/J70AYHeAoa", "place": null, "lang": "en", "quote_count": 2, "favorited": false, "coordinates": null, "truncated": true, "reply_count": 2, "entities": {"urls": [{"display_url": "twitter.com/i/web/status/1\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/1007154352832831489", "url": "https://t.co/J70AYHeAoa"}], "hashtags": [{"indices": [29, 38], "text": "worldcup"}], "user_mentions": [], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 3480, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000171076251512832/UAUjfxx7_normal.jpg", "listed_count": 168, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "favourites_count": 1890, "description": "Digital Media Strategist \u25a0 CSR/VAS personnel \u25a0 PR 4 @withinnigeria \u01dd\u0279n\u0287n\u025f p \u0279o\u025f \u0183u\u1d09\u0279\u0250d\u01dd\u0279d - \u01ddsu\u01dd\u025f\u01ddp ou s\u1d09  \u01dd\u0254u\u0250\u0279ou\u0183I   FUNAAB \ud83d\udc33 #VANGUARD KF @mister_opa", "created_at": "Sat Apr 23 23:03:19 +0000 2016", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "screen_name": "ogbeni_opa", "id_str": "724010795248586752", "profile_link_color": "E81C4F", "translator_type": "none", "id": 724010795248586752, "geo_enabled": false, "profile_background_color": "000000", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "000000", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1000171076251512832/UAUjfxx7_normal.jpg", "time_zone": null, "url": "https://www.withinnigeria.news/author/mr-opa/", "contributors_enabled": false, "profile_background_tile": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/724010795248586752/1527713536", "statuses_count": 81050, "follow_request_sent": null, "followers_count": 20034, "profile_use_background_image": false, "default_profile": false, "following": null, "name": "#ThisIsALABATA by Specimen", "location": "in the abroad", "profile_sidebar_fill_color": "000000", "notifications": null}}, "retweet_count": 0, "retweeted": false, "geo": null, "filter_level": "low", "in_reply_to_screen_name": null, "is_quote_status": false, "id_str": "1007175801777938432", "in_reply_to_user_id": null, "favorite_count": 0, "id": 1007175801777938432, "text": "RT @ogbeni_opa: RT if you see your country:  #worldcup\n\nGroup A:\n\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddfe\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde6\n\nGroup B:\n\ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf2\ud83c\udde6 \n\nGroup C:\n\ud83c\uddeb\ud83c\uddf7\ud83c\uddf5\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\udde6\ud83c\uddfa \n\nGroup D:\n\ud83c\udde6\ud83c\uddf7\ud83c\udded\ud83c\uddf7\ud83c\uddee\ud83c\uddf8\ud83c\uddf3\ud83c\uddec\n\nGroup\u2026", "place": null, "lang": "en", "quote_count": 0, "favorited": false, "coordinates": null, "truncated": false, "timestamp_ms": "1528964398222", "reply_count": 0, "entities": {"urls": [], "hashtags": [{"indices": [45, 54], "text": "worldcup"}], "user_mentions": [{"indices": [3, 14], "screen_name": "ogbeni_opa", "id_str": "724010795248586752", "name": "#ThisIsALABATA by Specimen", "id": 724010795248586752}], "symbols": []}, "contributors": null, "user": {"utc_offset": null, "friends_count": 1394, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "listed_count": 7, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "default_profile_image": false, "favourites_count": 313, "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.", "created_at": "Thu Mar 03 21:07:00 +0000 2011", "is_translator": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "protected": false, "screen_name": "KolaPryme_KP", "id_str": "260416387", "profile_link_color": "3B94D9", "translator_type": "none", "id": 260416387, "geo_enabled": true, "profile_background_color": "1A1B1F", "lang": "en", "profile_sidebar_border_color": "000000", "profile_text_color": "666666", "verified": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg", "time_zone": null, "url": "http://soundcloud.com/prymeofficial", "contributors_enabled": false, "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757", "statuses_count": 23863, "follow_request_sent": null, "followers_count": 1515, "profile_use_background_image": true, "default_profile": false, "following": null, "name": "K\u03a6L\u0394 PR\u00a5M\u00a3", "location": "Lagos, Nigeria.", "profile_sidebar_fill_color": "252429", "notifications": null}}
+[
+  {
+    "created_date": "2018-06-16 16:46:19",
+    "current_time": 1529160379626,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Jun 16 14:46:19 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Jun 16 08:55:15 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "retweet_count": 21,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007909458100588544",
+      "in_reply_to_user_id": null,
+      "favorite_count": 9,
+      "id": 1007909458100588544,
+      "text": "Predict #Nigeria Vs #Croatia\nPlease retweet after voting.\n#CRONGA #WorldCup",
+      "place": null,
+      "lang": "en",
+      "quote_count": 0,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": false,
+      "reply_count": 4,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              8,
+              16
+            ],
+            "text": "Nigeria"
+          },
+          {
+            "indices": [
+              20,
+              28
+            ],
+            "text": "Croatia"
+          },
+          {
+            "indices": [
+              58,
+              65
+            ],
+            "text": "CRONGA"
+          },
+          {
+            "indices": [
+              66,
+              75
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 5686,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976580737217515525/6h-wRO2k_normal.jpg",
+        "listed_count": 109,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 10391,
+        "description": "HISTORY. POLITICS. PHILOSOPHY. FOOTBALL. OAP. In an emotional & abusive relationship respectively with Liverpool FC & Nigeria. retweet ≠ endorsement",
+        "created_at": "Thu Jul 02 14:39:35 +0000 2009",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Uruokpala",
+        "id_str": "53079920",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 53079920,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976580737217515525/6h-wRO2k_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53079920/1437086353",
+        "statuses_count": 75416,
+        "follow_request_sent": null,
+        "followers_count": 21653,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Olaudah Equiano®",
+        "location": "Iguedo Omambala",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007997806123069440",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007997806123069440,
+    "text": "RT @Uruokpala: Predict #Nigeria Vs #Croatia\nPlease retweet after voting.\n#CRONGA #WorldCup",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1529160379330",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            23,
+            31
+          ],
+          "text": "Nigeria"
+        },
+        {
+          "indices": [
+            35,
+            43
+          ],
+          "text": "Croatia"
+        },
+        {
+          "indices": [
+            73,
+            80
+          ],
+          "text": "CRONGA"
+        },
+        {
+          "indices": [
+            81,
+            90
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "Uruokpala",
+          "id_str": "53079920",
+          "name": "Olaudah Equiano®",
+          "id": 53079920
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1397,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "listed_count": 7,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 312,
+      "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.",
+      "created_at": "Thu Mar 03 21:07:00 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false,
+      "screen_name": "KolaPryme_KP",
+      "id_str": "260416387",
+      "profile_link_color": "3B94D9",
+      "translator_type": "none",
+      "id": 260416387,
+      "geo_enabled": true,
+      "profile_background_color": "1A1B1F",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "666666",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "time_zone": null,
+      "url": "http://soundcloud.com/prymeofficial",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757",
+      "statuses_count": 23913,
+      "follow_request_sent": null,
+      "followers_count": 1515,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "KΦLΔ PR¥M£",
+      "location": "Lagos, Nigeria.",
+      "profile_sidebar_fill_color": "252429",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 19:51:15",
+    "current_time": 1528998675785,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 17:51:15 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007319571311800321",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007319571311800321,
+    "text": "Russia just comfortably spelt SAUDI with that goals loool. #WorldCup2018",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528998675550",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            59,
+            72
+          ],
+          "text": "WorldCup2018"
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1397,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "listed_count": 7,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 313,
+      "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.",
+      "created_at": "Thu Mar 03 21:07:00 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false,
+      "screen_name": "KolaPryme_KP",
+      "id_str": "260416387",
+      "profile_link_color": "3B94D9",
+      "translator_type": "none",
+      "id": 260416387,
+      "geo_enabled": true,
+      "profile_background_color": "1A1B1F",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "666666",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "time_zone": null,
+      "url": "http://soundcloud.com/prymeofficial",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757",
+      "statuses_count": 23878,
+      "follow_request_sent": null,
+      "followers_count": 1518,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "KΦLΔ PR¥M£",
+      "location": "Lagos, Nigeria.",
+      "profile_sidebar_fill_color": "252429",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 10:17:13",
+    "current_time": 1528964233424,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 08:17:13 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                44,
+                53
+              ],
+              "text": "WorldCup"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "DON'T RETWEET IF YOU DON'T SEE YOUR COUNTRY #WorldCup\n\nGroup A:\n🇷🇺🇺🇾🇪🇬🇸🇦\n\nGroup B:\n🇵🇹🇪🇸🇮🇷🇲🇦 \n\nGroup C:\n🇫🇷🇵🇪🇩🇰🇦🇺 \n\nGroup D:\n🇦🇷🇭🇷🇮🇸🇳🇬\n\nGroup E:\n🇧🇷🇨🇭🇨🇷🇷🇸 \n\nGroup F:\n🇩🇪🇲🇽🇸🇪🇰🇷 \n\nGroup G:\n🇧🇪🦁🇹🇳🇵🇦 \n\nGroup H: \n🇵🇱🇨🇴🇸🇳🇯🇵",
+        "display_text_range": [
+          0,
+          210
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 07:03:11 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 76,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007156478573236226",
+      "in_reply_to_user_id": null,
+      "favorite_count": 49,
+      "id": 1007156478573236226,
+      "text": "DON'T RETWEET IF YOU DON'T SEE YOUR COUNTRY #WorldCup\n\nGroup A:\n🇷🇺🇺🇾🇪🇬🇸🇦\n\nGroup B:\n🇵🇹🇪🇸🇮🇷🇲🇦 \n\nGroup C:\n🇫🇷🇵🇪🇩🇰🇦🇺 \n\nG… https://t.co/hOjbERbGs9",
+      "place": null,
+      "lang": "en",
+      "quote_count": 5,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 9,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007156478573236226",
+            "url": "https://t.co/hOjbERbGs9"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              44,
+              53
+            ],
+            "text": "WorldCup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 14464,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/947437951637696512/lSyVHTxT_normal.jpg",
+        "listed_count": 125,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 420,
+        "description": "I’m not an Influenza but highly contagious on the TL|| Master of Ceremonies and Proud Microbiologist",
+        "created_at": "Fri Aug 20 23:34:17 +0000 2010",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "deoluajao",
+        "id_str": "180967733",
+        "profile_link_color": "1DA1F2",
+        "translator_type": "none",
+        "id": 180967733,
+        "geo_enabled": true,
+        "profile_background_color": "C0DEED",
+        "lang": "en",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/947437951637696512/lSyVHTxT_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180967733/1498297369",
+        "statuses_count": 133401,
+        "follow_request_sent": null,
+        "followers_count": 21185,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": null,
+        "name": "Slay King 👑",
+        "location": "Shootin Skit Opposite Camp Nou",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007175109487022080",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007175109487022080,
+    "text": "RT @deoluajao: DON'T RETWEET IF YOU DON'T SEE YOUR COUNTRY #WorldCup\n\nGroup A:\n🇷🇺🇺🇾🇪🇬🇸🇦\n\nGroup B:\n🇵🇹🇪🇸🇮🇷🇲🇦 \n\nGroup C:\n🇫🇷🇵🇪🇩🇰🇦🇺 \n\nGroup D:…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528964233167",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            59,
+            68
+          ],
+          "text": "WorldCup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "deoluajao",
+          "id_str": "180967733",
+          "name": "Slay King 👑",
+          "id": 180967733
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1394,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "listed_count": 7,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 313,
+      "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.",
+      "created_at": "Thu Mar 03 21:07:00 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false,
+      "screen_name": "KolaPryme_KP",
+      "id_str": "260416387",
+      "profile_link_color": "3B94D9",
+      "translator_type": "none",
+      "id": 260416387,
+      "geo_enabled": true,
+      "profile_background_color": "1A1B1F",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "666666",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "time_zone": null,
+      "url": "http://soundcloud.com/prymeofficial",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757",
+      "statuses_count": 23861,
+      "follow_request_sent": null,
+      "followers_count": 1515,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "KΦLΔ PR¥M£",
+      "location": "Lagos, Nigeria.",
+      "profile_sidebar_fill_color": "252429",
+      "notifications": null
+    }
+  },
+  {
+    "created_date": "2018-06-14 10:19:58",
+    "current_time": 1528964398460,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Thu Jun 14 08:19:58 +0000 2018",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "retweeted_status": {
+      "extended_tweet": {
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "indices": [
+                29,
+                38
+              ],
+              "text": "worldcup"
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "full_text": "RT if you see your country:  #worldcup\n\nGroup A:\n🇷🇺🇺🇾🇪🇬🇸🇦\n\nGroup B:\n🇵🇹🇪🇸🇮🇷🇲🇦 \n\nGroup C:\n🇫🇷🇵🇪🇩🇰🇦🇺 \n\nGroup D:\n🇦🇷🇭🇷🇮🇸🇳🇬\n\nGroup E:\n🇧🇷🇨🇭🇨🇷🇷🇸 \n\nGroup F:\n🇩🇪🇲🇽🇸🇪🇰🇷 \n\nGroup G:\n🇧🇪🦁🇹🇳🇵🇦 \n\nGroup H: \n🇵🇱🇨🇴🇸🇳🇯🇵",
+        "display_text_range": [
+          0,
+          195
+        ]
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Thu Jun 14 06:54:44 +0000 2018",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "retweet_count": 63,
+      "retweeted": false,
+      "geo": null,
+      "filter_level": "low",
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "1007154352832831489",
+      "in_reply_to_user_id": null,
+      "favorite_count": 37,
+      "id": 1007154352832831489,
+      "text": "RT if you see your country:  #worldcup\n\nGroup A:\n🇷🇺🇺🇾🇪🇬🇸🇦\n\nGroup B:\n🇵🇹🇪🇸🇮🇷🇲🇦 \n\nGroup C:\n🇫🇷🇵🇪🇩🇰🇦🇺 \n\nGroup D:\n🇦🇷🇭🇷🇮🇸… https://t.co/J70AYHeAoa",
+      "place": null,
+      "lang": "en",
+      "quote_count": 2,
+      "favorited": false,
+      "coordinates": null,
+      "truncated": true,
+      "reply_count": 2,
+      "entities": {
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ],
+            "expanded_url": "https://twitter.com/i/web/status/1007154352832831489",
+            "url": "https://t.co/J70AYHeAoa"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              29,
+              38
+            ],
+            "text": "worldcup"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": null,
+        "friends_count": 3480,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000171076251512832/UAUjfxx7_normal.jpg",
+        "listed_count": 168,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 1890,
+        "description": "Digital Media Strategist ■ CSR/VAS personnel ■ PR 4 @withinnigeria ǝɹnʇnɟ p ɹoɟ ƃuᴉɹɐdǝɹd - ǝsuǝɟǝp ou sᴉ  ǝɔuɐɹouƃI   FUNAAB 🐳 #VANGUARD KF @mister_opa",
+        "created_at": "Sat Apr 23 23:03:19 +0000 2016",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "ogbeni_opa",
+        "id_str": "724010795248586752",
+        "profile_link_color": "E81C4F",
+        "translator_type": "none",
+        "id": 724010795248586752,
+        "geo_enabled": false,
+        "profile_background_color": "000000",
+        "lang": "en",
+        "profile_sidebar_border_color": "000000",
+        "profile_text_color": "000000",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000171076251512832/UAUjfxx7_normal.jpg",
+        "time_zone": null,
+        "url": "https://www.withinnigeria.news/author/mr-opa/",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724010795248586752/1527713536",
+        "statuses_count": 81050,
+        "follow_request_sent": null,
+        "followers_count": 20034,
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "following": null,
+        "name": "#ThisIsALABATA by Specimen",
+        "location": "in the abroad",
+        "profile_sidebar_fill_color": "000000",
+        "notifications": null
+      }
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "filter_level": "low",
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "1007175801777938432",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 1007175801777938432,
+    "text": "RT @ogbeni_opa: RT if you see your country:  #worldcup\n\nGroup A:\n🇷🇺🇺🇾🇪🇬🇸🇦\n\nGroup B:\n🇵🇹🇪🇸🇮🇷🇲🇦 \n\nGroup C:\n🇫🇷🇵🇪🇩🇰🇦🇺 \n\nGroup D:\n🇦🇷🇭🇷🇮🇸🇳🇬\n\nGroup…",
+    "place": null,
+    "lang": "en",
+    "quote_count": 0,
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "timestamp_ms": "1528964398222",
+    "reply_count": 0,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "worldcup"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "ogbeni_opa",
+          "id_str": "724010795248586752",
+          "name": "#ThisIsALABATA by Specimen",
+          "id": 724010795248586752
+        }
+      ],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1394,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "listed_count": 7,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 313,
+      "description": "Ambivert. \nProducer. \nSinger. \nRapper.\nSapiosexual. \nFitfam.",
+      "created_at": "Thu Mar 03 21:07:00 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "protected": false,
+      "screen_name": "KolaPryme_KP",
+      "id_str": "260416387",
+      "profile_link_color": "3B94D9",
+      "translator_type": "none",
+      "id": 260416387,
+      "geo_enabled": true,
+      "profile_background_color": "1A1B1F",
+      "lang": "en",
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "666666",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006068604012507138/_SHUNCb7_normal.jpg",
+      "time_zone": null,
+      "url": "http://soundcloud.com/prymeofficial",
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/260416387/1510354757",
+      "statuses_count": 23863,
+      "follow_request_sent": null,
+      "followers_count": 1515,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": null,
+      "name": "KΦLΔ PR¥M£",
+      "location": "Lagos, Nigeria.",
+      "profile_sidebar_fill_color": "252429",
+      "notifications": null
+    }
+  }
+]
