@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 import numpy as np
 
 # Charger les données annotées (anciennement annotated_users.csv)
-df_train = pd.read_csv("annotated_users.csv")
+df_train = pd.read_csv("supervise/annotated_users.csv")
 
 # Filtrer les utilisateurs avec une annotation valide
 df_train = df_train[df_train['atypique'].isin([0, 1, '0', '1'])].copy()
@@ -36,6 +36,7 @@ if mode == "1":
     X_val = scaler.transform(df_val[features])
     y_val = df_val['atypique']
 
+
     model = SVC(kernel='rbf', C=1.0, gamma='scale')
     model.fit(X_train, y_train)
 
@@ -47,7 +48,7 @@ if mode == "1":
 
 # TEST
 elif mode == "2":
-    df_test = pd.read_csv("../data/users.csv")
+    df_test = pd.read_csv("data/users.csv")
 
     known_ids = set(df_train['user_id'])
     df_test = df_test[~df_test['user_id'].isin(known_ids)].copy()
@@ -56,6 +57,7 @@ elif mode == "2":
         print("Le fichier test ne contient aucun utilisateur nouveau.")
         exit()
 
+    print(df_test.columns)
     X_test = df_test[features]
     X_test_scaled = scaler.transform(X_test)
 
