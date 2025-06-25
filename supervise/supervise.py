@@ -75,5 +75,15 @@ elif mode == "2":
     n_atypiques = (df['atypique_pred'] == 1).sum()
     print(f"Nombre d'utilisateurs prédits comme atypiques : {n_atypiques}")
 
+    pd.set_option('display.max_columns', None)
+    moyennes_orig = df_test.groupby('atypique_pred')[features].mean()
+    clust_median = df_test.groupby('atypique_pred')[features].median()
+
+    print("\nMoyennes des variables originales par groupe :")
+    print(moyennes_orig)
+
+    print("\nMédianes des variables originales par groupe :")
+    print(clust_median)
+
 else:
     print("Mode invalide. Tapez 1 ou 2.")
